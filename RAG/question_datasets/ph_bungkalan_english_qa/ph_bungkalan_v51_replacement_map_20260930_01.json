@@ -1,0 +1,275 @@
+[
+  {
+    "answerability": "answerable",
+    "replacement_question_id": "phbg-sem-001",
+    "removed_question_id": "phbg-a-060",
+    "token_jaccard": 0.13333333333333333,
+    "reason": "challenge replacement; ordinary retention did not use model correctness"
+  },
+  {
+    "answerability": "answerable",
+    "replacement_question_id": "phbg-sem-002",
+    "removed_question_id": "phbg-a-032",
+    "token_jaccard": 0.15384615384615385,
+    "reason": "challenge replacement; ordinary retention did not use model correctness"
+  },
+  {
+    "answerability": "answerable",
+    "replacement_question_id": "phbg-sem-003",
+    "removed_question_id": "phbg-a-047",
+    "token_jaccard": 0.1,
+    "reason": "challenge replacement; ordinary retention did not use model correctness"
+  },
+  {
+    "answerability": "answerable",
+    "replacement_question_id": "phbg-sem-004",
+    "removed_question_id": "phbg-a-054",
+    "token_jaccard": 0.12903225806451613,
+    "reason": "challenge replacement; ordinary retention did not use model correctness"
+  },
+  {
+    "answerability": "answerable",
+    "replacement_question_id": "phbg-sem-005",
+    "removed_question_id": "phbg-a-091",
+    "token_jaccard": 0.13043478260869565,
+    "reason": "challenge replacement; ordinary retention did not use model correctness"
+  },
+  {
+    "answerability": "answerable",
+    "replacement_question_id": "phbg-sem-006",
+    "removed_question_id": "phbg-a-055",
+    "token_jaccard": 0.4166666666666667,
+    "reason": "challenge replacement; ordinary retention did not use model correctness"
+  },
+  {
+    "answerability": "answerable",
+    "replacement_question_id": "phbg-sem-007",
+    "removed_question_id": "phbg-a-079",
+    "token_jaccard": 0.08571428571428572,
+    "reason": "challenge replacement; ordinary retention did not use model correctness"
+  },
+  {
+    "answerability": "answerable",
+    "replacement_question_id": "phbg-sem-014",
+    "removed_question_id": "phbg-a-034",
+    "token_jaccard": 0.1,
+    "reason": "challenge replacement; ordinary retention did not use model correctness"
+  },
+  {
+    "answerability": "answerable",
+    "replacement_question_id": "phbg-sem-016",
+    "removed_question_id": "phbg-a-015",
+    "token_jaccard": 0.3125,
+    "reason": "challenge replacement; ordinary retention did not use model correctness"
+  },
+  {
+    "answerability": "answerable",
+    "replacement_question_id": "phbg-sem-025",
+    "removed_question_id": "phbg-a-019",
+    "token_jaccard": 0.14285714285714285,
+    "reason": "challenge replacement; ordinary retention did not use model correctness"
+  },
+  {
+    "answerability": "answerable",
+    "replacement_question_id": "phbg-sem-028",
+    "removed_question_id": "phbg-a-077",
+    "token_jaccard": 0.1,
+    "reason": "challenge replacement; ordinary retention did not use model correctness"
+  },
+  {
+    "answerability": "answerable",
+    "replacement_question_id": "phbg-sem-029",
+    "removed_question_id": "phbg-a-017",
+    "token_jaccard": 0.1,
+    "reason": "challenge replacement; ordinary retention did not use model correctness"
+  },
+  {
+    "answerability": "answerable",
+    "replacement_question_id": "phbg-sem-b2-001",
+    "removed_question_id": "phbg-a-088",
+    "token_jaccard": 0.10344827586206896,
+    "reason": "challenge replacement; ordinary retention did not use model correctness"
+  },
+  {
+    "answerability": "answerable",
+    "replacement_question_id": "phbg-sem-b2-002",
+    "removed_question_id": "phbg-a-002",
+    "token_jaccard": 0.045454545454545456,
+    "reason": "challenge replacement; ordinary retention did not use model correctness"
+  },
+  {
+    "answerability": "answerable",
+    "replacement_question_id": "phbg-sem-b2-007",
+    "removed_question_id": "phbg-a-044",
+    "token_jaccard": 0.07692307692307693,
+    "reason": "challenge replacement; ordinary retention did not use model correctness"
+  },
+  {
+    "answerability": "answerable",
+    "replacement_question_id": "phbg-sem-b2-009",
+    "removed_question_id": "phbg-a-057",
+    "token_jaccard": 0.1,
+    "reason": "challenge replacement; ordinary retention did not use model correctness"
+  },
+  {
+    "answerability": "answerable",
+    "replacement_question_id": "phbg-sem-b2-010",
+    "removed_question_id": "phbg-a-087",
+    "token_jaccard": 0.08695652173913043,
+    "reason": "challenge replacement; ordinary retention did not use model correctness"
+  },
+  {
+    "answerability": "answerable",
+    "replacement_question_id": "phbg-sem-b2-012",
+    "removed_question_id": "phbg-a-008",
+    "token_jaccard": 0.1,
+    "reason": "challenge replacement; ordinary retention did not use model correctness"
+  },
+  {
+    "answerability": "answerable",
+    "replacement_question_id": "phbg-sem-b2-017",
+    "removed_question_id": "phbg-a-004",
+    "token_jaccard": 0.08,
+    "reason": "challenge replacement; ordinary retention did not use model correctness"
+  },
+  {
+    "answerability": "answerable",
+    "replacement_question_id": "phbg-sem-b2-018",
+    "removed_question_id": "phbg-a-043",
+    "token_jaccard": 0.0625,
+    "reason": "challenge replacement; ordinary retention did not use model correctness"
+  },
+  {
+    "answerability": "unanswerable",
+    "replacement_question_id": "phbg-df-u3-006",
+    "removed_question_id": "phbg-u-068",
+    "token_jaccard": 0.2,
+    "reason": "challenge replacement; ordinary retention did not use model correctness"
+  },
+  {
+    "answerability": "unanswerable",
+    "replacement_question_id": "phbg-df-u3-007",
+    "removed_question_id": "phbg-u-014",
+    "token_jaccard": 0.14814814814814814,
+    "reason": "challenge replacement; ordinary retention did not use model correctness"
+  },
+  {
+    "answerability": "unanswerable",
+    "replacement_question_id": "phbg-df-u4-007",
+    "removed_question_id": "phbg-u-079",
+    "token_jaccard": 0.17391304347826086,
+    "reason": "challenge replacement; ordinary retention did not use model correctness"
+  },
+  {
+    "answerability": "unanswerable",
+    "replacement_question_id": "phbg-df-u4-011",
+    "removed_question_id": "phbg-u-091",
+    "token_jaccard": 0.19047619047619047,
+    "reason": "challenge replacement; ordinary retention did not use model correctness"
+  },
+  {
+    "answerability": "unanswerable",
+    "replacement_question_id": "phbg-df-u4-013",
+    "removed_question_id": "phbg-u-097",
+    "token_jaccard": 0.13636363636363635,
+    "reason": "challenge replacement; ordinary retention did not use model correctness"
+  },
+  {
+    "answerability": "unanswerable",
+    "replacement_question_id": "phbg-df-u5-010",
+    "removed_question_id": "phbg-u-040",
+    "token_jaccard": 0.13636363636363635,
+    "reason": "challenge replacement; ordinary retention did not use model correctness"
+  },
+  {
+    "answerability": "unanswerable",
+    "replacement_question_id": "phbg-df-u7-006",
+    "removed_question_id": "phbg-u-072",
+    "token_jaccard": 0.13636363636363635,
+    "reason": "challenge replacement; ordinary retention did not use model correctness"
+  },
+  {
+    "answerability": "unanswerable",
+    "replacement_question_id": "phbg-df-u7-007",
+    "removed_question_id": "phbg-u-073",
+    "token_jaccard": 0.125,
+    "reason": "challenge replacement; ordinary retention did not use model correctness"
+  },
+  {
+    "answerability": "unanswerable",
+    "replacement_question_id": "phbg-df-u7-011",
+    "removed_question_id": "phbg-u-035",
+    "token_jaccard": 0.16666666666666666,
+    "reason": "challenge replacement; ordinary retention did not use model correctness"
+  },
+  {
+    "answerability": "unanswerable",
+    "replacement_question_id": "phbg-sem-039",
+    "removed_question_id": "phbg-u-027",
+    "token_jaccard": 0.09090909090909091,
+    "reason": "challenge replacement; ordinary retention did not use model correctness"
+  },
+  {
+    "answerability": "unanswerable",
+    "replacement_question_id": "phbg-sem-045",
+    "removed_question_id": "phbg-u-034",
+    "token_jaccard": 0.041666666666666664,
+    "reason": "challenge replacement; ordinary retention did not use model correctness"
+  },
+  {
+    "answerability": "unanswerable",
+    "replacement_question_id": "phbg-sem-046",
+    "removed_question_id": "phbg-u-100",
+    "token_jaccard": 0.19047619047619047,
+    "reason": "challenge replacement; ordinary retention did not use model correctness"
+  },
+  {
+    "answerability": "unanswerable",
+    "replacement_question_id": "phbg-sem-047",
+    "removed_question_id": "phbg-u-076",
+    "token_jaccard": 0.04,
+    "reason": "challenge replacement; ordinary retention did not use model correctness"
+  },
+  {
+    "answerability": "unanswerable",
+    "replacement_question_id": "phbg-sem-b2-021",
+    "removed_question_id": "phbg-u-081",
+    "token_jaccard": 0.037037037037037035,
+    "reason": "challenge replacement; ordinary retention did not use model correctness"
+  },
+  {
+    "answerability": "unanswerable",
+    "replacement_question_id": "phbg-sem-b2-022",
+    "removed_question_id": "phbg-u-037",
+    "token_jaccard": 0.19047619047619047,
+    "reason": "challenge replacement; ordinary retention did not use model correctness"
+  },
+  {
+    "answerability": "unanswerable",
+    "replacement_question_id": "phbg-sem-b2-023",
+    "removed_question_id": "phbg-u-017",
+    "token_jaccard": 0.041666666666666664,
+    "reason": "challenge replacement; ordinary retention did not use model correctness"
+  },
+  {
+    "answerability": "unanswerable",
+    "replacement_question_id": "phbg-sem-b2-024",
+    "removed_question_id": "phbg-u-067",
+    "token_jaccard": 0.04,
+    "reason": "challenge replacement; ordinary retention did not use model correctness"
+  },
+  {
+    "answerability": "unanswerable",
+    "replacement_question_id": "phbg-sem-b4-002",
+    "removed_question_id": "phbg-u-038",
+    "token_jaccard": 0.043478260869565216,
+    "reason": "challenge replacement; ordinary retention did not use model correctness"
+  },
+  {
+    "answerability": "unanswerable",
+    "replacement_question_id": "phbg-sem-b4-004",
+    "removed_question_id": "phbg-u-012",
+    "token_jaccard": 0.06666666666666667,
+    "reason": "challenge replacement; ordinary retention did not use model correctness"
+  }
+]

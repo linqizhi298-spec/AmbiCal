@@ -1,0 +1,488 @@
+[
+  {
+    "question": "What minimum field area is recommended before laser land leveling becomes economically worthwhile?",
+    "answer": "Not found in context",
+    "page": null,
+    "calibration_id": "AMB-VN-FP-001",
+    "calibration_purpose": "false_positive_prior",
+    "topical_anchor": "Land preparation and laser leveling",
+    "absent_reason": "The handbook describes laser-leveling components, accuracy, and operating conditions but gives no minimum economic field area.",
+    "attractor_chunk_ids": [
+      "644af92862b4e1cec98ce25cce49525cd1b9a830e365ecef11cee2a75d9826ee",
+      "78a9fcc48ac219aa62a1aeed3c10d55bfe80aac51a2ceb6c58db1361270a379e",
+      "4200654e207c64bd629fac901fcd1a231f667779846f890d1033c36b15b5ef8d"
+    ],
+    "attractor_selection_method": "bge_m3_top3_against_frozen_collection",
+    "schema_version": "runbook_aligned_20260930_01"
+  },
+  {
+    "question": "What laser eye-protection class must operators wear while the leveling transmitter is active?",
+    "answer": "Not found in context",
+    "page": null,
+    "calibration_id": "AMB-VN-FP-002",
+    "calibration_purpose": "false_positive_prior",
+    "topical_anchor": "Land preparation and laser leveling",
+    "absent_reason": "The handbook does not specify laser safety eyewear or a protection class.",
+    "attractor_chunk_ids": [
+      "65fa231449bd1797667d6a4d86a06d60c36f5808e78bf65d2dd194aca11422b5",
+      "644af92862b4e1cec98ce25cce49525cd1b9a830e365ecef11cee2a75d9826ee",
+      "4200654e207c64bd629fac901fcd1a231f667779846f890d1033c36b15b5ef8d"
+    ],
+    "attractor_selection_method": "bge_m3_top3_against_frozen_collection",
+    "schema_version": "runbook_aligned_20260930_01"
+  },
+  {
+    "question": "Which hydraulic-oil grade is required for the laser leveler's automatic blade-control system?",
+    "answer": "Not found in context",
+    "page": null,
+    "calibration_id": "AMB-VN-FP-003",
+    "calibration_purpose": "false_positive_prior",
+    "topical_anchor": "Land preparation and laser leveling",
+    "absent_reason": "Hydraulic control is mentioned, but no hydraulic-oil specification is supplied.",
+    "attractor_chunk_ids": [
+      "644af92862b4e1cec98ce25cce49525cd1b9a830e365ecef11cee2a75d9826ee",
+      "65fa231449bd1797667d6a4d86a06d60c36f5808e78bf65d2dd194aca11422b5",
+      "78a9fcc48ac219aa62a1aeed3c10d55bfe80aac51a2ceb6c58db1361270a379e"
+    ],
+    "attractor_selection_method": "bge_m3_top3_against_frozen_collection",
+    "schema_version": "runbook_aligned_20260930_01"
+  },
+  {
+    "question": "Which named authority must issue the certification tag attached to an approved rice-seed lot?",
+    "answer": "Not found in context",
+    "page": null,
+    "calibration_id": "AMB-VN-FP-004",
+    "calibration_purpose": "false_positive_prior",
+    "topical_anchor": "Seed preparation",
+    "absent_reason": "Certified seed is required, but the handbook does not name a tag-issuing authority.",
+    "attractor_chunk_ids": [
+      "ed3519a39aa6ef3daffd76b21cc42be429c1cda62f5089b47b7d3466ac652123",
+      "347a29a4f49e102781f9590c2a385b3ad3c74cbf75b5319d3681d798e913b226",
+      "2fc571e1eaf56a7960405d1da1a53746a5039782e555cb36cd5559d17298ee6b"
+    ],
+    "attractor_selection_method": "bge_m3_top3_against_frozen_collection",
+    "schema_version": "runbook_aligned_20260930_01"
+  },
+  {
+    "question": "For how many hours may sprouted seed be kept in a cool, ventilated place before machine sowing?",
+    "answer": "Not found in context",
+    "page": null,
+    "calibration_id": "AMB-VN-FP-005",
+    "calibration_purpose": "false_positive_prior",
+    "topical_anchor": "Seed preparation",
+    "absent_reason": "The handbook advises spreading delayed seed in a cool place but gives no maximum holding time.",
+    "attractor_chunk_ids": [
+      "db26f130dd198797f90a01b6efd68c1d73e700109b31722238841e8b9d3bcb29",
+      "f889c5913ef49283e12a1f9836a99347d1543cfdebe7eb7b9c852a412df2b739",
+      "901e7b4be996f17c88d723b6f8fcb451a051e0e0ebe6949301bd9058e1594cf2"
+    ],
+    "attractor_selection_method": "bge_m3_top3_against_frozen_collection",
+    "schema_version": "runbook_aligned_20260930_01"
+  },
+  {
+    "question": "How many grams of seed must be sampled for the pre-sowing germination test?",
+    "answer": "Not found in context",
+    "page": null,
+    "calibration_id": "AMB-VN-FP-006",
+    "calibration_purpose": "false_positive_prior",
+    "topical_anchor": "Seed preparation",
+    "absent_reason": "A germination test is recommended, but its sample mass is not stated.",
+    "attractor_chunk_ids": [
+      "162688834755665012012fde3ef4badc973a89b61c397000ddb2e7edde72c23a",
+      "901e7b4be996f17c88d723b6f8fcb451a051e0e0ebe6949301bd9058e1594cf2",
+      "e51866fcf905d1de4248a3b6195bb20f0acbf41936de903e4c4e992a93d8a148"
+    ],
+    "attractor_selection_method": "bge_m3_top3_against_frozen_collection",
+    "schema_version": "runbook_aligned_20260930_01"
+  },
+  {
+    "question": "What is the warranty period for the combine harvester?",
+    "answer": "Not found in context",
+    "page": null,
+    "calibration_id": "AMB-VN-FP-007",
+    "calibration_purpose": "false_positive_prior",
+    "topical_anchor": "Mechanized sowing",
+    "absent_reason": "The combine harvester is described by harvest timing and loss reduction; no warranty period is stated anywhere in the frozen corpus.",
+    "attractor_chunk_ids": [
+      "bfd6056bff2c889dc01b1c50dec653ce8863b51dd7513dbbb1bcf598a65a6d42",
+      "ade0d69da211d3b03692037493b9160df2056ffa6b68a2020b16dc2fa6b72674",
+      "0a1fbca4f0d8be4bd820e686736840d3ce81d251ab7bbc391189ed043fc246bf"
+    ],
+    "attractor_selection_method": "bge_m3_top3_against_frozen_collection",
+    "schema_version": "runbook_aligned_20260930_01",
+    "replacement_record": {
+      "replaced_question": "What is the seed-hopper capacity of the six-row pneumatic seeder?",
+      "reason": "Fact-domain collision with frozen dense-failure challenge vnle-df-u3-003 (token Jaccard 0.69); runbook requires zero overlap between the formal 200 and calibration sets.",
+      "profile_built_before_replacement": false,
+      "formal_experiment_run_before_replacement": false
+    }
+  },
+  {
+    "question": "What air pressure must the sixteen-row pneumatic seeder maintain at its seed distributor?",
+    "answer": "Not found in context",
+    "page": null,
+    "calibration_id": "AMB-VN-FP-008",
+    "calibration_purpose": "false_positive_prior",
+    "topical_anchor": "Mechanized sowing",
+    "absent_reason": "The pneumatic distribution mechanism is described without a required pressure value.",
+    "attractor_chunk_ids": [
+      "bfd6056bff2c889dc01b1c50dec653ce8863b51dd7513dbbb1bcf598a65a6d42",
+      "ade0d69da211d3b03692037493b9160df2056ffa6b68a2020b16dc2fa6b72674",
+      "0a1fbca4f0d8be4bd820e686736840d3ce81d251ab7bbc391189ed043fc246bf"
+    ],
+    "attractor_selection_method": "bge_m3_top3_against_frozen_collection",
+    "schema_version": "runbook_aligned_20260930_01"
+  },
+  {
+    "question": "What tractor tire pressure is prescribed when towing a row seeder on the prepared field?",
+    "answer": "Not found in context",
+    "page": null,
+    "calibration_id": "AMB-VN-FP-009",
+    "calibration_purpose": "false_positive_prior",
+    "topical_anchor": "Mechanized sowing",
+    "absent_reason": "The handbook specifies tractor power for several seeders but not tire pressure.",
+    "attractor_chunk_ids": [
+      "69f33ae0022650a01b2e5dd806bb8996e60f02b4f5839358be9d064a36bb3815",
+      "76d825e0138ebdcd7a3ed1fab0dcc241b054dccf2a1335327da7a52be175f846",
+      "4200654e207c64bd629fac901fcd1a231f667779846f890d1033c36b15b5ef8d"
+    ],
+    "attractor_selection_method": "bge_m3_top3_against_frozen_collection",
+    "schema_version": "runbook_aligned_20260930_01"
+  },
+  {
+    "question": "How wide must the headland be to turn a wide-row/narrow-row seeder without disturbing planted rows?",
+    "answer": "Not found in context",
+    "page": null,
+    "calibration_id": "AMB-VN-FP-010",
+    "calibration_purpose": "false_positive_prior",
+    "topical_anchor": "Wide-row/narrow-row sowing",
+    "absent_reason": "Row spacing is given, but no headland turning width is specified.",
+    "attractor_chunk_ids": [
+      "901e7b4be996f17c88d723b6f8fcb451a051e0e0ebe6949301bd9058e1594cf2",
+      "bfd6056bff2c889dc01b1c50dec653ce8863b51dd7513dbbb1bcf598a65a6d42",
+      "69f7c793c0f9419dcb5f1e07d914706e7048503b1e9246052bb148d6bab0a308"
+    ],
+    "attractor_selection_method": "bge_m3_top3_against_frozen_collection",
+    "schema_version": "runbook_aligned_20260930_01"
+  },
+  {
+    "question": "What diameter should a perforated field-water tube have when monitoring AWD water levels?",
+    "answer": "Not found in context",
+    "page": null,
+    "calibration_id": "AMB-VN-FP-011",
+    "calibration_purpose": "false_positive_prior",
+    "topical_anchor": "AWD water management",
+    "absent_reason": "The handbook gives AWD water-level triggers but no monitoring-tube diameter.",
+    "attractor_chunk_ids": [
+      "89f30d40ea0b60ccfae3e92dbe2601ed04616ad252ddc51f26cca5a4af05c9bf",
+      "b1f192c67df92079419e9bb7092cc364186640389897a772dceeb442c1dc8e0f",
+      "69f33ae0022650a01b2e5dd806bb8996e60f02b4f5839358be9d064a36bb3815"
+    ],
+    "attractor_selection_method": "bge_m3_top3_against_frozen_collection",
+    "schema_version": "runbook_aligned_20260930_01"
+  },
+  {
+    "question": "How many AWD water-level observation points are required per hectare?",
+    "answer": "Not found in context",
+    "page": null,
+    "calibration_id": "AMB-VN-FP-012",
+    "calibration_purpose": "false_positive_prior",
+    "topical_anchor": "AWD water management",
+    "absent_reason": "No sampling density or number of observation points is prescribed.",
+    "attractor_chunk_ids": [
+      "89f30d40ea0b60ccfae3e92dbe2601ed04616ad252ddc51f26cca5a4af05c9bf",
+      "b1f192c67df92079419e9bb7092cc364186640389897a772dceeb442c1dc8e0f",
+      "21b725dda750e9ec06ec9a5ccd5c178d7b827218a1354bd2bb7b1ef2d0527421"
+    ],
+    "attractor_selection_method": "bge_m3_top3_against_frozen_collection",
+    "schema_version": "runbook_aligned_20260930_01"
+  },
+  {
+    "question": "What pump discharge rate should be used when reflooding a field after an AWD dry period?",
+    "answer": "Not found in context",
+    "page": null,
+    "calibration_id": "AMB-VN-FP-013",
+    "calibration_purpose": "false_positive_prior",
+    "topical_anchor": "AWD water management",
+    "absent_reason": "Maximum reflooding depth is stated, but pump discharge rate is not.",
+    "attractor_chunk_ids": [
+      "89f30d40ea0b60ccfae3e92dbe2601ed04616ad252ddc51f26cca5a4af05c9bf",
+      "21b725dda750e9ec06ec9a5ccd5c178d7b827218a1354bd2bb7b1ef2d0527421",
+      "dec27911074940b1efbde72d10a50d6b324884ae9543b0ef6e8d87e9437f1f38"
+    ],
+    "attractor_selection_method": "bge_m3_top3_against_frozen_collection",
+    "schema_version": "runbook_aligned_20260930_01"
+  },
+  {
+    "question": "What minimum crushing strength must fertilizer granules meet for use in a combined seeding-and-burial machine?",
+    "answer": "Not found in context",
+    "page": null,
+    "calibration_id": "AMB-VN-FP-014",
+    "calibration_purpose": "false_positive_prior",
+    "topical_anchor": "Fertilizer burial",
+    "absent_reason": "Granule diameter and slow disintegration are discussed, but mechanical crushing strength is not.",
+    "attractor_chunk_ids": [
+      "66ef4e9b7a2f2f9e5a4bf3a65bc9a23d27250d8125721c221665d52ab2732abe",
+      "5723666e713c4b12b9e9353066a443c658b200cb89ceffca77f6d38c2e58f7f4",
+      "e35e3f0f81cfb428b18fa1ed2565ec2896543ca6ed99877e52c84104d69ea609"
+    ],
+    "attractor_selection_method": "bge_m3_top3_against_frozen_collection",
+    "schema_version": "runbook_aligned_20260930_01"
+  },
+  {
+    "question": "Which manufacturer and model of leaf-color chart is approved for adjusting nitrogen applications?",
+    "answer": "Not found in context",
+    "page": null,
+    "calibration_id": "AMB-VN-FP-015",
+    "calibration_purpose": "false_positive_prior",
+    "topical_anchor": "Fertilizer management",
+    "absent_reason": "Use of a leaf-color chart is encouraged without naming a manufacturer or model.",
+    "attractor_chunk_ids": [
+      "d20ab0a695a08e0e897294233400b3aa0bf24636992929583d17e15c4b0d5877",
+      "b1f192c67df92079419e9bb7092cc364186640389897a772dceeb442c1dc8e0f",
+      "b3e5ede084aacaa40564e2c81a43bef08baa48acd89286b26d8a63169bd1900e"
+    ],
+    "attractor_selection_method": "bge_m3_top3_against_frozen_collection",
+    "schema_version": "runbook_aligned_20260930_01"
+  },
+  {
+    "question": "What minimum rain-free interval is required after applying a biological pesticide to rice?",
+    "answer": "Not found in context",
+    "page": null,
+    "calibration_id": "AMB-VN-FP-016",
+    "calibration_purpose": "false_positive_prior",
+    "topical_anchor": "Integrated pest management",
+    "absent_reason": "The handbook discusses pesticide principles and active ingredients but gives no rain-free interval.",
+    "attractor_chunk_ids": [
+      "21b725dda750e9ec06ec9a5ccd5c178d7b827218a1354bd2bb7b1ef2d0527421",
+      "89f30d40ea0b60ccfae3e92dbe2601ed04616ad252ddc51f26cca5a4af05c9bf",
+      "7cdd9919dea0f15098b7c5ae92518ddb2acedcb50769fa1bc61a0af9791ce027"
+    ],
+    "attractor_selection_method": "bge_m3_top3_against_frozen_collection",
+    "schema_version": "runbook_aligned_20260930_01"
+  },
+  {
+    "question": "How many hours after pesticide spraying must workers wait before re-entering the field?",
+    "answer": "Not found in context",
+    "page": null,
+    "calibration_id": "AMB-VN-FP-017",
+    "calibration_purpose": "false_positive_prior",
+    "topical_anchor": "Integrated pest management",
+    "absent_reason": "No worker re-entry interval is provided.",
+    "attractor_chunk_ids": [
+      "21b725dda750e9ec06ec9a5ccd5c178d7b827218a1354bd2bb7b1ef2d0527421",
+      "89f30d40ea0b60ccfae3e92dbe2601ed04616ad252ddc51f26cca5a4af05c9bf",
+      "4200654e207c64bd629fac901fcd1a231f667779846f890d1033c36b15b5ef8d"
+    ],
+    "attractor_selection_method": "bge_m3_top3_against_frozen_collection",
+    "schema_version": "runbook_aligned_20260930_01"
+  },
+  {
+    "question": "Which collection service is authorized to receive empty pesticide containers from participating farms?",
+    "answer": "Not found in context",
+    "page": null,
+    "calibration_id": "AMB-VN-FP-018",
+    "calibration_purpose": "false_positive_prior",
+    "topical_anchor": "Integrated pest management",
+    "absent_reason": "The handbook does not identify a pesticide-container collection service.",
+    "attractor_chunk_ids": [
+      "b6577a7d76b53b147e23aa832dc3939746fb0aede14b5f2797c40faeb4fd382d",
+      "43c8d4af2d10e86518d29574aef9528e0c1bca73f8e84e364afdb14b3dbf4c32",
+      "dec27911074940b1efbde72d10a50d6b324884ae9543b0ef6e8d87e9437f1f38"
+    ],
+    "attractor_selection_method": "bge_m3_top3_against_frozen_collection",
+    "schema_version": "runbook_aligned_20260930_01"
+  },
+  {
+    "question": "What threshing-drum speed should be set on the combine harvester for high-quality rice?",
+    "answer": "Not found in context",
+    "page": null,
+    "calibration_id": "AMB-VN-FP-019",
+    "calibration_purpose": "false_positive_prior",
+    "topical_anchor": "Harvest management",
+    "absent_reason": "Use of a combine harvester is recommended, but no threshing-drum speed is specified.",
+    "attractor_chunk_ids": [
+      "c56a340f15b314c1a9820fb2fea1cb81db8a2213ade9c201adcc192a1162be9a",
+      "dec27911074940b1efbde72d10a50d6b324884ae9543b0ef6e8d87e9437f1f38",
+      "76d825e0138ebdcd7a3ed1fab0dcc241b054dccf2a1335327da7a52be175f846"
+    ],
+    "attractor_selection_method": "bge_m3_top3_against_frozen_collection",
+    "schema_version": "runbook_aligned_20260930_01"
+  },
+  {
+    "question": "What truck-bed liner material is required when transporting freshly harvested paddy from the field to the dryer?",
+    "answer": "Not found in context",
+    "page": null,
+    "calibration_id": "AMB-VN-FP-020",
+    "calibration_purpose": "false_positive_prior",
+    "topical_anchor": "Post-harvest handling",
+    "absent_reason": "Prompt drying is advised, but no truck-bed liner material is specified for field-to-dryer transport.",
+    "attractor_chunk_ids": [
+      "76d825e0138ebdcd7a3ed1fab0dcc241b054dccf2a1335327da7a52be175f846",
+      "4200654e207c64bd629fac901fcd1a231f667779846f890d1033c36b15b5ef8d",
+      "69f33ae0022650a01b2e5dd806bb8996e60f02b4f5839358be9d064a36bb3815"
+    ],
+    "attractor_selection_method": "bge_m3_top3_against_frozen_collection",
+    "schema_version": "runbook_aligned_20260930_01"
+  },
+  {
+    "question": "What airflow rate per tonne of paddy is required in a reversible flatbed dryer?",
+    "answer": "Not found in context",
+    "page": null,
+    "calibration_id": "AMB-VN-FP-021",
+    "calibration_purpose": "false_positive_prior",
+    "topical_anchor": "Paddy drying",
+    "absent_reason": "Dryer types and batch capacities are described without an airflow-rate specification.",
+    "attractor_chunk_ids": [
+      "c56a340f15b314c1a9820fb2fea1cb81db8a2213ade9c201adcc192a1162be9a",
+      "572cbe58f5347b3cf9aa6ea9cd3e9ea0e10839672b6b12602b1e96db697d6d93",
+      "89f30d40ea0b60ccfae3e92dbe2601ed04616ad252ddc51f26cca5a4af05c9bf"
+    ],
+    "attractor_selection_method": "bge_m3_top3_against_frozen_collection",
+    "schema_version": "runbook_aligned_20260930_01"
+  },
+  {
+    "question": "What aeration airflow rate must a storage silo maintain for commercial paddy?",
+    "answer": "Not found in context",
+    "page": null,
+    "calibration_id": "AMB-VN-FP-022",
+    "calibration_purpose": "false_positive_prior",
+    "topical_anchor": "Paddy storage",
+    "absent_reason": "Forced-aeration silos are mentioned, but the required airflow rate is absent.",
+    "attractor_chunk_ids": [
+      "ce3cc7f3fc30a9867b9d27166a162ef7a1de2a14fdfbdff7ccccd41d3af2970a",
+      "572cbe58f5347b3cf9aa6ea9cd3e9ea0e10839672b6b12602b1e96db697d6d93",
+      "b5d0f9dc41706b5a2cc9dc733d7b230c4b81b9d7954f8e8bf31dc22a83c9dc4e"
+    ],
+    "attractor_selection_method": "bge_m3_top3_against_frozen_collection",
+    "schema_version": "runbook_aligned_20260930_01"
+  },
+  {
+    "question": "What exact clearance in centimetres must be maintained between stored rice bags and the warehouse wall?",
+    "answer": "Not found in context",
+    "page": null,
+    "calibration_id": "AMB-VN-FP-023",
+    "calibration_purpose": "false_positive_prior",
+    "topical_anchor": "Paddy storage",
+    "absent_reason": "Bags should not touch the wall, but no numerical clearance is given.",
+    "attractor_chunk_ids": [
+      "726219a8ed795453b9fc12bc81c2fc3bbb6f936d586956c84bdba3c6a64d89ec",
+      "901e7b4be996f17c88d723b6f8fcb451a051e0e0ebe6949301bd9058e1594cf2",
+      "c56a340f15b314c1a9820fb2fea1cb81db8a2213ade9c201adcc192a1162be9a"
+    ],
+    "attractor_selection_method": "bge_m3_top3_against_frozen_collection",
+    "schema_version": "runbook_aligned_20260930_01"
+  },
+  {
+    "question": "What minimum tensile strength is required for twine used to bind a 50 by 70 centimetre straw bale?",
+    "answer": "Not found in context",
+    "page": null,
+    "calibration_id": "AMB-VN-FP-024",
+    "calibration_purpose": "false_positive_prior",
+    "topical_anchor": "Straw collection and baling",
+    "absent_reason": "Bale dimensions and weights are reported, but twine strength is not.",
+    "attractor_chunk_ids": [
+      "c56a340f15b314c1a9820fb2fea1cb81db8a2213ade9c201adcc192a1162be9a",
+      "b5d0f9dc41706b5a2cc9dc733d7b230c4b81b9d7954f8e8bf31dc22a83c9dc4e",
+      "6d4a10d59dc98d7fe74e29fec5a063ad73a6c1d1dc352e70ff34c19a740d2acc"
+    ],
+    "attractor_selection_method": "bge_m3_top3_against_frozen_collection",
+    "schema_version": "runbook_aligned_20260930_01"
+  },
+  {
+    "question": "What maximum stacking height is permitted for straw bales at the collection point?",
+    "answer": "Not found in context",
+    "page": null,
+    "calibration_id": "AMB-VN-FP-025",
+    "calibration_purpose": "false_positive_prior",
+    "topical_anchor": "Straw collection and baling",
+    "absent_reason": "The handbook does not prescribe a stacking height for collected straw bales.",
+    "attractor_chunk_ids": [
+      "c56a340f15b314c1a9820fb2fea1cb81db8a2213ade9c201adcc192a1162be9a",
+      "5723666e713c4b12b9e9353066a443c658b200cb89ceffca77f6d38c2e58f7f4",
+      "b5d0f9dc41706b5a2cc9dc733d7b230c4b81b9d7954f8e8bf31dc22a83c9dc4e"
+    ],
+    "attractor_selection_method": "bge_m3_top3_against_frozen_collection",
+    "schema_version": "runbook_aligned_20260930_01"
+  },
+  {
+    "question": "At what temperature should straw-mushroom spawn be stored before it is spread on the composted straw?",
+    "answer": "Not found in context",
+    "page": null,
+    "calibration_id": "AMB-VN-FP-026",
+    "calibration_purpose": "false_positive_prior",
+    "topical_anchor": "Straw-mushroom cultivation",
+    "absent_reason": "Spawn characteristics and application amounts are described, but pre-use storage temperature is not.",
+    "attractor_chunk_ids": [
+      "b5d0f9dc41706b5a2cc9dc733d7b230c4b81b9d7954f8e8bf31dc22a83c9dc4e",
+      "f96461b95ab15f3ebc0414f5a767aad3b41f9d44e37661882c92098409856885",
+      "db26f130dd198797f90a01b6efd68c1d73e700109b31722238841e8b9d3bcb29"
+    ],
+    "attractor_selection_method": "bge_m3_top3_against_frozen_collection",
+    "schema_version": "runbook_aligned_20260930_01"
+  },
+  {
+    "question": "How many air changes per hour are required in an indoor straw-mushroom growing house?",
+    "answer": "Not found in context",
+    "page": null,
+    "calibration_id": "AMB-VN-FP-027",
+    "calibration_purpose": "false_positive_prior",
+    "topical_anchor": "Indoor straw-mushroom cultivation",
+    "absent_reason": "The house should be ventilated, but no air-change rate is provided.",
+    "attractor_chunk_ids": [
+      "caa1bdde1ff87d2b8a7696d94e9df245c56751e6cb2e3af5659b9e040ed3d6b7",
+      "79b829402729efabcc78e8fa358945233b5e77cda0f62a8f9c49db9443194f6f",
+      "572cbe58f5347b3cf9aa6ea9cd3e9ea0e10839672b6b12602b1e96db697d6d93"
+    ],
+    "attractor_selection_method": "bge_m3_top3_against_frozen_collection",
+    "schema_version": "runbook_aligned_20260930_01"
+  },
+  {
+    "question": "What veterinary withdrawal period applies before cattle fed treated rice straw may be sold?",
+    "answer": "Not found in context",
+    "page": null,
+    "calibration_id": "AMB-VN-FP-028",
+    "calibration_purpose": "false_positive_prior",
+    "topical_anchor": "Rice straw as cattle feed",
+    "absent_reason": "The handbook discusses treated straw feeding but not a veterinary marketing withdrawal period.",
+    "attractor_chunk_ids": [
+      "21b725dda750e9ec06ec9a5ccd5c178d7b827218a1354bd2bb7b1ef2d0527421",
+      "89f30d40ea0b60ccfae3e92dbe2601ed04616ad252ddc51f26cca5a4af05c9bf",
+      "7cdd9919dea0f15098b7c5ae92518ddb2acedcb50769fa1bc61a0af9791ce027"
+    ],
+    "attractor_selection_method": "bge_m3_top3_against_frozen_collection",
+    "schema_version": "runbook_aligned_20260930_01"
+  },
+  {
+    "question": "How many litres of diesel does the mechanized compost-turning machine consume per tonne of straw compost?",
+    "answer": "Not found in context",
+    "page": null,
+    "calibration_id": "AMB-VN-FP-029",
+    "calibration_purpose": "false_positive_prior",
+    "topical_anchor": "Mechanized straw composting",
+    "absent_reason": "Turning capacity and composting stages are described, but machine fuel consumption is not.",
+    "attractor_chunk_ids": [
+      "2b3e5c6cdba2609f6c30ebed7acdc72281d452a5a7386960fa81ccd00983814d",
+      "0a1fbca4f0d8be4bd820e686736840d3ce81d251ab7bbc391189ed043fc246bf",
+      "c56a340f15b314c1a9820fb2fea1cb81db8a2213ade9c201adcc192a1162be9a"
+    ],
+    "attractor_selection_method": "bge_m3_top3_against_frozen_collection",
+    "schema_version": "runbook_aligned_20260930_01"
+  },
+  {
+    "question": "Which software version of CF-Rice is required to calculate the product carbon footprint?",
+    "answer": "Not found in context",
+    "page": null,
+    "calibration_id": "AMB-VN-FP-030",
+    "calibration_purpose": "false_positive_prior",
+    "topical_anchor": "Digital agriculture and CF-Rice",
+    "absent_reason": "CF-Rice is introduced by name, but no required software version is stated.",
+    "attractor_chunk_ids": [
+      "b3e5ede084aacaa40564e2c81a43bef08baa48acd89286b26d8a63169bd1900e",
+      "b1f192c67df92079419e9bb7092cc364186640389897a772dceeb442c1dc8e0f",
+      "c8877da8514e381716a71a979ba58138f8fcc34ee54f2d50681f78910a86f0bc"
+    ],
+    "attractor_selection_method": "bge_m3_top3_against_frozen_collection",
+    "schema_version": "runbook_aligned_20260930_01"
+  }
+]

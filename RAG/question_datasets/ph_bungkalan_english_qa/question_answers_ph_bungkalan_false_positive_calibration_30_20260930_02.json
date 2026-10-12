@@ -1,0 +1,422 @@
+[
+  {
+    "question": "What is the purchase price of the pogpog hand tractor?",
+    "answer": "Not found in context",
+    "page": null,
+    "calibration_id": "AMB-PH-FP-001",
+    "calibration_purpose": "false_positive_prior",
+    "topical_anchor": "Farm machinery",
+    "absent_reason": "The hand tractor is mentioned as used and borrowed machinery, but no price is given.",
+    "attractor_chunk_ids": [
+      "f1972a5ac4533bc15886f7a486e3e23c5481bad454e3864ae81b0f148773b9eb",
+      "a2b3676be7c9ce9c4ac16e5f80dd4c0a4ab11310760c7fc2fc81512adc3e1d5d"
+    ],
+    "schema_version": "ph_bungkalan_20260930_01"
+  },
+  {
+    "question": "How much does one kilo of molasses cost at the palengke?",
+    "answer": "Not found in context",
+    "page": null,
+    "calibration_id": "AMB-PH-FP-002",
+    "calibration_purpose": "false_positive_prior",
+    "topical_anchor": "Fermented preparations",
+    "absent_reason": "Molasses is used across nearly every preparation, but no purchase price is stated.",
+    "attractor_chunk_ids": [
+      "a4812e54717e680dbde09f2d3032029409150f06e4ab361762114825d3158daa",
+      "1500b1bfce39369d928161c108b3ae3c1750668f5538ea054e3672752766fb39"
+    ],
+    "schema_version": "ph_bungkalan_20260930_01"
+  },
+  {
+    "question": "How many tilapia fingerlings were stocked into the Learning Farm fishpond?",
+    "answer": "Not found in context",
+    "page": null,
+    "calibration_id": "AMB-PH-FP-003",
+    "calibration_purpose": "false_positive_prior",
+    "topical_anchor": "Fishpond integration",
+    "absent_reason": "The fishpond was stocked with fingerlings in September 2015, but the count is not stated.",
+    "attractor_chunk_ids": [
+      "7353f05b336aeaba52faaa40a852db1599d8d66a067c790c532a4825719d04cf",
+      "d49476510c8d966edac9d382eb06c11fb659fef8d253e7bb94c0dc76b0d118af"
+    ],
+    "schema_version": "ph_bungkalan_20260930_01"
+  },
+  {
+    "question": "What brand of jetmatic pump did the Learning Farm install?",
+    "answer": "Not found in context",
+    "page": null,
+    "calibration_id": "AMB-PH-FP-004",
+    "calibration_purpose": "false_positive_prior",
+    "topical_anchor": "Water system",
+    "absent_reason": "The pump is named by type only; no brand is given.",
+    "attractor_chunk_ids": [
+      "f97d8f213275c7d56e4dfc53ef88e3253b1abd8fda95e9aa51dfc03c794d6747"
+    ],
+    "schema_version": "ph_bungkalan_20260930_01"
+  },
+  {
+    "question": "How many litres per minute does the Learning Farm's jetmatic pump deliver?",
+    "answer": "Not found in context",
+    "page": null,
+    "calibration_id": "AMB-PH-FP-005",
+    "calibration_purpose": "false_positive_prior",
+    "topical_anchor": "Water system",
+    "absent_reason": "The pump is named by type only; no flow rate is stated.",
+    "attractor_chunk_ids": [
+      "f97d8f213275c7d56e4dfc53ef88e3253b1abd8fda95e9aa51dfc03c794d6747"
+    ],
+    "schema_version": "ph_bungkalan_20260930_01"
+  },
+  {
+    "question": "What is the shelf life of finished solid bokashi in storage?",
+    "answer": "Not found in context",
+    "page": null,
+    "calibration_id": "AMB-PH-FP-006",
+    "calibration_purpose": "false_positive_prior",
+    "topical_anchor": "Solid bokashi",
+    "absent_reason": "Bokashi matures in 14 days, but no post-production storage life is stated.",
+    "attractor_chunk_ids": [
+      "ce958c2c65186c376fe53bcbbe8828a851fb8b1fa5a2994453b5282a7c2946a4",
+      "a123d04e1cd320ef2a76e8cc9ba9c5342c3a71c1a17091a7e4e6fb917f8e2585"
+    ],
+    "schema_version": "ph_bungkalan_20260930_01"
+  },
+  {
+    "question": "What is the alcohol percentage of the gin used in OHN?",
+    "answer": "Not found in context",
+    "page": null,
+    "calibration_id": "AMB-PH-FP-007",
+    "calibration_purpose": "false_positive_prior",
+    "topical_anchor": "OHN preparation",
+    "absent_reason": "Beer and gin quantities are specified, but alcohol content is not.",
+    "attractor_chunk_ids": [
+      "8972b94c0e6dc342d70e2d56d1caed707b237dafb1a8f8a745c47bc8789546c0",
+      "ad7e4f1f856b21f3a3bcdd3bd3be4973ceb3eaafc5d0f0fda374e25470c85262"
+    ],
+    "schema_version": "ph_bungkalan_20260930_01"
+  },
+  {
+    "question": "How much does one sack of carbonized rice hull cost?",
+    "answer": "Not found in context",
+    "page": null,
+    "calibration_id": "AMB-PH-FP-008",
+    "calibration_purpose": "false_positive_prior",
+    "topical_anchor": "Carbonized rice hull",
+    "absent_reason": "CRH is produced and used, but never priced.",
+    "attractor_chunk_ids": [
+      "ce958c2c65186c376fe53bcbbe8828a851fb8b1fa5a2994453b5282a7c2946a4",
+      "1dc8a9d1002845ba918d0995eacdff2a80aa2721f6fcee76f81a9a91125e2539"
+    ],
+    "schema_version": "ph_bungkalan_20260930_01"
+  },
+  {
+    "question": "How much does a gallon of coconut vinegar cost for the fruit fly traps?",
+    "answer": "Not found in context",
+    "page": null,
+    "calibration_id": "AMB-PH-FP-009",
+    "calibration_purpose": "false_positive_prior",
+    "topical_anchor": "Fruit fly traps",
+    "absent_reason": "The trap recipe uses a gallon of coconut vinegar, but no price is given.",
+    "attractor_chunk_ids": [
+      "1cb402ebed8f7fdb8e1434c4bdf8ab6056c7611075de576cb0178ae9360a43e2",
+      "021827b1e81ad249bb09a35b9ac853eb1c045d13b7214e6d85471202a1442293"
+    ],
+    "schema_version": "ph_bungkalan_20260930_01"
+  },
+  {
+    "question": "What is the volume of the sardines can used as a measuring standard in dilutions?",
+    "answer": "Not found in context",
+    "page": null,
+    "calibration_id": "AMB-PH-FP-010",
+    "calibration_purpose": "false_positive_prior",
+    "topical_anchor": "Dilution measuring",
+    "absent_reason": "Cans the size of sardines cans are the measuring unit, but their exact volume is not stated.",
+    "attractor_chunk_ids": [
+      "43f8dfa3726c7c986f55d82ee32bfdd6450ad14b4fa4879420943ed1a1431cf9",
+      "142ffccabd6899d960a4a923f5e3ffb02b6b98ae1d72fc200838f5c195ebb4b1"
+    ],
+    "schema_version": "ph_bungkalan_20260930_01"
+  },
+  {
+    "question": "What brand of PET bottle is recommended for BMOE fermentation?",
+    "answer": "Not found in context",
+    "page": null,
+    "calibration_id": "AMB-PH-FP-011",
+    "calibration_purpose": "false_positive_prior",
+    "topical_anchor": "BMOE preparation",
+    "absent_reason": "A one-litre PET bottle is specified, but no brand.",
+    "attractor_chunk_ids": [
+      "5397d4c763719cd75dd7a79219be856e6bb10d8cb9f96a79f3743a407df9a058",
+      "c0dd4b601d7661ea79fd8fa156b3cd05b4aab3f65d7e3c5043249b7ab7cdd39c"
+    ],
+    "schema_version": "ph_bungkalan_20260930_01"
+  },
+  {
+    "question": "What is the pH of the coconut vinegar used in foliar calcium?",
+    "answer": "Not found in context",
+    "page": null,
+    "calibration_id": "AMB-PH-FP-012",
+    "calibration_purpose": "false_positive_prior",
+    "topical_anchor": "Foliar calcium",
+    "absent_reason": "The vinegar volume is specified, but its pH is not.",
+    "attractor_chunk_ids": [
+      "10f6e3da5a6f62b8b8898b76958513586a8d39755b3e5ef2f93ea212004837e8",
+      "c427e38a7fda353beb7e5bcf7882345532a08d5bce69a8aaaa32cb8623cbd12c"
+    ],
+    "schema_version": "ph_bungkalan_20260930_01"
+  },
+  {
+    "question": "How many tons of sugar did Central Azucarera de Tarlac produce per year?",
+    "answer": "Not found in context",
+    "page": null,
+    "calibration_id": "AMB-PH-FP-013",
+    "calibration_purpose": "false_positive_prior",
+    "topical_anchor": "Sugar central history",
+    "absent_reason": "The central's founding and ownership are described, but production tonnage is not.",
+    "attractor_chunk_ids": [
+      "866140728f2c801a1a9d31242a7f7a51d6492dd7feff840fa4dc2d0d53af18aa",
+      "9ba4273341912eac6a31dffc856da4433b9b2e8241ca8ab6559a027b5aa8e898"
+    ],
+    "schema_version": "ph_bungkalan_20260930_01"
+  },
+  {
+    "question": "How much were hacienda farmworkers paid per day in 1957?",
+    "answer": "Not found in context",
+    "page": null,
+    "calibration_id": "AMB-PH-FP-014",
+    "calibration_purpose": "false_positive_prior",
+    "topical_anchor": "Cojuangco purchase era",
+    "absent_reason": "The 1957 purchase conditions are described, but wage rates of the era are not.",
+    "attractor_chunk_ids": [
+      "c1e2450ade9eb12728eaf9563b2356cb4f0893491ec139f34ed7859d10fe0de4",
+      "8e2821c954a339b56b149a7d3cd2a0543cab97f0a2ac96f80adda7f748a9366f"
+    ],
+    "schema_version": "ph_bungkalan_20260930_01"
+  },
+  {
+    "question": "How many milling days does one kabyaw season last at the Central Azucarera de Tarlac?",
+    "answer": "Not found in context",
+    "page": null,
+    "calibration_id": "AMB-PH-FP-015",
+    "calibration_purpose": "false_positive_prior",
+    "topical_anchor": "Kabyaw milling season",
+    "absent_reason": "The kabyaw milling season is described with its truck lines at the CAT gate and its tiempo muerto aftermath, but no milling-day count is stated.",
+    "attractor_chunk_ids": [
+      "9ffc1cc2a6d54a11f59e3befb48a18d728ae4e1a11a2f6947c54f30a0eaafb24",
+      "facd290467d49e614cba6798c1697a5eb3ee43bb7068c93347644eb67e341199",
+      "2da5a723ff13695385e3f6c50c69955d123421c42c82b2f5cba26a26a3d5f491"
+    ],
+    "schema_version": "ph_bungkalan_20260930_01",
+    "replacement_record": {
+      "replaced_question": "How many members did ULWU have when it was founded in 1956?",
+      "reason": "Stem near-duplicate (token Jaccard 0.71) with frozen dense-failure candidate 'How many members did UMA have when it was founded in 2005?'; runbook requires zero overlap between the formal pools and calibration sets.",
+      "profile_built_before_replacement": false,
+      "formal_experiment_run_before_replacement": false
+    }
+  },
+  {
+    "question": "What was the combined population of the ten barangays of Hacienda Luisita?",
+    "answer": "Not found in context",
+    "page": null,
+    "calibration_id": "AMB-PH-FP-016",
+    "calibration_purpose": "false_positive_prior",
+    "topical_anchor": "Hacienda geography",
+    "absent_reason": "The ten barangays are named, but their populations are not.",
+    "attractor_chunk_ids": [
+      "866140728f2c801a1a9d31242a7f7a51d6492dd7feff840fa4dc2d0d53af18aa",
+      "658bc23415fa51c87cfd755f1f11aaa15cb192d7c7dd84c7f771972039e1d041"
+    ],
+    "schema_version": "ph_bungkalan_20260930_01"
+  },
+  {
+    "question": "Where was Don Antonio Lopez buried after his death?",
+    "answer": "Not found in context",
+    "page": null,
+    "calibration_id": "AMB-PH-FP-017",
+    "calibration_purpose": "false_positive_prior",
+    "topical_anchor": "TABACALERA founder",
+    "absent_reason": "Lopez founded TABACALERA and named the hacienda, but nothing about his burial is stated.",
+    "attractor_chunk_ids": [
+      "658bc23415fa51c87cfd755f1f11aaa15cb192d7c7dd84c7f771972039e1d041",
+      "9bc1822722a88a12c77772f63a588065d317777a77640a241b4ea47ecd3c8a4a"
+    ],
+    "schema_version": "ph_bungkalan_20260930_01"
+  },
+  {
+    "question": "How many children did Jose Cojuangco Sr. have?",
+    "answer": "Not found in context",
+    "page": null,
+    "calibration_id": "AMB-PH-FP-018",
+    "calibration_purpose": "false_positive_prior",
+    "topical_anchor": "Cojuangco family",
+    "absent_reason": "Jose Cojuangco Sr.'s marriage and career are described, but his children are not counted.",
+    "attractor_chunk_ids": [
+      "8e2821c954a339b56b149a7d3cd2a0543cab97f0a2ac96f80adda7f748a9366f",
+      "fdf0fb04b6142da5e6b98ef47ba076cc45debcc61714af9e7d75d2d0e2e668df"
+    ],
+    "schema_version": "ph_bungkalan_20260930_01"
+  },
+  {
+    "question": "What was the exact date of Cory Aquino's death?",
+    "answer": "Not found in context",
+    "page": null,
+    "calibration_id": "AMB-PH-FP-019",
+    "calibration_purpose": "false_positive_prior",
+    "topical_anchor": "Aquino family timeline",
+    "absent_reason": "Her death from cancer before the 2010 election is mentioned, but not the date.",
+    "attractor_chunk_ids": [
+      "052bd2703d199eff82f8dbff3ac0116676da554c970757504bf057a376c84f94",
+      "13d5089ceaee2e576cba186ffce257e78fcf275dfcc46b817c58b58d4571f308"
+    ],
+    "schema_version": "ph_bungkalan_20260930_01"
+  },
+  {
+    "question": "When exactly in May 1989 was the SDO Memorandum of Agreement signed?",
+    "answer": "Not found in context",
+    "page": null,
+    "calibration_id": "AMB-PH-FP-020",
+    "calibration_purpose": "false_positive_prior",
+    "topical_anchor": "SDO referendum",
+    "absent_reason": "Only the month (May 1989) is given for the MOA signing; the exact date is not stated.",
+    "attractor_chunk_ids": [
+      "dcdc580348c245604aea5d474cf238824b9e7385f4d23cfcce9872ca6eef6742",
+      "9501aef9fa4b181b7a1ff1e6e8441677f76d7255187f351ed6bb0491abe41a76"
+    ],
+    "schema_version": "ph_bungkalan_20260930_01"
+  },
+  {
+    "question": "How much did it cost to build the Learning Farm kubo?",
+    "answer": "Not found in context",
+    "page": null,
+    "calibration_id": "AMB-PH-FP-021",
+    "calibration_purpose": "false_positive_prior",
+    "topical_anchor": "Learning Farm construction",
+    "absent_reason": "Donations and contributions were recorded, but no total cost is stated.",
+    "attractor_chunk_ids": [
+      "c1a06ebbf9be303aacfc12abd377193c371a03c8df0c04c2dc70e4c42ccae268",
+      "f03cb3ea5c5113b74c687c363959220f55e8a9d17f45ff639554da9a67743f51"
+    ],
+    "schema_version": "ph_bungkalan_20260930_01"
+  },
+  {
+    "question": "How many farmers attended the SIBAT training on June 27, 2015?",
+    "answer": "Not found in context",
+    "page": null,
+    "calibration_id": "AMB-PH-FP-022",
+    "calibration_purpose": "false_positive_prior",
+    "topical_anchor": "SIBAT training",
+    "absent_reason": "The training is narrated, but attendance is not counted.",
+    "attractor_chunk_ids": [
+      "c1a06ebbf9be303aacfc12abd377193c371a03c8df0c04c2dc70e4c42ccae268"
+    ],
+    "schema_version": "ph_bungkalan_20260930_01"
+  },
+  {
+    "question": "How long is the SCTEX stretch that crosses Hacienda Luisita?",
+    "answer": "Not found in context",
+    "page": null,
+    "calibration_id": "AMB-PH-FP-023",
+    "calibration_purpose": "false_positive_prior",
+    "topical_anchor": "Land conversion",
+    "absent_reason": "SCTEX appears in abbreviations and conversion context, but no length is stated.",
+    "attractor_chunk_ids": [
+      "0d434cea8855433591189078e35325d40a4be66681bd248d6b133258f708e241",
+      "8e0be2239812b1bf2b17b1ccea12950b4d2f1f7c252de7a7844653d41784a7ed"
+    ],
+    "schema_version": "ph_bungkalan_20260930_01"
+  },
+  {
+    "question": "What tilapia variety was stocked in the Learning Farm fishpond?",
+    "answer": "Not found in context",
+    "page": null,
+    "calibration_id": "AMB-PH-FP-024",
+    "calibration_purpose": "false_positive_prior",
+    "topical_anchor": "Fishpond integration",
+    "absent_reason": "Fingerlings were stocked, but the variety is not named.",
+    "attractor_chunk_ids": [
+      "7353f05b336aeaba52faaa40a852db1599d8d66a067c790c532a4825719d04cf"
+    ],
+    "schema_version": "ph_bungkalan_20260930_01"
+  },
+  {
+    "question": "What is the price of a rotary weeder?",
+    "answer": "Not found in context",
+    "page": null,
+    "calibration_id": "AMB-PH-FP-025",
+    "calibration_purpose": "false_positive_prior",
+    "topical_anchor": "Rotary weeder",
+    "absent_reason": "The rotary weeder is described and recommended, but not priced.",
+    "attractor_chunk_ids": [
+      "bc9def05fc9bead0a8358d2f363d1ba2760941dbf4660e722b73c60cc12881e4",
+      "844873a88284da1989ea9742b36aec5489985e8f33eee8e404446892574343d4"
+    ],
+    "schema_version": "ph_bungkalan_20260930_01"
+  },
+  {
+    "question": "What N-P-K ratio does the IR8 Miracle Rice variety require?",
+    "answer": "Not found in context",
+    "page": null,
+    "calibration_id": "AMB-PH-FP-026",
+    "calibration_purpose": "false_positive_prior",
+    "topical_anchor": "HYV varieties",
+    "absent_reason": "IR 1-8 (Miracle Rice) are listed as HYVs, but no fertilizer ratio is attached.",
+    "attractor_chunk_ids": [
+      "7e556f4b42e9a1dfe9b0f6b7c07b853912d02a8db332894435cd0ae828560416"
+    ],
+    "schema_version": "ph_bungkalan_20260930_01"
+  },
+  {
+    "question": "Which company supplied the beer used in OHN production?",
+    "answer": "Not found in context",
+    "page": null,
+    "calibration_id": "AMB-PH-FP-027",
+    "calibration_purpose": "false_positive_prior",
+    "topical_anchor": "OHN preparation",
+    "absent_reason": "Beer is an OHN ingredient, but no supplier is named.",
+    "attractor_chunk_ids": [
+      "8972b94c0e6dc342d70e2d56d1caed707b237dafb1a8f8a745c47bc8789546c0"
+    ],
+    "schema_version": "ph_bungkalan_20260930_01"
+  },
+  {
+    "question": "How long can finished FPJ be stored in bottles before it spoils?",
+    "answer": "Not found in context",
+    "page": null,
+    "calibration_id": "AMB-PH-FP-028",
+    "calibration_purpose": "false_positive_prior",
+    "topical_anchor": "FPJ preparation",
+    "absent_reason": "FPJ fermentation is 7-15 days, but no storage life is stated.",
+    "attractor_chunk_ids": [
+      "69f93491192a6ba139a309d94e5930ee825cde875c127db273e71f812a061f5a",
+      "be40d7a966e0d9085b8cb809756e1fed13513b51df6ea645f7a519e910825746"
+    ],
+    "schema_version": "ph_bungkalan_20260930_01"
+  },
+  {
+    "question": "How much does one sack of dried carabao manure weigh?",
+    "answer": "Not found in context",
+    "page": null,
+    "calibration_id": "AMB-PH-FP-029",
+    "calibration_purpose": "false_positive_prior",
+    "topical_anchor": "Bokashi ingredients",
+    "absent_reason": "Sack counts are given, but sack weights are not.",
+    "attractor_chunk_ids": [
+      "ce958c2c65186c376fe53bcbbe8828a851fb8b1fa5a2994453b5282a7c2946a4"
+    ],
+    "schema_version": "ph_bungkalan_20260930_01"
+  },
+  {
+    "question": "How many hectares of Hacienda Luisita did TADECO own outright?",
+    "answer": "Not found in context",
+    "page": null,
+    "calibration_id": "AMB-PH-FP-030",
+    "calibration_purpose": "false_positive_prior",
+    "topical_anchor": "TADECO ownership",
+    "absent_reason": "TADECO's control of the hacienda and CAT is described, but no owned-hectare figure is stated.",
+    "attractor_chunk_ids": [
+      "526110963466da36f5562f16a2cfa0294202f347c982b16e70c6e213f0880341",
+      "ebd65fcaceb06567febd7967ed254af641339187e0c3d6af502b896dd99867d5"
+    ],
+    "schema_version": "ph_bungkalan_20260930_01"
+  }
+]

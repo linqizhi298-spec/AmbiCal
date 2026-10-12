@@ -1,0 +1,55 @@
+{
+  "llm_models": {
+    "ollama": {
+      "qwen2.5_7B-128k": {
+        "name": "qwen2.5:7b",
+        "temperature": 0.0,
+        "num_predict": 1024,
+        "context_window": 128000
+      },
+      "gemma3_12B-128k": {
+        "name": "gemma3:12b",
+        "temperature": 0.0,
+        "num_predict": 1024,
+        "context_window": 128000
+      }
+    }
+  },
+  "question_models_to_test": [
+    "qwen2.5_7B-128k"
+  ],
+  "evaluator_model_name": "gemma3_12B-128k",
+  "enable_reevaluation": false,
+  "prompt_paths": {
+    "question_prompt": "D:\\Analysis code\\ambical\\RAG\\prompt_templates\\question_prompt.txt",
+    "evaluation_prompt": "D:\\Analysis code\\ambical\\RAG\\prompt_templates\\evaluation_prompt.txt"
+  },
+  "language_configs": [
+    {
+      "language": "vietnamese",
+      "manual_path": "D:\\Analysis code\\ambical\\RAG\\cross_domain_data\\vn_low_emission_rice_agriculture\\retrieval_text\\So_tay_lua_chat_luong_cao_phat_thai_thap_DBSCL_text_only.md",
+      "collection_base_name": "vn_low_emission_rice_vietnamese_bge_m3"
+    }
+  ],
+  "question_dataset_paths": {
+    "general_questions": "D:\\Analysis code\\ambical\\RAG\\question_datasets\\vn_low_emission_rice_english_qa\\question_answers_pairs_vn_low_emission_rice_v51_independent_100_20260930_02.json",
+    "unanswerable_questions": "D:\\Analysis code\\ambical\\RAG\\question_datasets\\vn_low_emission_rice_english_qa\\question_answers_unanswerable_vn_low_emission_rice_v51_independent_100_20260930_02.json"
+  },
+  "output_dir": "D:\\Analysis code\\ambical\\RAG\\user_runs\\dense\\vn_low_emission_rice_v51\\formal200\\fixed_k10_20260930_01",
+  "embedding_model_name": "D:\\Analysis code\\models\\bge-m3",
+  "embedding_max_length": 8192,
+  "chroma_persist_dir": "D:\\Analysis code\\ambical\\RAG\\chroma_db_vn_low_emission_rice_bge_m3_fp16",
+  "rag_parameters": {
+    "retrieval_algorithms_to_test": [
+      "embedding"
+    ],
+    "chunk_sizes_to_test": [
+      200
+    ],
+    "overlap_sizes_to_test": [
+      100
+    ],
+    "num_retrieved_docs": 10,
+    "adaptive_k_enabled": false
+  }
+}

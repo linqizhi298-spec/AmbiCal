@@ -1,0 +1,3095 @@
+[
+  {
+    "question": "Exactly how many people were injured at the Hacienda Luisita picket line on November 16, 2004?",
+    "answer": "Not found in context",
+    "page": 18,
+    "question_id": "phbg-u-001",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "ebd65fcaceb06567febd7967ed254af641339187e0c3d6af502b896dd99867d5",
+      "9ba4273341912eac6a31dffc856da4433b9b2e8241ca8ab6559a027b5aa8e898"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "The referenced handbook page contains a related topic, but the requested fact is not stated in the frozen corpus.",
+    "source_section": "I Hacienda Luisita: Maikling Kasaysayan",
+    "source_page_verified": 18,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control_candidate",
+    "selection_basis": "original_100x100_plus_docling_page_provenance",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "page_provenance_mapped",
+      "mapping_method": "docling_page_to_frozen_chroma_chunk",
+      "manual_semantic_review_required_before_final_selection": true
+    },
+    "gold_refinement": {
+      "method": "unchanged_page_based_attractors"
+    }
+  },
+  {
+    "question": "What was the combined population of the ten farmworker barangays when the 2004 strike began?",
+    "answer": "Not found in context",
+    "page": 18,
+    "question_id": "phbg-u-002",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "ebd65fcaceb06567febd7967ed254af641339187e0c3d6af502b896dd99867d5",
+      "9ba4273341912eac6a31dffc856da4433b9b2e8241ca8ab6559a027b5aa8e898"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "The referenced handbook page contains a related topic, but the requested fact is not stated in the frozen corpus.",
+    "source_section": "I Hacienda Luisita: Maikling Kasaysayan",
+    "source_page_verified": 18,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control_candidate",
+    "selection_basis": "original_100x100_plus_docling_page_provenance",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "page_provenance_mapped",
+      "mapping_method": "docling_page_to_frozen_chroma_chunk",
+      "manual_semantic_review_required_before_final_selection": true
+    },
+    "gold_refinement": {
+      "method": "unchanged_page_based_attractors"
+    }
+  },
+  {
+    "question": "Which Philippine statute formally defines a hacienda as beginning at 24 hectares?",
+    "answer": "Not found in context",
+    "page": 20,
+    "question_id": "phbg-u-003",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "8e2821c954a339b56b149a7d3cd2a0543cab97f0a2ac96f80adda7f748a9366f",
+      "fdf0fb04b6142da5e6b98ef47ba076cc45debcc61714af9e7d75d2d0e2e668df"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "The referenced handbook page contains a related topic, but the requested fact is not stated in the frozen corpus.",
+    "source_section": "ANG SISTEMANG HACIENDA",
+    "source_page_verified": 20,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control_candidate",
+    "selection_basis": "original_100x100_plus_docling_page_provenance",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "page_provenance_mapped",
+      "mapping_method": "docling_page_to_frozen_chroma_chunk",
+      "manual_semantic_review_required_before_final_selection": true
+    },
+    "gold_refinement": {
+      "method": "unchanged_page_based_attractors"
+    }
+  },
+  {
+    "question": "How many metric tons of sugar did Hacienda Luisita export to the United States in its peak year under TABACALERA?",
+    "answer": "Not found in context",
+    "page": 21,
+    "question_id": "phbg-u-004",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "c710e1fece6c89b677e8cb4cd96f91f02b70ef56f85d632fa0ec6d6a346f7b36",
+      "3014e5c927514a815faf3494e7a87c84bece4a2cef5260dbfbe844bb79e5fb28"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "The referenced handbook page contains a related topic, but the requested fact is not stated in the frozen corpus.",
+    "source_section": "1927 / 1942 -1945",
+    "source_page_verified": 21,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control_candidate",
+    "selection_basis": "original_100x100_plus_docling_page_provenance",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "page_provenance_mapped",
+      "mapping_method": "docling_page_to_frozen_chroma_chunk",
+      "manual_semantic_review_required_before_final_selection": true
+    },
+    "gold_refinement": {
+      "method": "unchanged_page_based_attractors"
+    }
+  },
+  {
+    "question": "What were the principal amounts and interest rates of the two loans used to buy Hacienda Luisita in 1957?",
+    "answer": "Not found in context",
+    "page": 22,
+    "question_id": "phbg-u-005",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "d0df9a6e53206f6f83a7bb8ca2bbd85a3faeedd2488efd010826dfb02c6a0f7b",
+      "813139440d9bfacafef6b04f3643951ed61e08ecc49a3b3a08f5b68e0a679518"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "The referenced handbook page contains a related topic, but the requested fact is not stated in the frozen corpus.",
+    "source_section": "Alam n'yo ba? / MGA COJUANGCO AT AQUINO SA KOLONYAL NA PAMAHALAAN",
+    "source_page_verified": 22,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control_candidate",
+    "selection_basis": "original_100x100_plus_docling_page_provenance",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "page_provenance_mapped",
+      "mapping_method": "docling_page_to_frozen_chroma_chunk",
+      "manual_semantic_review_required_before_final_selection": true
+    },
+    "gold_refinement": {
+      "method": "unchanged_page_based_attractors"
+    }
+  },
+  {
+    "question": "How many hectares was each farmer supposed to receive when the ten-year distribution deadline arrived in 1967?",
+    "answer": "Not found in context",
+    "page": 23,
+    "question_id": "phbg-u-006",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "34b15ed30206addb0fbe0229a710463de1115901a42e295aefc772ead8bb9bfc",
+      "f6772a01a88726fc3b154dd6e549fbc1089efd46958bf1f3d5cd15223c678467"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "The referenced handbook page contains a related topic, but the requested fact is not stated in the frozen corpus.",
+    "source_section": "ANG PAGSASANIB NG MGA COJUANGCO AT AQUINO",
+    "source_page_verified": 23,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control_candidate",
+    "selection_basis": "original_100x100_plus_docling_page_provenance",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "page_provenance_mapped",
+      "mapping_method": "docling_page_to_frozen_chroma_chunk",
+      "manual_semantic_review_required_before_final_selection": true
+    },
+    "gold_refinement": {
+      "method": "unchanged_page_based_attractors"
+    }
+  },
+  {
+    "question": "What percentage of Masagana 99 borrowers repaid their loans in full?",
+    "answer": "Not found in context",
+    "page": 24,
+    "question_id": "phbg-u-007",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "07f9a20e8b67ba6e750cda91552897ec60bb49da94c3e71954189db9605c2068",
+      "09847ff93c09797177108cd695603bad6eecb2966c086473583e70e2c6980ebe"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "The referenced handbook page contains a related topic, but the requested fact is not stated in the frozen corpus.",
+    "source_section": "Alam n'yo ba? / PRESIDENTIAL DECREE 27 AT GREEN REVOLUTION NI MARCOS",
+    "source_page_verified": 24,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control_candidate",
+    "selection_basis": "original_100x100_plus_docling_page_provenance",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "page_provenance_mapped",
+      "mapping_method": "docling_page_to_frozen_chroma_chunk",
+      "manual_semantic_review_required_before_final_selection": true
+    },
+    "gold_refinement": {
+      "method": "unchanged_page_based_attractors"
+    }
+  },
+  {
+    "question": "What were the names of all thirteen farmers killed in the Mendiola Massacre?",
+    "answer": "Not found in context",
+    "page": 25,
+    "question_id": "phbg-u-008",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "facd290467d49e614cba6798c1697a5eb3ee43bb7068c93347644eb67e341199",
+      "9ffc1cc2a6d54a11f59e3befb48a18d728ae4e1a11a2f6947c54f30a0eaafb24"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "The referenced handbook page contains a related topic, but the requested fact is not stated in the frozen corpus.",
+    "source_section": "Alam n'yo ba? / ANG MASAKER SA MENDIOLA",
+    "source_page_verified": 25,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control_candidate",
+    "selection_basis": "original_100x100_plus_docling_page_provenance",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "page_provenance_mapped",
+      "mapping_method": "docling_page_to_frozen_chroma_chunk",
+      "manual_semantic_review_required_before_final_selection": true
+    },
+    "gold_refinement": {
+      "method": "unchanged_page_based_attractors"
+    }
+  },
+  {
+    "question": "How many armed personnel made up the Cojuangco-Aquino family's 'yellow army'?",
+    "answer": "Not found in context",
+    "page": 26,
+    "question_id": "phbg-u-009",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "2e37dd1fe2805b3fb10cb80c3c4779116f72f7b5e7527ee8bdefed04c7a5de6a",
+      "dcdc580348c245604aea5d474cf238824b9e7385f4d23cfcce9872ca6eef6742"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "The referenced handbook page contains a related topic, but the requested fact is not stated in the frozen corpus.",
+    "source_section": "Hacienda Luisita sa Ilalim ni Cory / 1986",
+    "source_page_verified": 26,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control_candidate",
+    "selection_basis": "original_100x100_plus_docling_page_provenance",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "page_provenance_mapped",
+      "mapping_method": "docling_page_to_frozen_chroma_chunk",
+      "manual_semantic_review_required_before_final_selection": true
+    },
+    "gold_refinement": {
+      "method": "unchanged_page_based_attractors"
+    }
+  },
+  {
+    "question": "What was the final vote count in the 1989 stocks-versus-land referendum?",
+    "answer": "Not found in context",
+    "page": 27,
+    "question_id": "phbg-u-010",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "b246e6b08f25ebc24b5cc6ca028344e1d7b22e16ad8287e46baf1bed0552eabc",
+      "0d434cea8855433591189078e35325d40a4be66681bd248d6b133258f708e241"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "The referenced handbook page contains a related topic, but the requested fact is not stated in the frozen corpus.",
+    "source_section": "Alam n'yo ba? / COMPREHENSIVE AGRARIAN REFORM PROGRAM (CARP) AT STOCK DISTRIBUTION OPTION (SDO)",
+    "source_page_verified": 27,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control_candidate",
+    "selection_basis": "original_100x100_plus_docling_page_provenance",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "page_provenance_mapped",
+      "mapping_method": "docling_page_to_frozen_chroma_chunk",
+      "manual_semantic_review_required_before_final_selection": true
+    },
+    "gold_refinement": {
+      "method": "unchanged_page_based_attractors"
+    }
+  },
+  {
+    "question": "On what exact date did AMBALA file its 5,000-member petition against the SDO and land conversion?",
+    "answer": "Not found in context",
+    "page": 28,
+    "question_id": "phbg-u-011",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "b70416bef7ddc444084103584a9163dc9ae2adf82a8c58e4d1e3b2aaceac4669"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "The referenced handbook page contains a related topic, but the requested fact is not stated in the frozen corpus.",
+    "source_section": "Ang Welgang Bayan sa Hacienda Luisita / 2004",
+    "source_page_verified": 28,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control_candidate",
+    "selection_basis": "original_100x100_plus_docling_page_provenance",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "page_provenance_mapped",
+      "mapping_method": "docling_page_to_frozen_chroma_chunk",
+      "manual_semantic_review_required_before_final_selection": true
+    },
+    "gold_refinement": {
+      "method": "unchanged_page_based_attractors"
+    }
+  },
+  {
+    "question": "How much food did each barangay contribute daily to the picket line during the 2004 strike?",
+    "answer": "Not found in context",
+    "page": 29,
+    "question_id": "phbg-u-012",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "877d59da646c2879137691d30d2ca1d5cd0f0ec301974785935410efd2e3e3ea",
+      "556c3de12952622b83cf09df184b6b28a365c24690c00a9f6f9eca657c958ea2"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "The referenced handbook page contains a related topic, but the requested fact is not stated in the frozen corpus.",
+    "source_section": "WELGANG BAYAN AT BUNGKALAN / Nobyembre 6, 2004",
+    "source_page_verified": 29,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control_candidate",
+    "selection_basis": "original_100x100_plus_docling_page_provenance",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "page_provenance_mapped",
+      "mapping_method": "docling_page_to_frozen_chroma_chunk",
+      "manual_semantic_review_required_before_final_selection": true
+    },
+    "gold_refinement": {
+      "method": "unchanged_page_based_attractors"
+    }
+  },
+  {
+    "question": "What firearms and ammunition calibers were used during the dispersal at Gate 1?",
+    "answer": "Not found in context",
+    "page": 30,
+    "question_id": "phbg-u-013",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "0bfa251f7278bbe6318bb94982d91fa9b4b8dbb904818242cf7d22cde0881fbf"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "The referenced handbook page contains a related topic, but the requested fact is not stated in the frozen corpus.",
+    "source_section": "Ang Masaker sa Hacienda Luisita Nobyembre 16, 2004 / Ngunit tuloy ang welga.",
+    "source_page_verified": 30,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control_candidate",
+    "selection_basis": "original_100x100_plus_docling_page_provenance",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "page_provenance_mapped",
+      "mapping_method": "docling_page_to_frozen_chroma_chunk",
+      "manual_semantic_review_required_before_final_selection": true
+    },
+    "gold_refinement": {
+      "method": "unchanged_page_based_attractors"
+    }
+  },
+  {
+    "question": "How many hectares of sugarcane were converted separately to rice, vegetables, and other crops by the end of the strike?",
+    "answer": "Not found in context",
+    "page": 31,
+    "question_id": "phbg-u-014",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "2fd4eb6bae1ffcedb19ec1a40ba2a5f01d71a7928972b2d4edff288af8b7543e",
+      "0a1375eb149265050e23a60594cc51f3b2c1744e9cc4d1b9d612a767280e69c7"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "The referenced handbook page contains a related topic, but the requested fact is not stated in the frozen corpus.",
+    "source_section": "Ngunit tuloy ang welga.",
+    "source_page_verified": 31,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control_candidate",
+    "selection_basis": "original_100x100_plus_docling_page_provenance",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "page_provenance_mapped",
+      "mapping_method": "docling_page_to_frozen_chroma_chunk",
+      "manual_semantic_review_required_before_final_selection": true
+    },
+    "gold_refinement": {
+      "method": "unchanged_page_based_attractors"
+    }
+  },
+  {
+    "question": "How many individual beneficiaries took part in the first 'tambiyolo' land-allocation drawing?",
+    "answer": "Not found in context",
+    "page": 32,
+    "question_id": "phbg-u-015",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "052bd2703d199eff82f8dbff3ac0116676da554c970757504bf057a376c84f94",
+      "13d5089ceaee2e576cba186ffce257e78fcf275dfcc46b817c58b58d4571f308"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "The referenced handbook page contains a related topic, but the requested fact is not stated in the frozen corpus.",
+    "source_section": "Ngunit tuloy ang welga.",
+    "source_page_verified": 32,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control_candidate",
+    "selection_basis": "original_100x100_plus_docling_page_provenance",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "page_provenance_mapped",
+      "mapping_method": "docling_page_to_frozen_chroma_chunk",
+      "manual_semantic_review_required_before_final_selection": true
+    },
+    "gold_refinement": {
+      "method": "unchanged_page_based_attractors"
+    }
+  },
+  {
+    "question": "What was the average distance between a beneficiary's home and the parcel assigned through the land lottery?",
+    "answer": "Not found in context",
+    "page": 34,
+    "question_id": "phbg-u-016",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "6b47e361a2ecec59da9a7f70241e288c29347aefcc7974c080cfe21eea23577d",
+      "a5e740bd653becaa2992369253e5d4273ee8522923e73cf3a8d5981ba553db94"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "The referenced handbook page contains a related topic, but the requested fact is not stated in the frozen corpus.",
+    "source_section": "Hacienda Luisita sa Ilalim ni Noynoy Aquino",
+    "source_page_verified": 34,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control_candidate",
+    "selection_basis": "original_100x100_plus_docling_page_provenance",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "page_provenance_mapped",
+      "mapping_method": "docling_page_to_frozen_chroma_chunk",
+      "manual_semantic_review_required_before_final_selection": true
+    },
+    "gold_refinement": {
+      "method": "unchanged_page_based_attractors"
+    }
+  },
+  {
+    "question": "What was the average annual rent charged per hectare under aryendo in Hacienda Luisita?",
+    "answer": "Not found in context",
+    "page": 35,
+    "question_id": "phbg-u-017",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "c69fd15806cb3dc67b353d294133852e0c53d7cd83fec6d448711a1b1e9f593b",
+      "ee499b067ba4c533a946d066fd6a7f21fbe1d15140942aba5735194fd7a4ba54"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "The referenced handbook page contains a related topic, but the requested fact is not stated in the frozen corpus.",
+    "source_section": "Hacienda Luisita sa Ilalim ni Noynoy Aquino",
+    "source_page_verified": 35,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control_candidate",
+    "selection_basis": "original_100x100_plus_docling_page_provenance",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "page_provenance_mapped",
+      "mapping_method": "docling_page_to_frozen_chroma_chunk",
+      "manual_semantic_review_required_before_final_selection": true
+    },
+    "gold_refinement": {
+      "method": "unchanged_page_based_attractors"
+    }
+  },
+  {
+    "question": "Where and when was the first bungkalan campaign outside Hacienda Luisita organized?",
+    "answer": "Not found in context",
+    "page": 40,
+    "question_id": "phbg-u-018",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "774526471de08b96fc722bbae016830ad210a56c9f0038ab979d617b533e76b3",
+      "f677b346bf85dd70fad15a7d16f5355f41367d19edb0026936be41054af2c3a2"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "The referenced handbook page contains a related topic, but the requested fact is not stated in the frozen corpus.",
+    "source_section": "Ano ang bungkalan?",
+    "source_page_verified": 40,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control_candidate",
+    "selection_basis": "original_100x100_plus_docling_page_provenance",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "page_provenance_mapped",
+      "mapping_method": "docling_page_to_frozen_chroma_chunk",
+      "manual_semantic_review_required_before_final_selection": true
+    },
+    "gold_refinement": {
+      "method": "unchanged_page_based_attractors"
+    }
+  },
+  {
+    "question": "By what percentage did cooperative production reduce borrowing and production costs in Hacienda Luisita?",
+    "answer": "Not found in context",
+    "page": 43,
+    "question_id": "phbg-u-019",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "ce230b0f5d7d6103f270b151970b158c100db9fc4e05ee30754cf999c005b2fd",
+      "f50bc9df0c6203913c8da58aaec8991e5d3c70e3a755caabc5f58c2ce249fa78"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "The referenced handbook page contains a related topic, but the requested fact is not stated in the frozen corpus.",
+    "source_section": "Bakit mahalagang maisulong ang bungkalan sa pamamagitan ng kooperasyon o sama-sama at organisadong produksiyon?",
+    "source_page_verified": 43,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control_candidate",
+    "selection_basis": "original_100x100_plus_docling_page_provenance",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "page_provenance_mapped",
+      "mapping_method": "docling_page_to_frozen_chroma_chunk",
+      "manual_semantic_review_required_before_final_selection": true
+    },
+    "gold_refinement": {
+      "method": "unchanged_page_based_attractors"
+    }
+  },
+  {
+    "question": "How many labor hours must one family return for every hour received through suyuan?",
+    "answer": "Not found in context",
+    "page": 44,
+    "question_id": "phbg-u-020",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "7ad8cfebcc0d367f4e0fe263f6746dd43b9a755afd217660158fe7f9bcd83d60"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "The referenced handbook page contains a related topic, but the requested fact is not stated in the frozen corpus.",
+    "source_section": "SAUP-SAUP! / Suyuan o Palitan ng Paggawa",
+    "source_page_verified": 44,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control_candidate",
+    "selection_basis": "original_100x100_plus_docling_page_provenance",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "page_provenance_mapped",
+      "mapping_method": "docling_page_to_frozen_chroma_chunk",
+      "manual_semantic_review_required_before_final_selection": true
+    },
+    "gold_refinement": {
+      "method": "unchanged_page_based_attractors"
+    }
+  },
+  {
+    "question": "What is the minimum age for an individual to become a voting member of a cooperative bungkalan?",
+    "answer": "Not found in context",
+    "page": 50,
+    "question_id": "phbg-u-021",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "fe16dd272c3ffd5d814a46fb312adad487b286e8d6da4afbf03a64f1850ba6e0",
+      "ad0f882b8dea5385aeaf5d57504a4ece22ba00e1040d883d99fd9e113417b7f7"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "The referenced handbook page contains a related topic, but the requested fact is not stated in the frozen corpus.",
+    "source_section": "Ano ang kooperatibang bungkalan at sino-sino ang maaaring lumahok sa kooperatibang bungkalan?",
+    "source_page_verified": 50,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control_candidate",
+    "selection_basis": "original_100x100_plus_docling_page_provenance",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "page_provenance_mapped",
+      "mapping_method": "docling_page_to_frozen_chroma_chunk",
+      "manual_semantic_review_required_before_final_selection": true
+    },
+    "gold_refinement": {
+      "method": "unchanged_page_based_attractors"
+    }
+  },
+  {
+    "question": "How many hours of formal classroom instruction must a new work-team member complete before joining production?",
+    "answer": "Not found in context",
+    "page": 52,
+    "question_id": "phbg-u-022",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "deac87a61a490df2dd521af77b9832e3187de7292a13f601c20efd0b30ef5e55",
+      "31ec71b259e108b4c504a18f9c26cc098a7e0e037200776d335957fd38ed3430"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "The referenced handbook page contains a related topic, but the requested fact is not stated in the frozen corpus.",
+    "source_section": "Bakit mahalaga ang tuloy-tuloy na edukasyon at pagsasanay sa pagsusulong ng kooperatibang bungkalan?",
+    "source_page_verified": 52,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control_candidate",
+    "selection_basis": "original_100x100_plus_docling_page_provenance",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "page_provenance_mapped",
+      "mapping_method": "docling_page_to_frozen_chroma_chunk",
+      "manual_semantic_review_required_before_final_selection": true
+    },
+    "gold_refinement": {
+      "method": "unchanged_page_based_attractors"
+    }
+  },
+  {
+    "question": "What annual yield target was set for rice and vegetables on each hectare of cooperative land?",
+    "answer": "Not found in context",
+    "page": 55,
+    "question_id": "phbg-u-023",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "622a0215a57ce8f75c1687b419421e7d6104177233b1f81be21a5bf51a5cedab",
+      "cba2dde78f01b76cd8f9145f269021f4773f944fbfb3c50a72bf43ffd6009e33"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "The referenced handbook page contains a related topic, but the requested fact is not stated in the frozen corpus.",
+    "source_section": "Aling mga lupain ang  dapat na saklawin ng kooperatibang bungkalan?",
+    "source_page_verified": 55,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control_candidate",
+    "selection_basis": "original_100x100_plus_docling_page_provenance",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "page_provenance_mapped",
+      "mapping_method": "docling_page_to_frozen_chroma_chunk",
+      "manual_semantic_review_required_before_final_selection": true
+    },
+    "gold_refinement": {
+      "method": "unchanged_page_based_attractors"
+    }
+  },
+  {
+    "question": "What universal peso value does the manual require every bungkalan to assign to one work point?",
+    "answer": "Not found in context",
+    "page": 57,
+    "question_id": "phbg-u-024",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "0e63aa91d244781c0fd44f9de55af856db20d456dc27e03a0cc2811e1318369c",
+      "0d5c2c9efec10b7d940d0a92e022a0c89819f9ba45c42443313540181d15a9cd"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "The referenced handbook page contains a related topic, but the requested fact is not stated in the frozen corpus.",
+    "source_section": "Ano ang sistemang work points at paano ito ipinapatupad?",
+    "source_page_verified": 57,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control_candidate",
+    "selection_basis": "original_100x100_plus_docling_page_provenance",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "page_provenance_mapped",
+      "mapping_method": "docling_page_to_frozen_chroma_chunk",
+      "manual_semantic_review_required_before_final_selection": true
+    },
+    "gold_refinement": {
+      "method": "unchanged_page_based_attractors"
+    }
+  },
+  {
+    "question": "How many work points did each named member actually accumulate during the first full year of the cooperative?",
+    "answer": "Not found in context",
+    "page": 58,
+    "question_id": "phbg-u-025",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "0a34c7ee9ca9ff60e95f5ee8d6071a2ced0f379e18f0d15e58469907d43aed63",
+      "aa5b4f16756a32a3fd3ba461217e67ec421077ec4e1c125043ff31247a9cf775"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "The referenced handbook page contains a related topic, but the requested fact is not stated in the frozen corpus.",
+    "source_section": "Pagrerekord ng work points",
+    "source_page_verified": 58,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control_candidate",
+    "selection_basis": "original_100x100_plus_docling_page_provenance",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "page_provenance_mapped",
+      "mapping_method": "docling_page_to_frozen_chroma_chunk",
+      "manual_semantic_review_required_before_final_selection": true
+    },
+    "gold_refinement": {
+      "method": "unchanged_page_based_attractors"
+    }
+  },
+  {
+    "question": "What price per sack was used to convert the sample grain harvest into the Php 15,000 gross income?",
+    "answer": "Not found in context",
+    "page": 59,
+    "question_id": "phbg-u-026",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "4af445ddcc10f26582c8f68d89307d01493a64e063be4a0cf54f336a4367db88",
+      "c6a2247a207bee128e7d7858f32fdc07d2ed2b02733f7f66541bcfbbe1aaab8f"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "The referenced handbook page contains a related topic, but the requested fact is not stated in the frozen corpus.",
+    "source_section": "HALIMBAWA Pagkuwenta ng halaga ng bawat work point mula sa netong kita ng work team / Pagkukuwenta ng parte ng bawat kasapi ng work team:",
+    "source_page_verified": 59,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control_candidate",
+    "selection_basis": "original_100x100_plus_docling_page_provenance",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "page_provenance_mapped",
+      "mapping_method": "docling_page_to_frozen_chroma_chunk",
+      "manual_semantic_review_required_before_final_selection": true
+    },
+    "gold_refinement": {
+      "method": "unchanged_page_based_attractors"
+    }
+  },
+  {
+    "question": "What share of all Philippine farms was certified organic when the manual was published?",
+    "answer": "Not found in context",
+    "page": 62,
+    "question_id": "phbg-u-027",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "26ef1ef1f91eafb2808c72b60bbceddf5cc2380901cbbcd0da400d6b2906d11a"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "The referenced handbook page contains a related topic, but the requested fact is not stated in the frozen corpus.",
+    "source_section": "III Ang Organiko at Likas-Kayang Pagsasaka",
+    "source_page_verified": 62,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control_candidate",
+    "selection_basis": "original_100x100_plus_docling_page_provenance",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "page_provenance_mapped",
+      "mapping_method": "docling_page_to_frozen_chroma_chunk",
+      "manual_semantic_review_required_before_final_selection": true
+    },
+    "gold_refinement": {
+      "method": "unchanged_page_based_attractors"
+    }
+  },
+  {
+    "question": "How much would the irrigation and alternative-energy equipment proposed for an organic work team cost?",
+    "answer": "Not found in context",
+    "page": 63,
+    "question_id": "phbg-u-028",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "4e21ad05e034b235f54b9dd1fe243b0477ea15ead970631595eb91edb140d91a",
+      "9175fc22caecdfc6324e134024ea7d46fa5ac08444d0e0d5be5304f042c3f8fe"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "The referenced handbook page contains a related topic, but the requested fact is not stated in the frozen corpus.",
+    "source_section": "III Ang Organiko at Likas-Kayang Pagsasaka",
+    "source_page_verified": 63,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control_candidate",
+    "selection_basis": "original_100x100_plus_docling_page_provenance",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "page_provenance_mapped",
+      "mapping_method": "docling_page_to_frozen_chroma_chunk",
+      "manual_semantic_review_required_before_final_selection": true
+    },
+    "gold_refinement": {
+      "method": "unchanged_page_based_attractors"
+    }
+  },
+  {
+    "question": "What exact minimum number of crop and animal species must a farm contain to qualify as DIOFS?",
+    "answer": "Not found in context",
+    "page": 64,
+    "question_id": "phbg-u-029",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "cab737dfb9d7b7ea1441aca3b1b0be1daae318280e915c8437fdd0004ffaf128",
+      "ce512435568e51281cc8361354b7b33cc9794c936fc644f7aba3294e816ab49a"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "The referenced handbook page contains a related topic, but the requested fact is not stated in the frozen corpus.",
+    "source_section": "Permakultura o Polikultura  (permaculture or polyculture) / Monokultura o Pagsasaka na nakasalig sa agrokemikal (monoculture or agrichemical-based farming)",
+    "source_page_verified": 64,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control_candidate",
+    "selection_basis": "original_100x100_plus_docling_page_provenance",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "page_provenance_mapped",
+      "mapping_method": "docling_page_to_frozen_chroma_chunk",
+      "manual_semantic_review_required_before_final_selection": true
+    },
+    "gold_refinement": {
+      "method": "unchanged_page_based_attractors"
+    }
+  },
+  {
+    "question": "What germination rate did the Learning Farm record for each traditional rice variety it saved?",
+    "answer": "Not found in context",
+    "page": 66,
+    "question_id": "phbg-u-030",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "015fb11c361d34cf1b09bc5c4b7dd632f45b932e896c689d23f185ae8bbdca59",
+      "f97fb2a9c3f906485035273f14db3d0b0695d4cdb768c3ee2dd4a57d39eb0acb"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "The referenced handbook page contains a related topic, but the requested fact is not stated in the frozen corpus.",
+    "source_section": "Permakultura / Monokultura",
+    "source_page_verified": 66,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control_candidate",
+    "selection_basis": "original_100x100_plus_docling_page_provenance",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "page_provenance_mapped",
+      "mapping_method": "docling_page_to_frozen_chroma_chunk",
+      "manual_semantic_review_required_before_final_selection": true
+    },
+    "gold_refinement": {
+      "method": "unchanged_page_based_attractors"
+    }
+  },
+  {
+    "question": "What pesticide-residue levels were measured in the vegetables described in the chemical-input example?",
+    "answer": "Not found in context",
+    "page": 68,
+    "question_id": "phbg-u-031",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "3a8c17f2d47187cf7c01bf194fe8d842ff17fd178701c04c25ddc25d290cc4ee",
+      "3cee8f225fefaa96de5a073935d5fb15fc149cf03c0e443c41c264d043a43ce0"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "The referenced handbook page contains a related topic, but the requested fact is not stated in the frozen corpus.",
+    "source_section": "Ang organikong pagsasaka ay mabuti sa kalusugan ng tao / Gulay",
+    "source_page_verified": 68,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control_candidate",
+    "selection_basis": "original_100x100_plus_docling_page_provenance",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "page_provenance_mapped",
+      "mapping_method": "docling_page_to_frozen_chroma_chunk",
+      "manual_semantic_review_required_before_final_selection": true
+    },
+    "gold_refinement": {
+      "method": "unchanged_page_based_attractors"
+    }
+  },
+  {
+    "question": "Which controlled feeding trial is cited as the source of the 21-day commercial chicken figure?",
+    "answer": "Not found in context",
+    "page": 69,
+    "question_id": "phbg-u-032",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "6364b48e22970ee48b254125818b0c8d8519d1f8382d90a73d02cf793e4ef446",
+      "8dc5d76d66bf0f6e3699370fcb57d0370b33c6e5cdcc0da79bba826bfd640fe2"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "The referenced handbook page contains a related topic, but the requested fact is not stated in the frozen corpus.",
+    "source_section": "Gatas",
+    "source_page_verified": 69,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control_candidate",
+    "selection_basis": "original_100x100_plus_docling_page_provenance",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "page_provenance_mapped",
+      "mapping_method": "docling_page_to_frozen_chroma_chunk",
+      "manual_semantic_review_required_before_final_selection": true
+    },
+    "gold_refinement": {
+      "method": "unchanged_page_based_attractors"
+    }
+  },
+  {
+    "question": "What local cancer incidence was attributed specifically to nitrate and nitrite residues?",
+    "answer": "Not found in context",
+    "page": 70,
+    "question_id": "phbg-u-033",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "6e8cf87a368b926abc08c55bb9808c2c1cac71d9ed219e97620cc58e6a471a27",
+      "6ef7905ca5f8175d73e3731f5e5ca1570ffde09c7d2888d4d6e46de5f2b9ae78"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "The referenced handbook page contains a related topic, but the requested fact is not stated in the frozen corpus.",
+    "source_section": "Bigas",
+    "source_page_verified": 70,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control_candidate",
+    "selection_basis": "original_100x100_plus_docling_page_provenance",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "page_provenance_mapped",
+      "mapping_method": "docling_page_to_frozen_chroma_chunk",
+      "manual_semantic_review_required_before_final_selection": true
+    },
+    "gold_refinement": {
+      "method": "unchanged_page_based_attractors"
+    }
+  },
+  {
+    "question": "Which named commercial rice brand sold the terminator seed discussed in the manual?",
+    "answer": "Not found in context",
+    "page": 71,
+    "question_id": "phbg-u-034",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "5557777a3d2db7eefe0a9a5f3f0ce0e9ef2051ed183e6f6a0374412a9e050d0e",
+      "53ba12fee35ebeda0bf3a8ca9e0a2377de700bffae6bdb0532a4c15f28863250"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "The referenced handbook page contains a related topic, but the requested fact is not stated in the frozen corpus.",
+    "source_section": "Bigas",
+    "source_page_verified": 71,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control_candidate",
+    "selection_basis": "original_100x100_plus_docling_page_provenance",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "page_provenance_mapped",
+      "mapping_method": "docling_page_to_frozen_chroma_chunk",
+      "manual_semantic_review_required_before_final_selection": true
+    },
+    "gold_refinement": {
+      "method": "unchanged_page_based_attractors"
+    }
+  },
+  {
+    "question": "What fertilizer-use percentage was measured specifically in the Learning Farm's own rice plots?",
+    "answer": "Not found in context",
+    "page": 72,
+    "question_id": "phbg-u-035",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "7572151566ba8d9222c5355492ab73524aeffe5fbce3fe261b3ec1e706d3e127",
+      "1c7c00dab0b2d8e598287f0dfb0743deee953d2ceacb8a308da7191545a109db"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "The referenced handbook page contains a related topic, but the requested fact is not stated in the frozen corpus.",
+    "source_section": "Bigas",
+    "source_page_verified": 72,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control_candidate",
+    "selection_basis": "original_100x100_plus_docling_page_provenance",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "page_provenance_mapped",
+      "mapping_method": "docling_page_to_frozen_chroma_chunk",
+      "manual_semantic_review_required_before_final_selection": true
+    },
+    "gold_refinement": {
+      "method": "unchanged_page_based_attractors"
+    }
+  },
+  {
+    "question": "By exactly how many percentage points did compost increase water retention in the Learning Farm soil?",
+    "answer": "Not found in context",
+    "page": 74,
+    "question_id": "phbg-u-036",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "5b0ca7996c7fb9edd6b4b83ecc3c61e38f887427cb4c09aef58a13c255d5cff6",
+      "9e06f7ae3c851bfe00c6ebfbab578c1ba3e5cc743da07b1c5dbe4aa235f3e33f"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "The referenced handbook page contains a related topic, but the requested fact is not stated in the frozen corpus.",
+    "source_section": "Pangangalaga sa Lupa",
+    "source_page_verified": 74,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control_candidate",
+    "selection_basis": "original_100x100_plus_docling_page_provenance",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "page_provenance_mapped",
+      "mapping_method": "docling_page_to_frozen_chroma_chunk",
+      "manual_semantic_review_required_before_final_selection": true
+    },
+    "gold_refinement": {
+      "method": "unchanged_page_based_attractors"
+    }
+  },
+  {
+    "question": "What thickness in centimeters is recommended for each of the four soil layers?",
+    "answer": "Not found in context",
+    "page": 75,
+    "question_id": "phbg-u-037",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "f2cb2dd57c3610ed41d6311e80db66c885b8d196ea29e9a7698fe12f4bb9413c",
+      "564652fcd0a03c400c7e38433d9660d4497ffbf7d03406d220ca93463ce575b0"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "The referenced handbook page contains a related topic, but the requested fact is not stated in the frozen corpus.",
+    "source_section": "Uri ng Lupa (Soil Profile)",
+    "source_page_verified": 75,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control_candidate",
+    "selection_basis": "original_100x100_plus_docling_page_provenance",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "page_provenance_mapped",
+      "mapping_method": "docling_page_to_frozen_chroma_chunk",
+      "manual_semantic_review_required_before_final_selection": true
+    },
+    "gold_refinement": {
+      "method": "unchanged_page_based_attractors"
+    }
+  },
+  {
+    "question": "Which laboratory method does the manual prescribe for measuring the clay, silt, and sand fractions?",
+    "answer": "Not found in context",
+    "page": 76,
+    "question_id": "phbg-u-038",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "90b5a9c1ff43c49f3ebf9ad25a6e4cc5e8ca1789eb74cc163a6caeb9749431ce",
+      "b79044be3f4b297d67a5af12cf8a187314c53afebd46ad8a11cec35c5ae0d031"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "The referenced handbook page contains a related topic, but the requested fact is not stated in the frozen corpus.",
+    "source_section": "Katangian ng Lupa",
+    "source_page_verified": 76,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control_candidate",
+    "selection_basis": "original_100x100_plus_docling_page_provenance",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "page_provenance_mapped",
+      "mapping_method": "docling_page_to_frozen_chroma_chunk",
+      "manual_semantic_review_required_before_final_selection": true
+    },
+    "gold_refinement": {
+      "method": "unchanged_page_based_attractors"
+    }
+  },
+  {
+    "question": "What pH reading was recorded in the Learning Farm before its soil was restored?",
+    "answer": "Not found in context",
+    "page": 77,
+    "question_id": "phbg-u-039",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "4193051edb9665bdba804d93bd867f754bc6a447abb3b4b5cb3af410b90cee0f",
+      "9da073d42e48b00ecf63aa513038a32ac526f2c466dd4efb82c3f071e1545f96"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "The referenced handbook page contains a related topic, but the requested fact is not stated in the frozen corpus.",
+    "source_section": "Katangian ng Lupa",
+    "source_page_verified": 77,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control_candidate",
+    "selection_basis": "original_100x100_plus_docling_page_provenance",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "page_provenance_mapped",
+      "mapping_method": "docling_page_to_frozen_chroma_chunk",
+      "manual_semantic_review_required_before_final_selection": true
+    },
+    "gold_refinement": {
+      "method": "unchanged_page_based_attractors"
+    }
+  },
+  {
+    "question": "How many earthworms, nematodes, protozoa, and bacteria were counted per kilogram of healthy soil?",
+    "answer": "Not found in context",
+    "page": 78,
+    "question_id": "phbg-u-040",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "4193051edb9665bdba804d93bd867f754bc6a447abb3b4b5cb3af410b90cee0f",
+      "9da073d42e48b00ecf63aa513038a32ac526f2c466dd4efb82c3f071e1545f96"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "The referenced handbook page contains a related topic, but the requested fact is not stated in the frozen corpus.",
+    "source_section": "Katangian ng Lupa",
+    "source_page_verified": 78,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control_candidate",
+    "selection_basis": "original_100x100_plus_docling_page_provenance",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "page_provenance_mapped",
+      "mapping_method": "docling_page_to_frozen_chroma_chunk",
+      "manual_semantic_review_required_before_final_selection": true
+    },
+    "gold_refinement": {
+      "method": "unchanged_page_based_attractors"
+    }
+  },
+  {
+    "question": "What kilograms-per-hectare application rates are recommended for nitrogen, phosphorus, and potassium?",
+    "answer": "Not found in context",
+    "page": 79,
+    "question_id": "phbg-u-041",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "d452638578f3ea17692dfe7adc67c23d5cb50fee113f2d44eb98b847e92ca5d3"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "The referenced handbook page contains a related topic, but the requested fact is not stated in the frozen corpus.",
+    "source_section": "Makro o Pangunahing mga Elemento / Maykro o Maliit na mga elemento",
+    "source_page_verified": 79,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control_candidate",
+    "selection_basis": "original_100x100_plus_docling_page_provenance",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "page_provenance_mapped",
+      "mapping_method": "docling_page_to_frozen_chroma_chunk",
+      "manual_semantic_review_required_before_final_selection": true
+    },
+    "gold_refinement": {
+      "method": "unchanged_page_based_attractors"
+    }
+  },
+  {
+    "question": "What exact length, width, and height should an aerobic compost pile have?",
+    "answer": "Not found in context",
+    "page": 81,
+    "question_id": "phbg-u-042",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "22441fa1bcb42b04483dc752767ac5777b0690b2b7c427dec1d31a260d44beca",
+      "0172c77d0a4563d0faaa414ea542c9dc51e241fee1d4838ef46745a593f6042e"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "The referenced handbook page contains a related topic, but the requested fact is not stated in the frozen corpus.",
+    "source_section": "Paggawa ng Kompost / Simpleng paggawa ng Aerobic Kompost",
+    "source_page_verified": 81,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control_candidate",
+    "selection_basis": "original_100x100_plus_docling_page_provenance",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "page_provenance_mapped",
+      "mapping_method": "docling_page_to_frozen_chroma_chunk",
+      "manual_semantic_review_required_before_final_selection": true
+    },
+    "gold_refinement": {
+      "method": "unchanged_page_based_attractors"
+    }
+  },
+  {
+    "question": "How long can finished bokashi be stored before its effectiveness begins to decline?",
+    "answer": "Not found in context",
+    "page": 82,
+    "question_id": "phbg-u-043",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "fcfd6c8db866a694229dcc67c016a1f8f85e939350f4d2d6c8e2e70ece07efdd",
+      "128cfec1ba024e180d4986b8f7fcd06a63e1e0f2423361b3753b80e85482506a"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "The referenced handbook page contains a related topic, but the requested fact is not stated in the frozen corpus.",
+    "source_section": "Solidong Bokashi / 14 araw lang, may pataba ka na!",
+    "source_page_verified": 82,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control_candidate",
+    "selection_basis": "original_100x100_plus_docling_page_provenance",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "page_provenance_mapped",
+      "mapping_method": "docling_page_to_frozen_chroma_chunk",
+      "manual_semantic_review_required_before_final_selection": true
+    },
+    "gold_refinement": {
+      "method": "unchanged_page_based_attractors"
+    }
+  },
+  {
+    "question": "How much additional rice yield per hectare resulted from applying 30 sacks of bokashi?",
+    "answer": "Not found in context",
+    "page": 83,
+    "question_id": "phbg-u-044",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "ce958c2c65186c376fe53bcbbe8828a851fb8b1fa5a2994453b5282a7c2946a4",
+      "6cccf8357971b574363f598a299df9513ce3368f40121c94f781be679a0076c9"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "The referenced handbook page contains a related topic, but the requested fact is not stated in the frozen corpus.",
+    "source_section": "Mga Sangkap at Kagamitan sa Paggawa ng Solidong Bokashi / Paraan ng Paggawa ng Solidong Bokashi",
+    "source_page_verified": 83,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control_candidate",
+    "selection_basis": "original_100x100_plus_docling_page_provenance",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "page_provenance_mapped",
+      "mapping_method": "docling_page_to_frozen_chroma_chunk",
+      "manual_semantic_review_required_before_final_selection": true
+    },
+    "gold_refinement": {
+      "method": "unchanged_page_based_attractors"
+    }
+  },
+  {
+    "question": "Which microbial species were identified in the white mold collected for the manual's IMO recipe?",
+    "answer": "Not found in context",
+    "page": 86,
+    "question_id": "phbg-u-045",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "9da0ed0929db614036bfac257b5f5e723e4e6407d1236bdb72c6da6aeb61c6db",
+      "834701e709a2c62cc526c4b887e989ee82879c5399a0dfadaa9cd793296cd40d"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "The referenced handbook page contains a related topic, but the requested fact is not stated in the frozen corpus.",
+    "source_section": "Paraan ng Paggawa ng IMO / Mga Sangkap at Kagamitan",
+    "source_page_verified": 86,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control_candidate",
+    "selection_basis": "original_100x100_plus_docling_page_provenance",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "page_provenance_mapped",
+      "mapping_method": "docling_page_to_frozen_chroma_chunk",
+      "manual_semantic_review_required_before_final_selection": true
+    },
+    "gold_refinement": {
+      "method": "unchanged_page_based_attractors"
+    }
+  },
+  {
+    "question": "What final pH should FPJ reach before it is considered ready for use?",
+    "answer": "Not found in context",
+    "page": 88,
+    "question_id": "phbg-u-046",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "e6cb513daa9aea7f6313ac1da645b719c1b54b52e36c67b02bfc3bc5852940c5",
+      "8a4f1a5e5a23a67c151fd18a5c5386254d8a104577d0bbdd3ce94f621ec8ea2a"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "The referenced handbook page contains a related topic, but the requested fact is not stated in the frozen corpus.",
+    "source_section": "Kahalagaan / Paraan ng Paggawa ng FPJ",
+    "source_page_verified": 88,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control_candidate",
+    "selection_basis": "original_100x100_plus_docling_page_provenance",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "page_provenance_mapped",
+      "mapping_method": "docling_page_to_frozen_chroma_chunk",
+      "manual_semantic_review_required_before_final_selection": true
+    },
+    "gold_refinement": {
+      "method": "unchanged_page_based_attractors"
+    }
+  },
+  {
+    "question": "How long can fermented rice wash be stored after the seven-day fermentation?",
+    "answer": "Not found in context",
+    "page": 89,
+    "question_id": "phbg-u-047",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "be40d7a966e0d9085b8cb809756e1fed13513b51df6ea645f7a519e910825746",
+      "6b827a798f49b5dece26a9b207821379463a891d36d18866a6de487bcbc751bd"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "The referenced handbook page contains a related topic, but the requested fact is not stated in the frozen corpus.",
+    "source_section": "Paraan ng Paggawa ng FRW / Paraan ng Paggamit ng  FRW",
+    "source_page_verified": 89,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control_candidate",
+    "selection_basis": "original_100x100_plus_docling_page_provenance",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "page_provenance_mapped",
+      "mapping_method": "docling_page_to_frozen_chroma_chunk",
+      "manual_semantic_review_required_before_final_selection": true
+    },
+    "gold_refinement": {
+      "method": "unchanged_page_based_attractors"
+    }
+  },
+  {
+    "question": "Which exact fruit mixture did the Hacienda Luisita Learning Farm use in its first batch of FFJ?",
+    "answer": "Not found in context",
+    "page": 90,
+    "question_id": "phbg-u-048",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "ecc079499f7b5fb581d957ad558e85e5830d11363d46676aee1b3e11867e5cd1",
+      "52a5f344204df2f143ee3ec2f730c905ca5380cc57a3b162cb2022a43283e63a"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "The referenced handbook page contains a related topic, but the requested fact is not stated in the frozen corpus.",
+    "source_section": "Paraan ng Paggawa ng FFJ / Mga Sangkap at Kagamitan",
+    "source_page_verified": 90,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control_candidate",
+    "selection_basis": "original_100x100_plus_docling_page_provenance",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "page_provenance_mapped",
+      "mapping_method": "docling_page_to_frozen_chroma_chunk",
+      "manual_semantic_review_required_before_final_selection": true
+    },
+    "gold_refinement": {
+      "method": "unchanged_page_based_attractors"
+    }
+  },
+  {
+    "question": "How far apart should fruit-fly trap bottles be hung in an orchard?",
+    "answer": "Not found in context",
+    "page": 91,
+    "question_id": "phbg-u-049",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "73d2af211b6d09110436644056b9cc6491d8ce39e19d6d6002e6de6016341f01",
+      "021827b1e81ad249bb09a35b9ac853eb1c045d13b7214e6d85471202a1442293"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "The referenced handbook page contains a related topic, but the requested fact is not stated in the frozen corpus.",
+    "source_section": "Paraan ng Paggawa ng Fruit Flytraps / Kahalagaan ng Fruit Flytraps",
+    "source_page_verified": 91,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control_candidate",
+    "selection_basis": "original_100x100_plus_docling_page_provenance",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "page_provenance_mapped",
+      "mapping_method": "docling_page_to_frozen_chroma_chunk",
+      "manual_semantic_review_required_before_final_selection": true
+    },
+    "gold_refinement": {
+      "method": "unchanged_page_based_attractors"
+    }
+  },
+  {
+    "question": "Which fish species produces the most effective FAA, according to the manual?",
+    "answer": "Not found in context",
+    "page": 92,
+    "question_id": "phbg-u-050",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "70e5a083b2ea5756be7d8b343ee0138cb5c41826fdc4174845d3cb386150ec88",
+      "a7bc4ed0ba5d7c3ba2df52b0a825828812071dd648a82727806b2b42584975e5"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "The referenced handbook page contains a related topic, but the requested fact is not stated in the frozen corpus.",
+    "source_section": "Paraan  ng Paggawa ng FAA / Paraan ng Paggamit ng FAA",
+    "source_page_verified": 92,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control_candidate",
+    "selection_basis": "original_100x100_plus_docling_page_provenance",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "page_provenance_mapped",
+      "mapping_method": "docling_page_to_frozen_chroma_chunk",
+      "manual_semantic_review_required_before_final_selection": true
+    },
+    "gold_refinement": {
+      "method": "unchanged_page_based_attractors"
+    }
+  },
+  {
+    "question": "What type and fat percentage of milk should be used to prepare LABS?",
+    "answer": "Not found in context",
+    "page": 93,
+    "question_id": "phbg-u-051",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "88da53275d768e07b7095426105987bc99010d38aaf28d13ab7d4a8eb9e7d88b",
+      "bf04ed3f85d8dc7e02ec782ca9f9d9158d4122eccd5d3be12fadcb24759db4b7"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "The referenced handbook page contains a related topic, but the requested fact is not stated in the frozen corpus.",
+    "source_section": "Paraan ng Paggawa ng LABS / Paraan ng Paggamit ng LABS",
+    "source_page_verified": 93,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control_candidate",
+    "selection_basis": "original_100x100_plus_docling_page_provenance",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "page_provenance_mapped",
+      "mapping_method": "docling_page_to_frozen_chroma_chunk",
+      "manual_semantic_review_required_before_final_selection": true
+    },
+    "gold_refinement": {
+      "method": "unchanged_page_based_attractors"
+    }
+  },
+  {
+    "question": "What alcohol concentration should the gin have when it is added to OHN?",
+    "answer": "Not found in context",
+    "page": 94,
+    "question_id": "phbg-u-052",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "acb674ac2fe45130644c1e2154c82b36232c44ee5831c3612bfcb627fa774189",
+      "d5f63f1fb3b1eef46e1a91375d1c333a2064a96b6c3357f040acf766389fd258"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "The referenced handbook page contains a related topic, but the requested fact is not stated in the frozen corpus.",
+    "source_section": "Paraan ng Paggamit ng OHN / Kahalagaan",
+    "source_page_verified": 94,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control_candidate",
+    "selection_basis": "original_100x100_plus_docling_page_provenance",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "page_provenance_mapped",
+      "mapping_method": "docling_page_to_frozen_chroma_chunk",
+      "manual_semantic_review_required_before_final_selection": true
+    },
+    "gold_refinement": {
+      "method": "unchanged_page_based_attractors"
+    }
+  },
+  {
+    "question": "To what particle size should roasted eggshell be ground for foliar calcium?",
+    "answer": "Not found in context",
+    "page": 95,
+    "question_id": "phbg-u-053",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "43f8dfa3726c7c986f55d82ee32bfdd6450ad14b4fa4879420943ed1a1431cf9",
+      "10f6e3da5a6f62b8b8898b76958513586a8d39755b3e5ef2f93ea212004837e8"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "The referenced handbook page contains a related topic, but the requested fact is not stated in the frozen corpus.",
+    "source_section": "Paraan ng Paggamit ng Foliar Calcium / Paraan ng Paggawa ng Foliar Calcium",
+    "source_page_verified": 95,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control_candidate",
+    "selection_basis": "original_100x100_plus_docling_page_provenance",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "page_provenance_mapped",
+      "mapping_method": "docling_page_to_frozen_chroma_chunk",
+      "manual_semantic_review_required_before_final_selection": true
+    },
+    "gold_refinement": {
+      "method": "unchanged_page_based_attractors"
+    }
+  },
+  {
+    "question": "Which animal's bones produced the strongest calcium-phosphate solution in field tests?",
+    "answer": "Not found in context",
+    "page": 96,
+    "question_id": "phbg-u-054",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "77d0153544c70b2c51583c0e3cdbfb32e6149a5478d6764af8c1df61bf8cc6cd",
+      "13e58864aa5e8e3c6cc34f37cc0fe497c78f5ba925f8b2ec7067eed44e0d1298"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "The referenced handbook page contains a related topic, but the requested fact is not stated in the frozen corpus.",
+    "source_section": "Paraan ng Paggawa ng Calcium Phosphate / Paraan ng Paggamit ng Calcium Phosphate",
+    "source_page_verified": 96,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control_candidate",
+    "selection_basis": "original_100x100_plus_docling_page_provenance",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "page_provenance_mapped",
+      "mapping_method": "docling_page_to_frozen_chroma_chunk",
+      "manual_semantic_review_required_before_final_selection": true
+    },
+    "gold_refinement": {
+      "method": "unchanged_page_based_attractors"
+    }
+  },
+  {
+    "question": "What percentage of insects was eliminated in trials of the BMO5 bio-repellent?",
+    "answer": "Not found in context",
+    "page": 97,
+    "question_id": "phbg-u-055",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "00928d445f0d1d5c852d7c9a9bf2e288401e81b624810066baaec7e3747714fa",
+      "1f539ce3e52b52ce0764713f0f8a7b236a8722be7057eb9a0cccf182e6b15a6d"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "The referenced handbook page contains a related topic, but the requested fact is not stated in the frozen corpus.",
+    "source_section": "Kahalagaan ng Bio-Repellant / Paraan ng Paggamit",
+    "source_page_verified": 97,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control_candidate",
+    "selection_basis": "original_100x100_plus_docling_page_provenance",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "page_provenance_mapped",
+      "mapping_method": "docling_page_to_frozen_chroma_chunk",
+      "manual_semantic_review_required_before_final_selection": true
+    },
+    "gold_refinement": {
+      "method": "unchanged_page_based_attractors"
+    }
+  },
+  {
+    "question": "How often should the sack be aerated or stirred during the 24-hour foliar-tea soak?",
+    "answer": "Not found in context",
+    "page": 98,
+    "question_id": "phbg-u-056",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "7653c4480679f247af67995673688d479a23edb0a63020b0b1f6461dc3fd88b6",
+      "bc3d01469107e818760edfff276189d3074e5818555fb8f4a2df2b5fd0a06c24"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "The referenced handbook page contains a related topic, but the requested fact is not stated in the frozen corpus.",
+    "source_section": "Kahalagaan ng BMOE / Mga Sangkap at Kagamitan sa Paggawa ng BMOE",
+    "source_page_verified": 98,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control_candidate",
+    "selection_basis": "original_100x100_plus_docling_page_provenance",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "page_provenance_mapped",
+      "mapping_method": "docling_page_to_frozen_chroma_chunk",
+      "manual_semantic_review_required_before_final_selection": true
+    },
+    "gold_refinement": {
+      "method": "unchanged_page_based_attractors"
+    }
+  },
+  {
+    "question": "At what refrigeration temperature should BMOE be stored after day eight?",
+    "answer": "Not found in context",
+    "page": 99,
+    "question_id": "phbg-u-057",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "5397d4c763719cd75dd7a79219be856e6bb10d8cb9f96a79f3743a407df9a058",
+      "c0dd4b601d7661ea79fd8fa156b3cd05b4aab3f65d7e3c5043249b7ab7cdd39c"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "The referenced handbook page contains a related topic, but the requested fact is not stated in the frozen corpus.",
+    "source_section": "Paraan ng Paggawa ng BMOE / Paraan ng Paggamit",
+    "source_page_verified": 99,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control_candidate",
+    "selection_basis": "original_100x100_plus_docling_page_provenance",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "page_provenance_mapped",
+      "mapping_method": "docling_page_to_frozen_chroma_chunk",
+      "manual_semantic_review_required_before_final_selection": true
+    },
+    "gold_refinement": {
+      "method": "unchanged_page_based_attractors"
+    }
+  },
+  {
+    "question": "What were the before-and-after laboratory values for soil organic matter at the Learning Farm?",
+    "answer": "Not found in context",
+    "page": 100,
+    "question_id": "phbg-u-058",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "e23ea8747582b0df5304161fe48e7e7f964f278112c84dae7370f36d330085aa",
+      "fa52407cafaaf42ad4be13e06f3eb8a91d6a6558b0390718377e983b03045c81"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "The referenced handbook page contains a related topic, but the requested fact is not stated in the frozen corpus.",
+    "source_section": "Kemikal / Biyolohikal",
+    "source_page_verified": 100,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control_candidate",
+    "selection_basis": "original_100x100_plus_docling_page_provenance",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "page_provenance_mapped",
+      "mapping_method": "docling_page_to_frozen_chroma_chunk",
+      "manual_semantic_review_required_before_final_selection": true
+    },
+    "gold_refinement": {
+      "method": "unchanged_page_based_attractors"
+    }
+  },
+  {
+    "question": "How many metric tons of compost did the Hacienda Luisita organization produce each year?",
+    "answer": "Not found in context",
+    "page": 101,
+    "question_id": "phbg-u-059",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "ee6142cc2e48d1c81659944eb7a9a8f65eb0dfa042dfecd217849187464025b5",
+      "ecd8d2ad63537500ce7e4d51dfe40dba7ead5dae3c3dc477663a2beed54e5558"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "The referenced handbook page contains a related topic, but the requested fact is not stated in the frozen corpus.",
+    "source_section": "Komposting / Pagsasapraktika ng Organiko at Likas-kayang Pagsasaka sa Konteksto ng Kampanyang Bungkalan",
+    "source_page_verified": 101,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control_candidate",
+    "selection_basis": "original_100x100_plus_docling_page_provenance",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "page_provenance_mapped",
+      "mapping_method": "docling_page_to_frozen_chroma_chunk",
+      "manual_semantic_review_required_before_final_selection": true
+    },
+    "gold_refinement": {
+      "method": "unchanged_page_based_attractors"
+    }
+  },
+  {
+    "question": "How many bottles of fertilizer and pest-control juice did the women's groups sell in their first season?",
+    "answer": "Not found in context",
+    "page": 102,
+    "question_id": "phbg-u-060",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "e16207a90e19259d48147dd0836c09b4e64a5959ec440213c5fc4c3c05682eba",
+      "8760682ccb18743013441e11749af17f5d25d201a9048d334b9a52a6a7763ab3"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "The referenced handbook page contains a related topic, but the requested fact is not stated in the frozen corpus.",
+    "source_section": "Paggamit ng mga Binurong Katas Pang-Abono at Pangkontrol sa Peste",
+    "source_page_verified": 102,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control_candidate",
+    "selection_basis": "original_100x100_plus_docling_page_provenance",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "page_provenance_mapped",
+      "mapping_method": "docling_page_to_frozen_chroma_chunk",
+      "manual_semantic_review_required_before_final_selection": true
+    },
+    "gold_refinement": {
+      "method": "unchanged_page_based_attractors"
+    }
+  },
+  {
+    "question": "What month-by-month rotation calendar is prescribed for rice, mung bean, and peanut?",
+    "answer": "Not found in context",
+    "page": 103,
+    "question_id": "phbg-u-061",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "98cf4c730a6408ef03388f9ad7b87cea4e5873b9a3043aa033794438866b026e",
+      "54530f36e3d63ea454bbbc3200612719633d65403a06874f13bc60ebf6618a03"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "The referenced handbook page contains a related topic, but the requested fact is not stated in the frozen corpus.",
+    "source_section": "Pagpapalit-palit ng pananim (Crop Rotation)",
+    "source_page_verified": 103,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control_candidate",
+    "selection_basis": "original_100x100_plus_docling_page_provenance",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "page_provenance_mapped",
+      "mapping_method": "docling_page_to_frozen_chroma_chunk",
+      "manual_semantic_review_required_before_final_selection": true
+    },
+    "gold_refinement": {
+      "method": "unchanged_page_based_attractors"
+    }
+  },
+  {
+    "question": "By what percentage did marigold and onion reduce insect damage in the companion-planting plots?",
+    "answer": "Not found in context",
+    "page": 104,
+    "question_id": "phbg-u-062",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "2de26e4af7311934ea9753cab275904f82597aee21b9b1c6b7a55caa16f6ab56",
+      "631ddda776023d28f7227dfd606e743242fe1976bcc38e9e8732ab851c62246d"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "The referenced handbook page contains a related topic, but the requested fact is not stated in the frozen corpus.",
+    "source_section": "Pagtatabi-tabi ng Pananim (Companion Planting or Intercropping)",
+    "source_page_verified": 104,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control_candidate",
+    "selection_basis": "original_100x100_plus_docling_page_provenance",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "page_provenance_mapped",
+      "mapping_method": "docling_page_to_frozen_chroma_chunk",
+      "manual_semantic_review_required_before_final_selection": true
+    },
+    "gold_refinement": {
+      "method": "unchanged_page_based_attractors"
+    }
+  },
+  {
+    "question": "How many days after flowering should mung bean be left before it is plowed under as green manure?",
+    "answer": "Not found in context",
+    "page": 105,
+    "question_id": "phbg-u-063",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "caf77da0715119cefca888ef73b4f6f1413edcaed6c82133c9c503f5bc4e74a3",
+      "0f63f8a69864293fba2d362e2297500f3d64219fbe60fff6c67fff3ee820030d"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "The referenced handbook page contains a related topic, but the requested fact is not stated in the frozen corpus.",
+    "source_section": "Luntiang Pag-aabono (Green manuring)",
+    "source_page_verified": 105,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control_candidate",
+    "selection_basis": "original_100x100_plus_docling_page_provenance",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "page_provenance_mapped",
+      "mapping_method": "docling_page_to_frozen_chroma_chunk",
+      "manual_semantic_review_required_before_final_selection": true
+    },
+    "gold_refinement": {
+      "method": "unchanged_page_based_attractors"
+    }
+  },
+  {
+    "question": "What planting density per hectare is recommended for each vegetable and shrub legume?",
+    "answer": "Not found in context",
+    "page": 106,
+    "question_id": "phbg-u-064",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "78b08d765debf7507192689ca4ab9ffccdceef9fe549eb7815a2d74546dbf602",
+      "23ff9409f1e8232a1efc0fc6daf28b77b7d97cd7dfc816aba1da175766f3602b"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "The referenced handbook page contains a related topic, but the requested fact is not stated in the frozen corpus.",
+    "source_section": "Paggamit ng Legumbre (Legume usage)",
+    "source_page_verified": 106,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control_candidate",
+    "selection_basis": "original_100x100_plus_docling_page_provenance",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "page_provenance_mapped",
+      "mapping_method": "docling_page_to_frozen_chroma_chunk",
+      "manual_semantic_review_required_before_final_selection": true
+    },
+    "gold_refinement": {
+      "method": "unchanged_page_based_attractors"
+    }
+  },
+  {
+    "question": "What spacing is required between ipil-ipil trees when they are planted as a windbreak?",
+    "answer": "Not found in context",
+    "page": 107,
+    "question_id": "phbg-u-065",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "a603ac4bd7004ac10634749e38ca65a669e7c05bd774f79401fafe6199cd8a84",
+      "9a8e788888fb310efd806d109a159f465893e997f2ac5cacf90e76251dbd51b8"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "The referenced handbook page contains a related topic, but the requested fact is not stated in the frozen corpus.",
+    "source_section": "Paggamit ng Legumbre (Legume usage)",
+    "source_page_verified": 107,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control_candidate",
+    "selection_basis": "original_100x100_plus_docling_page_provenance",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "page_provenance_mapped",
+      "mapping_method": "docling_page_to_frozen_chroma_chunk",
+      "manual_semantic_review_required_before_final_selection": true
+    },
+    "gold_refinement": {
+      "method": "unchanged_page_based_attractors"
+    }
+  },
+  {
+    "question": "How many centimeters thick should a layer of straw mulch be around an established vegetable plant?",
+    "answer": "Not found in context",
+    "page": 108,
+    "question_id": "phbg-u-066",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "8f470b90d12c1cb3301b0bdd2cd5468f144c7f5b39632ac6bd255b3a1c47f063",
+      "18747c0560995dae4c15a66d138df08fba39f064f77972e736389dcbf741e2c6"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "The referenced handbook page contains a related topic, but the requested fact is not stated in the frozen corpus.",
+    "source_section": "Pagkikilib (mulching and cover cropping)",
+    "source_page_verified": 108,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control_candidate",
+    "selection_basis": "original_100x100_plus_docling_page_provenance",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "page_provenance_mapped",
+      "mapping_method": "docling_page_to_frozen_chroma_chunk",
+      "manual_semantic_review_required_before_final_selection": true
+    },
+    "gold_refinement": {
+      "method": "unchanged_page_based_attractors"
+    }
+  },
+  {
+    "question": "Which named predator-insect species were observed in the Hacienda Luisita flower plots?",
+    "answer": "Not found in context",
+    "page": 109,
+    "question_id": "phbg-u-067",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "7b045d4ec65fdb96d22033deae906c5733c04e91d7e63f7d0a95b186215342f9",
+      "168dcfa79f723a27a9403b7cf94bb369f0b4621bacb53978d7d9a032a9ca48a4"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "The referenced handbook page contains a related topic, but the requested fact is not stated in the frozen corpus.",
+    "source_section": "Tirahan ng mga Insekto at Pagkontrol sa mga Peste (Insect Habitat and Pest Control)",
+    "source_page_verified": 109,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control_candidate",
+    "selection_basis": "original_100x100_plus_docling_page_provenance",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "page_provenance_mapped",
+      "mapping_method": "docling_page_to_frozen_chroma_chunk",
+      "manual_semantic_review_required_before_final_selection": true
+    },
+    "gold_refinement": {
+      "method": "unchanged_page_based_attractors"
+    }
+  },
+  {
+    "question": "How many ducks per hectare does the manual recommend for controlling weeds and snails in rice?",
+    "answer": "Not found in context",
+    "page": 110,
+    "question_id": "phbg-u-068",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "260c5ea9024b4eb7ef1d25a31a895f896ea545e9a75e569713c212ccb3b36004",
+      "b4a4524f382b426ebf469b1d03c1247ed7ba44da73fb70ee34d4e587c22afaf8"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "The referenced handbook page contains a related topic, but the requested fact is not stated in the frozen corpus.",
+    "source_section": "Integradong Paghahayupan (Animal or Livestock Integration)",
+    "source_page_verified": 110,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control_candidate",
+    "selection_basis": "original_100x100_plus_docling_page_provenance",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "page_provenance_mapped",
+      "mapping_method": "docling_page_to_frozen_chroma_chunk",
+      "manual_semantic_review_required_before_final_selection": true
+    },
+    "gold_refinement": {
+      "method": "unchanged_page_based_attractors"
+    }
+  },
+  {
+    "question": "What dimensions and construction cost are given for the farm's pig-manure biogas digester?",
+    "answer": "Not found in context",
+    "page": 110,
+    "question_id": "phbg-u-069",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "260c5ea9024b4eb7ef1d25a31a895f896ea545e9a75e569713c212ccb3b36004",
+      "b4a4524f382b426ebf469b1d03c1247ed7ba44da73fb70ee34d4e587c22afaf8"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "The referenced handbook page contains a related topic, but the requested fact is not stated in the frozen corpus.",
+    "source_section": "Integradong Paghahayupan (Animal or Livestock Integration)",
+    "source_page_verified": 110,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control_candidate",
+    "selection_basis": "original_100x100_plus_docling_page_provenance",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "page_provenance_mapped",
+      "mapping_method": "docling_page_to_frozen_chroma_chunk",
+      "manual_semantic_review_required_before_final_selection": true
+    },
+    "gold_refinement": {
+      "method": "unchanged_page_based_attractors"
+    }
+  },
+  {
+    "question": "At what temperature and relative humidity should saved rice and vegetable seeds be stored?",
+    "answer": "Not found in context",
+    "page": 111,
+    "question_id": "phbg-u-070",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "c49140fa66196c8b200ab41c1e3cea3fefc80fcf434df05943ae2f320fd0bdbb",
+      "5ca7e01c716e2899446db5a7ae64fbd3ba70a3a9dfa5c27c3ccb191780cbb74e"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "The referenced handbook page contains a related topic, but the requested fact is not stated in the frozen corpus.",
+    "source_section": "Pag-iimpok ng mga Binhi (Seed Banking)",
+    "source_page_verified": 111,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control_candidate",
+    "selection_basis": "original_100x100_plus_docling_page_provenance",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "page_provenance_mapped",
+      "mapping_method": "docling_page_to_frozen_chroma_chunk",
+      "manual_semantic_review_required_before_final_selection": true
+    },
+    "gold_refinement": {
+      "method": "unchanged_page_based_attractors"
+    }
+  },
+  {
+    "question": "Which farmer and village in India produced the reported SRI record of 448 sacks per hectare?",
+    "answer": "Not found in context",
+    "page": 112,
+    "question_id": "phbg-u-071",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "96359c7d4ca1fbbbe3cbbe90c0d8d4649aca9171ea22cfe1e66f2267ce289524",
+      "a7f580fb46e00d9ed709f56a122f4606e0a6af234787896f6ec47d487a750572"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "The referenced handbook page contains a related topic, but the requested fact is not stated in the frozen corpus.",
+    "source_section": "Sistema ng Pagpapalago ng Palay o 'Sipag-Palay' (System of Rice Intensification or SRI)",
+    "source_page_verified": 112,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control_candidate",
+    "selection_basis": "original_100x100_plus_docling_page_provenance",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "page_provenance_mapped",
+      "mapping_method": "docling_page_to_frozen_chroma_chunk",
+      "manual_semantic_review_required_before_final_selection": true
+    },
+    "gold_refinement": {
+      "method": "unchanged_page_based_attractors"
+    }
+  },
+  {
+    "question": "What exact percentage of commercial fertilizer is inert filler, according to the manual?",
+    "answer": "Not found in context",
+    "page": 113,
+    "question_id": "phbg-u-072",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "820008eb9f7c6814a99cb1f5e53dfcac29395f657bff5b7ad2d0d4d95bffccce",
+      "94730bc9cfb5aaa2f8455a8056509a6972414ccd1ef14b1c0424da27c38b619a"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "The referenced handbook page contains a related topic, but the requested fact is not stated in the frozen corpus.",
+    "source_section": "Mga dapat tandaan sa pagsasapraktika ng SRI",
+    "source_page_verified": 113,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control_candidate",
+    "selection_basis": "original_100x100_plus_docling_page_provenance",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "page_provenance_mapped",
+      "mapping_method": "docling_page_to_frozen_chroma_chunk",
+      "manual_semantic_review_required_before_final_selection": true
+    },
+    "gold_refinement": {
+      "method": "unchanged_page_based_attractors"
+    }
+  },
+  {
+    "question": "How many cubic meters of water should be applied during each flooding phase of SRI?",
+    "answer": "Not found in context",
+    "page": 114,
+    "question_id": "phbg-u-073",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "0a47d7700dae205357f3f6e7938be203ba8cb5be8322da702f8e0892d8fbe7b3",
+      "757854c92032f1b43b02c2a80a5b840d37fee45bf63c06ecc362a933fe0ac966"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "The referenced handbook page contains a related topic, but the requested fact is not stated in the frozen corpus.",
+    "source_section": "Mga dapat tandaan sa pagsasapraktika ng SRI",
+    "source_page_verified": 114,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control_candidate",
+    "selection_basis": "original_100x100_plus_docling_page_provenance",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "page_provenance_mapped",
+      "mapping_method": "docling_page_to_frozen_chroma_chunk",
+      "manual_semantic_review_required_before_final_selection": true
+    },
+    "gold_refinement": {
+      "method": "unchanged_page_based_attractors"
+    }
+  },
+  {
+    "question": "Which brand and model of rotary weeder was used on the Learning Farm?",
+    "answer": "Not found in context",
+    "page": 115,
+    "question_id": "phbg-u-074",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "a614d3503ea65b66e8c12a7f1f634fa0ac66749778fec7539cce6d7eec9d085c",
+      "488d77e59a39dc446cf0251100dc658e8f1db7dc20c60a6c18d3a2cc40b97768"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "The referenced handbook page contains a related topic, but the requested fact is not stated in the frozen corpus.",
+    "source_section": "Mga dapat tandaan sa pagsasapraktika ng SRI",
+    "source_page_verified": 115,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control_candidate",
+    "selection_basis": "original_100x100_plus_docling_page_provenance",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "page_provenance_mapped",
+      "mapping_method": "docling_page_to_frozen_chroma_chunk",
+      "manual_semantic_review_required_before_final_selection": true
+    },
+    "gold_refinement": {
+      "method": "unchanged_page_based_attractors"
+    }
+  },
+  {
+    "question": "What soil-organic-carbon percentage was measured before the first 4,000 kilograms of organic material were added?",
+    "answer": "Not found in context",
+    "page": 116,
+    "question_id": "phbg-u-075",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "844873a88284da1989ea9742b36aec5489985e8f33eee8e404446892574343d4",
+      "7c5443c1e8919ff3ab39112fafe08c3d2dba05fe6a3b0efd32fcf1f696451165"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "The referenced handbook page contains a related topic, but the requested fact is not stated in the frozen corpus.",
+    "source_section": "SRI mula sa karanasang lokal / Paghahanda sa lupa",
+    "source_page_verified": 116,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control_candidate",
+    "selection_basis": "original_100x100_plus_docling_page_provenance",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "page_provenance_mapped",
+      "mapping_method": "docling_page_to_frozen_chroma_chunk",
+      "manual_semantic_review_required_before_final_selection": true
+    },
+    "gold_refinement": {
+      "method": "unchanged_page_based_attractors"
+    }
+  },
+  {
+    "question": "What salt concentration should be used in the water for separating healthy rice seed?",
+    "answer": "Not found in context",
+    "page": 117,
+    "question_id": "phbg-u-076",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "c7b5c491ae1c35dcf2f0426bcc31739a0e98a6abf93fa3a201515f098072b139",
+      "176bbc357a81c0324b4f5e20d665b6f2017b81d759aa39bd89b1741801000979"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "The referenced handbook page contains a related topic, but the requested fact is not stated in the frozen corpus.",
+    "source_section": "Pagpupunla",
+    "source_page_verified": 117,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control_candidate",
+    "selection_basis": "original_100x100_plus_docling_page_provenance",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "page_provenance_mapped",
+      "mapping_method": "docling_page_to_frozen_chroma_chunk",
+      "manual_semantic_review_required_before_final_selection": true
+    },
+    "gold_refinement": {
+      "method": "unchanged_page_based_attractors"
+    }
+  },
+  {
+    "question": "What exact length and width should the protected SRI seedbed have for one hectare of rice?",
+    "answer": "Not found in context",
+    "page": 117,
+    "question_id": "phbg-u-077",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "c7b5c491ae1c35dcf2f0426bcc31739a0e98a6abf93fa3a201515f098072b139",
+      "176bbc357a81c0324b4f5e20d665b6f2017b81d759aa39bd89b1741801000979"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "The referenced handbook page contains a related topic, but the requested fact is not stated in the frozen corpus.",
+    "source_section": "Pagpupunla",
+    "source_page_verified": 117,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control_candidate",
+    "selection_basis": "original_100x100_plus_docling_page_provenance",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "page_provenance_mapped",
+      "mapping_method": "docling_page_to_frozen_chroma_chunk",
+      "manual_semantic_review_required_before_final_selection": true
+    },
+    "gold_refinement": {
+      "method": "unchanged_page_based_attractors"
+    }
+  },
+  {
+    "question": "How many labor-hours per hectare did the Learning Farm require for careful SRI transplanting?",
+    "answer": "Not found in context",
+    "page": 118,
+    "question_id": "phbg-u-078",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "76564d701ec38146a02dc94951b16ca1225b7cc3fb1e1a2b6a70b9e84f388f9f",
+      "81765421552f6c95aa0bb934aaf7e5afb4ecff7300ac81c5079c35424314aaae"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "The referenced handbook page contains a related topic, but the requested fact is not stated in the frozen corpus.",
+    "source_section": "Pagtatanim",
+    "source_page_verified": 118,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control_candidate",
+    "selection_basis": "original_100x100_plus_docling_page_provenance",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "page_provenance_mapped",
+      "mapping_method": "docling_page_to_frozen_chroma_chunk",
+      "manual_semantic_review_required_before_final_selection": true
+    },
+    "gold_refinement": {
+      "method": "unchanged_page_based_attractors"
+    }
+  },
+  {
+    "question": "What total volume of irrigation water did the Learning Farm use over an entire SRI season?",
+    "answer": "Not found in context",
+    "page": 119,
+    "question_id": "phbg-u-079",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "add0ac8ecd5954cf1caab6f3450f8a74385491a62968370ce549c6fc2049459f",
+      "efdfccc67aa3adf0c2d8d3b7971ce1da3c488ad85d8b45ae414a6b838f5193e6"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "The referenced handbook page contains a related topic, but the requested fact is not stated in the frozen corpus.",
+    "source_section": "Pangangalaga sa Palayan",
+    "source_page_verified": 119,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control_candidate",
+    "selection_basis": "original_100x100_plus_docling_page_provenance",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "page_provenance_mapped",
+      "mapping_method": "docling_page_to_frozen_chroma_chunk",
+      "manual_semantic_review_required_before_final_selection": true
+    },
+    "gold_refinement": {
+      "method": "unchanged_page_based_attractors"
+    }
+  },
+  {
+    "question": "How much did yield differ between fields weeded three times and fields weeded four times?",
+    "answer": "Not found in context",
+    "page": 119,
+    "question_id": "phbg-u-080",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "add0ac8ecd5954cf1caab6f3450f8a74385491a62968370ce549c6fc2049459f",
+      "efdfccc67aa3adf0c2d8d3b7971ce1da3c488ad85d8b45ae414a6b838f5193e6"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "The referenced handbook page contains a related topic, but the requested fact is not stated in the frozen corpus.",
+    "source_section": "Pangangalaga sa Palayan",
+    "source_page_verified": 119,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control_candidate",
+    "selection_basis": "original_100x100_plus_docling_page_provenance",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "page_provenance_mapped",
+      "mapping_method": "docling_page_to_frozen_chroma_chunk",
+      "manual_semantic_review_required_before_final_selection": true
+    },
+    "gold_refinement": {
+      "method": "unchanged_page_based_attractors"
+    }
+  },
+  {
+    "question": "What mesh size should be used on the canal screen that traps rice-field snails?",
+    "answer": "Not found in context",
+    "page": 120,
+    "question_id": "phbg-u-081",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "1dc8a9d1002845ba918d0995eacdff2a80aa2721f6fcee76f81a9a91125e2539",
+      "f3a8fffb53bee9d62c645f1d74fcb4d8600500b66cec79cd6eb5719d24e9a258"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "The referenced handbook page contains a related topic, but the requested fact is not stated in the frozen corpus.",
+    "source_section": "Pangangalaga sa Palayan",
+    "source_page_verified": 120,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control_candidate",
+    "selection_basis": "original_100x100_plus_docling_page_provenance",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "page_provenance_mapped",
+      "mapping_method": "docling_page_to_frozen_chroma_chunk",
+      "manual_semantic_review_required_before_final_selection": true
+    },
+    "gold_refinement": {
+      "method": "unchanged_page_based_attractors"
+    }
+  },
+  {
+    "question": "On which day after transplanting did the Learning Farm's SRI plants first reach twenty tillers?",
+    "answer": "Not found in context",
+    "page": 127,
+    "question_id": "phbg-u-082",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "3e5b1c29a1fc9ab3ddab3c96ada3a951f9cfab66fb095a59c9d8b5aae6fbdc8b",
+      "39f322829cc5e90ffcea1b3355295b0885d6642151ef7f109fc8bf84ca93c60a"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "The referenced handbook page contains a related topic, but the requested fact is not stated in the frozen corpus.",
+    "source_section": "Ang Epekto ng Sipag-Palay o 'SRI effect'",
+    "source_page_verified": 127,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control_candidate",
+    "selection_basis": "original_100x100_plus_docling_page_provenance",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "page_provenance_mapped",
+      "mapping_method": "docling_page_to_frozen_chroma_chunk",
+      "manual_semantic_review_required_before_final_selection": true
+    },
+    "gold_refinement": {
+      "method": "unchanged_page_based_attractors"
+    }
+  },
+  {
+    "question": "What was the total cash budget approved to establish the Learning Farm?",
+    "answer": "Not found in context",
+    "page": 132,
+    "question_id": "phbg-u-083",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "87ce25f513ddcdb3e5e6bb0cccc906e426f383d796d71977b64359cba2b4a1f2",
+      "15c32c1cf0cbdb3c182ddc2eefdc12a2ce20ac94424a666b02a6266b4dcec372"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "The referenced handbook page contains a related topic, but the requested fact is not stated in the frozen corpus.",
+    "source_section": "Tag-init 2015",
+    "source_page_verified": 132,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control_candidate",
+    "selection_basis": "original_100x100_plus_docling_page_provenance",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "page_provenance_mapped",
+      "mapping_method": "docling_page_to_frozen_chroma_chunk",
+      "manual_semantic_review_required_before_final_selection": true
+    },
+    "gold_refinement": {
+      "method": "unchanged_page_based_attractors"
+    }
+  },
+  {
+    "question": "What was the total land area of the Learning Farm, including the paddy, pond, nursery, and vegetable plots?",
+    "answer": "Not found in context",
+    "page": 133,
+    "question_id": "phbg-u-084",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "b5e2f082d0e60787969dbd6886db18dbafa6cd18cfd205574694cda472e6eadf",
+      "3f76a786890cbb3b0eb80fb2cd1f50c8ef499c431a7a43a41f5b739a633b0642"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "The referenced handbook page contains a related topic, but the requested fact is not stated in the frozen corpus.",
+    "source_section": "Hunyo 11",
+    "source_page_verified": 133,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control_candidate",
+    "selection_basis": "original_100x100_plus_docling_page_provenance",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "page_provenance_mapped",
+      "mapping_method": "docling_page_to_frozen_chroma_chunk",
+      "manual_semantic_review_required_before_final_selection": true
+    },
+    "gold_refinement": {
+      "method": "unchanged_page_based_attractors"
+    }
+  },
+  {
+    "question": "How many packets of each vegetable and tree seed were collected during the July planting preparations?",
+    "answer": "Not found in context",
+    "page": 134,
+    "question_id": "phbg-u-085",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "f97d8f213275c7d56e4dfc53ef88e3253b1abd8fda95e9aa51dfc03c794d6747",
+      "a41eb7798d19e46bf38edfe749ccd80bb3c5ad80e57c97cc2a70ab3eb58c1a03"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "The referenced handbook page contains a related topic, but the requested fact is not stated in the frozen corpus.",
+    "source_section": "Hunyo 27 / Hulyo",
+    "source_page_verified": 134,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control_candidate",
+    "selection_basis": "original_100x100_plus_docling_page_provenance",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "page_provenance_mapped",
+      "mapping_method": "docling_page_to_frozen_chroma_chunk",
+      "manual_semantic_review_required_before_final_selection": true
+    },
+    "gold_refinement": {
+      "method": "unchanged_page_based_attractors"
+    }
+  },
+  {
+    "question": "How many sacks did each of the Pandan, Regalado, black rice, glutinous rice, and karakatsis plots yield?",
+    "answer": "Not found in context",
+    "page": 135,
+    "question_id": "phbg-u-086",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "c9f8d5bde3a3879d24e97cb61bbf9ae51bd9988352843eb260726998cb5aac91",
+      "59255e1fee8f13986b414a868f815af1c2d7b9f4ad9c4cf45b0278ed16e07098"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "The referenced handbook page contains a related topic, but the requested fact is not stated in the frozen corpus.",
+    "source_section": "Hulyo",
+    "source_page_verified": 135,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control_candidate",
+    "selection_basis": "original_100x100_plus_docling_page_provenance",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "page_provenance_mapped",
+      "mapping_method": "docling_page_to_frozen_chroma_chunk",
+      "manual_semantic_review_required_before_final_selection": true
+    },
+    "gold_refinement": {
+      "method": "unchanged_page_based_attractors"
+    }
+  },
+  {
+    "question": "How frequently was madre cacao spray applied to the Learning Farm crops?",
+    "answer": "Not found in context",
+    "page": 137,
+    "question_id": "phbg-u-087",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "ca849463801aea46b144b737f7e8f9d3acac2816b671382d2fd0c44b58bd588c",
+      "a406ebd68c011ad75ea3b9d7762388fde5caef3aa9fe9c6f51e82981bf039e60"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "The referenced handbook page contains a related topic, but the requested fact is not stated in the frozen corpus.",
+    "source_section": "Paraan ng paggawa / Agosto",
+    "source_page_verified": 137,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control_candidate",
+    "selection_basis": "original_100x100_plus_docling_page_provenance",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "page_provenance_mapped",
+      "mapping_method": "docling_page_to_frozen_chroma_chunk",
+      "manual_semantic_review_required_before_final_selection": true
+    },
+    "gold_refinement": {
+      "method": "unchanged_page_based_attractors"
+    }
+  },
+  {
+    "question": "How much revenue came from sales of bottled fertilizer juice, dried basil, and dried moringa?",
+    "answer": "Not found in context",
+    "page": 138,
+    "question_id": "phbg-u-088",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "6558019cf3a1aa55fb0cc4303aa6f248265ccb3e904e1949176f46c8b7d379f0",
+      "280bbfdf4bce437bd109e45df946eaebe5bf7eaf1faf742b361bab6f6d138ea3"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "The referenced handbook page contains a related topic, but the requested fact is not stated in the frozen corpus.",
+    "source_section": "Pinatuyong Basil at Malunggay / Paraan ng Paggawa",
+    "source_page_verified": 138,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control_candidate",
+    "selection_basis": "original_100x100_plus_docling_page_provenance",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "page_provenance_mapped",
+      "mapping_method": "docling_page_to_frozen_chroma_chunk",
+      "manual_semantic_review_required_before_final_selection": true
+    },
+    "gold_refinement": {
+      "method": "unchanged_page_based_attractors"
+    }
+  },
+  {
+    "question": "Which fish species and how many fingerlings were placed in the Learning Farm pond?",
+    "answer": "Not found in context",
+    "page": 139,
+    "question_id": "phbg-u-089",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "d49476510c8d966edac9d382eb06c11fb659fef8d253e7bb94c0dc76b0d118af",
+      "33db23eff0b4fa89ccfbaceb4ba589cd56eb8cd9b800d3106eba441d317e0881"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "The referenced handbook page contains a related topic, but the requested fact is not stated in the frozen corpus.",
+    "source_section": "Setyembre / Pagpaparami ng Asola",
+    "source_page_verified": 139,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control_candidate",
+    "selection_basis": "original_100x100_plus_docling_page_provenance",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "page_provenance_mapped",
+      "mapping_method": "docling_page_to_frozen_chroma_chunk",
+      "manual_semantic_review_required_before_final_selection": true
+    },
+    "gold_refinement": {
+      "method": "unchanged_page_based_attractors"
+    }
+  },
+  {
+    "question": "What exact height did the karakatsis rice reach before Typhoon Lando?",
+    "answer": "Not found in context",
+    "page": 140,
+    "question_id": "phbg-u-090",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "a2aa5d3a2f37f4f480148be2253e5a39cddee26ccf89b2ac50d6bc82baedbabc"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "The referenced handbook page contains a related topic, but the requested fact is not stated in the frozen corpus.",
+    "source_section": "Mga Karaniwang Halamang Gamot",
+    "source_page_verified": 140,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control_candidate",
+    "selection_basis": "original_100x100_plus_docling_page_provenance",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "page_provenance_mapped",
+      "mapping_method": "docling_page_to_frozen_chroma_chunk",
+      "manual_semantic_review_required_before_final_selection": true
+    },
+    "gold_refinement": {
+      "method": "unchanged_page_based_attractors"
+    }
+  },
+  {
+    "question": "How many sacks of marketable rice were harvested after Typhoon Lando?",
+    "answer": "Not found in context",
+    "page": 142,
+    "question_id": "phbg-u-091",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "b2e4971be55482ebdf8e4ead8b0df2067c4e82316d92136b01f3d60adf25ad79",
+      "57d840b9e6390ceb5c4c864f52b4d9ee4e28fa31562a556995111460498dc458"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "The referenced handbook page contains a related topic, but the requested fact is not stated in the frozen corpus.",
+    "source_section": "Oktubre",
+    "source_page_verified": 142,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control_candidate",
+    "selection_basis": "original_100x100_plus_docling_page_provenance",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "page_provenance_mapped",
+      "mapping_method": "docling_page_to_frozen_chroma_chunk",
+      "manual_semantic_review_required_before_final_selection": true
+    },
+    "gold_refinement": {
+      "method": "unchanged_page_based_attractors"
+    }
+  },
+  {
+    "question": "How much money did the Learning Farm earn from its first sale of fish?",
+    "answer": "Not found in context",
+    "page": 143,
+    "question_id": "phbg-u-092",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "b4c5327095b777022a74a742868523e41096cdcd5daecd9524e031b24801ce6d",
+      "e33b04c0862f5ee75e3bbee9220042511533a16828b45b3eb8acc483f815e08b"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "The referenced handbook page contains a related topic, but the requested fact is not stated in the frozen corpus.",
+    "source_section": "Oktubre",
+    "source_page_verified": 143,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control_candidate",
+    "selection_basis": "original_100x100_plus_docling_page_provenance",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "page_provenance_mapped",
+      "mapping_method": "docling_page_to_frozen_chroma_chunk",
+      "manual_semantic_review_required_before_final_selection": true
+    },
+    "gold_refinement": {
+      "method": "unchanged_page_based_attractors"
+    }
+  },
+  {
+    "question": "By how much did the integrated farm reduce each member's annual household food spending?",
+    "answer": "Not found in context",
+    "page": 144,
+    "question_id": "phbg-u-093",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "ff3faf5ef3eb6d1e4c697365a2b67be04133a3dc91709bd017506863fe2b7617",
+      "6c327a16ef63188a8c69c915032b261e375d102c9a2687a3c9e24ae96414bebf"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "The referenced handbook page contains a related topic, but the requested fact is not stated in the frozen corpus.",
+    "source_section": "Mga Aral mula sa Modelong Organikong Sakahan",
+    "source_page_verified": 144,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control_candidate",
+    "selection_basis": "original_100x100_plus_docling_page_provenance",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "page_provenance_mapped",
+      "mapping_method": "docling_page_to_frozen_chroma_chunk",
+      "manual_semantic_review_required_before_final_selection": true
+    },
+    "gold_refinement": {
+      "method": "unchanged_page_based_attractors"
+    }
+  },
+  {
+    "question": "How often were Learning Farm leaders elected, and what voting procedure was used?",
+    "answer": "Not found in context",
+    "page": 145,
+    "question_id": "phbg-u-094",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "8569c2a3240352c36ad8cda882e0681100666919ffb614696798a752490b0260",
+      "7ecf212a0d8e037bac1d5a455618e43df11738145be7c873aa00479804418b28"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "The referenced handbook page contains a related topic, but the requested fact is not stated in the frozen corpus.",
+    "source_section": "Organisasyon, organisasyon, organisasyon!",
+    "source_page_verified": 145,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control_candidate",
+    "selection_basis": "original_100x100_plus_docling_page_provenance",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "page_provenance_mapped",
+      "mapping_method": "docling_page_to_frozen_chroma_chunk",
+      "manual_semantic_review_required_before_final_selection": true
+    },
+    "gold_refinement": {
+      "method": "unchanged_page_based_attractors"
+    }
+  },
+  {
+    "question": "What was the measured SRI yield per hectare in the Learning Farm's first complete trial?",
+    "answer": "Not found in context",
+    "page": 146,
+    "question_id": "phbg-u-095",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "43c36cb0e35ad010ad6af64fef730c22ad9d76628b451311035b740a4ab612d3",
+      "51953938d279001b30a43a4d09b2538118839e5b1fdf2a997e4c7289154703d0"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "The referenced handbook page contains a related topic, but the requested fact is not stated in the frozen corpus.",
+    "source_section": "Breyktru na napanday sa praktika",
+    "source_page_verified": 146,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control_candidate",
+    "selection_basis": "original_100x100_plus_docling_page_provenance",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "page_provenance_mapped",
+      "mapping_method": "docling_page_to_frozen_chroma_chunk",
+      "manual_semantic_review_required_before_final_selection": true
+    },
+    "gold_refinement": {
+      "method": "unchanged_page_based_attractors"
+    }
+  },
+  {
+    "question": "How many new experimental farms did the organization commit to build in each barangay?",
+    "answer": "Not found in context",
+    "page": 147,
+    "question_id": "phbg-u-096",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "2795ba811940374378f109feadb5df5e326552159d36fcf9fc018414cba90361",
+      "9280a0709d39cec7f9af21514f406d59cefcfbb005af05047362aa7f7695389b"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "The referenced handbook page contains a related topic, but the requested fact is not stated in the frozen corpus.",
+    "source_section": "Mga dapat na paunlarin!",
+    "source_page_verified": 147,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control_candidate",
+    "selection_basis": "original_100x100_plus_docling_page_provenance",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "page_provenance_mapped",
+      "mapping_method": "docling_page_to_frozen_chroma_chunk",
+      "manual_semantic_review_required_before_final_selection": true
+    },
+    "gold_refinement": {
+      "method": "unchanged_page_based_attractors"
+    }
+  },
+  {
+    "question": "How many kilograms of emergency rice was each community expected to keep for disasters?",
+    "answer": "Not found in context",
+    "page": 148,
+    "question_id": "phbg-u-097",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "ef1f381c5418bef04fc7d1ec5324ae9466755d53b0cbdf977558fb79602806bc",
+      "0d75daeb3fc75f618897da79419c361f238bdb5e3ee9c16c08bc052b481f91a1"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "The referenced handbook page contains a related topic, but the requested fact is not stated in the frozen corpus.",
+    "source_section": "Mga dapat na paunlarin!",
+    "source_page_verified": 148,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control_candidate",
+    "selection_basis": "original_100x100_plus_docling_page_provenance",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "page_provenance_mapped",
+      "mapping_method": "docling_page_to_frozen_chroma_chunk",
+      "manual_semantic_review_required_before_final_selection": true
+    },
+    "gold_refinement": {
+      "method": "unchanged_page_based_attractors"
+    }
+  },
+  {
+    "question": "What proportion of displaced residents returned after being invited to rejoin bungkalan cultivation?",
+    "answer": "Not found in context",
+    "page": 149,
+    "question_id": "phbg-u-098",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "c5fd132482d6c82631c0c14c764b2266ca3116443616f5f7dc1e213278ea3c43"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "The referenced handbook page contains a related topic, but the requested fact is not stated in the frozen corpus.",
+    "source_section": "Marami pang iba!",
+    "source_page_verified": 149,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control_candidate",
+    "selection_basis": "original_100x100_plus_docling_page_provenance",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "page_provenance_mapped",
+      "mapping_method": "docling_page_to_frozen_chroma_chunk",
+      "manual_semantic_review_required_before_final_selection": true
+    },
+    "gold_refinement": {
+      "method": "unchanged_page_based_attractors"
+    }
+  },
+  {
+    "question": "How many copies were printed in the manual's first edition?",
+    "answer": "Not found in context",
+    "page": 170,
+    "question_id": "phbg-u-099",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "bfad71776a7474a641cd6dc0e10d2488942ddc0741f794e907c7b7be2ee6d024",
+      "f557792c7094edae1fc4b7b6acbfbed27324233db3a9b8e3507a0380cf96919c"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "The referenced handbook page contains a related topic, but the requested fact is not stated in the frozen corpus.",
+    "source_section": "ANG AKLAT",
+    "source_page_verified": 170,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control_candidate",
+    "selection_basis": "original_100x100_plus_docling_page_provenance",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "page_provenance_mapped",
+      "mapping_method": "docling_page_to_frozen_chroma_chunk",
+      "manual_semantic_review_required_before_final_selection": true
+    },
+    "gold_refinement": {
+      "method": "unchanged_page_based_attractors"
+    }
+  },
+  {
+    "question": "What retail price did UP Sentro ng Wikang Filipino set for the manual?",
+    "answer": "Not found in context",
+    "page": 170,
+    "question_id": "phbg-u-100",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "bfad71776a7474a641cd6dc0e10d2488942ddc0741f794e907c7b7be2ee6d024",
+      "f557792c7094edae1fc4b7b6acbfbed27324233db3a9b8e3507a0380cf96919c"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "The referenced handbook page contains a related topic, but the requested fact is not stated in the frozen corpus.",
+    "source_section": "ANG AKLAT",
+    "source_page_verified": 170,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control_candidate",
+    "selection_basis": "original_100x100_plus_docling_page_provenance",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "page_provenance_mapped",
+      "mapping_method": "docling_page_to_frozen_chroma_chunk",
+      "manual_semantic_review_required_before_final_selection": true
+    },
+    "gold_refinement": {
+      "method": "unchanged_page_based_attractors"
+    }
+  }
+]

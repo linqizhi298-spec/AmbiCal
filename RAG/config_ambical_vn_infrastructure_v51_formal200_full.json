@@ -1,0 +1,126 @@
+{
+  "embedding_model_name": "D:\\Analysis code\\models\\bge-m3",
+  "embedding_max_length": 8192,
+  "chroma_persist_dir": "D:\\Analysis code\\ambical\\RAG\\chroma_db_vn_infrastructure_bge_m3_fp16",
+  "enable_reevaluation": false,
+  "evaluator_model_name": "gemma3_12B-128k",
+  "question_models_to_test": [
+    "qwen2.5_7B-128k"
+  ],
+  "prompt_paths": {
+    "question_prompt": "D:\\Analysis code\\ambical\\RAG\\prompt_templates\\question_prompt.txt",
+    "evaluation_prompt": "D:\\Analysis code\\ambical\\RAG\\prompt_templates\\evaluation_prompt.txt"
+  },
+  "language_configs": [
+    {
+      "language": "vietnamese",
+      "translation_target_language": "Vietnamese",
+      "manual_path": "D:\\Analysis code\\ambical\\RAG\\cross_domain_data\\vn_infrastructure_lrb\\docling_markdown_easyocr_vi\\Vietnamese Infrastructure Construction Manual.md",
+      "collection_base_name": "vn_infrastructure_vietnamese_bge_m3",
+      "manual_sha256": "143d6e09ba97fc1505658021fa45b8640c404d60874ce22421b28e4fb75ba1d6"
+    }
+  ],
+  "llm_models": {
+    "ollama": {
+      "qwen2.5_7B-128k": {
+        "name": "qwen2.5:7b",
+        "temperature": 0.0,
+        "num_predict": 1024,
+        "context_window": 128000
+      },
+      "qwen2.5_7B-translator": {
+        "name": "qwen2.5:7b",
+        "temperature": 0,
+        "num_predict": 256
+      },
+      "gemma3_12B-128k": {
+        "name": "gemma3:12b",
+        "temperature": 0.0,
+        "num_predict": 1024,
+        "context_window": 128000
+      }
+    }
+  },
+  "rag_parameters": {
+    "retrieval_algorithms_to_test": [
+      "ambical"
+    ],
+    "chunk_sizes_to_test": [
+      200
+    ],
+    "overlap_sizes_to_test": [
+      100
+    ],
+    "num_retrieved_docs": 3,
+    "adaptive_k_enabled": false
+  },
+  "question_dataset_paths": {
+    "general_questions": "D:\\Analysis code\\ambical\\RAG\\question_datasets\\vn_infrastructure_english_qa\\question_answers_pairs_vn_infrastructure_v51_independent_100_20261002_02.json",
+    "unanswerable_questions": "D:\\Analysis code\\ambical\\RAG\\question_datasets\\vn_infrastructure_english_qa\\question_answers_unanswerable_vn_infrastructure_v51_independent_100_20261002_02.json"
+  },
+  "output_dir": "D:\\Analysis code\\ambical\\RAG\\user_runs\\ambical\\vn_infrastructure_v51\\formal200_full",
+  "ambical_parameters": {
+    "source_language": "English",
+    "translator_model_name": "qwen2.5_7B-translator",
+    "translation_prompt_path": "D:\\Analysis code\\ambical\\RAG\\prompt_templates\\query_translation_prompt.txt",
+    "translation_cache_mode": "read_write",
+    "translation_cache_path": "D:\\Analysis code\\ambical\\RAG\\cache\\query_translations\\ambical_vn_infrastructure_v51_formal200.sqlite3",
+    "profile_path": "D:\\Analysis code\\ambical\\RAG\\profiles\\vn_infrastructure\\ambical_profile.json",
+    "method_config": {
+      "method_version": "ambical-online-v5",
+      "null_low_threshold": 0.22580645161290322,
+      "null_high_threshold": 0.8064516129032258,
+      "lambda_positive": 0.2,
+      "max_counterfactual_phrases": 2,
+      "counterfactual_promotion_top_k": 3,
+      "candidate_top_n": 40,
+      "max_k": 40,
+      "gate_top_m": 40,
+      "lambda_false_positive": 0.2,
+      "lambda_redundancy": 0.15,
+      "branch_temperature": 0.1,
+      "gate_temperature": 0.1,
+      "adaptive_temperature": 0.15,
+      "consistency_floor_eta": 0.5,
+      "z_max": 8.0,
+      "epsilon": 1e-08,
+      "iqr_normal_consistency": 1.349,
+      "minimum_counterfactual_content_tokens": 1,
+      "require_normalized_collection_embeddings": true,
+      "collection_norm_tolerance": 0.02,
+      "context_gate_threshold": 0.2,
+      "gate_v2_bias": 21.184121910951706,
+      "gate_v2_weight_strength": -5.053002933411203,
+      "gate_v2_weight_competition": -15.955296177287568,
+      "gate_v2_weight_distance": -36.16388877879448,
+      "gate_v2_weight_path_conflict": 5.509167554885126,
+      "gate_v2_weight_bimodality": 5.057255528512238,
+      "gate_v2_weight_branch_disagreement": 1.187770156716317,
+      "switches": {
+        "translation_branch": true,
+        "robust_normalization": true,
+        "branch_confidence": true,
+        "translation_consistency": true,
+        "ranking_overlap": true,
+        "dynamic_branch_weights": true,
+        "false_positive_prior": true,
+        "context_correction": true,
+        "context_gate": true,
+        "soft_redundancy": true,
+        "consistency_entropy": true,
+        "maximum_gap": true,
+        "entropy_candidate": true,
+        "null_gate": true,
+        "adaptive_k": true,
+        "merge_structured_evidence": true
+      }
+    }
+  },
+  "ambical_evaluation_partitions": {
+    "primary_metric_datasets": [
+      "general_questions",
+      "unanswerable_questions"
+    ],
+    "mechanism_stress_datasets": []
+  }
+}

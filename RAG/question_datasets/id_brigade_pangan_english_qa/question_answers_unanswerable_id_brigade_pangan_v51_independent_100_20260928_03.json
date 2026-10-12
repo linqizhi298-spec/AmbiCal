@@ -1,0 +1,3280 @@
+[
+  {
+    "question_id": "idbp-dfu2-061",
+    "question": "How many days should the land be rested between two consecutive planting seasons?",
+    "answer": "Not found in context",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "wrong_sense_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "8e135c7d8c445a257b0f4dcb90cbcd3bb8c6cad07738a1ec8d526d37f04f596f"
+    ],
+    "attractor_quote_id": "3-4 hari",
+    "absent_reason": "The excerpt does not specify the duration of land rest between planting seasons.",
+    "source_section": "DENGAN MEKANISASI",
+    "source_page": 5,
+    "dense_failure_category": "maintenance_interval",
+    "ordinary_control_eligible": true,
+    "challenge_partition": "dense_failure",
+    "dense_screening_status": "selected",
+    "ambical_used_during_screening": false,
+    "dense_screening_tier": "A",
+    "dense_failure_count": 3,
+    "dense_correct_by_k": {
+      "1": false,
+      "3": false,
+      "5": false
+    },
+    "gold_best_rank": null,
+    "wrong_or_attractor_best_rank": 1,
+    "formal_result_used_during_selection": false
+  },
+  {
+    "question_id": "idbp-dfu4-001",
+    "question": "How much engine oil does the rice transplanter require?",
+    "answer": "Not found in context",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "wrong_sense_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "58f76e3e3718f95735715ead4a09c05a7e7ac0cd9409b9a4475e4ee4b3182928",
+      "514454fe852266a03f4d68792c3ca0f8105326f39a90ae839c642b7cd128a185"
+    ],
+    "attractor_fact_en": "The gearbox takes 3.5 liters of SAE 90-140 oil; the engine uses 2 liters of SAE-30 oil; and the fuel tank holds up to 7.5 liters of diesel.",
+    "absent_reason": "The handbook gives this capacity for a two-wheel tractor, not for the rice transplanter.",
+    "source_section": "PENGOPERASIAN TRAKTOR RODA DUA / PERSIAPAN :",
+    "dense_failure_category": "equipment",
+    "target_entity": "rice transplanter",
+    "requested_attribute": "engine-oil capacity",
+    "answerability_audit": {
+      "answerability": "UNANSWERABLE",
+      "method": "manual entity-attribute and stage-condition corpus audit",
+      "reason": "The handbook gives this capacity for a two-wheel tractor, not for the rice transplanter."
+    },
+    "ordinary_control_eligible": true,
+    "challenge_partition": "dense_failure",
+    "dense_screening_status": "selected",
+    "ambical_used_during_screening": false,
+    "dense_screening_tier": "B",
+    "dense_failure_count": 2,
+    "dense_correct_by_k": {
+      "1": true,
+      "3": false,
+      "5": false
+    },
+    "gold_best_rank": null,
+    "wrong_or_attractor_best_rank": 2,
+    "formal_result_used_during_selection": false
+  },
+  {
+    "question_id": "idbp-dfu4-003",
+    "question": "How much gearbox oil is needed by the rice transplanter?",
+    "answer": "Not found in context",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "wrong_sense_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "58f76e3e3718f95735715ead4a09c05a7e7ac0cd9409b9a4475e4ee4b3182928",
+      "514454fe852266a03f4d68792c3ca0f8105326f39a90ae839c642b7cd128a185"
+    ],
+    "attractor_fact_en": "The gearbox takes 3.5 liters of SAE 90-140 oil; the engine uses 2 liters of SAE-30 oil; and the fuel tank holds up to 7.5 liters of diesel.",
+    "absent_reason": "The gearbox-oil figure belongs to the two-wheel tractor.",
+    "source_section": "PENGOPERASIAN TRAKTOR RODA DUA / PERSIAPAN :",
+    "dense_failure_category": "equipment",
+    "target_entity": "rice transplanter",
+    "requested_attribute": "gearbox-oil capacity",
+    "answerability_audit": {
+      "answerability": "UNANSWERABLE",
+      "method": "manual entity-attribute and stage-condition corpus audit",
+      "reason": "The gearbox-oil figure belongs to the two-wheel tractor."
+    },
+    "ordinary_control_eligible": true,
+    "challenge_partition": "dense_failure",
+    "dense_screening_status": "selected",
+    "ambical_used_during_screening": false,
+    "dense_screening_tier": "B",
+    "dense_failure_count": 2,
+    "dense_correct_by_k": {
+      "1": true,
+      "3": false,
+      "5": false
+    },
+    "gold_best_rank": null,
+    "wrong_or_attractor_best_rank": 3,
+    "formal_result_used_during_selection": false
+  },
+  {
+    "question_id": "idbp-dfu4-007",
+    "question": "Which engine-oil viscosity should be used in the rice transplanter?",
+    "answer": "Not found in context",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "wrong_sense_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "58f76e3e3718f95735715ead4a09c05a7e7ac0cd9409b9a4475e4ee4b3182928",
+      "514454fe852266a03f4d68792c3ca0f8105326f39a90ae839c642b7cd128a185"
+    ],
+    "attractor_fact_en": "The gearbox takes 3.5 liters of SAE 90-140 oil; the engine uses 2 liters of SAE-30 oil; and the fuel tank holds up to 7.5 liters of diesel.",
+    "absent_reason": "The handbook does not specify an oil grade for the rice transplanter.",
+    "source_section": "PENGOPERASIAN TRAKTOR RODA DUA / PERSIAPAN :",
+    "dense_failure_category": "equipment",
+    "target_entity": "rice transplanter",
+    "requested_attribute": "engine-oil viscosity",
+    "answerability_audit": {
+      "answerability": "UNANSWERABLE",
+      "method": "manual entity-attribute and stage-condition corpus audit",
+      "reason": "The handbook does not specify an oil grade for the rice transplanter."
+    },
+    "ordinary_control_eligible": true,
+    "challenge_partition": "dense_failure",
+    "dense_screening_status": "selected",
+    "ambical_used_during_screening": false,
+    "dense_screening_tier": "A",
+    "dense_failure_count": 3,
+    "dense_correct_by_k": {
+      "1": false,
+      "3": false,
+      "5": false
+    },
+    "gold_best_rank": null,
+    "wrong_or_attractor_best_rank": 1,
+    "formal_result_used_during_selection": false
+  },
+  {
+    "question_id": "idbp-dfu4-022",
+    "question": "What monthly net-income range gives a landowner a green rating?",
+    "answer": "Not found in context",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "wrong_sense_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "1aaeb55e327d32fd90f8cd09b3221bf03e9af68086e30b802c04e54843332ea0",
+      "fc14f6872ac3715e31bcfadd7919d117e4aa527ce72eafbc05abd3a0089c9aae",
+      "97de55d6602c5bd3713d2c1c1682c69ba9235f46db960ac8b56b0a9253252e89"
+    ],
+    "attractor_fact_en": "Below Rp3 million is red, Rp3 million to below Rp7 million is yellow, and Rp7 million to Rp10 million is green.",
+    "absent_reason": "The colour thresholds are for Brigade Pangan members, not landowners.",
+    "source_section": "PELAPORAN PENYULUH PENDAMPING BRIGADE PANGAN",
+    "dense_failure_category": "role",
+    "target_entity": "landowner",
+    "requested_attribute": "green income threshold",
+    "answerability_audit": {
+      "answerability": "UNANSWERABLE",
+      "method": "manual entity-attribute and stage-condition corpus audit",
+      "reason": "The colour thresholds are for Brigade Pangan members, not landowners."
+    },
+    "ordinary_control_eligible": true,
+    "challenge_partition": "dense_failure",
+    "dense_screening_status": "selected",
+    "ambical_used_during_screening": false,
+    "dense_screening_tier": "B",
+    "dense_failure_count": 2,
+    "dense_correct_by_k": {
+      "1": true,
+      "3": false,
+      "5": false
+    },
+    "gold_best_rank": null,
+    "wrong_or_attractor_best_rank": 3,
+    "formal_result_used_during_selection": false
+  },
+  {
+    "question_id": "idbp-dfu4-023",
+    "question": "How many hectares of inland swamp are classified as suitable for agriculture?",
+    "answer": "Not found in context",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "wrong_sense_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "627e1ebdf46de020e344bcbee9a58c9a091e19f04d8a26e673a8a601bdb2e73c"
+    ],
+    "attractor_fact_en": "Only about 6 million of roughly 11 million hectares is suitable, and its hydrology is controlled by the rise and fall of seawater tides.",
+    "absent_reason": "The suitable-area figure is supplied for tidal swamp, not inland swamp.",
+    "source_section": "LAHAN PASANG SURUT",
+    "dense_failure_category": "land_type",
+    "target_entity": "inland swamp",
+    "requested_attribute": "agriculturally suitable area",
+    "answerability_audit": {
+      "answerability": "UNANSWERABLE",
+      "method": "manual entity-attribute and stage-condition corpus audit",
+      "reason": "The suitable-area figure is supplied for tidal swamp, not inland swamp."
+    },
+    "ordinary_control_eligible": true,
+    "challenge_partition": "dense_failure",
+    "dense_screening_status": "selected",
+    "ambical_used_during_screening": false,
+    "dense_screening_tier": "A",
+    "dense_failure_count": 3,
+    "dense_correct_by_k": {
+      "1": false,
+      "3": false,
+      "5": false
+    },
+    "gold_best_rank": null,
+    "wrong_or_attractor_best_rank": 1,
+    "formal_result_used_during_selection": false
+  },
+  {
+    "question_id": "idbp-dfu4-025",
+    "question": "What groundwater depth defines shallow inland swamp?",
+    "answer": "Not found in context",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "wrong_sense_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "5c379b9206858036049360f352ad3072ac6473680ce63c0fd6d4cd0be74d9faf"
+    ],
+    "attractor_fact_en": "Type A is flooded by both large and small tides; type B only by large tides; type C is not tidally flooded but has groundwater less than 50 cm below the surface; and type D is not tidally flooded and has groundwater deeper than 50 cm.",
+    "absent_reason": "Shallow inland swamp is classified by flood depth and duration, not groundwater depth.",
+    "source_section": "TIPE LUAPAN AIR DI LAHAN RAWA PASANG SURUT",
+    "dense_failure_category": "hydrology",
+    "target_entity": "shallow inland swamp",
+    "requested_attribute": "groundwater depth",
+    "answerability_audit": {
+      "answerability": "UNANSWERABLE",
+      "method": "manual entity-attribute and stage-condition corpus audit",
+      "reason": "Shallow inland swamp is classified by flood depth and duration, not groundwater depth."
+    },
+    "ordinary_control_eligible": true,
+    "challenge_partition": "dense_failure",
+    "dense_screening_status": "selected",
+    "ambical_used_during_screening": false,
+    "dense_screening_tier": "B",
+    "dense_failure_count": 2,
+    "dense_correct_by_k": {
+      "1": false,
+      "3": true,
+      "5": false
+    },
+    "gold_best_rank": null,
+    "wrong_or_attractor_best_rank": 4,
+    "formal_result_used_during_selection": false
+  },
+  {
+    "question_id": "idbp-dfu4-027",
+    "question": "What groundwater depth defines deep inland swamp?",
+    "answer": "Not found in context",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "wrong_sense_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "5c379b9206858036049360f352ad3072ac6473680ce63c0fd6d4cd0be74d9faf"
+    ],
+    "attractor_fact_en": "Type A is flooded by both large and small tides; type B only by large tides; type C is not tidally flooded but has groundwater less than 50 cm below the surface; and type D is not tidally flooded and has groundwater deeper than 50 cm.",
+    "absent_reason": "The deep-inland-swamp definition uses inundation, not groundwater depth.",
+    "source_section": "TIPE LUAPAN AIR DI LAHAN RAWA PASANG SURUT",
+    "dense_failure_category": "hydrology",
+    "target_entity": "deep inland swamp",
+    "requested_attribute": "groundwater depth",
+    "answerability_audit": {
+      "answerability": "UNANSWERABLE",
+      "method": "manual entity-attribute and stage-condition corpus audit",
+      "reason": "The deep-inland-swamp definition uses inundation, not groundwater depth."
+    },
+    "ordinary_control_eligible": true,
+    "challenge_partition": "dense_failure",
+    "dense_screening_status": "selected",
+    "ambical_used_during_screening": false,
+    "dense_screening_tier": "A",
+    "dense_failure_count": 3,
+    "dense_correct_by_k": {
+      "1": false,
+      "3": false,
+      "5": false
+    },
+    "gold_best_rank": null,
+    "wrong_or_attractor_best_rank": 5,
+    "formal_result_used_during_selection": false
+  },
+  {
+    "question_id": "idbp-dfu4-032",
+    "question": "For rice established by direct seeding in the former PLG area, when and at what rates should NPK be applied?",
+    "answer": "Not found in context",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "wrong_sense_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "578f24918815f3f091ad51881ee0a0114d182d8d002d63af6278308dedd3714d",
+      "00a8cb1d23e6807e0286c6ce205f7eb82295b8457a419bae75e888a6ef4fa79a"
+    ],
+    "attractor_fact_en": "Apply the basal NPK one week after planting, the first 100 kg/ha topdressing three to four weeks after planting, and a second 100 kg/ha topdressing seven to eight weeks after planting or according to leaf color chart readings.",
+    "absent_reason": "The cited schedule is explicitly for transplanted rice.",
+    "source_section": "PEMUPUKAN",
+    "dense_failure_category": "operation_stage",
+    "target_entity": "direct-seeded rice",
+    "requested_attribute": "NPK timing and rates",
+    "answerability_audit": {
+      "answerability": "UNANSWERABLE",
+      "method": "manual entity-attribute and stage-condition corpus audit",
+      "reason": "The cited schedule is explicitly for transplanted rice."
+    },
+    "ordinary_control_eligible": true,
+    "challenge_partition": "dense_failure",
+    "dense_screening_status": "selected",
+    "ambical_used_during_screening": false,
+    "dense_screening_tier": "A",
+    "dense_failure_count": 3,
+    "dense_correct_by_k": {
+      "1": false,
+      "3": false,
+      "5": false
+    },
+    "gold_best_rank": null,
+    "wrong_or_attractor_best_rank": 1,
+    "formal_result_used_during_selection": false
+  },
+  {
+    "question_id": "idbp-dfu5-001",
+    "question": "At what service-hour reading is engine oil due for replacement on a rice transplanter?",
+    "answer": "Not found in context",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "wrong_sense_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "58f76e3e3718f95735715ead4a09c05a7e7ac0cd9409b9a4475e4ee4b3182928",
+      "514454fe852266a03f4d68792c3ca0f8105326f39a90ae839c642b7cd128a185"
+    ],
+    "attractor_fact_en": "The handbook provides oil specifications, service intervals, controls, or electrical details for a different machine class.",
+    "absent_reason": "The handbook does not state the engine-oil replacement interval for the rice transplanter.",
+    "source_section": "AGRICULTURAL MACHINERY OPERATION",
+    "dense_failure_category": "cross_machine_specification_collision",
+    "target_entity": "rice transplanter",
+    "requested_attribute": "engine-oil replacement interval",
+    "answerability_audit": {
+      "answerability": "UNANSWERABLE",
+      "method": "manual machine-class and attribute corpus audit",
+      "reason": "The requested engine-oil replacement interval is stated only for another machine class or is absent."
+    },
+    "ordinary_control_eligible": true,
+    "challenge_partition": "dense_failure",
+    "dense_screening_status": "selected",
+    "ambical_used_during_screening": false,
+    "dense_screening_tier": "A",
+    "dense_failure_count": 3,
+    "dense_correct_by_k": {
+      "1": false,
+      "3": false,
+      "5": false
+    },
+    "gold_best_rank": null,
+    "wrong_or_attractor_best_rank": 9,
+    "formal_result_used_during_selection": false
+  },
+  {
+    "question_id": "idbp-dfu5-002",
+    "question": "What transmission-oil service interval applies to the rice transplanter?",
+    "answer": "Not found in context",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "wrong_sense_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "58f76e3e3718f95735715ead4a09c05a7e7ac0cd9409b9a4475e4ee4b3182928",
+      "514454fe852266a03f4d68792c3ca0f8105326f39a90ae839c642b7cd128a185"
+    ],
+    "attractor_fact_en": "The handbook provides oil specifications, service intervals, controls, or electrical details for a different machine class.",
+    "absent_reason": "The handbook does not state the transmission-oil replacement interval for the rice transplanter.",
+    "source_section": "AGRICULTURAL MACHINERY OPERATION",
+    "dense_failure_category": "cross_machine_specification_collision",
+    "target_entity": "rice transplanter",
+    "requested_attribute": "transmission-oil replacement interval",
+    "answerability_audit": {
+      "answerability": "UNANSWERABLE",
+      "method": "manual machine-class and attribute corpus audit",
+      "reason": "The requested transmission-oil replacement interval is stated only for another machine class or is absent."
+    },
+    "ordinary_control_eligible": true,
+    "challenge_partition": "dense_failure",
+    "dense_screening_status": "selected",
+    "ambical_used_during_screening": false,
+    "dense_screening_tier": "A",
+    "dense_failure_count": 3,
+    "dense_correct_by_k": {
+      "1": false,
+      "3": false,
+      "5": false
+    },
+    "gold_best_rank": null,
+    "wrong_or_attractor_best_rank": 11,
+    "formal_result_used_during_selection": false
+  },
+  {
+    "question_id": "idbp-dfu5-008",
+    "question": "How often must transmission oil be changed on the medium combine harvester?",
+    "answer": "Not found in context",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "wrong_sense_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "58f76e3e3718f95735715ead4a09c05a7e7ac0cd9409b9a4475e4ee4b3182928",
+      "514454fe852266a03f4d68792c3ca0f8105326f39a90ae839c642b7cd128a185"
+    ],
+    "attractor_fact_en": "The handbook provides oil specifications, service intervals, controls, or electrical details for a different machine class.",
+    "absent_reason": "The handbook does not state the transmission-oil replacement interval for the medium combine harvester.",
+    "source_section": "AGRICULTURAL MACHINERY OPERATION",
+    "dense_failure_category": "cross_machine_specification_collision",
+    "target_entity": "medium combine harvester",
+    "requested_attribute": "transmission-oil replacement interval",
+    "answerability_audit": {
+      "answerability": "UNANSWERABLE",
+      "method": "manual machine-class and attribute corpus audit",
+      "reason": "The requested transmission-oil replacement interval is stated only for another machine class or is absent."
+    },
+    "ordinary_control_eligible": true,
+    "challenge_partition": "dense_failure",
+    "dense_screening_status": "selected",
+    "ambical_used_during_screening": false,
+    "dense_screening_tier": "A",
+    "dense_failure_count": 3,
+    "dense_correct_by_k": {
+      "1": false,
+      "3": false,
+      "5": false
+    },
+    "gold_best_rank": null,
+    "wrong_or_attractor_best_rank": 8,
+    "formal_result_used_during_selection": false
+  },
+  {
+    "question_id": "idbp-sem-063",
+    "question": "What is the specific type of landform associated with tidal inundation in coastal areas according to the provided context?",
+    "answer": "Not found in context",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "target_term_en": "specific type of landform",
+    "target_term_id": "specific_landform",
+    "intended_sense": "A particular kind of landform related to tidal inundation",
+    "wrong_sense": "General landform types",
+    "ambiguity_type": "multi_evidence_context_collision",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "wrong_sense_chunk_ids": [
+      "627e1ebdf46de020e344bcbee9a58c9a091e19f04d8a26e673a8a601bdb2e73c"
+    ],
+    "attractor_chunk_ids": [
+      "627e1ebdf46de020e344bcbee9a58c9a091e19f04d8a26e673a8a601bdb2e73c"
+    ],
+    "supporting_quote_id": null,
+    "wrong_sense_quote_id": "## KARAKTERISTIK DAN PENGELOLAAN LAHAN RAWA",
+    "disambiguating_cues": [
+      "tidal inundation",
+      "coastal areas"
+    ],
+    "source_section": "KARAKTERISTIK LAHAN LEBAK",
+    "source_page": 46,
+    "construction_rationale": "The question seeks a specific type of landform related to tidal inundation, which is not explicitly mentioned in the context. The distractor provides a general term for landforms in coastal areas.",
+    "quality_scores": {
+      "natural_language": 1,
+      "answer_uniqueness": 1,
+      "gold_support_complete": null,
+      "wrong_sense_plausible": 1,
+      "context_disambiguation_present": 1,
+      "no_ocr_dependency": 1,
+      "no_existing_question_overlap": 1,
+      "chunk_ids_valid": 1,
+      "human_explainable": 1
+    },
+    "dense_screening_status": "not_run",
+    "ambical_used_during_construction": true,
+    "ambical_usage_scope": "gate_and_counterfactual_execution_diagnostics_only",
+    "context_gate_triggered": true,
+    "context_correction_executed": true,
+    "correction_mode": "topk_counterfactual_positive_v5",
+    "selected_counterfactual_phrase_count": 2,
+    "gate_diagnostic_run_id": "id_brigade_pangan_semantic_gate_diagnostic_20260928_01",
+    "qa_correctness_used_during_selection": false,
+    "challenge_partition": "semantic_ambiguity",
+    "selection_status": "pending_gate_diagnostic",
+    "static_quality_pass": true,
+    "static_quality_audit": {
+      "model": "gemma3:12b",
+      "natural_question": true,
+      "target_sense_clear": true,
+      "answer_supported": false,
+      "wrong_sense_plausible": true,
+      "failure_reasons": [
+        "The excerpt describes tidal inundation areas but does not specify a particular landform type.",
+        "The excerpt mentions 'endapan marine dan fluvio-marin' and 'gambut', which are general terms and not specific landforms."
+      ],
+      "absence_confirmed": true
+    },
+    "static_quality_rule": "unanswerable_requires_confirmed_absence",
+    "diagnostic_success": true,
+    "formal_result_used_during_selection": false
+  },
+  {
+    "question_id": "idbp-sem-073",
+    "question": "What is the optimal height for cutting paddy during manual harvesting?",
+    "answer": "Not found in context",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "target_term_en": "optimal height",
+    "target_term_id": "height",
+    "intended_sense": "specific measurement for cutting",
+    "wrong_sense": "general harvesting techniques",
+    "ambiguity_type": "same_term_different_process",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "wrong_sense_chunk_ids": [
+      "15c3cc611ade18892c69c305a69e589fbbf3e7f4a479d482fec96d5c00bd136f"
+    ],
+    "attractor_chunk_ids": [
+      "15c3cc611ade18892c69c305a69e589fbbf3e7f4a479d482fec96d5c00bd136f"
+    ],
+    "supporting_quote_id": null,
+    "wrong_sense_quote_id": "Apabila perontokan dilakukan dengan cara manual atau dengan menggunakan mesin perontok tapi dengan batang dipegang, maka pemotongan batang lebih dekat ke tanah.",
+    "disambiguating_cues": [
+      "optimal",
+      "cutting height"
+    ],
+    "source_section": "PEMANENAN / TINGGI PEMOTONGAN :",
+    "source_page": 116,
+    "construction_rationale": "The target excerpt discusses the stages of paddy maturation but does not provide the optimal cutting height for manual harvesting. The distractor excerpt discusses the maturation stages and does not contain the term 'height'.",
+    "quality_scores": {
+      "natural_language": 1,
+      "answer_uniqueness": 1,
+      "gold_support_complete": null,
+      "wrong_sense_plausible": 1,
+      "context_disambiguation_present": 1,
+      "no_ocr_dependency": 1,
+      "no_existing_question_overlap": 1,
+      "chunk_ids_valid": 1,
+      "human_explainable": 1
+    },
+    "dense_screening_status": "not_run",
+    "ambical_used_during_construction": true,
+    "ambical_usage_scope": "gate_and_counterfactual_execution_diagnostics_only",
+    "context_gate_triggered": true,
+    "context_correction_executed": true,
+    "correction_mode": "topk_counterfactual_positive_v5",
+    "selected_counterfactual_phrase_count": 2,
+    "gate_diagnostic_run_id": "id_brigade_pangan_semantic_gate_diagnostic_20260928_01",
+    "qa_correctness_used_during_selection": false,
+    "challenge_partition": "semantic_ambiguity",
+    "selection_status": "pending_gate_diagnostic",
+    "static_quality_pass": true,
+    "static_quality_audit": {
+      "model": "gemma3:12b",
+      "natural_question": true,
+      "target_sense_clear": true,
+      "answer_supported": false,
+      "wrong_sense_plausible": true,
+      "failure_reasons": [
+        "Answer not found in context",
+        "Excerpt discusses cutting height based on harvesting method, not optimal height"
+      ],
+      "absence_confirmed": true
+    },
+    "static_quality_rule": "unanswerable_requires_confirmed_absence",
+    "diagnostic_success": true,
+    "formal_result_used_during_selection": false
+  },
+  {
+    "question_id": "idbp-sem-074",
+    "question": "What is the first step in the post-harvest process according to the book?",
+    "answer": "Not found in context",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "target_term_en": "first step",
+    "target_term_id": "step",
+    "intended_sense": "initial activity in the post-harvest process",
+    "wrong_sense": "general post-harvest activities",
+    "ambiguity_type": "abbreviation_collision",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "wrong_sense_chunk_ids": [
+      "7469a66b3256147deee9cf9e2fe924198a0b946881ad55f633804c72b8b0d231"
+    ],
+    "attractor_chunk_ids": [
+      "7469a66b3256147deee9cf9e2fe924198a0b946881ad55f633804c72b8b0d231"
+    ],
+    "supporting_quote_id": null,
+    "wrong_sense_quote_id": "Waktu panen yang optimum adalah saat kadar air biji mencapai 20% (musim kering) atau 24% (musim hujan); atau setelah 80-85% dari biji padi sudah matang.",
+    "disambiguating_cues": [
+      "first",
+      "initial"
+    ],
+    "source_section": "PEMANENAN / Waktu Panen :",
+    "source_page": 109,
+    "construction_rationale": "The target excerpt lists the steps of the post-harvest process but does not specify the first step. The distractor excerpt discusses soil conditions and does not contain the term 'step'.",
+    "quality_scores": {
+      "natural_language": 1,
+      "answer_uniqueness": 1,
+      "gold_support_complete": null,
+      "wrong_sense_plausible": 1,
+      "context_disambiguation_present": 1,
+      "no_ocr_dependency": 1,
+      "no_existing_question_overlap": 1,
+      "chunk_ids_valid": 1,
+      "human_explainable": 1
+    },
+    "dense_screening_status": "not_run",
+    "ambical_used_during_construction": true,
+    "ambical_usage_scope": "gate_and_counterfactual_execution_diagnostics_only",
+    "context_gate_triggered": true,
+    "context_correction_executed": true,
+    "correction_mode": "topk_counterfactual_positive_v5",
+    "selected_counterfactual_phrase_count": 2,
+    "gate_diagnostic_run_id": "id_brigade_pangan_semantic_gate_diagnostic_20260928_01",
+    "qa_correctness_used_during_selection": false,
+    "challenge_partition": "semantic_ambiguity",
+    "selection_status": "pending_gate_diagnostic",
+    "static_quality_pass": true,
+    "static_quality_audit": {
+      "model": "gemma3:12b",
+      "natural_question": true,
+      "target_sense_clear": true,
+      "answer_supported": false,
+      "wrong_sense_plausible": true,
+      "failure_reasons": [
+        "Answer not found in context",
+        "Excerpt describes stages of rice growth, not the post-harvest process"
+      ],
+      "absence_confirmed": true
+    },
+    "static_quality_rule": "unanswerable_requires_confirmed_absence",
+    "diagnostic_success": true,
+    "formal_result_used_during_selection": false
+  },
+  {
+    "question_id": "idbp-sem-086",
+    "question": "What is the recommended type of oil for the hydraulic system of a tractor?",
+    "answer": "Not found in context",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "target_term_en": "hydraulic oil",
+    "target_term_id": "872af0e0a8ae42c841dd55dc7a3c1811740d48dd919c33fb04a955854910587c",
+    "intended_sense": "oil for hydraulic system",
+    "wrong_sense": "oil for other systems",
+    "ambiguity_type": "numerical_context_collision",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "wrong_sense_chunk_ids": [
+      "4846601b7153d29cb6c4004700e10d5b232e6415d866fa0fd3bfb3527ec6deed"
+    ],
+    "attractor_chunk_ids": [
+      "4846601b7153d29cb6c4004700e10d5b232e6415d866fa0fd3bfb3527ec6deed"
+    ],
+    "supporting_quote_id": null,
+    "wrong_sense_quote_id": "## PENGOPERASIAN TRAKTOR RODA 4",
+    "disambiguating_cues": [
+      "hydraulic",
+      "oil"
+    ],
+    "source_section": "PENGOPERASIAN TRAKTOR PADA PADI LAHAN RAWA / Bahan Bakar dan Oli",
+    "source_page": 130,
+    "construction_rationale": "The target term is about hydraulic oil, which is not mentioned in the distractor excerpt. The distractor excerpt discusses oil for other systems, making it plausible for the question to be about hydraulic oil.",
+    "quality_scores": {
+      "natural_language": 1,
+      "answer_uniqueness": 1,
+      "gold_support_complete": null,
+      "wrong_sense_plausible": 1,
+      "context_disambiguation_present": 1,
+      "no_ocr_dependency": 1,
+      "no_existing_question_overlap": 1,
+      "chunk_ids_valid": 1,
+      "human_explainable": 1
+    },
+    "dense_screening_status": "not_run",
+    "ambical_used_during_construction": true,
+    "ambical_usage_scope": "gate_and_counterfactual_execution_diagnostics_only",
+    "context_gate_triggered": true,
+    "context_correction_executed": true,
+    "correction_mode": "topk_counterfactual_positive_v5",
+    "selected_counterfactual_phrase_count": 2,
+    "gate_diagnostic_run_id": "id_brigade_pangan_semantic_gate_diagnostic_20260928_01",
+    "qa_correctness_used_during_selection": false,
+    "challenge_partition": "semantic_ambiguity",
+    "selection_status": "pending_gate_diagnostic",
+    "static_quality_pass": true,
+    "static_quality_audit": {
+      "model": "gemma3:12b",
+      "natural_question": true,
+      "target_sense_clear": true,
+      "answer_supported": false,
+      "wrong_sense_plausible": true,
+      "failure_reasons": [
+        "The excerpt does not specify the recommended oil type for the hydraulic system."
+      ],
+      "absence_confirmed": true
+    },
+    "static_quality_rule": "unanswerable_requires_confirmed_absence",
+    "diagnostic_success": true,
+    "formal_result_used_during_selection": false
+  },
+  {
+    "question_id": "idbp-sem-088",
+    "question": "What should be done if the rice transplanter's planting mechanism fails to operate?",
+    "answer": "Not found in context",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "target_term_en": "planting mechanism",
+    "target_term_id": "872af0e0a8ae42c841dd55dc7a3c1811740d48dd919c33fb04a955854910587c",
+    "intended_sense": "planting mechanism failure",
+    "wrong_sense": "operating the planting mechanism",
+    "ambiguity_type": "actor_object_mismatch",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "wrong_sense_chunk_ids": [
+      "c2f9557530601f9539e63a3119f00e41b7785c07a0b924855233229c0fc19134"
+    ],
+    "attractor_chunk_ids": [
+      "c2f9557530601f9539e63a3119f00e41b7785c07a0b924855233229c0fc19134"
+    ],
+    "supporting_quote_id": null,
+    "wrong_sense_quote_id": "## PENGOPERASIAN TRANSPLANTER",
+    "disambiguating_cues": [
+      "planting",
+      "mechanism",
+      "fails"
+    ],
+    "source_section": "PENGOPERASIAN TRANSPLANTER / 01 Menghidupkan dan mematikan mesin",
+    "source_page": 134,
+    "construction_rationale": "The question is about what to do if the planting mechanism fails, which is not covered in the distractor excerpt. The distractor focuses on general preparation and operation, making it plausible for the question to be about a mechanism failure.",
+    "quality_scores": {
+      "natural_language": 1,
+      "answer_uniqueness": 1,
+      "gold_support_complete": null,
+      "wrong_sense_plausible": 1,
+      "context_disambiguation_present": 1,
+      "no_ocr_dependency": 1,
+      "no_existing_question_overlap": 1,
+      "chunk_ids_valid": 1,
+      "human_explainable": 1
+    },
+    "dense_screening_status": "not_run",
+    "ambical_used_during_construction": true,
+    "ambical_usage_scope": "gate_and_counterfactual_execution_diagnostics_only",
+    "context_gate_triggered": true,
+    "context_correction_executed": true,
+    "correction_mode": "topk_counterfactual_positive_v5",
+    "selected_counterfactual_phrase_count": 2,
+    "gate_diagnostic_run_id": "id_brigade_pangan_semantic_gate_diagnostic_20260928_01",
+    "qa_correctness_used_during_selection": false,
+    "challenge_partition": "semantic_ambiguity",
+    "selection_status": "pending_gate_diagnostic",
+    "static_quality_pass": true,
+    "static_quality_audit": {
+      "model": "gemma3:12b",
+      "natural_question": true,
+      "target_sense_clear": true,
+      "answer_supported": false,
+      "wrong_sense_plausible": true,
+      "failure_reasons": [
+        "Answer not found in context."
+      ],
+      "absence_confirmed": true
+    },
+    "static_quality_rule": "unanswerable_requires_confirmed_absence",
+    "diagnostic_success": true,
+    "formal_result_used_during_selection": false
+  },
+  {
+    "question_id": "idbp-sem-089",
+    "question": "What is the recommended air pressure for the tractor's tires?",
+    "answer": "Not found in context",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "target_term_en": "air pressure",
+    "target_term_id": "62ff98fd0a4d3a23c612011c911a711a9bc74a323050ee897be1276dda14ca01",
+    "intended_sense": "air pressure for tires",
+    "wrong_sense": "air pressure for other parts",
+    "ambiguity_type": "table_field_collision",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "wrong_sense_chunk_ids": [
+      "497a49cb7273ca1139b626245baeb9c63cb67340a24dc6004cbe80a7c8b2076d"
+    ],
+    "attractor_chunk_ids": [
+      "497a49cb7273ca1139b626245baeb9c63cb67340a24dc6004cbe80a7c8b2076d"
+    ],
+    "supporting_quote_id": null,
+    "wrong_sense_quote_id": "## Angin Ban, Tuas dan Accu",
+    "disambiguating_cues": [
+      "air",
+      "pressure",
+      "tires"
+    ],
+    "source_section": "PERSIAPAN : / Angin Ban, Tuas dan Accu",
+    "source_page": 127,
+    "construction_rationale": "The question is about the air pressure for the tires, which is not mentioned in the distractor excerpt. The distractor focuses on other parts of the tractor, making it plausible for the question to be about tire air pressure.",
+    "quality_scores": {
+      "natural_language": 1,
+      "answer_uniqueness": 1,
+      "gold_support_complete": null,
+      "wrong_sense_plausible": 1,
+      "context_disambiguation_present": 1,
+      "no_ocr_dependency": 1,
+      "no_existing_question_overlap": 1,
+      "chunk_ids_valid": 1,
+      "human_explainable": 1
+    },
+    "dense_screening_status": "not_run",
+    "ambical_used_during_construction": true,
+    "ambical_usage_scope": "gate_and_counterfactual_execution_diagnostics_only",
+    "context_gate_triggered": true,
+    "context_correction_executed": true,
+    "correction_mode": "topk_counterfactual_positive_v5",
+    "selected_counterfactual_phrase_count": 2,
+    "gate_diagnostic_run_id": "id_brigade_pangan_semantic_gate_diagnostic_20260928_01",
+    "qa_correctness_used_during_selection": false,
+    "challenge_partition": "semantic_ambiguity",
+    "selection_status": "pending_gate_diagnostic",
+    "static_quality_pass": true,
+    "static_quality_audit": {
+      "model": "gemma3:12b",
+      "natural_question": true,
+      "target_sense_clear": true,
+      "answer_supported": false,
+      "wrong_sense_plausible": true,
+      "failure_reasons": [
+        "Answer not found in context."
+      ],
+      "absence_confirmed": true
+    },
+    "static_quality_rule": "unanswerable_requires_confirmed_absence",
+    "diagnostic_success": true,
+    "formal_result_used_during_selection": false
+  },
+  {
+    "question_id": "idbp-sem2-u-005",
+    "question": "How many days after electing its officers must a Brigade Pangan submit its registration documents?",
+    "answer": "Not found in context",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "target_term_en": "registration deadline",
+    "target_term_id": "batas waktu pendaftaran",
+    "intended_sense": "post-election filing deadline",
+    "wrong_sense": "officer election procedure",
+    "ambiguity_type": "numerical_context_collision",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "wrong_sense_chunk_ids": [
+      "ebdc9e2d8a61d0b7f831bf97d2b20d49f4443ba252b91308ce52b889f05a5d38"
+    ],
+    "attractor_chunk_ids": [
+      "1679430e84568dbb15ba4c3ba681bb3dc568c193f3521b2dc46389bcb478c197",
+      "ebdc9e2d8a61d0b7f831bf97d2b20d49f4443ba252b91308ce52b889f05a5d38"
+    ],
+    "supporting_quote_id": null,
+    "wrong_sense_quote_id": "Ucapan terima kasih kami sampaikan kepada tim penyusun dan semua pihak yang terlibat. Semoga buku saku ini dapat memberikan manfaat bagi Brigade Pangan dan pemangku kepentingan.\n\nJakarta, Desember 2024 Kepala Pusat Pelatihan Pertanian\n\n\nDr. Inneke Kusumawaty, S.TP., MP.\n\n\n## SELAYANG PANDANG\n\n\nDalam",
+    "disambiguating_cues": [
+      "registration deadline",
+      "post-election filing deadline"
+    ],
+    "source_section": "KATA PENGANTAR",
+    "source_page": 2,
+    "absent_reason": "The handbook discusses the named topic but does not state the requested qualified fact.",
+    "construction_rationale": "Hand-authored absent-detail hard negative anchored to two related handbook chunks.",
+    "quality_scores": {
+      "natural_language": 1,
+      "answer_uniqueness": 1,
+      "wrong_sense_plausible": 1,
+      "context_disambiguation_present": 1,
+      "no_ocr_dependency": 1,
+      "no_existing_question_overlap": 1,
+      "chunk_ids_valid": 1,
+      "human_explainable": 1
+    },
+    "dense_screening_status": "not_run",
+    "ambical_used_during_construction": true,
+    "ambical_usage_scope": "gate_and_counterfactual_execution_diagnostics_only",
+    "context_gate_triggered": true,
+    "context_correction_executed": true,
+    "correction_mode": "topk_counterfactual_positive_v5",
+    "selected_counterfactual_phrase_count": 2,
+    "gate_diagnostic_run_id": "id_brigade_pangan_semantic_gate_diagnostic_20260928_01",
+    "qa_correctness_used_during_selection": false,
+    "challenge_partition": "semantic_ambiguity",
+    "selection_status": "pending_static_quality_audit",
+    "static_quality_pass": true,
+    "static_quality_audit": {
+      "model": "gemma3:12b",
+      "natural_question": true,
+      "target_sense_clear": true,
+      "answer_supported": false,
+      "wrong_sense_plausible": true,
+      "failure_reasons": [
+        "The excerpt does not mention the filing deadline after electing officers."
+      ],
+      "absence_confirmed": true
+    },
+    "static_quality_rule": "unanswerable_requires_confirmed_absence",
+    "diagnostic_success": true,
+    "formal_result_used_during_selection": false
+  },
+  {
+    "question_id": "idbp-sem2-u-010",
+    "question": "What is the maximum permitted distance between a member's field and the Brigade Pangan machinery shed?",
+    "answer": "Not found in context",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "target_term_en": "maximum field distance",
+    "target_term_id": "jarak maksimum lahan",
+    "intended_sense": "site-distance rule",
+    "wrong_sense": "machinery allocation",
+    "ambiguity_type": "same_term_different_process",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "wrong_sense_chunk_ids": [
+      "ebdc9e2d8a61d0b7f831bf97d2b20d49f4443ba252b91308ce52b889f05a5d38"
+    ],
+    "attractor_chunk_ids": [
+      "1679430e84568dbb15ba4c3ba681bb3dc568c193f3521b2dc46389bcb478c197",
+      "ebdc9e2d8a61d0b7f831bf97d2b20d49f4443ba252b91308ce52b889f05a5d38"
+    ],
+    "supporting_quote_id": null,
+    "wrong_sense_quote_id": "Ucapan terima kasih kami sampaikan kepada tim penyusun dan semua pihak yang terlibat. Semoga buku saku ini dapat memberikan manfaat bagi Brigade Pangan dan pemangku kepentingan.\n\nJakarta, Desember 2024 Kepala Pusat Pelatihan Pertanian\n\n\nDr. Inneke Kusumawaty, S.TP., MP.\n\n\n## SELAYANG PANDANG\n\n\nDalam",
+    "disambiguating_cues": [
+      "maximum field distance",
+      "site-distance rule"
+    ],
+    "source_section": "KATA PENGANTAR",
+    "source_page": 2,
+    "absent_reason": "The handbook discusses the named topic but does not state the requested qualified fact.",
+    "construction_rationale": "Hand-authored absent-detail hard negative anchored to two related handbook chunks.",
+    "quality_scores": {
+      "natural_language": 1,
+      "answer_uniqueness": 1,
+      "wrong_sense_plausible": 1,
+      "context_disambiguation_present": 1,
+      "no_ocr_dependency": 1,
+      "no_existing_question_overlap": 1,
+      "chunk_ids_valid": 1,
+      "human_explainable": 1
+    },
+    "dense_screening_status": "not_run",
+    "ambical_used_during_construction": true,
+    "ambical_usage_scope": "gate_and_counterfactual_execution_diagnostics_only",
+    "context_gate_triggered": true,
+    "context_correction_executed": true,
+    "correction_mode": "topk_counterfactual_positive_v5",
+    "selected_counterfactual_phrase_count": 2,
+    "gate_diagnostic_run_id": "id_brigade_pangan_semantic_gate_diagnostic_20260928_01",
+    "qa_correctness_used_during_selection": false,
+    "challenge_partition": "semantic_ambiguity",
+    "selection_status": "pending_static_quality_audit",
+    "static_quality_pass": true,
+    "static_quality_audit": {
+      "model": "gemma3:12b",
+      "natural_question": true,
+      "target_sense_clear": true,
+      "answer_supported": false,
+      "wrong_sense_plausible": true,
+      "failure_reasons": [
+        "Answer not found in context."
+      ],
+      "absence_confirmed": true
+    },
+    "static_quality_rule": "unanswerable_requires_confirmed_absence",
+    "diagnostic_success": true,
+    "formal_result_used_during_selection": false
+  },
+  {
+    "question_id": "idbp-sem2-u-014",
+    "question": "How many days before transplanting must rice seedling trays be prepared?",
+    "answer": "Not found in context",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "target_term_en": "tray preparation interval",
+    "target_term_id": "waktu persiapan tray",
+    "intended_sense": "pre-transplant timing",
+    "wrong_sense": "seedling procedure",
+    "ambiguity_type": "numerical_context_collision",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "wrong_sense_chunk_ids": [
+      "1679430e84568dbb15ba4c3ba681bb3dc568c193f3521b2dc46389bcb478c197"
+    ],
+    "attractor_chunk_ids": [
+      "348cb49704802a8916b25e924fdd8857ce7f4a1d837fc883c928c31eb23016bb",
+      "1679430e84568dbb15ba4c3ba681bb3dc568c193f3521b2dc46389bcb478c197"
+    ],
+    "supporting_quote_id": null,
+    "wrong_sense_quote_id": "2/19/2025\n\n\n1\n\n\n## KATA PENGANTAR\n\nPuji syukur kami panjatkan ke hadirat Tuhan Yang Maha Esa, atas segala rahmat dan karunia-Nya, sehingga Buku Saku Brigade Pangan ini selesai disusun. Buku saku ini memuat organisasi Brigade Pangan,  Kelembagaan  Petani,  Pengetahuan  Pengelolaan  Lahan  Rawa  hingg",
+    "disambiguating_cues": [
+      "tray preparation interval",
+      "pre-transplant timing"
+    ],
+    "source_section": "PENGOPERASIAN TRANSPLANTER",
+    "source_page": 137,
+    "absent_reason": "The handbook discusses the named topic but does not state the requested qualified fact.",
+    "construction_rationale": "Hand-authored absent-detail hard negative anchored to two related handbook chunks.",
+    "quality_scores": {
+      "natural_language": 1,
+      "answer_uniqueness": 1,
+      "wrong_sense_plausible": 1,
+      "context_disambiguation_present": 1,
+      "no_ocr_dependency": 1,
+      "no_existing_question_overlap": 1,
+      "chunk_ids_valid": 1,
+      "human_explainable": 1
+    },
+    "dense_screening_status": "not_run",
+    "ambical_used_during_construction": true,
+    "ambical_usage_scope": "gate_and_counterfactual_execution_diagnostics_only",
+    "context_gate_triggered": true,
+    "context_correction_executed": true,
+    "correction_mode": "topk_counterfactual_positive_v5",
+    "selected_counterfactual_phrase_count": 2,
+    "gate_diagnostic_run_id": "id_brigade_pangan_semantic_gate_diagnostic_20260928_01",
+    "qa_correctness_used_during_selection": false,
+    "challenge_partition": "semantic_ambiguity",
+    "selection_status": "pending_static_quality_audit",
+    "static_quality_pass": true,
+    "static_quality_audit": {
+      "model": "gemma3:12b",
+      "natural_question": true,
+      "target_sense_clear": true,
+      "answer_supported": false,
+      "wrong_sense_plausible": true,
+      "failure_reasons": [
+        "The excerpt does not mention the preparation of rice seedling trays or their timing."
+      ],
+      "absence_confirmed": true
+    },
+    "static_quality_rule": "unanswerable_requires_confirmed_absence",
+    "diagnostic_success": true,
+    "formal_result_used_during_selection": false
+  },
+  {
+    "question_id": "idbp-sem2-u-016",
+    "question": "What tyre pressure does the handbook prescribe for a four-wheel tractor used on swamp rice fields?",
+    "answer": "Not found in context",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "target_term_en": "tyre pressure",
+    "target_term_id": "tekanan ban",
+    "intended_sense": "machine specification",
+    "wrong_sense": "tyre inspection",
+    "ambiguity_type": "actor_object_mismatch",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "wrong_sense_chunk_ids": [
+      "c53e897936af92275fc3a651c30b6d82cd035c98b25c56c63bcbe45d6ddb4e3d"
+    ],
+    "attractor_chunk_ids": [
+      "f8a21e62c143841976c3fcace26279bef0d7ffb02180e67991e4ac254317dbd5",
+      "c53e897936af92275fc3a651c30b6d82cd035c98b25c56c63bcbe45d6ddb4e3d"
+    ],
+    "supporting_quote_id": null,
+    "wrong_sense_quote_id": "## PENGOPERASIAN TRAKTOR PADA PADI LAHAN RAWA\n\n## PENAMBAHAN RODA SIRIP PADA TRAKTOR RODA 4\n\nLangkah    Pemasangan    roda    sirip tambahan pada traktor roda 4\n\n1.  Posisi      ban      sirip      disesuaikan dengan  lubang  baut  yang  ada  di ban karet.\n2.  Sanggalah penyangga roda kayu karet den",
+    "disambiguating_cues": [
+      "tyre pressure",
+      "machine specification"
+    ],
+    "source_section": "DENGAN MEKANISASI / TEKNIK PERSIAPAN LAHAN",
+    "source_page": 53,
+    "absent_reason": "The handbook discusses the named topic but does not state the requested qualified fact.",
+    "construction_rationale": "Hand-authored absent-detail hard negative anchored to two related handbook chunks.",
+    "quality_scores": {
+      "natural_language": 1,
+      "answer_uniqueness": 1,
+      "wrong_sense_plausible": 1,
+      "context_disambiguation_present": 1,
+      "no_ocr_dependency": 1,
+      "no_existing_question_overlap": 1,
+      "chunk_ids_valid": 1,
+      "human_explainable": 1
+    },
+    "dense_screening_status": "not_run",
+    "ambical_used_during_construction": true,
+    "ambical_usage_scope": "gate_and_counterfactual_execution_diagnostics_only",
+    "context_gate_triggered": true,
+    "context_correction_executed": true,
+    "correction_mode": "topk_counterfactual_positive_v5",
+    "selected_counterfactual_phrase_count": 2,
+    "gate_diagnostic_run_id": "id_brigade_pangan_semantic_gate_diagnostic_20260928_01",
+    "qa_correctness_used_during_selection": false,
+    "challenge_partition": "semantic_ambiguity",
+    "selection_status": "pending_static_quality_audit",
+    "static_quality_pass": true,
+    "static_quality_audit": {
+      "model": "gemma3:12b",
+      "natural_question": true,
+      "target_sense_clear": true,
+      "answer_supported": false,
+      "wrong_sense_plausible": true,
+      "failure_reasons": [
+        "The excerpt does not mention tyre pressure.",
+        "The excerpt mentions a 'hand tractor/traktor roda empat' but not a 'four-wheel tractor used on swamp rice fields'."
+      ],
+      "absence_confirmed": true
+    },
+    "static_quality_rule": "unanswerable_requires_confirmed_absence",
+    "diagnostic_success": true,
+    "formal_result_used_during_selection": false
+  },
+  {
+    "question": "What is the ISBN assigned to Buku Saku Brigade Pangan?",
+    "answer": "Not found in context",
+    "page": 2,
+    "question_id": "idbp-u-001",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "1679430e84568dbb15ba4c3ba681bb3dc568c193f3521b2dc46389bcb478c197"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "The referenced handbook page contains a related topic, but the requested fact is not stated in the frozen corpus.",
+    "source_section": "KATA PENGANTAR",
+    "source_page_verified": 2,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control",
+    "selection_basis": "original_100x100_plus_docling_page_provenance",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "page_provenance_mapped",
+      "mapping_method": "docling_page_to_frozen_chroma_chunk",
+      "manual_semantic_review_required_before_final_selection": true
+    }
+  },
+  {
+    "question": "How many printed copies were produced in the handbook's first print run?",
+    "answer": "Not found in context",
+    "page": 2,
+    "question_id": "idbp-u-002",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "1679430e84568dbb15ba4c3ba681bb3dc568c193f3521b2dc46389bcb478c197"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "The referenced handbook page contains a related topic, but the requested fact is not stated in the frozen corpus.",
+    "source_section": "KATA PENGANTAR",
+    "source_page_verified": 2,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control",
+    "selection_basis": "original_100x100_plus_docling_page_provenance",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "page_provenance_mapped",
+      "mapping_method": "docling_page_to_frozen_chroma_chunk",
+      "manual_semantic_review_required_before_final_selection": true
+    }
+  },
+  {
+    "question": "Which province was the first pilot location for Brigade Pangan?",
+    "answer": "Not found in context",
+    "page": 3,
+    "question_id": "idbp-u-004",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "e7995ae4864fcacb086aeb47776f4f0a8b419e48951fa7d87a271e8565d9a52d",
+      "ebdc9e2d8a61d0b7f831bf97d2b20d49f4443ba252b91308ce52b889f05a5d38"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "The referenced handbook page contains a related topic, but the requested fact is not stated in the frozen corpus.",
+    "source_section": "SELAYANG PANDANG",
+    "source_page_verified": 3,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control",
+    "selection_basis": "original_100x100_plus_docling_page_provenance",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "page_provenance_mapped",
+      "mapping_method": "docling_page_to_frozen_chroma_chunk",
+      "manual_semantic_review_required_before_final_selection": true
+    }
+  },
+  {
+    "question": "What national budget was allocated to Brigade Pangan for 2025?",
+    "answer": "Not found in context",
+    "page": 3,
+    "question_id": "idbp-u-005",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "e7995ae4864fcacb086aeb47776f4f0a8b419e48951fa7d87a271e8565d9a52d",
+      "ebdc9e2d8a61d0b7f831bf97d2b20d49f4443ba252b91308ce52b889f05a5d38"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "The referenced handbook page contains a related topic, but the requested fact is not stated in the frozen corpus.",
+    "source_section": "SELAYANG PANDANG",
+    "source_page_verified": 3,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control",
+    "selection_basis": "original_100x100_plus_docling_page_provenance",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "page_provenance_mapped",
+      "mapping_method": "docling_page_to_frozen_chroma_chunk",
+      "manual_semantic_review_required_before_final_selection": true
+    }
+  },
+  {
+    "question": "What proportion of each Brigade Pangan unit must be women?",
+    "answer": "Not found in context",
+    "page": 5,
+    "question_id": "idbp-u-008",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "1e998eed444fad0baf1a6983182c6075a77ff5288487cf55b9c2a412aca8509c",
+      "6ee49851cf3b7f18ef118501f4151345d6cad3482442ae967dce2318de4faa68"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "The referenced handbook page contains a related topic, but the requested fact is not stated in the frozen corpus.",
+    "source_section": "Rp4.200.000.000 / Rp10.000.000/Bulan",
+    "source_page_verified": 5,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control",
+    "selection_basis": "original_100x100_plus_docling_page_provenance",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "page_provenance_mapped",
+      "mapping_method": "docling_page_to_frozen_chroma_chunk",
+      "manual_semantic_review_required_before_final_selection": true
+    }
+  },
+  {
+    "question": "What membership fee must each Brigade Pangan farmer pay?",
+    "answer": "Not found in context",
+    "page": 5,
+    "question_id": "idbp-u-009",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "1e998eed444fad0baf1a6983182c6075a77ff5288487cf55b9c2a412aca8509c",
+      "6ee49851cf3b7f18ef118501f4151345d6cad3482442ae967dce2318de4faa68"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "The referenced handbook page contains a related topic, but the requested fact is not stated in the frozen corpus.",
+    "source_section": "Rp4.200.000.000 / Rp10.000.000/Bulan",
+    "source_page_verified": 5,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control",
+    "selection_basis": "original_100x100_plus_docling_page_provenance",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "page_provenance_mapped",
+      "mapping_method": "docling_page_to_frozen_chroma_chunk",
+      "manual_semantic_review_required_before_final_selection": true
+    }
+  },
+  {
+    "question": "What penalty applies when the secretary submits an annual report late?",
+    "answer": "Not found in context",
+    "page": 7,
+    "question_id": "idbp-u-014",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "f0f036df6b5d4dbbc822057138e7d68b9c156aafdff2afcacff3ba9cb09d6b05",
+      "5b1d0662680d38e17ad93d925535d1a18daf993cf51e3b2da648d3c74b1d2605"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "The referenced handbook page contains a related topic, but the requested fact is not stated in the frozen corpus.",
+    "source_section": "b. OPERATOR TATA AIR DAN PENGENDALIAN OPT / c. OPERATOR BENIH, PUPUK, DAN PESTISIDA",
+    "source_page_verified": 7,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control",
+    "selection_basis": "original_100x100_plus_docling_page_provenance",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "page_provenance_mapped",
+      "mapping_method": "docling_page_to_frozen_chroma_chunk",
+      "manual_semantic_review_required_before_final_selection": true
+    }
+  },
+  {
+    "question": "Which insurer provides coverage for Brigade Pangan machinery?",
+    "answer": "Not found in context",
+    "page": 8,
+    "question_id": "idbp-u-015",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "5f12422bc2736e7ab6d4bbab435e80c62990d1d410671eecf83e6ea86305b736",
+      "c9571438e31fd43026499005266cedc723c70382ce34efe5eb480a784f7dc32d"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "The referenced handbook page contains a related topic, but the requested fact is not stated in the frozen corpus.",
+    "source_section": "b. OPERATOR HILIRISASI / Lanjutan",
+    "source_page_verified": 8,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control",
+    "selection_basis": "original_100x100_plus_docling_page_provenance",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "page_provenance_mapped",
+      "mapping_method": "docling_page_to_frozen_chroma_chunk",
+      "manual_semantic_review_required_before_final_selection": true
+    }
+  },
+  {
+    "question": "What spending limit can the general-affairs operator approve without the manager?",
+    "answer": "Not found in context",
+    "page": 9,
+    "question_id": "idbp-u-016",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "ffe5bde2c3aa95f6d91cefe54fad3cce280eade99b7147283063f092fea7d228",
+      "c5a8efb2a2647fe9b7a60c62d24443d347ee1d8dc5268131d2a396f5bb772413"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "The referenced handbook page contains a related topic, but the requested fact is not stated in the frozen corpus.",
+    "source_section": "a. OPERATOR KEUANGAN / b. OPERATOR BAGIAN UMUM",
+    "source_page_verified": 9,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control",
+    "selection_basis": "original_100x100_plus_docling_page_provenance",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "page_provenance_mapped",
+      "mapping_method": "docling_page_to_frozen_chroma_chunk",
+      "manual_semantic_review_required_before_final_selection": true
+    }
+  },
+  {
+    "question": "How many coordination activities were actually rated green in the first reporting year?",
+    "answer": "Not found in context",
+    "page": 12,
+    "question_id": "idbp-u-017",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "c9ccc205d86b9b2b51b1acda2cbf5f5e9bc71b73885aff85adf0369e180d11b5",
+      "83aa79c96c35395124003bdddab2c2f08292a3d7562a7a0fb2b001b9cf672038"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "The referenced handbook page contains a related topic, but the requested fact is not stated in the frozen corpus.",
+    "source_section": "PELAPORAN PENYULUH PENDAMPING BRIGADE PANGAN",
+    "source_page_verified": 12,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control",
+    "selection_basis": "original_100x100_plus_docling_page_provenance",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "page_provenance_mapped",
+      "mapping_method": "docling_page_to_frozen_chroma_chunk",
+      "manual_semantic_review_required_before_final_selection": true
+    }
+  },
+  {
+    "question": "On which day of each month must extension advisers upload their reports?",
+    "answer": "Not found in context",
+    "page": 17,
+    "question_id": "idbp-u-018",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "bc2b753d69e024927c9b4d26fd8db6b77a6797099bbea16022265bfe9283aac0"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "The referenced handbook page contains a related topic, but the requested fact is not stated in the frozen corpus.",
+    "source_section": "TUGAS PENYULUH PENDAMPING BP -  LANJUTAN",
+    "source_page_verified": 17,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control",
+    "selection_basis": "original_100x100_plus_docling_page_provenance",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "page_provenance_mapped",
+      "mapping_method": "docling_page_to_frozen_chroma_chunk",
+      "manual_semantic_review_required_before_final_selection": true
+    }
+  },
+  {
+    "question": "What travel allowance is paid to an accompanying extension worker?",
+    "answer": "Not found in context",
+    "page": 16,
+    "question_id": "idbp-u-021",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "31ae79343f5891166dae9452bad3beb8d2f7197cd9f54bc6161cc48e83b52fc2"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "The referenced handbook page contains a related topic, but the requested fact is not stated in the frozen corpus.",
+    "source_section": "TUGAS PENYULUH PENDAMPING BP",
+    "source_page_verified": 16,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control",
+    "selection_basis": "original_100x100_plus_docling_page_provenance",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "page_provenance_mapped",
+      "mapping_method": "docling_page_to_frozen_chroma_chunk",
+      "manual_semantic_review_required_before_final_selection": true
+    }
+  },
+  {
+    "question": "What minimum number of members is required to register a farmer group?",
+    "answer": "Not found in context",
+    "page": 20,
+    "question_id": "idbp-u-022",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "0fda9135a54ec8bd259f45e0328b1264cf200cbf3665d41d8cfb8ba9f500ea62"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "The referenced handbook page contains a related topic, but the requested fact is not stated in the frozen corpus.",
+    "source_section": "JENIS KELEMBAGAAN PETANI",
+    "source_page_verified": 20,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control",
+    "selection_basis": "original_100x100_plus_docling_page_provenance",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "page_provenance_mapped",
+      "mapping_method": "docling_page_to_frozen_chroma_chunk",
+      "manual_semantic_review_required_before_final_selection": true
+    }
+  },
+  {
+    "question": "How long does legal registration of a farmer economic institution normally take?",
+    "answer": "Not found in context",
+    "page": 19,
+    "question_id": "idbp-u-023",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "45f6045821fc0e745c94c5e9c9338222b023ba3a23d445ba5e0f31b62db7e566"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "The referenced handbook page contains a related topic, but the requested fact is not stated in the frozen corpus.",
+    "source_section": "KELEMBAGAAN PETANI / KELEMBAGAAN EKONOMI PETANI",
+    "source_page_verified": 19,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control",
+    "selection_basis": "original_100x100_plus_docling_page_provenance",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "page_provenance_mapped",
+      "mapping_method": "docling_page_to_frozen_chroma_chunk",
+      "manual_semantic_review_required_before_final_selection": true
+    }
+  },
+  {
+    "question": "What minimum paid-up capital is required to establish a farmer corporation?",
+    "answer": "Not found in context",
+    "page": 23,
+    "question_id": "idbp-u-024",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "2885d0392459b28abda11ccc7b16a7f5520c1a7b8efdc834b515ed11c6189422"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "The referenced handbook page contains a related topic, but the requested fact is not stated in the frozen corpus.",
+    "source_section": "PETANI / PERMENTAN NO. 03 TAHUN 2024",
+    "source_page_verified": 23,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control",
+    "selection_basis": "original_100x100_plus_docling_page_provenance",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "page_provenance_mapped",
+      "mapping_method": "docling_page_to_frozen_chroma_chunk",
+      "manual_semantic_review_required_before_final_selection": true
+    }
+  },
+  {
+    "question": "Which government office issues the legal-entity certificate for a farmer corporation?",
+    "answer": "Not found in context",
+    "page": 23,
+    "question_id": "idbp-u-025",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "2885d0392459b28abda11ccc7b16a7f5520c1a7b8efdc834b515ed11c6189422"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "The referenced handbook page contains a related topic, but the requested fact is not stated in the frozen corpus.",
+    "source_section": "PETANI / PERMENTAN NO. 03 TAHUN 2024",
+    "source_page_verified": 23,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control",
+    "selection_basis": "original_100x100_plus_docling_page_provenance",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "page_provenance_mapped",
+      "mapping_method": "docling_page_to_frozen_chroma_chunk",
+      "manual_semantic_review_required_before_final_selection": true
+    }
+  },
+  {
+    "question": "What percentage of cooperative surplus must be placed in a statutory reserve?",
+    "answer": "Not found in context",
+    "page": 28,
+    "question_id": "idbp-u-026",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "540836c76deee925e87f4f0442b12c787bbd904187009e79864b262b071b99cf",
+      "48952c719f2a5fa738d0d87070bd775073b1fef87857b29b6683e090c857b6dd"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "The referenced handbook page contains a related topic, but the requested fact is not stated in the frozen corpus.",
+    "source_section": "Demokrasi Kooperatif / Manajemen Demokrasi",
+    "source_page_verified": 28,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control",
+    "selection_basis": "original_100x100_plus_docling_page_provenance",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "page_provenance_mapped",
+      "mapping_method": "docling_page_to_frozen_chroma_chunk",
+      "manual_semantic_review_required_before_final_selection": true
+    }
+  },
+  {
+    "question": "What tax rate applies to income earned by a farmer corporation?",
+    "answer": "Not found in context",
+    "page": 25,
+    "question_id": "idbp-u-028",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "e81f93b5ba5903249b4bb506bf5d4edd1238b5daa4314bffcddba04b4ae1a9c0"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "The referenced handbook page contains a related topic, but the requested fact is not stated in the frozen corpus.",
+    "source_section": "TUJUAN PENGEMBANGAN KORPORASI",
+    "source_page_verified": 25,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control",
+    "selection_basis": "original_100x100_plus_docling_page_provenance",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "page_provenance_mapped",
+      "mapping_method": "docling_page_to_frozen_chroma_chunk",
+      "manual_semantic_review_required_before_final_selection": true
+    }
+  },
+  {
+    "question": "How many farmer corporations had completed the development process under Regulation No. 3 of 2024?",
+    "answer": "Not found in context",
+    "page": 27,
+    "question_id": "idbp-u-029",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "540836c76deee925e87f4f0442b12c787bbd904187009e79864b262b071b99cf",
+      "48952c719f2a5fa738d0d87070bd775073b1fef87857b29b6683e090c857b6dd"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "The referenced handbook page contains a related topic, but the requested fact is not stated in the frozen corpus.",
+    "source_section": "Demokrasi Kooperatif / Manajemen Demokrasi",
+    "source_page_verified": 27,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control",
+    "selection_basis": "original_100x100_plus_docling_page_provenance",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "page_provenance_mapped",
+      "mapping_method": "docling_page_to_frozen_chroma_chunk",
+      "manual_semantic_review_required_before_final_selection": true
+    }
+  },
+  {
+    "question": "What dispute-resolution body handles disagreements between Brigade Pangan and partner farmer groups?",
+    "answer": "Not found in context",
+    "page": 29,
+    "question_id": "idbp-u-030",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "dca6165921ab1f69a4fab3b1bd7603b32dd84ad55ca343ca5c443860ece916e9",
+      "d2527504c146633b4cabbc4078b3b66c4390a07b6463d22654a8d57c46d61b71"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "The referenced handbook page contains a related topic, but the requested fact is not stated in the frozen corpus.",
+    "source_section": "POLA KEMITRAAN / ' KELOMPOK TANI MITRA'",
+    "source_page_verified": 29,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control",
+    "selection_basis": "original_100x100_plus_docling_page_provenance",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "page_provenance_mapped",
+      "mapping_method": "docling_page_to_frozen_chroma_chunk",
+      "manual_semantic_review_required_before_final_selection": true
+    }
+  },
+  {
+    "question": "What maximum annual rainfall is considered suitable for tidal swamp rice?",
+    "answer": "Not found in context",
+    "page": 34,
+    "question_id": "idbp-u-031",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "627e1ebdf46de020e344bcbee9a58c9a091e19f04d8a26e673a8a601bdb2e73c"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "The referenced handbook page contains a related topic, but the requested fact is not stated in the frozen corpus.",
+    "source_section": "LAHAN PASANG SURUT",
+    "source_page_verified": 34,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control",
+    "selection_basis": "original_100x100_plus_docling_page_provenance",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "page_provenance_mapped",
+      "mapping_method": "docling_page_to_frozen_chroma_chunk",
+      "manual_semantic_review_required_before_final_selection": true
+    }
+  },
+  {
+    "question": "What salinity threshold makes tidal swamp land unsuitable for rice?",
+    "answer": "Not found in context",
+    "page": 34,
+    "question_id": "idbp-u-032",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "627e1ebdf46de020e344bcbee9a58c9a091e19f04d8a26e673a8a601bdb2e73c"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "The referenced handbook page contains a related topic, but the requested fact is not stated in the frozen corpus.",
+    "source_section": "LAHAN PASANG SURUT",
+    "source_page_verified": 34,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control",
+    "selection_basis": "original_100x100_plus_docling_page_provenance",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "page_provenance_mapped",
+      "mapping_method": "docling_page_to_frozen_chroma_chunk",
+      "manual_semantic_review_required_before_final_selection": true
+    }
+  },
+  {
+    "question": "What laboratory pyrite concentration is classified as hazardous?",
+    "answer": "Not found in context",
+    "page": 38,
+    "question_id": "idbp-u-033",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "8313fd6994ddfbcf5f19ad032f5d292c3c9ce69eb1f3b73bc4730cd625b175a7"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "The referenced handbook page contains a related topic, but the requested fact is not stated in the frozen corpus.",
+    "source_section": "OKSIDASI PIRIT",
+    "source_page_verified": 38,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control",
+    "selection_basis": "original_100x100_plus_docling_page_provenance",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "page_provenance_mapped",
+      "mapping_method": "docling_page_to_frozen_chroma_chunk",
+      "manual_semantic_review_required_before_final_selection": true
+    }
+  },
+  {
+    "question": "How many days does pyrite oxidation take after a canal exposes the layer?",
+    "answer": "Not found in context",
+    "page": 38,
+    "question_id": "idbp-u-034",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "8313fd6994ddfbcf5f19ad032f5d292c3c9ce69eb1f3b73bc4730cd625b175a7"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "The referenced handbook page contains a related topic, but the requested fact is not stated in the frozen corpus.",
+    "source_section": "OKSIDASI PIRIT",
+    "source_page_verified": 38,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control",
+    "selection_basis": "original_100x100_plus_docling_page_provenance",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "page_provenance_mapped",
+      "mapping_method": "docling_page_to_frozen_chroma_chunk",
+      "manual_semantic_review_required_before_final_selection": true
+    }
+  },
+  {
+    "question": "What width and depth are specified for the primary and secondary tidal canals?",
+    "answer": "Not found in context",
+    "page": 41,
+    "question_id": "idbp-u-035",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "482b9de007c00e615e0b29b37e11e4deb144d0a05008a7f0c2cabc8ce1f016c0"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "The referenced handbook page contains a related topic, but the requested fact is not stated in the frozen corpus.",
+    "source_section": "RANCANGAN INFRASRUKTUR / Infrastruktur Tata  Air Makro (sistem satu arah)",
+    "source_page_verified": 41,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control",
+    "selection_basis": "original_100x100_plus_docling_page_provenance",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "page_provenance_mapped",
+      "mapping_method": "docling_page_to_frozen_chroma_chunk",
+      "manual_semantic_review_required_before_final_selection": true
+    }
+  },
+  {
+    "question": "What material must automatic flap gates be made from?",
+    "answer": "Not found in context",
+    "page": 40,
+    "question_id": "idbp-u-036",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "9301585e2249e7196cfac01795cef3a273bb0e9d22ee3742dfd7df8ed6b8c734"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "The referenced handbook page contains a related topic, but the requested fact is not stated in the frozen corpus.",
+    "source_section": "PENGELOLAAN AIR / Teknik Pengelolaan Air:",
+    "source_page_verified": 40,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control",
+    "selection_basis": "original_100x100_plus_docling_page_provenance",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "page_provenance_mapped",
+      "mapping_method": "docling_page_to_frozen_chroma_chunk",
+      "manual_semantic_review_required_before_final_selection": true
+    }
+  },
+  {
+    "question": "What pump discharge capacity is recommended for a type-C tidal field?",
+    "answer": "Not found in context",
+    "page": 40,
+    "question_id": "idbp-u-037",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "9301585e2249e7196cfac01795cef3a273bb0e9d22ee3742dfd7df8ed6b8c734"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "The referenced handbook page contains a related topic, but the requested fact is not stated in the frozen corpus.",
+    "source_section": "PENGELOLAAN AIR / Teknik Pengelolaan Air:",
+    "source_page_verified": 40,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control",
+    "selection_basis": "original_100x100_plus_docling_page_provenance",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "page_provenance_mapped",
+      "mapping_method": "docling_page_to_frozen_chroma_chunk",
+      "manual_semantic_review_required_before_final_selection": true
+    }
+  },
+  {
+    "question": "What is the construction cost per hectare for a polder system?",
+    "answer": "Not found in context",
+    "page": 47,
+    "question_id": "idbp-u-038",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "8b1466f0dc6109bc39415464d6b2e1687be06a9e111c0d9bc8a332abfd3f03d9"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "The referenced handbook page contains a related topic, but the requested fact is not stated in the frozen corpus.",
+    "source_section": "TEKNOLOGI PENGELOLAAN",
+    "source_page_verified": 47,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control",
+    "selection_basis": "original_100x100_plus_docling_page_provenance",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "page_provenance_mapped",
+      "mapping_method": "docling_page_to_frozen_chroma_chunk",
+      "manual_semantic_review_required_before_final_selection": true
+    }
+  },
+  {
+    "question": "Which commercial brand of glyphosate does the handbook recommend?",
+    "answer": "Not found in context",
+    "page": 42,
+    "question_id": "idbp-u-039",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "4744c4c2fd841d3bf2d566d99e406e724a85d517ccf81d41c448bb9646a22b41"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "The referenced handbook page contains a related topic, but the requested fact is not stated in the frozen corpus.",
+    "source_section": "PENGOLAHAN TANAH",
+    "source_page_verified": 42,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control",
+    "selection_basis": "original_100x100_plus_docling_page_provenance",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "page_provenance_mapped",
+      "mapping_method": "docling_page_to_frozen_chroma_chunk",
+      "manual_semantic_review_required_before_final_selection": true
+    }
+  },
+  {
+    "question": "What personal protective equipment is mandated when glyphosate is sprayed by drone?",
+    "answer": "Not found in context",
+    "page": 42,
+    "question_id": "idbp-u-040",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "4744c4c2fd841d3bf2d566d99e406e724a85d517ccf81d41c448bb9646a22b41"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "The referenced handbook page contains a related topic, but the requested fact is not stated in the frozen corpus.",
+    "source_section": "PENGOLAHAN TANAH",
+    "source_page_verified": 42,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control",
+    "selection_basis": "original_100x100_plus_docling_page_provenance",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "page_provenance_mapped",
+      "mapping_method": "docling_page_to_frozen_chroma_chunk",
+      "manual_semantic_review_required_before_final_selection": true
+    }
+  },
+  {
+    "question": "What is the purchase price per kilogram of dolomite used in land amelioration?",
+    "answer": "Not found in context",
+    "page": 43,
+    "question_id": "idbp-u-041",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "64530c1537be4c115c652b86e8c62a05517c75bd192559217b9a272fb7f68e51"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "The referenced handbook page contains a related topic, but the requested fact is not stated in the frozen corpus.",
+    "source_section": "AMELIORASI LAHAN",
+    "source_page_verified": 43,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control",
+    "selection_basis": "original_100x100_plus_docling_page_provenance",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "page_provenance_mapped",
+      "mapping_method": "docling_page_to_frozen_chroma_chunk",
+      "manual_semantic_review_required_before_final_selection": true
+    }
+  },
+  {
+    "question": "How many years does a single lime application remain effective on tidal swamp soil?",
+    "answer": "Not found in context",
+    "page": 43,
+    "question_id": "idbp-u-042",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "64530c1537be4c115c652b86e8c62a05517c75bd192559217b9a272fb7f68e51"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "The referenced handbook page contains a related topic, but the requested fact is not stated in the frozen corpus.",
+    "source_section": "AMELIORASI LAHAN",
+    "source_page_verified": 43,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control",
+    "selection_basis": "original_100x100_plus_docling_page_provenance",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "page_provenance_mapped",
+      "mapping_method": "docling_page_to_frozen_chroma_chunk",
+      "manual_semantic_review_required_before_final_selection": true
+    }
+  },
+  {
+    "question": "What yield is reported for each of the local varieties Siam, Bayar, Pandak, and Karang Dukuh?",
+    "answer": "Not found in context",
+    "page": 44,
+    "question_id": "idbp-u-043",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "c13fa501644d7226af6e4cba1667a68aaf739452806273ec8dc25c45ee759683"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "The referenced handbook page contains a related topic, but the requested fact is not stated in the frozen corpus.",
+    "source_section": "PEMILIHAN VARIETAS PADI UNGGUL",
+    "source_page_verified": 44,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control",
+    "selection_basis": "original_100x100_plus_docling_page_provenance",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "page_provenance_mapped",
+      "mapping_method": "docling_page_to_frozen_chroma_chunk",
+      "manual_semantic_review_required_before_final_selection": true
+    }
+  },
+  {
+    "question": "Which agency certified the rice seed lots used in the handbook's field trials?",
+    "answer": "Not found in context",
+    "page": 57,
+    "question_id": "idbp-u-044",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "a6bd9cc7683d5e63b5ad4a3ebbe98d4c53d6ff623c55386cd9d11e6aed258fed"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "The referenced handbook page contains a related topic, but the requested fact is not stated in the frozen corpus.",
+    "source_section": "Persyaratan Benih / Persyaratan Varietas",
+    "source_page_verified": 57,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control",
+    "selection_basis": "original_100x100_plus_docling_page_provenance",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "page_provenance_mapped",
+      "mapping_method": "docling_page_to_frozen_chroma_chunk",
+      "manual_semantic_review_required_before_final_selection": true
+    }
+  },
+  {
+    "question": "What minimum germination percentage is required for seed to be accepted?",
+    "answer": "Not found in context",
+    "page": 57,
+    "question_id": "idbp-u-045",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "a6bd9cc7683d5e63b5ad4a3ebbe98d4c53d6ff623c55386cd9d11e6aed258fed"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "The referenced handbook page contains a related topic, but the requested fact is not stated in the frozen corpus.",
+    "source_section": "Persyaratan Benih / Persyaratan Varietas",
+    "source_page_verified": 57,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control",
+    "selection_basis": "original_100x100_plus_docling_page_provenance",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "page_provenance_mapped",
+      "mapping_method": "docling_page_to_frozen_chroma_chunk",
+      "manual_semantic_review_required_before_final_selection": true
+    }
+  },
+  {
+    "question": "How many kilograms of seed per hectare are required for each listed variety?",
+    "answer": "Not found in context",
+    "page": 61,
+    "question_id": "idbp-u-047",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "8b42552c931ed29ab44dbc9b8c037024c7369c30a7306aad61efc6a30b142913",
+      "f0efe833aedf8815548d258cd394385cf68d9da75d36dcd81e7f59f7a34d0e27"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "The referenced handbook page contains a related topic, but the requested fact is not stated in the frozen corpus.",
+    "source_section": "VARIETAS UNGGUL UNTUK LAHAN RAWA PASANG SURUT",
+    "source_page_verified": 61,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control",
+    "selection_basis": "original_100x100_plus_docling_page_provenance",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "page_provenance_mapped",
+      "mapping_method": "docling_page_to_frozen_chroma_chunk",
+      "manual_semantic_review_required_before_final_selection": true
+    }
+  },
+  {
+    "question": "What salt concentration should be used for manual selection of filled seed?",
+    "answer": "Not found in context",
+    "page": 63,
+    "question_id": "idbp-u-048",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "53c8fea8cd70591aac7f5148d165ce89a3836b57373a81f77a999d114d34bf38",
+      "50c01bda97da9066e4d4ee2839b7e265b80c3edfb7b3d6b2fcabe7b75ed4b18d"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "The referenced handbook page contains a related topic, but the requested fact is not stated in the frozen corpus.",
+    "source_section": "TEKNIK PERSEMAIAN / Tahapan :",
+    "source_page_verified": 63,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control",
+    "selection_basis": "original_100x100_plus_docling_page_provenance",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "page_provenance_mapped",
+      "mapping_method": "docling_page_to_frozen_chroma_chunk",
+      "manual_semantic_review_required_before_final_selection": true
+    }
+  },
+  {
+    "question": "What dimensions should a conventional field nursery bed have?",
+    "answer": "Not found in context",
+    "page": 65,
+    "question_id": "idbp-u-049",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "bc616c01562b8bbfeef14686f23b21b1bd75975180241ac79722ff9124f42624",
+      "28eb8ea5595f63eeeb7433d2d95828fd69898f6ab3995e2cea0532fc5f9a907c"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "The referenced handbook page contains a related topic, but the requested fact is not stated in the frozen corpus.",
+    "source_section": "Tahap Penyemaian benih : / Metode Semai",
+    "source_page_verified": 65,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control",
+    "selection_basis": "original_100x100_plus_docling_page_provenance",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "page_provenance_mapped",
+      "mapping_method": "docling_page_to_frozen_chroma_chunk",
+      "manual_semantic_review_required_before_final_selection": true
+    }
+  },
+  {
+    "question": "What is the recommended sowing direction relative to prevailing wind?",
+    "answer": "Not found in context",
+    "page": 66,
+    "question_id": "idbp-u-050",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "53d49fc18a6aa3be64f10d4d126ce32d0b0d9664cd9999a9e003d207a907d069"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "The referenced handbook page contains a related topic, but the requested fact is not stated in the frozen corpus.",
+    "source_section": "SISTEM PENANAMAN",
+    "source_page_verified": 66,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control",
+    "selection_basis": "original_100x100_plus_docling_page_provenance",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "page_provenance_mapped",
+      "mapping_method": "docling_page_to_frozen_chroma_chunk",
+      "manual_semantic_review_required_before_final_selection": true
+    }
+  },
+  {
+    "question": "What exact percentage increase in labor cost is expected when TABELA requires extra weeding?",
+    "answer": "Not found in context",
+    "page": 68,
+    "question_id": "idbp-u-051",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "6031cf6353d7296afeb5331e82bb96e04618c0f0d03cdcd3cda768b06538140e"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "The referenced handbook page contains a related topic, but the requested fact is not stated in the frozen corpus.",
+    "source_section": "Model Tabela : / Kendala Tabela:",
+    "source_page_verified": 68,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control",
+    "selection_basis": "original_100x100_plus_docling_page_provenance",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "page_provenance_mapped",
+      "mapping_method": "docling_page_to_frozen_chroma_chunk",
+      "manual_semantic_review_required_before_final_selection": true
+    }
+  },
+  {
+    "question": "What daily irrigation volume per hectare is recommended during vegetative growth?",
+    "answer": "Not found in context",
+    "page": 72,
+    "question_id": "idbp-u-052",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "2541fd3221bd415f5582ea5acc1533b696bfa84b6145395d0a636d651ca5afc5",
+      "65b49a98bfe77197b42bfd831f5fcd287d0d85cf7642d4e3009e3cbec1d6a6c8"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "The referenced handbook page contains a related topic, but the requested fact is not stated in the frozen corpus.",
+    "source_section": "FASE PERTUMBUHAN PADI",
+    "source_page_verified": 72,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control",
+    "selection_basis": "original_100x100_plus_docling_page_provenance",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "page_provenance_mapped",
+      "mapping_method": "docling_page_to_frozen_chroma_chunk",
+      "manual_semantic_review_required_before_final_selection": true
+    }
+  },
+  {
+    "question": "At what groundwater depth should intermittent drainage be stopped?",
+    "answer": "Not found in context",
+    "page": 72,
+    "question_id": "idbp-u-053",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "2541fd3221bd415f5582ea5acc1533b696bfa84b6145395d0a636d651ca5afc5",
+      "65b49a98bfe77197b42bfd831f5fcd287d0d85cf7642d4e3009e3cbec1d6a6c8"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "The referenced handbook page contains a related topic, but the requested fact is not stated in the frozen corpus.",
+    "source_section": "FASE PERTUMBUHAN PADI",
+    "source_page_verified": 72,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control",
+    "selection_basis": "original_100x100_plus_docling_page_provenance",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "page_provenance_mapped",
+      "mapping_method": "docling_page_to_frozen_chroma_chunk",
+      "manual_semantic_review_required_before_final_selection": true
+    }
+  },
+  {
+    "question": "What leaf-color-chart reading triggers the second nitrogen topdressing?",
+    "answer": "Not found in context",
+    "page": 81,
+    "question_id": "idbp-u-054",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "578f24918815f3f091ad51881ee0a0114d182d8d002d63af6278308dedd3714d",
+      "00a8cb1d23e6807e0286c6ce205f7eb82295b8457a419bae75e888a6ef4fa79a"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "The referenced handbook page contains a related topic, but the requested fact is not stated in the frozen corpus.",
+    "source_section": "PEMUPUKAN",
+    "source_page_verified": 81,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control",
+    "selection_basis": "original_100x100_plus_docling_page_provenance",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "page_provenance_mapped",
+      "mapping_method": "docling_page_to_frozen_chroma_chunk",
+      "manual_semantic_review_required_before_final_selection": true
+    }
+  },
+  {
+    "question": "What soil-test phosphorus value is considered deficient under PUTR?",
+    "answer": "Not found in context",
+    "page": 79,
+    "question_id": "idbp-u-055",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "3052d90d8cd171cb5e3030d543896cdfa6631a4a104c48fa766d72a1ae81f3c3"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "The referenced handbook page contains a related topic, but the requested fact is not stated in the frozen corpus.",
+    "source_section": "ALTERNATIF SOLUSI",
+    "source_page_verified": 79,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control",
+    "selection_basis": "original_100x100_plus_docling_page_provenance",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "page_provenance_mapped",
+      "mapping_method": "docling_page_to_frozen_chroma_chunk",
+      "manual_semantic_review_required_before_final_selection": true
+    }
+  },
+  {
+    "question": "Which species of green manure is preferred for returning organic matter?",
+    "answer": "Not found in context",
+    "page": 79,
+    "question_id": "idbp-u-057",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "3052d90d8cd171cb5e3030d543896cdfa6631a4a104c48fa766d72a1ae81f3c3"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "The referenced handbook page contains a related topic, but the requested fact is not stated in the frozen corpus.",
+    "source_section": "ALTERNATIF SOLUSI",
+    "source_page_verified": 79,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control",
+    "selection_basis": "original_100x100_plus_docling_page_provenance",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "page_provenance_mapped",
+      "mapping_method": "docling_page_to_frozen_chroma_chunk",
+      "manual_semantic_review_required_before_final_selection": true
+    }
+  },
+  {
+    "question": "How many total days are required for layered compost to become ready for use?",
+    "answer": "Not found in context",
+    "page": 84,
+    "question_id": "idbp-u-059",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "77830c86e6e4b456d7a5e57449bda4af1306139b68360014353e8a1fcbd92751",
+      "24ab69d586e429b7e9c8c9d8b1fe5775001112e8907dfe4c700bc8e9971a1982"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "The referenced handbook page contains a related topic, but the requested fact is not stated in the frozen corpus.",
+    "source_section": "Pembuatan : / PEMUPUKAN",
+    "source_page_verified": 84,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control",
+    "selection_basis": "original_100x100_plus_docling_page_provenance",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "page_provenance_mapped",
+      "mapping_method": "docling_page_to_frozen_chroma_chunk",
+      "manual_semantic_review_required_before_final_selection": true
+    }
+  },
+  {
+    "question": "What ingredients and proportions are used to prepare the MOL solution?",
+    "answer": "Not found in context",
+    "page": 84,
+    "question_id": "idbp-u-061",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "77830c86e6e4b456d7a5e57449bda4af1306139b68360014353e8a1fcbd92751",
+      "24ab69d586e429b7e9c8c9d8b1fe5775001112e8907dfe4c700bc8e9971a1982"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "The referenced handbook page contains a related topic, but the requested fact is not stated in the frozen corpus.",
+    "source_section": "Pembuatan : / PEMUPUKAN",
+    "source_page_verified": 84,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control",
+    "selection_basis": "original_100x100_plus_docling_page_provenance",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "page_provenance_mapped",
+      "mapping_method": "docling_page_to_frozen_chroma_chunk",
+      "manual_semantic_review_required_before_final_selection": true
+    }
+  },
+  {
+    "question": "What field-incidence threshold triggers chemical treatment for bacterial leaf blight?",
+    "answer": "Not found in context",
+    "page": 87,
+    "question_id": "idbp-u-062",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "1ba933e9f594378295da3ad1bd8b90fab180be47bf29a0ac59b6852ac0bbf4ac"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "The referenced handbook page contains a related topic, but the requested fact is not stated in the frozen corpus.",
+    "source_section": "HAWAR DAUN BAKTERI (HDB) / Gejala Serangan :",
+    "source_page_verified": 87,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control",
+    "selection_basis": "original_100x100_plus_docling_page_provenance",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "page_provenance_mapped",
+      "mapping_method": "docling_page_to_frozen_chroma_chunk",
+      "manual_semantic_review_required_before_final_selection": true
+    }
+  },
+  {
+    "question": "Which fungicide brand and dose are recommended for neck blast?",
+    "answer": "Not found in context",
+    "page": 88,
+    "question_id": "idbp-u-063",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "22dd714c1d42734361f31e2a3023285a09adbeb034c5e131f0f21db04702c78a"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "The referenced handbook page contains a related topic, but the requested fact is not stated in the frozen corpus.",
+    "source_section": "Gejala Serangan : / PENYAKIT UTAMA PADI",
+    "source_page_verified": 88,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control",
+    "selection_basis": "original_100x100_plus_docling_page_provenance",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "page_provenance_mapped",
+      "mapping_method": "docling_page_to_frozen_chroma_chunk",
+      "manual_semantic_review_required_before_final_selection": true
+    }
+  },
+  {
+    "question": "Which insect species transmits tungro in the fields described by the handbook?",
+    "answer": "Not found in context",
+    "page": 89,
+    "question_id": "idbp-u-064",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "efdd46f5cb21b92f08514e968aca4591a5d5e4a16ad434aea5fcc9d47c40f4c9"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "The referenced handbook page contains a related topic, but the requested fact is not stated in the frozen corpus.",
+    "source_section": "Penyakit Tungro",
+    "source_page_verified": 89,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control",
+    "selection_basis": "original_100x100_plus_docling_page_provenance",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "page_provenance_mapped",
+      "mapping_method": "docling_page_to_frozen_chroma_chunk",
+      "manual_semantic_review_required_before_final_selection": true
+    }
+  },
+  {
+    "question": "How many brown planthoppers per hill constitute an economic threshold?",
+    "answer": "Not found in context",
+    "page": 94,
+    "question_id": "idbp-u-065",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "f533a99352a2232dfcb62cdd888fee4ccbed047273ff2bace23b68d66ee7d307"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "The referenced handbook page contains a related topic, but the requested fact is not stated in the frozen corpus.",
+    "source_section": "HAMA UTAMA PADI / Wereng Batang Coklat",
+    "source_page_verified": 94,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control",
+    "selection_basis": "original_100x100_plus_docling_page_provenance",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "page_provenance_mapped",
+      "mapping_method": "docling_page_to_frozen_chroma_chunk",
+      "manual_semantic_review_required_before_final_selection": true
+    }
+  },
+  {
+    "question": "What light-trap density per hectare is recommended for monitoring rice stem borers?",
+    "answer": "Not found in context",
+    "page": 96,
+    "question_id": "idbp-u-066",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "47d921d42bc9b1f53eeff2bdaed7bd3dc6de042d981ab0cfadb17250aae634de"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "The referenced handbook page contains a related topic, but the requested fact is not stated in the frozen corpus.",
+    "source_section": "HAMA UTAMA PADI / Penggerek Batang padi",
+    "source_page_verified": 96,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control",
+    "selection_basis": "original_100x100_plus_docling_page_provenance",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "page_provenance_mapped",
+      "mapping_method": "docling_page_to_frozen_chroma_chunk",
+      "manual_semantic_review_required_before_final_selection": true
+    }
+  },
+  {
+    "question": "Which rodenticide active ingredient should be used during the early vegetative stage?",
+    "answer": "Not found in context",
+    "page": 100,
+    "question_id": "idbp-u-067",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "603352df759523ccbe52f1ade0a77aaaa5e2646645a982f664d6164bcc64f9ac"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "The referenced handbook page contains a related topic, but the requested fact is not stated in the frozen corpus.",
+    "source_section": "1. Awal musim tanam : / HAMA UTAMA PADI",
+    "source_page_verified": 100,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "dense_failure",
+    "selection_basis": "original_100x100_plus_docling_page_provenance",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "page_provenance_mapped",
+      "mapping_method": "docling_page_to_frozen_chroma_chunk",
+      "manual_semantic_review_required_before_final_selection": true
+    },
+    "dense_screening_tier": "B",
+    "dense_failure_count": 2,
+    "dense_correct_by_k": {
+      "1": true,
+      "3": false,
+      "5": false
+    },
+    "gold_best_rank": null,
+    "wrong_or_attractor_best_rank": 2,
+    "ambical_used_during_screening": false,
+    "dense_screening_status": "selected"
+  },
+  {
+    "question": "What fumigant and dose should be placed in each active rat burrow?",
+    "answer": "Not found in context",
+    "page": 100,
+    "question_id": "idbp-u-068",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "603352df759523ccbe52f1ade0a77aaaa5e2646645a982f664d6164bcc64f9ac"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "The referenced handbook page contains a related topic, but the requested fact is not stated in the frozen corpus.",
+    "source_section": "1. Awal musim tanam : / HAMA UTAMA PADI",
+    "source_page_verified": 100,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control",
+    "selection_basis": "original_100x100_plus_docling_page_provenance",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "page_provenance_mapped",
+      "mapping_method": "docling_page_to_frozen_chroma_chunk",
+      "manual_semantic_review_required_before_final_selection": true
+    }
+  },
+  {
+    "question": "How frequently should field scouts inspect rice for pests and disease?",
+    "answer": "Not found in context",
+    "page": 101,
+    "question_id": "idbp-u-069",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "58f8578abd7afea19fd7c5cc4b393a5284b5582565ac08a96c64cd949aa8e995"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "The referenced handbook page contains a related topic, but the requested fact is not stated in the frozen corpus.",
+    "source_section": "STRATEGI PENGENDALIAN OPT PANGAN",
+    "source_page_verified": 101,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control",
+    "selection_basis": "original_100x100_plus_docling_page_provenance",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "page_provenance_mapped",
+      "mapping_method": "docling_page_to_frozen_chroma_chunk",
+      "manual_semantic_review_required_before_final_selection": true
+    }
+  },
+  {
+    "question": "What pesticide re-entry interval must workers observe after spraying?",
+    "answer": "Not found in context",
+    "page": 101,
+    "question_id": "idbp-u-070",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "58f8578abd7afea19fd7c5cc4b393a5284b5582565ac08a96c64cd949aa8e995"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "The referenced handbook page contains a related topic, but the requested fact is not stated in the frozen corpus.",
+    "source_section": "STRATEGI PENGENDALIAN OPT PANGAN",
+    "source_page_verified": 101,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control",
+    "selection_basis": "original_100x100_plus_docling_page_provenance",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "page_provenance_mapped",
+      "mapping_method": "docling_page_to_frozen_chroma_chunk",
+      "manual_semantic_review_required_before_final_selection": true
+    }
+  },
+  {
+    "question": "How many kilograms of rice were rejected in the handbook's SNI quality test?",
+    "answer": "Not found in context",
+    "page": 104,
+    "question_id": "idbp-u-071",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "bef5495a3053a8929ecec789e28e15761249d78584036f514588fb81a963d994"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "The referenced handbook page contains a related topic, but the requested fact is not stated in the frozen corpus.",
+    "source_section": "SYARAT MUTU BERAS (SNI 6128-2008)",
+    "source_page_verified": 104,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control",
+    "selection_basis": "original_100x100_plus_docling_page_provenance",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "page_provenance_mapped",
+      "mapping_method": "docling_page_to_frozen_chroma_chunk",
+      "manual_semantic_review_required_before_final_selection": true
+    }
+  },
+  {
+    "question": "Which accredited laboratory performed the rice-quality measurements?",
+    "answer": "Not found in context",
+    "page": 105,
+    "question_id": "idbp-u-072",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "7d47839f1af122ddf9c731e984bc8bf8cdee5ce2aa842c036515be7aceb83747",
+      "5d357d7315cbcf32b3db4b463188502abc219084c08ac22ee58b83294e8755b5"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "The referenced handbook page contains a related topic, but the requested fact is not stated in the frozen corpus.",
+    "source_section": "❑ Butir Patah / ❑ Butir Menir",
+    "source_page_verified": 105,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control",
+    "selection_basis": "original_100x100_plus_docling_page_provenance",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "page_provenance_mapped",
+      "mapping_method": "docling_page_to_frozen_chroma_chunk",
+      "manual_semantic_review_required_before_final_selection": true
+    }
+  },
+  {
+    "question": "What postharvest-loss percentage was measured specifically for Brigade Pangan farms in 2024?",
+    "answer": "Not found in context",
+    "page": 107,
+    "question_id": "idbp-u-074",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "4da8baab65202c09460d3184e02009432df164e66cfd5ece4be9cf786b3bdb71"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "The referenced handbook page contains a related topic, but the requested fact is not stated in the frozen corpus.",
+    "source_section": "TINGKAT KEHILANGAN PASCAPANEN",
+    "source_page_verified": 107,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control",
+    "selection_basis": "original_100x100_plus_docling_page_provenance",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "page_provenance_mapped",
+      "mapping_method": "docling_page_to_frozen_chroma_chunk",
+      "manual_semantic_review_required_before_final_selection": true
+    }
+  },
+  {
+    "question": "What maximum dryer temperature is recommended to prevent cracked kernels?",
+    "answer": "Not found in context",
+    "page": 119,
+    "question_id": "idbp-u-075",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "8daf432840785327c19ad4efc3bc8963919d1edf768dc3100feee73ce8533066",
+      "ebdc9a9edb632b2beef8981e35cc38a0c7af4a6425158fcf714754acda829dc5"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "The referenced handbook page contains a related topic, but the requested fact is not stated in the frozen corpus.",
+    "source_section": "PENGERINGAN / PENJEMURAN",
+    "source_page_verified": 119,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control",
+    "selection_basis": "original_100x100_plus_docling_page_provenance",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "page_provenance_mapped",
+      "mapping_method": "docling_page_to_frozen_chroma_chunk",
+      "manual_semantic_review_required_before_final_selection": true
+    }
+  },
+  {
+    "question": "How many hours should grain remain in a mechanical dryer at 24 percent moisture?",
+    "answer": "Not found in context",
+    "page": 119,
+    "question_id": "idbp-u-076",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "8daf432840785327c19ad4efc3bc8963919d1edf768dc3100feee73ce8533066",
+      "ebdc9a9edb632b2beef8981e35cc38a0c7af4a6425158fcf714754acda829dc5"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "The referenced handbook page contains a related topic, but the requested fact is not stated in the frozen corpus.",
+    "source_section": "PENGERINGAN / PENJEMURAN",
+    "source_page_verified": 119,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control",
+    "selection_basis": "original_100x100_plus_docling_page_provenance",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "page_provenance_mapped",
+      "mapping_method": "docling_page_to_frozen_chroma_chunk",
+      "manual_semantic_review_required_before_final_selection": true
+    }
+  },
+  {
+    "question": "For how many months can 14-percent-moisture grain be stored at 25-30 degrees Celsius?",
+    "answer": "Not found in context",
+    "page": 120,
+    "question_id": "idbp-u-078",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "ba8725e2b7ef3946f53f23b294d812414661b0b210f950179108398faf039a69",
+      "e22c4bc2256ab5580af96f56257635b1d75517175715ff123643e602537faae2"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "The referenced handbook page contains a related topic, but the requested fact is not stated in the frozen corpus.",
+    "source_section": "PENYIMPANAN GABAH / PENGGILINGAN",
+    "source_page_verified": 120,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control",
+    "selection_basis": "original_100x100_plus_docling_page_provenance",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "page_provenance_mapped",
+      "mapping_method": "docling_page_to_frozen_chroma_chunk",
+      "manual_semantic_review_required_before_final_selection": true
+    }
+  },
+  {
+    "question": "Which rice-mill model achieved the stated 70 percent optimum recovery?",
+    "answer": "Not found in context",
+    "page": 120,
+    "question_id": "idbp-u-079",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "ba8725e2b7ef3946f53f23b294d812414661b0b210f950179108398faf039a69",
+      "e22c4bc2256ab5580af96f56257635b1d75517175715ff123643e602537faae2"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "The referenced handbook page contains a related topic, but the requested fact is not stated in the frozen corpus.",
+    "source_section": "PENYIMPANAN GABAH / PENGGILINGAN",
+    "source_page_verified": 120,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control",
+    "selection_basis": "original_100x100_plus_docling_page_provenance",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "page_provenance_mapped",
+      "mapping_method": "docling_page_to_frozen_chroma_chunk",
+      "manual_semantic_review_required_before_final_selection": true
+    }
+  },
+  {
+    "question": "What exact tire pressure is specified for the four-wheel tractor?",
+    "answer": "Not found in context",
+    "page": 126,
+    "question_id": "idbp-u-081",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "497a49cb7273ca1139b626245baeb9c63cb67340a24dc6004cbe80a7c8b2076d"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "The referenced handbook page contains a related topic, but the requested fact is not stated in the frozen corpus.",
+    "source_section": "Angin Ban, Tuas dan Accu / PENGOPERASIAN TRAKTOR RODA 4",
+    "source_page_verified": 126,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control",
+    "selection_basis": "original_100x100_plus_docling_page_provenance",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "page_provenance_mapped",
+      "mapping_method": "docling_page_to_frozen_chroma_chunk",
+      "manual_semantic_review_required_before_final_selection": true
+    }
+  },
+  {
+    "question": "What is the maximum safe slope for operating the four-wheel tractor?",
+    "answer": "Not found in context",
+    "page": 128,
+    "question_id": "idbp-u-082",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "c265f70ee9bf2a71f8988a1948b7840fe6442c2befb7dbbb526151eda4265a26"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "The referenced handbook page contains a related topic, but the requested fact is not stated in the frozen corpus.",
+    "source_section": "PENGOPERASIAN TRAKTOR RODA 4",
+    "source_page_verified": 128,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control",
+    "selection_basis": "original_100x100_plus_docling_page_provenance",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "page_provenance_mapped",
+      "mapping_method": "docling_page_to_frozen_chroma_chunk",
+      "manual_semantic_review_required_before_final_selection": true
+    }
+  },
+  {
+    "question": "How much diesel does the rice transplanter consume per hectare?",
+    "answer": "Not found in context",
+    "page": 136,
+    "question_id": "idbp-u-083",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "abb8a0336a3c10ed6b02321dffdfb47f5c7645dd4c803aff021c4f5686f952bb"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "The referenced handbook page contains a related topic, but the requested fact is not stated in the frozen corpus.",
+    "source_section": "PENGOPERASIAN TRANSPLANTER",
+    "source_page_verified": 136,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control",
+    "selection_basis": "original_100x100_plus_docling_page_provenance",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "page_provenance_mapped",
+      "mapping_method": "docling_page_to_frozen_chroma_chunk",
+      "manual_semantic_review_required_before_final_selection": true
+    }
+  },
+  {
+    "question": "What operator license is required to use a rice transplanter?",
+    "answer": "Not found in context",
+    "page": 137,
+    "question_id": "idbp-u-084",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "cd8c7113604bfc29ad86d626b1bdb659f6feb19f91ca4b1e209701e39da201ad",
+      "a68f91961581268176c136a0df2d7ef6643e19d59b78b167fff570c2cefde4e5"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "The referenced handbook page contains a related topic, but the requested fact is not stated in the frozen corpus.",
+    "source_section": "PENGOPERASIAN TRANSPLANTER",
+    "source_page_verified": 137,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control",
+    "selection_basis": "original_100x100_plus_docling_page_provenance",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "page_provenance_mapped",
+      "mapping_method": "docling_page_to_frozen_chroma_chunk",
+      "manual_semantic_review_required_before_final_selection": true
+    }
+  },
+  {
+    "question": "What forward speed should be maintained while transplanting?",
+    "answer": "Not found in context",
+    "page": 139,
+    "question_id": "idbp-u-085",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "a23a0399e8f08fefe1382b945570ee42266306791234e87ec912bafa353c2be3",
+      "0c64fd08c0616ca4b6411ef92672e413b36aaf8776860f586faea9c2855fc243"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "The referenced handbook page contains a related topic, but the requested fact is not stated in the frozen corpus.",
+    "source_section": "MENANAM MENGGUNAKAN MESIN TANAM BIBIT PADI / Penanaman",
+    "source_page_verified": 139,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control",
+    "selection_basis": "original_100x100_plus_docling_page_provenance",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "page_provenance_mapped",
+      "mapping_method": "docling_page_to_frozen_chroma_chunk",
+      "manual_semantic_review_required_before_final_selection": true
+    }
+  },
+  {
+    "question": "What quantity of manure-and-soil medium is needed for one hectare of dapog seedlings?",
+    "answer": "Not found in context",
+    "page": 140,
+    "question_id": "idbp-u-086",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "a23a0399e8f08fefe1382b945570ee42266306791234e87ec912bafa353c2be3",
+      "0c64fd08c0616ca4b6411ef92672e413b36aaf8776860f586faea9c2855fc243"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "The referenced handbook page contains a related topic, but the requested fact is not stated in the frozen corpus.",
+    "source_section": "MENANAM MENGGUNAKAN MESIN TANAM BIBIT PADI / Penanaman",
+    "source_page_verified": 140,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control",
+    "selection_basis": "original_100x100_plus_docling_page_provenance",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "page_provenance_mapped",
+      "mapping_method": "docling_page_to_frozen_chroma_chunk",
+      "manual_semantic_review_required_before_final_selection": true
+    }
+  },
+  {
+    "question": "What cutting speed should be used by the mini combine harvester?",
+    "answer": "Not found in context",
+    "page": 144,
+    "question_id": "idbp-u-087",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "72dcc73cf30828ac0c73f4dd50c87d01579ba2c560d1aa194f6d2e66a6cba822",
+      "73093b8506ad21c035888e456aed4590eea2bdec6b148d57800c9d1455e3881b"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "The referenced handbook page contains a related topic, but the requested fact is not stated in the frozen corpus.",
+    "source_section": "03 / Cara Menjalankan",
+    "source_page_verified": 144,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control",
+    "selection_basis": "original_100x100_plus_docling_page_provenance",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "page_provenance_mapped",
+      "mapping_method": "docling_page_to_frozen_chroma_chunk",
+      "manual_semantic_review_required_before_final_selection": true
+    }
+  },
+  {
+    "question": "What is the replacement interval for the combine harvester's crawler tracks?",
+    "answer": "Not found in context",
+    "page": 142,
+    "question_id": "idbp-u-088",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "6ff5c588d10052f1c62a8dd73dfee88097172e2fac72ba18f0ccf588bb570c22"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "The referenced handbook page contains a related topic, but the requested fact is not stated in the frozen corpus.",
+    "source_section": "PENGOPERASIAN MINI COMBINE HARVESTER / PERSIAPAN :",
+    "source_page_verified": 142,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control",
+    "selection_basis": "original_100x100_plus_docling_page_provenance",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "page_provenance_mapped",
+      "mapping_method": "docling_page_to_frozen_chroma_chunk",
+      "manual_semantic_review_required_before_final_selection": true
+    }
+  },
+  {
+    "question": "What pump flow rate is required for a 200-hectare Brigade Pangan area?",
+    "answer": "Not found in context",
+    "page": 152,
+    "question_id": "idbp-u-089",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "e5ee99e961a76961e0e90c9e9146efcedcb6726c9b53c8c18125ddc24b63be83"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "The referenced handbook page contains a related topic, but the requested fact is not stated in the frozen corpus.",
+    "source_section": "PENGOPERASIAN POMPA AIR / PERBAIKAN (TROUBLE SHOOTING) POMPA AIR IRIGASI",
+    "source_page_verified": 152,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control",
+    "selection_basis": "original_100x100_plus_docling_page_provenance",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "page_provenance_mapped",
+      "mapping_method": "docling_page_to_frozen_chroma_chunk",
+      "manual_semantic_review_required_before_final_selection": true
+    }
+  },
+  {
+    "question": "What warranty period applies to the irrigation pump?",
+    "answer": "Not found in context",
+    "page": 152,
+    "question_id": "idbp-u-090",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "e5ee99e961a76961e0e90c9e9146efcedcb6726c9b53c8c18125ddc24b63be83"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "The referenced handbook page contains a related topic, but the requested fact is not stated in the frozen corpus.",
+    "source_section": "PENGOPERASIAN POMPA AIR / PERBAIKAN (TROUBLE SHOOTING) POMPA AIR IRIGASI",
+    "source_page_verified": 152,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control",
+    "selection_basis": "original_100x100_plus_docling_page_provenance",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "page_provenance_mapped",
+      "mapping_method": "docling_page_to_frozen_chroma_chunk",
+      "manual_semantic_review_required_before_final_selection": true
+    }
+  },
+  {
+    "question": "What exact land-rental payment is entered in the sample farm accounts?",
+    "answer": "Not found in context",
+    "page": 163,
+    "question_id": "idbp-u-092",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "d413f1381049e278efd545637c2312af4f3b1f5d2e664d7334faad80cc546de5"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "The referenced handbook page contains a related topic, but the requested fact is not stated in the frozen corpus.",
+    "source_section": "Biaya Produksi Lainnya",
+    "source_page_verified": 163,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control",
+    "selection_basis": "original_100x100_plus_docling_page_provenance",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "page_provenance_mapped",
+      "mapping_method": "docling_page_to_frozen_chroma_chunk",
+      "manual_semantic_review_required_before_final_selection": true
+    }
+  },
+  {
+    "question": "What is the numerical break-even production volume in the handbook's BEP example?",
+    "answer": "Not found in context",
+    "page": 172,
+    "question_id": "idbp-u-093",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "3401f88d7c29abed16268046fc30e8e9d1bcb4d40ab12efb36c7b2973478d92d",
+      "232fc5bbe2f9c0db3a70a15493f2e735287ec44f8c29fed3945fbd3b4ae34f9e"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "The referenced handbook page contains a related topic, but the requested fact is not stated in the frozen corpus.",
+    "source_section": "2. B / C Rasio / Artinya :",
+    "source_page_verified": 172,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control",
+    "selection_basis": "original_100x100_plus_docling_page_provenance",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "page_provenance_mapped",
+      "mapping_method": "docling_page_to_frozen_chroma_chunk",
+      "manual_semantic_review_required_before_final_selection": true
+    }
+  },
+  {
+    "question": "Which banks are named as approved KUR lenders for Brigade Pangan?",
+    "answer": "Not found in context",
+    "page": 176,
+    "question_id": "idbp-u-095",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "d388c06b371d894fe60a73a17cfb829476cdbaced6322dd5cb715d0dcfdbd0ce",
+      "1f085779747a2701b676f529ae96faab16378262e36eb036c05eab48a53007d5"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "The referenced handbook page contains a related topic, but the requested fact is not stated in the frozen corpus.",
+    "source_section": "PERSYARATAN LAIN PENGAJUAN KUR",
+    "source_page_verified": 176,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control",
+    "selection_basis": "original_100x100_plus_docling_page_provenance",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "page_provenance_mapped",
+      "mapping_method": "docling_page_to_frozen_chroma_chunk",
+      "manual_semantic_review_required_before_final_selection": true
+    }
+  },
+  {
+    "question": "How many working days does KUR approval take after an application is submitted?",
+    "answer": "Not found in context",
+    "page": 177,
+    "question_id": "idbp-u-098",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "d388c06b371d894fe60a73a17cfb829476cdbaced6322dd5cb715d0dcfdbd0ce",
+      "4cebe6873dc64567314f7fc64d4d6c84491808cb438203d738d24ac810350412"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "The referenced handbook page contains a related topic, but the requested fact is not stated in the frozen corpus.",
+    "source_section": "PERSYARATAN LAIN PENGAJUAN KUR",
+    "source_page_verified": 177,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control",
+    "selection_basis": "original_100x100_plus_docling_page_provenance",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "page_provenance_mapped",
+      "mapping_method": "docling_page_to_frozen_chroma_chunk",
+      "manual_semantic_review_required_before_final_selection": true
+    }
+  },
+  {
+    "question": "What default interest rate applies when a KUR installment is overdue?",
+    "answer": "Not found in context",
+    "page": 178,
+    "question_id": "idbp-u-100",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "4cebe6873dc64567314f7fc64d4d6c84491808cb438203d738d24ac810350412",
+      "e14294c869257027d173a01a5588ce2b6948087fa7e48b7f88198c54cf523e25"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "The referenced handbook page contains a related topic, but the requested fact is not stated in the frozen corpus.",
+    "source_section": "Simulasi KUR Super Mikro & Kur Mikro / Catatan :",
+    "source_page_verified": 178,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control",
+    "selection_basis": "original_100x100_plus_docling_page_provenance",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "page_provenance_mapped",
+      "mapping_method": "docling_page_to_frozen_chroma_chunk",
+      "manual_semantic_review_required_before_final_selection": true
+    }
+  }
+]

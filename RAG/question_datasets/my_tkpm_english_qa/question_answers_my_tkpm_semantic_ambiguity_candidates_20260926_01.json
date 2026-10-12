@@ -1,0 +1,1929 @@
+[
+ {
+  "question_id": "msa-022",
+  "question": "How often does the TKPM Development and Re-evaluation Committee meet?",
+  "answer": "As required, and at least once a year.",
+  "reference_answer": "As required, and at least once a year.",
+  "answerability": "answerable",
+  "target_term_en": "meeting frequency",
+  "target_term_ms": "Kekerapan Mesyuarat Jawatankuasa",
+  "intended_sense": "committee meeting frequency (as needed, at least once a year)",
+  "wrong_sense": "headquarters monitoring visits (twice a year) and the technical team's twice-yearly erosion-control KPI",
+  "ambiguity_type": "numerical_context_collision",
+  "gold_chunk_ids": [
+   "948413779ddd8d88761f42eea606583d46af247591aedd46df4c4f73ce4539d1"
+  ],
+  "equivalent_gold_chunk_ids": [],
+  "wrong_sense_chunk_ids": [
+   "db5f4ebd59230215e5b0c4358c67ac0ec14da90ae54f2c2a128bfa3be01aa5f4",
+   "3e9b492b38d4876b06558cc1443b92203b329e9d1ffa24b5e73e6d02582c14f6"
+  ],
+  "supporting_quote_ms": "Kekerapan: Mengikut keperluan (sekurang-kurangnya sekali setahun)",
+  "wrong_sense_quote_ms": "Pasukan pemantauan ibu pejabat akan turun ke lapangan sekurang-kurangnya dua (2) kali setahun",
+  "disambiguating_cues": [
+   "Development and Re-evaluation Committee",
+   "meet"
+  ],
+  "source_section": "7.3   Senarai Jawatankuasa Dan Skop Tugas",
+  "construction_rationale": "promoted after msa-001/msa-021-earlier drafts collided with original formal questions; three monitoring bodies carry different frequencies in one chapter",
+  "quality_scores": {
+   "natural_language": 1,
+   "answer_uniqueness": 1,
+   "gold_support_complete": 1,
+   "wrong_sense_plausible": 1,
+   "context_disambiguation_present": 1,
+   "no_answer_leakage": 1,
+   "no_ocr_dependency": 1,
+   "no_existing_question_overlap": 1,
+   "chunk_ids_valid": 1,
+   "human_explainable": 1
+  },
+  "dense_screening_status": "not_run",
+  "ambical_used_during_construction": false,
+  "selection_status": "selected"
+ },
+ {
+  "question_id": "msa-002",
+  "question": "Which two parties signed the Memorandum of Understanding for the TKPM programme?",
+  "answer": "The Ministry of Agriculture and Food Security (KPKM, formerly the Ministry of Agriculture Malaysia) and the State Government.",
+  "reference_answer": "The Ministry of Agriculture and Food Security (KPKM, formerly the Ministry of Agriculture Malaysia) and the State Government.",
+  "answerability": "answerable",
+  "target_term_en": "MoU signing parties",
+  "target_term_ms": "Perjanjian Persefahaman (MoU) TKPM",
+  "intended_sense": "ministry-state MoU partners",
+  "wrong_sense": "federal-state division of duties (state identifies land, federal funds infrastructure)",
+  "ambiguity_type": "institution_role_confusion",
+  "gold_chunk_ids": [
+   "6276e30176e58b747401a32bd5d153ab33d92efd1297edd41b5cb84dceb28b5e"
+  ],
+  "equivalent_gold_chunk_ids": [],
+  "wrong_sense_chunk_ids": [
+   "2b89adfda49ccd6ae6486810e34b41c0e27ece03a2b75d5936edaa5b01ad7f3d"
+  ],
+  "supporting_quote_ms": "satu (1) Perjanjian Persefahaman (MoU) TKPM di antara Kementerian Pertanian Dan Keterjaminan Makanan (KPKM) ... dengan Kerajaan Negeri telah dimeterai",
+  "wrong_sense_quote_ms": "Kerajaan Negeri bertanggungjawab untuk mengenalpasti tanah ... manakala Kerajaan Persekutuan akan membiayai kos pembangunan infrastruktur",
+  "disambiguating_cues": [
+   "Memorandum of Understanding",
+   "signed"
+  ],
+  "source_section": "1.1 Pengenalan Program Taman Kekal Pengeluaran Makanan (TKPM",
+  "construction_rationale": "the federal-state duty split names the same governments; only the MoU sentence identifies the signing parties",
+  "quality_scores": {
+   "natural_language": 1,
+   "answer_uniqueness": 1,
+   "gold_support_complete": 1,
+   "wrong_sense_plausible": 1,
+   "context_disambiguation_present": 1,
+   "no_answer_leakage": 1,
+   "no_ocr_dependency": 1,
+   "no_existing_question_overlap": 1,
+   "chunk_ids_valid": 1,
+   "human_explainable": 1
+  },
+  "dense_screening_status": "not_run",
+  "ambical_used_during_construction": false,
+  "selection_status": "selected"
+ },
+ {
+  "question_id": "msa-003",
+  "question": "What monthly net income does the TKPM programme aim to deliver to participants through better farm productivity?",
+  "answer": "At least RM3,000 per month.",
+  "reference_answer": "At least RM3,000 per month.",
+  "answerability": "answerable",
+  "target_term_en": "income target",
+  "target_term_ms": "pendapatan bersih peserta",
+  "intended_sense": "income objective (RM3,000 per month)",
+  "wrong_sense": "per-hectare development cost ceilings (RM80,000 to RM1,540,000)",
+  "ambiguity_type": "numerical_context_collision",
+  "gold_chunk_ids": [
+   "3650b02f6fd26879d43149f81e5e0665433db68b5f664ac6a097a8ecce5b2f83"
+  ],
+  "equivalent_gold_chunk_ids": [],
+  "wrong_sense_chunk_ids": [
+   "0fa4adecb69a112964535c594dfa14427916060ac1c648ddd3cbc9a7b4c443c9"
+  ],
+  "supporting_quote_ms": "Meningkatkan pendapatan bersih peserta projek melalui peningkatan produktiviti ladang sekurang-kurangnya RM3,000 sebulan",
+  "wrong_sense_quote_ms": "Sayur-Sayuran Maksimum RM109,000.00/ hektar Buah-Buahan Maksimum RM80,000.00/ hektar",
+  "disambiguating_cues": [
+   "monthly",
+   "net income",
+   "productivity"
+  ],
+  "source_section": "1.2 Objektif Program",
+  "construction_rationale": "RM figures appear for the income objective and for many development-cost ceilings; only the objective states a monthly income",
+  "quality_scores": {
+   "natural_language": 1,
+   "answer_uniqueness": 1,
+   "gold_support_complete": 1,
+   "wrong_sense_plausible": 1,
+   "context_disambiguation_present": 1,
+   "no_answer_leakage": 1,
+   "no_ocr_dependency": 1,
+   "no_existing_question_overlap": 1,
+   "chunk_ids_valid": 1,
+   "human_explainable": 1
+  },
+  "dense_screening_status": "not_run",
+  "ambical_used_during_construction": false,
+  "selection_status": "selected"
+ },
+ {
+  "question_id": "msa-004",
+  "question": "What is the maximum development cost per hectare for a rain-shelter structure with insect screening in the TKPM Usahawan Tanah Tinggi category?",
+  "answer": "Maximum RM1,540,000.00 per hectare.",
+  "reference_answer": "Maximum RM1,540,000.00 per hectare.",
+  "answerability": "answerable",
+  "target_term_en": "development cost ceiling",
+  "target_term_ms": "Kos Pembangunan Asas SPH Kalis Serangga",
+  "intended_sense": "highland SPH with insect screening (RM1,540,000/ha)",
+  "wrong_sense": "the identical lowland structure ceiling (RM1,467,000/ha)",
+  "ambiguity_type": "numerical_context_collision",
+  "gold_chunk_ids": [
+   "3cd99bdb66bb74256c4e57a5f3cbe7e3e33d813bf52fd975ece88adc768f0482"
+  ],
+  "equivalent_gold_chunk_ids": [],
+  "wrong_sense_chunk_ids": [
+   "47ae0c1e977c2760406d1e88bd81a2c39ee189ff207f09201a23e14eebd2d33f"
+  ],
+  "supporting_quote_ms": "TKPM Usahawan Tanah Tinggi | SPH Kalis Serangga | Maksimum RM1,540,000.00/hektar",
+  "wrong_sense_quote_ms": "TKPM Usahawan Tanah Rendah | SPH Kalis Serangga | Maksimum RM1,467,000.00/hektar",
+  "disambiguating_cues": [
+   "Tanah Tinggi",
+   "insect screening",
+   "per hectare"
+  ],
+  "source_section": "2.1 Kategori Program TKPM",
+  "construction_rationale": "the same structure name carries two ceilings that differ only by the lowland/highland category",
+  "quality_scores": {
+   "natural_language": 1,
+   "answer_uniqueness": 1,
+   "gold_support_complete": 1,
+   "wrong_sense_plausible": 1,
+   "context_disambiguation_present": 1,
+   "no_answer_leakage": 1,
+   "no_ocr_dependency": 1,
+   "no_existing_question_overlap": 1,
+   "chunk_ids_valid": 1,
+   "human_explainable": 1
+  },
+  "dense_screening_status": "not_run",
+  "ambical_used_during_construction": false,
+  "selection_status": "selected"
+ },
+ {
+  "question_id": "msa-005",
+  "question": "How soon must a TKPM participant start planting after accepting the offer letter?",
+  "answer": "Within three (3) months of the acceptance date.",
+  "reference_answer": "Within three (3) months of the acceptance date.",
+  "answerability": "answerable",
+  "target_term_en": "planting deadline",
+  "target_term_ms": "tempoh memulakan penanaman",
+  "intended_sense": "obligation to start planting (3 months)",
+  "wrong_sense": "the same 3-month figure treated as failure ground after warnings in the termination section",
+  "ambiguity_type": "procedure_stage_confusion",
+  "gold_chunk_ids": [
+   "861bec99ae093f0a0a8808ec83c06c7bbd3d71578e3bc7bdd6e60ef0bece242e"
+  ],
+  "equivalent_gold_chunk_ids": [
+   "d2bf4b5272b66aa266936c6b4599e43ed7242bc54f1ae31a549e2868e34f51d7"
+  ],
+  "wrong_sense_chunk_ids": [
+   "6a2a5b07dd44b5b18d4521abd1d8cf341b85d26900459225ab03b7516f834e30"
+  ],
+  "supporting_quote_ms": "memulakan penanaman di kawasan projek dalam tempoh tiga (3) bulan daripada tarikh setuju terima",
+  "wrong_sense_quote_ms": "Tiada aktiviti penanaman dalam tempoh tiga (3) bulan dari tarikh Surat Setuju Terima dan setelah surat amaran pertama dan kedua",
+  "disambiguating_cues": [
+   "accepting the offer",
+   "start planting"
+  ],
+  "source_section": "5.2 Kriteria dan Syarat-Syarat Pemilihan Peserta",
+  "construction_rationale": "the 3-month figure appears both as a participant obligation and (after warnings) as a termination trigger",
+  "quality_scores": {
+   "natural_language": 1,
+   "answer_uniqueness": 1,
+   "gold_support_complete": 1,
+   "wrong_sense_plausible": 1,
+   "context_disambiguation_present": 1,
+   "no_answer_leakage": 1,
+   "no_ocr_dependency": 1,
+   "no_existing_question_overlap": 1,
+   "chunk_ids_valid": 1,
+   "human_explainable": 1
+  },
+  "dense_screening_status": "not_run",
+  "ambical_used_during_construction": false,
+  "selection_status": "selected"
+ },
+ {
+  "question_id": "msa-006",
+  "question": "When must a TKPM participant obtain the myGAP or myOrganic certification?",
+  "answer": "Within two (2) years after the planted crop begins to yield.",
+  "reference_answer": "Within two (2) years after the planted crop begins to yield.",
+  "answerability": "answerable",
+  "target_term_en": "certification deadline",
+  "target_term_ms": "pensijilan myGAP/myOrganic",
+  "intended_sense": "certification acquisition deadline (2 years after harvest begins)",
+  "wrong_sense": "the pre-harvest application deadline (3 months before harvest) and MRL sample submissions",
+  "ambiguity_type": "procedure_stage_confusion",
+  "gold_chunk_ids": [
+   "67b4afcd557d905bc69654ad7d181b1ead6573acbaa8047d1ac24e8bc04c1a8e"
+  ],
+  "equivalent_gold_chunk_ids": [],
+  "wrong_sense_chunk_ids": [
+   "cf239c3ba8d0941c45d0bab76b1662d363030fbc5e16aa4e74ce88e9a73f1784"
+  ],
+  "supporting_quote_ms": "memperolehi pensijilan myGAP/myOrganic dalam tempoh dua (2) tahun setelah tanaman yang diusahakan berhasil",
+  "wrong_sense_quote_ms": "memberikan hasil tanaman kepada Jabatan Pertanian bagi tujuan analisa MRL (Tahap Maksima Sisa Baki Racun)",
+  "disambiguating_cues": [
+   "myGAP",
+   "myOrganic",
+   "obtain"
+  ],
+  "source_section": "5.2 Kriteria dan Syarat-Syarat Pemilihan Peserta",
+  "construction_rationale": "the certification lifecycle spans application (3 months before harvest), acquisition (2 years) and MRL sampling; only one stage answers the question",
+  "quality_scores": {
+   "natural_language": 1,
+   "answer_uniqueness": 1,
+   "gold_support_complete": 1,
+   "wrong_sense_plausible": 1,
+   "context_disambiguation_present": 1,
+   "no_answer_leakage": 1,
+   "no_ocr_dependency": 1,
+   "no_existing_question_overlap": 1,
+   "chunk_ids_valid": 1,
+   "human_explainable": 1
+  },
+  "dense_screening_status": "not_run",
+  "ambical_used_during_construction": false,
+  "selection_status": "selected"
+ },
+ {
+  "question_id": "msa-007",
+  "question": "What security deposit must be paid when a participant accepts a Federal Commissioner of Land lease offer?",
+  "answer": "A security deposit of three months' rent plus the first month's rent.",
+  "reference_answer": "A security deposit of three months' rent plus the first month's rent.",
+  "answerability": "answerable",
+  "target_term_en": "security deposit",
+  "target_term_ms": "wang cagaran",
+  "intended_sense": "deposit amount (3 months' rent + first month)",
+  "wrong_sense": "deposit forfeiture rules and utility-bill deductions at termination",
+  "ambiguity_type": "numerical_context_collision",
+  "gold_chunk_ids": [
+   "29ac6650120b223e449cea6f0e66efec96eb604f57436bebf11e4ed9a5845c53"
+  ],
+  "equivalent_gold_chunk_ids": [],
+  "wrong_sense_chunk_ids": [
+   "6244f8da4d8ac04c147737c6aafa285531d3dec599ddb7538f6fa60ac0f29d17"
+  ],
+  "supporting_quote_ms": "mengemukakan Surat Setuju Terima beserta wang cagaran dengan kadar tiga bulan sewa dan bayaran sewa bulan pertama",
+  "wrong_sense_quote_ms": "hak untuk merampas sebahagian atau semua wang cagaran berdasarkan kepada kadar sewaan atau bil-bil utiliti yang tertunggak",
+  "disambiguating_cues": [
+   "Federal Commissioner of Land",
+   "deposit",
+   "accept"
+  ],
+  "source_section": "5.4 Tempoh Pelaksanaan Projek",
+  "construction_rationale": "the wang cagaran word family spans the payment amount and the forfeiture procedure; only one states the amount",
+  "quality_scores": {
+   "natural_language": 1,
+   "answer_uniqueness": 1,
+   "gold_support_complete": 1,
+   "wrong_sense_plausible": 1,
+   "context_disambiguation_present": 1,
+   "no_answer_leakage": 1,
+   "no_ocr_dependency": 1,
+   "no_existing_question_overlap": 1,
+   "chunk_ids_valid": 1,
+   "human_explainable": 1
+  },
+  "dense_screening_status": "not_run",
+  "ambical_used_during_construction": false,
+  "selection_status": "selected"
+ },
+ {
+  "question_id": "msa-008",
+  "question": "Who signs a TKPM land rental or lease agreement with the participant?",
+  "answer": "Three parties: the landlord (Tuan Tanah), the Department, and the applicant (tripartite agreement).",
+  "reference_answer": "Three parties: the landlord (Tuan Tanah), the Department, and the applicant (tripartite agreement).",
+  "answerability": "answerable",
+  "target_term_en": "agreement signatories",
+  "target_term_ms": "perjanjian tiga pihak",
+  "intended_sense": "tripartite signing (landlord + department + applicant)",
+  "wrong_sense": "single-agency administrative procedures (Demis guidelines, department templates)",
+  "ambiguity_type": "institution_role_confusion",
+  "gold_chunk_ids": [
+   "69b7931eb4ae166a469b3aaf80e46adbb9939a40469fc6788a57eb88320e8e0b"
+  ],
+  "equivalent_gold_chunk_ids": [],
+  "wrong_sense_chunk_ids": [
+   "e622111622bd49e20afb708a92f1e0cb96637861a621f2c4bebd75425c624b92"
+  ],
+  "supporting_quote_ms": "menandatangani perjanjian pajakan atau perjanjian sewaan secara tiga (3) pihak (tripartite) antara Tuan Tanah, Jabatan dan pemohon",
+  "wrong_sense_quote_ms": "Garis Panduan Tadbir Urus Pengurusan Penyewaan Tanah Persekutuan oleh Jabatan/ Agensi Pengguna",
+  "disambiguating_cues": [
+   "rental or lease agreement",
+   "sign"
+  ],
+  "source_section": "5.6 Perjanjian",
+  "construction_rationale": "several chunks describe agreement procedures; only one names the three signing parties",
+  "quality_scores": {
+   "natural_language": 1,
+   "answer_uniqueness": 1,
+   "gold_support_complete": 1,
+   "wrong_sense_plausible": 1,
+   "context_disambiguation_present": 1,
+   "no_answer_leakage": 1,
+   "no_ocr_dependency": 1,
+   "no_existing_question_overlap": 1,
+   "chunk_ids_valid": 1,
+   "human_explainable": 1
+  },
+  "dense_screening_status": "not_run",
+  "ambical_used_during_construction": false,
+  "selection_status": "selected"
+ },
+ {
+  "question_id": "msa-009",
+  "question": "Who is responsible for maintaining TKPM infrastructure built on Federal Commissioner of Land (PTP) land?",
+  "answer": "The Federal Government.",
+  "reference_answer": "The Federal Government.",
+  "answerability": "answerable",
+  "target_term_en": "infrastructure maintenance duty",
+  "target_term_ms": "tanggungjawab penyelenggaraan infrastruktur",
+  "intended_sense": "maintenance on Federal land (Federal Government)",
+  "wrong_sense": "maintenance on State land (State Government)",
+  "ambiguity_type": "institution_role_confusion",
+  "gold_chunk_ids": [
+   "cb660c512e871769bf7214ac46f8df8457e34a985eb7c1da7d43e5221c6a2cc5"
+  ],
+  "equivalent_gold_chunk_ids": [],
+  "wrong_sense_chunk_ids": [
+   "2b89adfda49ccd6ae6486810e34b41c0e27ece03a2b75d5936edaa5b01ad7f3d"
+  ],
+  "supporting_quote_ms": "Penyelenggaraan infrastruktur TKPM yang dilaksanakan di atas tanah Pesuruhjaya Tanah Persekutuan (PTP) adalah tanggungjawab Kerajaan Persekutuan",
+  "wrong_sense_quote_ms": "Kerajaan Negeri bertanggungjawab untuk mengenalpasti tanah yang sesuai ... manakala Kerajaan Persekutuan akan membiayai kos pembangunan",
+  "disambiguating_cues": [
+   "PTP land",
+   "maintenance",
+   "infrastructure"
+  ],
+  "source_section": "2.2 Penyelenggaraan Infrastruktur TKPM",
+  "construction_rationale": "state-vs-federal duties appear in both the introduction and the maintenance section with different assignments",
+  "quality_scores": {
+   "natural_language": 1,
+   "answer_uniqueness": 1,
+   "gold_support_complete": 1,
+   "wrong_sense_plausible": 1,
+   "context_disambiguation_present": 1,
+   "no_answer_leakage": 1,
+   "no_ocr_dependency": 1,
+   "no_existing_question_overlap": 1,
+   "chunk_ids_valid": 1,
+   "human_explainable": 1
+  },
+  "dense_screening_status": "not_run",
+  "ambical_used_during_construction": false,
+  "selection_status": "selected"
+ },
+ {
+  "question_id": "msa-010",
+  "question": "Who is responsible for infrastructure inside a participant's own plot?",
+  "answer": "The participant (the landlord only provides shared basic infrastructure such as electricity, telecommunications and roads).",
+  "reference_answer": "The participant (the landlord only provides shared basic infrastructure such as electricity, telecommunications and roads).",
+  "answerability": "answerable",
+  "target_term_en": "in-plot infrastructure",
+  "target_term_ms": "Penyediaan infrastruktur di dalam plot",
+  "intended_sense": "participant responsibility for in-plot infrastructure",
+  "wrong_sense": "landlord responsibility for shared basic infrastructure",
+  "ambiguity_type": "infrastructure_function_confusion",
+  "gold_chunk_ids": [
+   "4b9f3e56acc816a01f11e58841d90ac1de0f7204d2c0321f3a22de3255a2645b"
+  ],
+  "equivalent_gold_chunk_ids": [
+   "64140e1666912a8d6317c3b76021ad0ea3cfe171a6152335de86862e80b469c3"
+  ],
+  "wrong_sense_chunk_ids": [
+   "2b89adfda49ccd6ae6486810e34b41c0e27ece03a2b75d5936edaa5b01ad7f3d"
+  ],
+  "supporting_quote_ms": "Penyediaan infrastruktur di dalam plot adalah tanggungjawab peserta",
+  "wrong_sense_quote_ms": "Tuan Tanah sama ada Kerajaan Negeri/Persekutuan hanya akan menyediakan infrastruktur asas gunasama (bekalan elektrik, telekomunikasi, jalan dan lain-lain)",
+  "disambiguating_cues": [
+   "inside the plot",
+   "infrastructure",
+   "participant"
+  ],
+  "source_section": "5.4 Tempoh Pelaksanaan Projek",
+  "construction_rationale": "two infrastructure duties are distinguished by location: shared basic (landlord) versus in-plot (participant)",
+  "quality_scores": {
+   "natural_language": 1,
+   "answer_uniqueness": 1,
+   "gold_support_complete": 1,
+   "wrong_sense_plausible": 1,
+   "context_disambiguation_present": 1,
+   "no_answer_leakage": 1,
+   "no_ocr_dependency": 1,
+   "no_existing_question_overlap": 1,
+   "chunk_ids_valid": 1,
+   "human_explainable": 1
+  },
+  "dense_screening_status": "not_run",
+  "ambical_used_during_construction": false,
+  "selection_status": "selected"
+ },
+ {
+  "question_id": "msa-011",
+  "question": "Can a TKPM participant rent out part of their lot to a third party?",
+  "answer": "No. Subletting the land or any part of it to a third party is not allowed.",
+  "reference_answer": "No. Subletting the land or any part of it to a third party is not allowed.",
+  "answerability": "answerable",
+  "target_term_en": "subletting",
+  "target_term_ms": "menyewakan tanah (sublet)",
+  "intended_sense": "subletting prohibition",
+  "wrong_sense": "utility-account registration and immediate settlement duties",
+  "ambiguity_type": "eligibility_obligation_confusion",
+  "gold_chunk_ids": [
+   "028e4595744db88e25cf60aa48b8c4cdf533873e9d015475fc6e52e9e592a997"
+  ],
+  "equivalent_gold_chunk_ids": [],
+  "wrong_sense_chunk_ids": [
+   "c320c397b65e16b6ca70ee075c2d949c044ed48b479ff872d14dd5a0fc558d96"
+  ],
+  "supporting_quote_ms": "Peserta tidak dibenarkan untuk menyewakan tanah atau sebahagian kecil tanah (sublet) kepada pihak ketiga",
+  "wrong_sense_quote_ms": "mendaftar akaun bil utiliti atas nama peserta ... menjelaskan bil, sewa dan lain-lain caj tertunggak",
+  "disambiguating_cues": [
+   "sublet",
+   "third party",
+   "lot"
+  ],
+  "source_section": "5.2 Kriteria dan Syarat-Syarat Pemilihan Peserta",
+  "construction_rationale": "adjacent participant obligations (sublet ban, utility accounts) share the lot-and-payment vocabulary",
+  "quality_scores": {
+   "natural_language": 1,
+   "answer_uniqueness": 1,
+   "gold_support_complete": 1,
+   "wrong_sense_plausible": 1,
+   "context_disambiguation_present": 1,
+   "no_answer_leakage": 1,
+   "no_ocr_dependency": 1,
+   "no_existing_question_overlap": 1,
+   "chunk_ids_valid": 1,
+   "human_explainable": 1
+  },
+  "dense_screening_status": "not_run",
+  "ambical_used_during_construction": false,
+  "selection_status": "selected"
+ },
+ {
+  "question_id": "msa-012",
+  "question": "In which year was the myOrganic certification scheme introduced?",
+  "answer": "2003, by the Department of Agriculture (based on MS 1529:2001).",
+  "reference_answer": "2003, by the Department of Agriculture (based on MS 1529:2001).",
+  "answerability": "answerable",
+  "target_term_en": "scheme introduction year",
+  "target_term_ms": "Skim pensijilan myOrganic",
+  "intended_sense": "myOrganic introduction (2003, MS 1529:2001)",
+  "wrong_sense": "TKPM programme introduction (2001) and RMK milestones",
+  "ambiguity_type": "abbreviation_name_confusion",
+  "gold_chunk_ids": [
+   "b4558689e52e4a0d2cd7fda0061ed9d9dbd1b6b8c59400043cdfc3d2d1136522"
+  ],
+  "equivalent_gold_chunk_ids": [],
+  "wrong_sense_chunk_ids": [
+   "6276e30176e58b747401a32bd5d153ab33d92efd1297edd41b5cb84dceb28b5e"
+  ],
+  "supporting_quote_ms": "Skim pensijilan yang dibangunkan oleh Jabatan Pertanian pada tahun 2003 ... MS 1529:2001",
+  "wrong_sense_quote_ms": "Program Taman Kekal Pengeluaran Makanan (TKPM) telah diperkenalkan pada tahun 2001",
+  "disambiguating_cues": [
+   "myOrganic",
+   "introduced",
+   "year"
+  ],
+  "source_section": "TERMINOLOGI",
+  "construction_rationale": "two certification/programme schemes carry introduction years two years apart",
+  "quality_scores": {
+   "natural_language": 1,
+   "answer_uniqueness": 1,
+   "gold_support_complete": 1,
+   "wrong_sense_plausible": 1,
+   "context_disambiguation_present": 1,
+   "no_answer_leakage": 1,
+   "no_ocr_dependency": 1,
+   "no_existing_question_overlap": 1,
+   "chunk_ids_valid": 1,
+   "human_explainable": 1
+  },
+  "dense_screening_status": "not_run",
+  "ambical_used_during_construction": false,
+  "selection_status": "selected"
+ },
+ {
+  "question_id": "msa-013",
+  "question": "How does the handbook define Tanah Tinggi for the TKPM categories?",
+  "answer": "Land situated more than 1,000 metres above sea level.",
+  "reference_answer": "Land situated more than 1,000 metres above sea level.",
+  "answerability": "answerable",
+  "target_term_en": "elevation definition",
+  "target_term_ms": "Tanah Tinggi",
+  "intended_sense": "highland definition (above 1,000 m)",
+  "wrong_sense": "lowland definition (below 150 m) and the lowland category cost table",
+  "ambiguity_type": "lexical_polysemy",
+  "gold_chunk_ids": [
+   "957622e278bb09f4f5bc3327bf03c0de888334a244dfe3c7980c1b19bc0a1fe3"
+  ],
+  "equivalent_gold_chunk_ids": [],
+  "wrong_sense_chunk_ids": [
+   "d18c80d74111440fdb87998754f83d273ab63fa175b0cdd76d566a271a44f654"
+  ],
+  "supporting_quote_ms": "Tanah-tanah yang mempunyai kedudukan lebih dari 1,000 meter dari aras laut",
+  "wrong_sense_quote_ms": "Tanah Rendah - Kawasan yang berada di bawah 150 meter dari aras laut ... Fertigasi Terbuka Atas Tanah Maksimum RM207,000.00/ hektar",
+  "disambiguating_cues": [
+   "Tanah Tinggi",
+   "metres",
+   "sea level"
+  ],
+  "source_section": "GLOSARI",
+  "construction_rationale": "the glossary defines both elevation classes on the same page; the lowland cost table competes for category queries",
+  "quality_scores": {
+   "natural_language": 1,
+   "answer_uniqueness": 1,
+   "gold_support_complete": 1,
+   "wrong_sense_plausible": 1,
+   "context_disambiguation_present": 1,
+   "no_answer_leakage": 1,
+   "no_ocr_dependency": 1,
+   "no_existing_question_overlap": 1,
+   "chunk_ids_valid": 1,
+   "human_explainable": 1
+  },
+  "dense_screening_status": "not_run",
+  "ambical_used_during_construction": false,
+  "selection_status": "selected"
+ },
+ {
+  "question_id": "msa-014",
+  "question": "Which committee decides on the termination of an entire TKPM project?",
+  "answer": "The TKPM Development and Re-evaluation Committee (Jawatankuasa Pembangunan dan Penilaian Semula Projek TKPM).",
+  "reference_answer": "The TKPM Development and Re-evaluation Committee (Jawatankuasa Pembangunan dan Penilaian Semula Projek TKPM).",
+  "answerability": "answerable",
+  "target_term_en": "project termination approval",
+  "target_term_ms": "kelulusan penamatan projek TKPM",
+  "intended_sense": "development and re-evaluation committee (approves master plans, terminations, area changes)",
+  "wrong_sense": "the TKPM Outcome Monitoring Committee (evaluates outcomes and current issues)",
+  "ambiguity_type": "institution_role_confusion",
+  "gold_chunk_ids": [
+   "2197f4c415fc9367f43d9661f118e9fb4f14b80712bc63b36e5eef21887de420"
+  ],
+  "equivalent_gold_chunk_ids": [
+   "527b2ddddb290df12cc06b85f8ca637bcc7df1ce2b1ff4467a50e5901e3771d8",
+   "e3ecfab265fdbbb90f8ef07f43fa6a179dde2211a30a7d2f6c277f336f19a4ca"
+  ],
+  "wrong_sense_chunk_ids": [
+   "84c2237e89c8a7290d3736c68bfd10fb0b3df8280e0d744ba16dc8f831142426"
+  ],
+  "supporting_quote_ms": "Menilai dan mempertimbangkan kelulusan penamatan projek TKPM",
+  "wrong_sense_quote_ms": "Jawatankuasa Pemantauan Outcome Projek TKPM ... Menilai outcome projek TKPM",
+  "disambiguating_cues": [
+   "termination of the project",
+   "committee"
+  ],
+  "source_section": "7.3   Senarai Jawatankuasa Dan Skop Tugas",
+  "construction_rationale": "two similarly named committees with overlapping project vocabulary; only one approves terminations",
+  "quality_scores": {
+   "natural_language": 1,
+   "answer_uniqueness": 1,
+   "gold_support_complete": 1,
+   "wrong_sense_plausible": 1,
+   "context_disambiguation_present": 1,
+   "no_answer_leakage": 1,
+   "no_ocr_dependency": 1,
+   "no_existing_question_overlap": 1,
+   "chunk_ids_valid": 1,
+   "human_explainable": 1
+  },
+  "dense_screening_status": "not_run",
+  "ambical_used_during_construction": false,
+  "selection_status": "selected"
+ },
+ {
+  "question_id": "msa-015",
+  "question": "How often does the headquarters BPIT Putrajaya monitoring team visit TKPM sites?",
+  "answer": "At least two (2) times a year, to monitor financial and physical project performance.",
+  "reference_answer": "At least two (2) times a year, to monitor financial and physical project performance.",
+  "answerability": "answerable",
+  "target_term_en": "monitoring frequency",
+  "target_term_ms": "Kekerapan Pemantauan",
+  "intended_sense": "headquarters monitoring visits (2 times a year)",
+  "wrong_sense": "committee meeting frequency (at least once a year) and the technical team's 2-times-a-year KPI",
+  "ambiguity_type": "numerical_context_collision",
+  "gold_chunk_ids": [
+   "db5f4ebd59230215e5b0c4358c67ac0ec14da90ae54f2c2a128bfa3be01aa5f4"
+  ],
+  "equivalent_gold_chunk_ids": [
+   "50a6b89189904bacefdbcca32a5d039398dc1406ba4212f52627b1427310684c"
+  ],
+  "wrong_sense_chunk_ids": [
+   "948413779ddd8d88761f42eea606583d46af247591aedd46df4c4f73ce4539d1",
+   "3e9b492b38d4876b06558cc1443b92203b329e9d1ffa24b5e73e6d02582c14f6"
+  ],
+  "supporting_quote_ms": "Pasukan pemantauan ibu pejabat akan turun ke lapangan sekurang-kurangnya dua (2) kali setahun",
+  "wrong_sense_quote_ms": "Kekerapan: Mengikut keperluan (sekurang-kurangnya sekali setahun) ... Sekurang-kurangnya dua (2) kali setahun (Kawalan Hakisan)",
+  "disambiguating_cues": [
+   "headquarters",
+   "BPIT Putrajaya",
+   "visit"
+  ],
+  "source_section": "9.2 Lawatan Pemantauan",
+  "construction_rationale": "three monitoring bodies carry different frequencies (2/yr, 1/yr, 2/yr KPI) in the same chapter",
+  "quality_scores": {
+   "natural_language": 1,
+   "answer_uniqueness": 1,
+   "gold_support_complete": 1,
+   "wrong_sense_plausible": 1,
+   "context_disambiguation_present": 1,
+   "no_answer_leakage": 1,
+   "no_ocr_dependency": 1,
+   "no_existing_question_overlap": 1,
+   "chunk_ids_valid": 1,
+   "human_explainable": 1
+  },
+  "dense_screening_status": "not_run",
+  "ambical_used_during_construction": false,
+  "selection_status": "selected"
+ },
+ {
+  "question_id": "msa-016",
+  "question": "Who appoints the head of the state-level technical monitoring team?",
+  "answer": "The State Agriculture Director (Pengarah Pertanian Negeri).",
+  "reference_answer": "The State Agriculture Director (Pengarah Pertanian Negeri).",
+  "answerability": "answerable",
+  "target_term_en": "team head appointment",
+  "target_term_ms": "Pelantikan Ketua Pasukan Teknikal",
+  "intended_sense": "state technical team head appointed by the State Agriculture Director",
+  "wrong_sense": "the TKPM Coordinator appointed by the Department of Agriculture",
+  "ambiguity_type": "institution_role_confusion",
+  "gold_chunk_ids": [
+   "616ab786234e57797005986c350847683b2c8c17b2380edf9a62594d961902a6"
+  ],
+  "equivalent_gold_chunk_ids": [],
+  "wrong_sense_chunk_ids": [
+   "b4558689e52e4a0d2cd7fda0061ed9d9dbd1b6b8c59400043cdfc3d2d1136522"
+  ],
+  "supporting_quote_ms": "Pegawai Pertanian Kuasa Usaha Bahagian Teknikal Negeri (Dilantik oleh Pengarah Pertanian Negeri)",
+  "wrong_sense_quote_ms": "Penyelaras TKPM - Individu yang dilantik oleh Jabatan Pertanian bagi menyelaras dan memantau operasi projek TKPM",
+  "disambiguating_cues": [
+   "technical team",
+   "appoint",
+   "state"
+  ],
+  "source_section": "9.2 Lawatan Pemantauan",
+  "construction_rationale": "two appointment statements (coordinator by department, team head by state director) share appointment vocabulary",
+  "quality_scores": {
+   "natural_language": 1,
+   "answer_uniqueness": 1,
+   "gold_support_complete": 1,
+   "wrong_sense_plausible": 1,
+   "context_disambiguation_present": 1,
+   "no_answer_leakage": 1,
+   "no_ocr_dependency": 1,
+   "no_existing_question_overlap": 1,
+   "chunk_ids_valid": 1,
+   "human_explainable": 1
+  },
+  "dense_screening_status": "not_run",
+  "ambical_used_during_construction": false,
+  "selection_status": "selected"
+ },
+ {
+  "question_id": "msa-017",
+  "question": "How long after the first warning letter is the second warning letter issued?",
+  "answer": "Fourteen (14) days after the first warning letter.",
+  "reference_answer": "Fourteen (14) days after the first warning letter.",
+  "answerability": "answerable",
+  "target_term_en": "warning letter interval",
+  "target_term_ms": "surat amaran kedua",
+  "intended_sense": "second-warning interval (14 days after the first letter)",
+  "wrong_sense": "the separate 14-day correction window after the second warning",
+  "ambiguity_type": "procedure_stage_confusion",
+  "gold_chunk_ids": [
+   "5e11b8d68fae0c1b2142a36eb3c5d51f98934bbca7ab0837a44fef6eca0255e4"
+  ],
+  "equivalent_gold_chunk_ids": [],
+  "wrong_sense_chunk_ids": [
+   "6a2a5b07dd44b5b18d4521abd1d8cf341b85d26900459225ab03b7516f834e30"
+  ],
+  "supporting_quote_ms": "Surat amaran kedua (Lampiran 5) akan dikeluarkan selepas 14 hari daripada tarikh surat amaran pertama",
+  "wrong_sense_quote_ms": "tiada tindakan pembetulan ke atas ketidakakuran dalam tempoh 14 hari selepas surat amaran kedua",
+  "disambiguating_cues": [
+   "second warning",
+   "after the first",
+   "14 days"
+  ],
+  "source_section": "5.8.2 Prosedur Penamatan Peserta",
+  "construction_rationale": "two consecutive 14-day windows (first-to-second warning, second-to-termination) share the same vocabulary",
+  "quality_scores": {
+   "natural_language": 1,
+   "answer_uniqueness": 1,
+   "gold_support_complete": 1,
+   "wrong_sense_plausible": 1,
+   "context_disambiguation_present": 1,
+   "no_answer_leakage": 1,
+   "no_ocr_dependency": 1,
+   "no_existing_question_overlap": 1,
+   "chunk_ids_valid": 1,
+   "human_explainable": 1
+  },
+  "dense_screening_status": "not_run",
+  "ambical_used_during_construction": false,
+  "selection_status": "selected"
+ },
+ {
+  "question_id": "msa-018",
+  "question": "Who approves a TKPM participant's annual business plan?",
+  "answer": "The TKPM Manager (Pengurus TKPM).",
+  "reference_answer": "The TKPM Manager (Pengurus TKPM).",
+  "answerability": "answerable",
+  "target_term_en": "business plan approval",
+  "target_term_ms": "kelulusan Pelan Bisnes",
+  "intended_sense": "manager approval of the annual business plan",
+  "wrong_sense": "committee approval of new master plans and terminations",
+  "ambiguity_type": "institution_role_confusion",
+  "gold_chunk_ids": [
+   "d2bf4b5272b66aa266936c6b4599e43ed7242bc54f1ae31a549e2868e34f51d7"
+  ],
+  "equivalent_gold_chunk_ids": [
+   "851b3f6f9fba1dc4cd356db627261512a7fca5f14c9dd3af8742e6ff24cae864"
+  ],
+  "wrong_sense_chunk_ids": [
+   "2197f4c415fc9367f43d9661f118e9fb4f14b80712bc63b36e5eef21887de420"
+  ],
+  "supporting_quote_ms": "Pelan Bisnes dan jadual pengeluaran tanaman setiap tahun untuk pertimbangan dan kelulusan Pengurus TKPM",
+  "wrong_sense_quote_ms": "Menilai dan mempertimbangkan kelulusan pelan induk pembangunan projek TKPM baharu",
+  "disambiguating_cues": [
+   "business plan",
+   "annual",
+   "approval"
+  ],
+  "source_section": "5.2 Kriteria dan Syarat-Syarat Pemilihan Peserta",
+  "construction_rationale": "plan-approval duties are split between the TKPM Manager (participant plans) and a committee (master plans)",
+  "quality_scores": {
+   "natural_language": 1,
+   "answer_uniqueness": 1,
+   "gold_support_complete": 1,
+   "wrong_sense_plausible": 1,
+   "context_disambiguation_present": 1,
+   "no_answer_leakage": 1,
+   "no_ocr_dependency": 1,
+   "no_existing_question_overlap": 1,
+   "chunk_ids_valid": 1,
+   "human_explainable": 1
+  },
+  "dense_screening_status": "not_run",
+  "ambical_used_during_construction": false,
+  "selection_status": "selected"
+ },
+ {
+  "question_id": "msa-019",
+  "question": "What can happen to a participant who does not settle utility bills on time?",
+  "answer": "They may be terminated from the TKPM programme (unpaid utility bills are a stated termination ground).",
+  "reference_answer": "They may be terminated from the TKPM programme (unpaid utility bills are a stated termination ground).",
+  "answerability": "answerable",
+  "target_term_en": "termination ground",
+  "target_term_ms": "sebab penamatan peserta",
+  "intended_sense": "unpaid utility bills as a termination ground",
+  "wrong_sense": "the participant's utility-account registration and settlement duties",
+  "ambiguity_type": "eligibility_obligation_confusion",
+  "gold_chunk_ids": [
+   "6a2a5b07dd44b5b18d4521abd1d8cf341b85d26900459225ab03b7516f834e30"
+  ],
+  "equivalent_gold_chunk_ids": [],
+  "wrong_sense_chunk_ids": [
+   "c320c397b65e16b6ca70ee075c2d949c044ed48b479ff872d14dd5a0fc558d96"
+  ],
+  "supporting_quote_ms": "Tidak menjelaskan bil utiliti mengikut masa yang telah ditetapkan (sebab-sebab penamatan)",
+  "wrong_sense_quote_ms": "mendaftar akaun bil utiliti atas nama peserta ... menjelaskan bil ... dengan serta-merta",
+  "disambiguating_cues": [
+   "utility bills",
+   "on time",
+   "termination"
+  ],
+  "source_section": "5.8.1 Sebab-Sebab Penamatan Peserta",
+  "construction_rationale": "utility-bill duties and termination consequences are stated in different sections with matching vocabulary",
+  "quality_scores": {
+   "natural_language": 1,
+   "answer_uniqueness": 1,
+   "gold_support_complete": 1,
+   "wrong_sense_plausible": 1,
+   "context_disambiguation_present": 1,
+   "no_answer_leakage": 1,
+   "no_ocr_dependency": 1,
+   "no_existing_question_overlap": 1,
+   "chunk_ids_valid": 1,
+   "human_explainable": 1
+  },
+  "dense_screening_status": "not_run",
+  "ambical_used_during_construction": false,
+  "selection_status": "selected"
+ },
+ {
+  "question_id": "msa-020",
+  "question": "Who sets the rental rate that a TKPM participant pays for the land?",
+  "answer": "The rate set by the Department of Valuation and Property Services (JPPH), or a rate agreed with the landlord.",
+  "reference_answer": "The rate set by the Department of Valuation and Property Services (JPPH), or a rate agreed with the landlord.",
+  "answerability": "answerable",
+  "target_term_en": "rental rate authority",
+  "target_term_ms": "kadar sewa/pajakan",
+  "intended_sense": "JPPH rate or landlord-agreed rate (stated for both sewaan and pajakan)",
+  "wrong_sense": "the landlord's right to revise rates from time to time",
+  "ambiguity_type": "multi_evidence_context",
+  "gold_chunk_ids": [
+   "29ac6650120b223e449cea6f0e66efec96eb604f57436bebf11e4ed9a5845c53"
+  ],
+  "equivalent_gold_chunk_ids": [
+   "64140e1666912a8d6317c3b76021ad0ea3cfe171a6152335de86862e80b469c3"
+  ],
+  "wrong_sense_chunk_ids": [
+   "bafd8b58d7739eae0b9f1b9d4e9e9dec2c5a8302e41eed5d42e3bb62368927a1"
+  ],
+  "supporting_quote_ms": "Kadar sewa adalah mengikut kadar yang ditetapkan oleh Jabatan Penilaian Dan Perkhidmatan Harta (JPPH) atau kadar yang dipersetujui oleh Tuan Tanah",
+  "wrong_sense_quote_ms": "Tuan Tanah mempunyai hak untuk mengkaji semula kadar dari semasa ke semasa",
+  "disambiguating_cues": [
+   "rental rate",
+   "JPPH",
+   "landlord"
+  ],
+  "source_section": "5.4 Tempoh Pelaksanaan Projek",
+  "construction_rationale": "the rate-setting fact appears in both the lease and rental subsections; the revision right is a nearby competing fact",
+  "quality_scores": {
+   "natural_language": 1,
+   "answer_uniqueness": 1,
+   "gold_support_complete": 1,
+   "wrong_sense_plausible": 1,
+   "context_disambiguation_present": 1,
+   "no_answer_leakage": 1,
+   "no_ocr_dependency": 1,
+   "no_existing_question_overlap": 1,
+   "chunk_ids_valid": 1,
+   "human_explainable": 1
+  },
+  "dense_screening_status": "not_run",
+  "ambical_used_during_construction": false,
+  "selection_status": "selected"
+ },
+ {
+  "question_id": "mhn-001",
+  "question": "How much is the annual land rent per hectare in a TKPM project?",
+  "answer": "Not found in context",
+  "reference_answer": "Not found in context",
+  "answerability": "unanswerable",
+  "target_term_en": "annual rent per hectare",
+  "target_term_ms": "sewaan tahunan setiap hektar",
+  "ambiguity_type": "numerical_context_collision",
+  "gold_chunk_ids": [],
+  "equivalent_gold_chunk_ids": [],
+  "wrong_sense_chunk_ids": [
+   "0fa4adecb69a112964535c594dfa14427916060ac1c648ddd3cbc9a7b4c443c9",
+   "d18c80d74111440fdb87998754f83d273ab63fa175b0cdd76d566a271a44f654"
+  ],
+  "wrong_sense_quote_ms": "Sayur-Sayuran Maksimum RM109,000.00/ hektar ... SPH Kalis Serangga Maksimum RM1,467,000.00/hektar",
+  "why_unanswerable": "the handbook lists development cost ceilings per hectare, not annual rent figures; rent follows JPPH or landlord-agreed rates without amounts",
+  "disambiguating_cues": [
+   "annual rent",
+   "per hectare"
+  ],
+  "source_section": "2.1 Kategori Program TKPM",
+  "construction_rationale": "the cost-table figures are the strongest attractors but they are development ceilings, never rent",
+  "quality_scores": {
+   "natural_language": 1,
+   "answer_uniqueness": 1,
+   "gold_support_complete": 1,
+   "wrong_sense_plausible": 1,
+   "context_disambiguation_present": 1,
+   "no_answer_leakage": 1,
+   "no_ocr_dependency": 1,
+   "no_existing_question_overlap": 1,
+   "chunk_ids_valid": 1,
+   "human_explainable": 1
+  },
+  "dense_screening_status": "not_run",
+  "ambical_used_during_construction": false,
+  "selection_status": "selected"
+ },
+ {
+  "question_id": "mhn-002",
+  "question": "How many participants are working in TKPM projects nationwide?",
+  "answer": "Not found in context",
+  "reference_answer": "Not found in context",
+  "answerability": "unanswerable",
+  "target_term_en": "participant count",
+  "target_term_ms": "bilangan peserta",
+  "ambiguity_type": "numerical_context_collision",
+  "gold_chunk_ids": [],
+  "equivalent_gold_chunk_ids": [],
+  "wrong_sense_chunk_ids": [
+   "6276e30176e58b747401a32bd5d153ab33d92efd1297edd41b5cb84dceb28b5e"
+  ],
+  "wrong_sense_quote_ms": "sehingga 2023 sebanyak 71 TKPM telah dibangunkan dengan jumlah keluasan 10,466.53 hektar",
+  "why_unanswerable": "site count (71) and area are given, but no participant headcount exists anywhere",
+  "disambiguating_cues": [
+   "participants",
+   "nationwide"
+  ],
+  "source_section": "1.1 Pengenalan Program Taman Kekal Pengeluaran Makanan (TKPM",
+  "construction_rationale": "site statistics are the attractor; participant numbers are never stated",
+  "quality_scores": {
+   "natural_language": 1,
+   "answer_uniqueness": 1,
+   "gold_support_complete": 1,
+   "wrong_sense_plausible": 1,
+   "context_disambiguation_present": 1,
+   "no_answer_leakage": 1,
+   "no_ocr_dependency": 1,
+   "no_existing_question_overlap": 1,
+   "chunk_ids_valid": 1,
+   "human_explainable": 1
+  },
+  "dense_screening_status": "not_run",
+  "ambical_used_during_construction": false,
+  "selection_status": "selected"
+ },
+ {
+  "question_id": "mhn-003",
+  "question": "Which crops are prohibited inside TKPM projects?",
+  "answer": "Not found in context",
+  "reference_answer": "Not found in context",
+  "answerability": "unanswerable",
+  "target_term_en": "prohibited crops",
+  "target_term_ms": "tanaman yang dilarang",
+  "ambiguity_type": "absent_list_high_similarity",
+  "gold_chunk_ids": [],
+  "equivalent_gold_chunk_ids": [],
+  "wrong_sense_chunk_ids": [
+   "5ee7bda27281febac7165dece1db3f237e781d545436c5b4a15ef8f091e35998",
+   "bafd8b58d7739eae0b9f1b9d4e9e9dec2c5a8302e41eed5d42e3bb62368927a1"
+  ],
+  "wrong_sense_quote_ms": "hanya tanaman yang dibenarkan oleh jabatan/agensi sahaja ditanam ... Tanaman kekal tidak dibenarkan",
+  "why_unanswerable": "the handbook names only permitted crops and a permanent-crop restriction under rental; no prohibited-crop list exists",
+  "disambiguating_cues": [
+   "prohibited",
+   "crops"
+  ],
+  "source_section": "5.2 Kriteria dan Syarat-Syarat Pemilihan Peserta",
+  "construction_rationale": "permitted-crop and permanent-crop clauses are the attractors; an explicit prohibition list does not exist",
+  "quality_scores": {
+   "natural_language": 1,
+   "answer_uniqueness": 1,
+   "gold_support_complete": 1,
+   "wrong_sense_plausible": 1,
+   "context_disambiguation_present": 1,
+   "no_answer_leakage": 1,
+   "no_ocr_dependency": 1,
+   "no_existing_question_overlap": 1,
+   "chunk_ids_valid": 1,
+   "human_explainable": 1
+  },
+  "dense_screening_status": "not_run",
+  "ambical_used_during_construction": false,
+  "selection_status": "selected"
+ },
+ {
+  "question_id": "mhn-004",
+  "question": "How many days does a participant have to settle utility bills before action is taken?",
+  "answer": "Not found in context",
+  "reference_answer": "Not found in context",
+  "answerability": "unanswerable",
+  "target_term_en": "utility bill grace period",
+  "target_term_ms": "tempoh menjelaskan bil utiliti",
+  "ambiguity_type": "procedure_gap_high_similarity",
+  "gold_chunk_ids": [],
+  "equivalent_gold_chunk_ids": [],
+  "wrong_sense_chunk_ids": [
+   "6a2a5b07dd44b5b18d4521abd1d8cf341b85d26900459225ab03b7516f834e30",
+   "5e11b8d68fae0c1b2142a36eb3c5d51f98934bbca7ab0837a44fef6eca0255e4"
+  ],
+  "wrong_sense_quote_ms": "Tidak menjelaskan bil utiliti mengikut masa yang telah ditetapkan ... dalam tempoh 14 hari",
+  "why_unanswerable": "unpaid bills are a termination ground settled 'within the set time', and the 14-day windows concern warning letters; no bill-payment day count exists",
+  "disambiguating_cues": [
+   "utility bills",
+   "days"
+  ],
+  "source_section": "5.8.1 Sebab-Sebab Penamatan Peserta",
+  "construction_rationale": "the 14-day warning-letter windows are the strongest attractors but they govern warnings, not bill payments",
+  "quality_scores": {
+   "natural_language": 1,
+   "answer_uniqueness": 1,
+   "gold_support_complete": 1,
+   "wrong_sense_plausible": 1,
+   "context_disambiguation_present": 1,
+   "no_answer_leakage": 1,
+   "no_ocr_dependency": 1,
+   "no_existing_question_overlap": 1,
+   "chunk_ids_valid": 1,
+   "human_explainable": 1
+  },
+  "dense_screening_status": "not_run",
+  "ambical_used_during_construction": false,
+  "selection_status": "selected"
+ },
+ {
+  "question_id": "mhn-005",
+  "question": "How often is the TKPM land rent reviewed by the landlord?",
+  "answer": "Not found in context",
+  "reference_answer": "Not found in context",
+  "answerability": "unanswerable",
+  "target_term_en": "rent review frequency",
+  "target_term_ms": "kekerapan kaji semula kadar",
+  "ambiguity_type": "procedure_gap_high_similarity",
+  "gold_chunk_ids": [],
+  "equivalent_gold_chunk_ids": [],
+  "wrong_sense_chunk_ids": [
+   "77e3fa6faff80cdc8ca5da0f62040b184d6351111685c64bfe8845fb27643854",
+   "64140e1666912a8d6317c3b76021ad0ea3cfe171a6152335de86862e80b469c3"
+  ],
+  "wrong_sense_quote_ms": "Tuan Tanah mempunyai hak untuk mengkaji semula kadar dari semasa ke semasa",
+  "why_unanswerable": "reviews happen 'from time to time' with no fixed frequency stated",
+  "disambiguating_cues": [
+   "rent",
+   "review",
+   "how often"
+  ],
+  "source_section": "5.5.2 Pajakan",
+  "construction_rationale": "the revision right is stated without any frequency",
+  "quality_scores": {
+   "natural_language": 1,
+   "answer_uniqueness": 1,
+   "gold_support_complete": 1,
+   "wrong_sense_plausible": 1,
+   "context_disambiguation_present": 1,
+   "no_answer_leakage": 1,
+   "no_ocr_dependency": 1,
+   "no_existing_question_overlap": 1,
+   "chunk_ids_valid": 1,
+   "human_explainable": 1
+  },
+  "dense_screening_status": "not_run",
+  "ambical_used_during_construction": false,
+  "selection_status": "selected"
+ },
+ {
+  "question_id": "mhn-006",
+  "question": "What crop insurance must TKPM participants purchase?",
+  "answer": "Not found in context",
+  "reference_answer": "Not found in context",
+  "answerability": "unanswerable",
+  "target_term_en": "crop insurance",
+  "target_term_ms": "insurans tanaman",
+  "ambiguity_type": "absent_fact_keyword_competition",
+  "gold_chunk_ids": [],
+  "equivalent_gold_chunk_ids": [],
+  "wrong_sense_chunk_ids": [
+   "b390381ef4afcd7d704066da98b3d922351f951bada41d6030696051c478471a",
+   "5904d3ad06251783276ef7d520d2083cd624950cafdeaf1ff6acd42f0e79e50c"
+  ],
+  "wrong_sense_quote_ms": "Peserta hendaklah menanggung sendiri kos operasi (benih, baja, racun, alatan pertanian ...)",
+  "why_unanswerable": "operating-cost obligations are listed but no insurance requirement appears anywhere",
+  "disambiguating_cues": [
+   "insurance",
+   "participants",
+   "crop"
+  ],
+  "source_section": "5.2 Kriteria dan Syarat-Syarat Pemilihan Peserta",
+  "construction_rationale": "cost-obligation text is the attractor; insurance is never mentioned",
+  "quality_scores": {
+   "natural_language": 1,
+   "answer_uniqueness": 1,
+   "gold_support_complete": 1,
+   "wrong_sense_plausible": 1,
+   "context_disambiguation_present": 1,
+   "no_answer_leakage": 1,
+   "no_ocr_dependency": 1,
+   "no_existing_question_overlap": 1,
+   "chunk_ids_valid": 1,
+   "human_explainable": 1
+  },
+  "dense_screening_status": "not_run",
+  "ambical_used_during_construction": false,
+  "selection_status": "selected"
+ },
+ {
+  "question_id": "mhn-007",
+  "question": "What is the standard lot size allocated to each TKPM participant?",
+  "answer": "Not found in context",
+  "reference_answer": "Not found in context",
+  "answerability": "unanswerable",
+  "target_term_en": "standard lot size",
+  "target_term_ms": "saiz lot standard",
+  "ambiguity_type": "numerical_context_collision",
+  "gold_chunk_ids": [],
+  "equivalent_gold_chunk_ids": [],
+  "wrong_sense_chunk_ids": [
+   "0fa4adecb69a112964535c594dfa14427916060ac1c648ddd3cbc9a7b4c443c9",
+   "d18c80d74111440fdb87998754f83d273ab63fa175b0cdd76d566a271a44f654"
+  ],
+  "wrong_sense_quote_ms": "Minimum dua (2) hektar (sayur-sayuran) dan lima (5) hektar (buah-buahan) ... Swasta: Minimum dua puluh (20) hektar",
+  "why_unanswerable": "minimum ENTRY land sizes by category exist; no standard per-participant allocation size is stated",
+  "disambiguating_cues": [
+   "lot size",
+   "allocated",
+   "participant"
+  ],
+  "source_section": "2.1 Kategori Program TKPM",
+  "construction_rationale": "entry minima (2/5/20 ha) are the attractors; allocation sizes per lot are absent",
+  "quality_scores": {
+   "natural_language": 1,
+   "answer_uniqueness": 1,
+   "gold_support_complete": 1,
+   "wrong_sense_plausible": 1,
+   "context_disambiguation_present": 1,
+   "no_answer_leakage": 1,
+   "no_ocr_dependency": 1,
+   "no_existing_question_overlap": 1,
+   "chunk_ids_valid": 1,
+   "human_explainable": 1
+  },
+  "dense_screening_status": "not_run",
+  "ambical_used_during_construction": false,
+  "selection_status": "selected"
+ },
+ {
+  "question_id": "mhn-008",
+  "question": "What is the interest rate charged on late TKPM land rent payments?",
+  "answer": "Not found in context",
+  "reference_answer": "Not found in context",
+  "answerability": "unanswerable",
+  "target_term_en": "late-payment interest rate",
+  "target_term_ms": "kadar faedah bayaran lewat",
+  "ambiguity_type": "absent_fact_keyword_competition",
+  "gold_chunk_ids": [],
+  "equivalent_gold_chunk_ids": [],
+  "wrong_sense_chunk_ids": [
+   "c320c397b65e16b6ca70ee075c2d949c044ed48b479ff872d14dd5a0fc558d96",
+   "6244f8da4d8ac04c147737c6aafa285531d3dec599ddb7538f6fa60ac0f29d17"
+  ],
+  "wrong_sense_quote_ms": "membayar sewa atau pajakan tanah mengikut kadar dan tempoh masa yang ditetapkan",
+  "why_unanswerable": "late payment leads to warnings and termination, but no interest or penalty rate is stated",
+  "disambiguating_cues": [
+   "interest rate",
+   "late",
+   "rent"
+  ],
+  "source_section": "5.2 Kriteria dan Syarat-Syarat Pemilihan Peserta",
+  "construction_rationale": "payment obligations and forfeiture rules are the attractors; no penalty percentage exists",
+  "quality_scores": {
+   "natural_language": 1,
+   "answer_uniqueness": 1,
+   "gold_support_complete": 1,
+   "wrong_sense_plausible": 1,
+   "context_disambiguation_present": 1,
+   "no_answer_leakage": 1,
+   "no_ocr_dependency": 1,
+   "no_existing_question_overlap": 1,
+   "chunk_ids_valid": 1,
+   "human_explainable": 1
+  },
+  "dense_screening_status": "not_run",
+  "ambical_used_during_construction": false,
+  "selection_status": "selected"
+ },
+ {
+  "question_id": "mhn-009",
+  "question": "What yield per hectare must a TKPM participant achieve?",
+  "answer": "Not found in context",
+  "reference_answer": "Not found in context",
+  "answerability": "unanswerable",
+  "target_term_en": "yield target",
+  "target_term_ms": "sasaran hasil setiap hektar",
+  "ambiguity_type": "numerical_context_collision",
+  "gold_chunk_ids": [],
+  "equivalent_gold_chunk_ids": [],
+  "wrong_sense_chunk_ids": [
+   "3650b02f6fd26879d43149f81e5e0665433db68b5f664ac6a097a8ecce5b2f83"
+  ],
+  "wrong_sense_quote_ms": "peningkatan produktiviti ladang sekurang-kurangnya RM3,000 sebulan",
+  "why_unanswerable": "only a monthly income target (RM3,000) is stated; no per-hectare yield target exists",
+  "disambiguating_cues": [
+   "yield",
+   "per hectare",
+   "target"
+  ],
+  "source_section": "1.2 Objektif Program",
+  "construction_rationale": "the RM3,000 income objective is the numeric attractor; yield targets are absent",
+  "quality_scores": {
+   "natural_language": 1,
+   "answer_uniqueness": 1,
+   "gold_support_complete": 1,
+   "wrong_sense_plausible": 1,
+   "context_disambiguation_present": 1,
+   "no_answer_leakage": 1,
+   "no_ocr_dependency": 1,
+   "no_existing_question_overlap": 1,
+   "chunk_ids_valid": 1,
+   "human_explainable": 1
+  },
+  "dense_screening_status": "not_run",
+  "ambical_used_during_construction": false,
+  "selection_status": "selected"
+ },
+ {
+  "question_id": "mhn-010",
+  "question": "What is the fee for appointing an arbitrator in a TKPM dispute?",
+  "answer": "Not found in context",
+  "reference_answer": "Not found in context",
+  "answerability": "unanswerable",
+  "target_term_en": "arbitration fee",
+  "target_term_ms": "fi timbang tara",
+  "ambiguity_type": "absent_fact_keyword_competition",
+  "gold_chunk_ids": [],
+  "equivalent_gold_chunk_ids": [],
+  "wrong_sense_chunk_ids": [
+   "697797427a797791ba1ecd01bdcbfd403a1d4e3bf1b27c9ed4d15b6bd40b60cc"
+  ],
+  "wrong_sense_quote_ms": "KLAUSA 17 - TIMBANG TARA",
+  "why_unanswerable": "the arbitration clause exists but no appointment fee is stated anywhere",
+  "disambiguating_cues": [
+   "arbitrator",
+   "fee",
+   "dispute"
+  ],
+  "source_section": "KLAUSA 17 - TIMBANG TARA",
+  "construction_rationale": "the dispute-resolution clause is the attractor; fees are absent",
+  "quality_scores": {
+   "natural_language": 1,
+   "answer_uniqueness": 1,
+   "gold_support_complete": 1,
+   "wrong_sense_plausible": 1,
+   "context_disambiguation_present": 1,
+   "no_answer_leakage": 1,
+   "no_ocr_dependency": 1,
+   "no_existing_question_overlap": 1,
+   "chunk_ids_valid": 1,
+   "human_explainable": 1
+  },
+  "dense_screening_status": "not_run",
+  "ambical_used_during_construction": false,
+  "selection_status": "selected"
+ },
+ {
+  "question_id": "msa-021",
+  "question": "Which standard underpins the myOrganic certification?",
+  "answer": "Malaysia Standard MS 1529:2001 - The Production, Processing, Labeling & Marketing of Plant Based Organically Produced Food.",
+  "reference_answer": "Malaysia Standard MS 1529:2001 - The Production, Processing, Labeling & Marketing of Plant Based Organically Produced Food.",
+  "answerability": "answerable",
+  "target_term_en": "certification standard",
+  "target_term_ms": "standard myOrganic",
+  "intended_sense": "myOrganic under MS 1529:2001",
+  "wrong_sense": "the myGAP certification scheme as the competing certification label",
+  "ambiguity_type": "abbreviation_name_confusion",
+  "gold_chunk_ids": [
+   "b4558689e52e4a0d2cd7fda0061ed9d9dbd1b6b8c59400043cdfc3d2d1136522"
+  ],
+  "equivalent_gold_chunk_ids": [],
+  "wrong_sense_chunk_ids": [
+   "67b4afcd557d905bc69654ad7d181b1ead6573acbaa8047d1ac24e8bc04c1a8e"
+  ],
+  "supporting_quote_ms": "berpandukan Malaysia Standard MS 1529:2001",
+  "wrong_sense_quote_ms": "memohon pensijilan myGAP/myOrganic dalam tempoh tiga (3) bulan",
+  "disambiguating_cues": [
+   "myOrganic",
+   "standard",
+   "MS 1529"
+  ],
+  "source_section": "TERMINOLOGI",
+  "construction_rationale": "REJECTED: near-duplicate (Jaccard 0.667) of an original formal question on the myOrganic standard",
+  "quality_scores": {
+   "natural_language": 1,
+   "answer_uniqueness": 1,
+   "gold_support_complete": 1,
+   "wrong_sense_plausible": 1,
+   "context_disambiguation_present": 1,
+   "no_answer_leakage": 1,
+   "no_ocr_dependency": 1,
+   "no_existing_question_overlap": 1,
+   "chunk_ids_valid": 1,
+   "human_explainable": 1
+  },
+  "dense_screening_status": "not_run",
+  "ambical_used_during_construction": false,
+  "selection_status": "rejected"
+ },
+ {
+  "question_id": "msa-001",
+  "question": "By 2023, how many TKPM areas had been developed nationwide and what total area do they cover?",
+  "answer": "71 TKPM areas covering 10,466.53 hectares.",
+  "reference_answer": "71 TKPM areas covering 10,466.53 hectares.",
+  "answerability": "answerable",
+  "target_term_en": "number of TKPM areas",
+  "target_term_ms": "bilangan TKPM",
+  "intended_sense": "programme-scale statistics (71 areas, 10,466.53 ha by 2023)",
+  "wrong_sense": "the RMK project lists that enumerate development projects per Malaysia Plan",
+  "ambiguity_type": "numerical_context_collision",
+  "gold_chunk_ids": [
+   "6276e30176e58b747401a32bd5d153ab33d92efd1297edd41b5cb84dceb28b5e"
+  ],
+  "equivalent_gold_chunk_ids": [],
+  "wrong_sense_chunk_ids": [
+   "d27072fae3a09d742fe20d9fd85a74dc5d980001f5727e375111f13a53311634"
+  ],
+  "supporting_quote_ms": "sehingga 2023 sebanyak 71 TKPM telah dibangunkan dengan jumlah keluasan 10,466.53 hektar",
+  "wrong_sense_quote_ms": "RMK-9 - Projek Pembangunan TKPM (2006) ... RMK-12 - Projek Pembangunan Agrofood Park",
+  "disambiguating_cues": [
+   "by 2023",
+   "developed nationwide",
+   "total area"
+  ],
+  "source_section": "1.1 Pengenalan Program Taman Kekal Pengeluaran Makanan (TKPM",
+  "construction_rationale": "REJECTED: near-duplicate (Jaccard 0.737) of an original formal question asking the same 2023 statistics - the original stays in the ordinary pool",
+  "quality_scores": {
+   "natural_language": 1,
+   "answer_uniqueness": 1,
+   "gold_support_complete": 1,
+   "wrong_sense_plausible": 1,
+   "context_disambiguation_present": 1,
+   "no_answer_leakage": 1,
+   "no_ocr_dependency": 1,
+   "no_existing_question_overlap": 1,
+   "chunk_ids_valid": 1,
+   "human_explainable": 1
+  },
+  "dense_screening_status": "not_run",
+  "ambical_used_during_construction": false,
+  "selection_status": "rejected"
+ },
+ {
+  "question_id": "msa-r01",
+  "question": "What is the minimum land size for a private company joining TKPM?",
+  "answer": "Twenty (20) hectares.",
+  "reference_answer": "Twenty (20) hectares.",
+  "answerability": "answerable",
+  "target_term_en": "minimum land size",
+  "target_term_ms": "syarat saiz tanah minimum",
+  "intended_sense": "private-company minimum (20 ha)",
+  "wrong_sense": "individual smallholder minima (2 ha vegetables, 5 ha fruits)",
+  "ambiguity_type": "numerical_context_collision",
+  "gold_chunk_ids": [
+   "0fa4adecb69a112964535c594dfa14427916060ac1c648ddd3cbc9a7b4c443c9"
+  ],
+  "equivalent_gold_chunk_ids": [],
+  "wrong_sense_chunk_ids": [
+   "d18c80d74111440fdb87998754f83d273ab63fa175b0cdd76d566a271a44f654"
+  ],
+  "supporting_quote_ms": "Swasta: Minimum dua puluh (20) hektar",
+  "wrong_sense_quote_ms": "Minimum dua (2) hektar (sayur-sayuran) dan lima (5) hektar (buah-buahan)",
+  "disambiguating_cues": [
+   "private company",
+   "minimum",
+   "hectares"
+  ],
+  "source_section": "2.1 Kategori Program TKPM",
+  "construction_rationale": "REJECTED: the gold chunk carries all three competing minima (2/5/20 ha) in one chunk, so wrong-sense chunks cannot be separated from gold",
+  "quality_scores": {
+   "natural_language": 1,
+   "answer_uniqueness": 1,
+   "gold_support_complete": 1,
+   "wrong_sense_plausible": 1,
+   "context_disambiguation_present": 1,
+   "no_answer_leakage": 1,
+   "no_ocr_dependency": 1,
+   "no_existing_question_overlap": 1,
+   "chunk_ids_valid": 1,
+   "human_explainable": 1
+  },
+  "dense_screening_status": "not_run",
+  "ambical_used_during_construction": false,
+  "selection_status": "rejected"
+ },
+ {
+  "question_id": "msa-r02",
+  "question": "Can TKPM lots be inherited or sold when a participant withdraws?",
+  "answer": "No. The lot is not Temporary Occupied Licence (TOL) land and cannot be transferred or inherited.",
+  "reference_answer": "No. The lot is not Temporary Occupied Licence (TOL) land and cannot be transferred or inherited.",
+  "answerability": "answerable",
+  "target_term_en": "lot transferability",
+  "target_term_ms": "tanah tidak boleh dipindah milik",
+  "intended_sense": "non-transferable, non-inheritable lot clause",
+  "wrong_sense": "adjacent utility and rent obligations in the same clause block",
+  "ambiguity_type": "eligibility_obligation_confusion",
+  "gold_chunk_ids": [
+   "028e4595744db88e25cf60aa48b8c4cdf533873e9d015475fc6e52e9e592a997"
+  ],
+  "equivalent_gold_chunk_ids": [],
+  "wrong_sense_chunk_ids": [
+   "c320c397b65e16b6ca70ee075c2d949c044ed48b479ff872d14dd5a0fc558d96"
+  ],
+  "supporting_quote_ms": "lot tersebut bukan tanah Lesen Pendudukan Sementara (TOL) dan tidak boleh dipindah milik atau diwariskan",
+  "wrong_sense_quote_ms": "mendaftar akaun bil utiliti atas nama peserta ... menjelaskan bil, sewa dan lain-lain caj tertunggak",
+  "disambiguating_cues": [
+   "inherit",
+   "transfer",
+   "withdraw"
+  ],
+  "source_section": "5.2 Kriteria dan Syarat-Syarat Pemilihan Peserta",
+  "construction_rationale": "REJECTED: gold chunk identical to msa-011's gold chunk - redundant coverage of the same clause block",
+  "quality_scores": {
+   "natural_language": 1,
+   "answer_uniqueness": 1,
+   "gold_support_complete": 1,
+   "wrong_sense_plausible": 1,
+   "context_disambiguation_present": 1,
+   "no_answer_leakage": 1,
+   "no_ocr_dependency": 1,
+   "no_existing_question_overlap": 1,
+   "chunk_ids_valid": 1,
+   "human_explainable": 1
+  },
+  "dense_screening_status": "not_run",
+  "ambical_used_during_construction": false,
+  "selection_status": "rejected"
+ },
+ {
+  "question_id": "msa-r03",
+  "question": "How many monitoring methods does the handbook describe for TKPM projects?",
+  "answer": "Three (3): meetings, monitoring visits and reporting.",
+  "reference_answer": "Three (3): meetings, monitoring visits and reporting.",
+  "answerability": "answerable",
+  "target_term_en": "monitoring method count",
+  "target_term_ms": "kaedah pemantauan",
+  "intended_sense": "three monitoring methods",
+  "wrong_sense": "individual meeting and visit frequencies",
+  "ambiguity_type": "procedure_stage_confusion",
+  "gold_chunk_ids": [
+   "279821b38f5f3e8bd3278b3fab3e5cdeb08224292981b74996b51736db21baed"
+  ],
+  "equivalent_gold_chunk_ids": [],
+  "wrong_sense_chunk_ids": [
+   "db5f4ebd59230215e5b0c4358c67ac0ec14da90ae54f2c2a128bfa3be01aa5f4"
+  ],
+  "supporting_quote_ms": "Terdapat tiga (3) kaedah pemantauan iaitu melalui mesyuarat, lawatan pemantauan dan pelaporan",
+  "wrong_sense_quote_ms": "Pasukan pemantauan ibu pejabat akan turun ke lapangan sekurang-kurangnya dua (2) kali setahun",
+  "disambiguating_cues": [
+   "monitoring methods",
+   "TKPM"
+  ],
+  "source_section": "9.0 PEMANTAUAN PROJEK",
+  "construction_rationale": "REJECTED: simple count fact with weak wrong-sense competition - low ambiguity value",
+  "quality_scores": {
+   "natural_language": 1,
+   "answer_uniqueness": 1,
+   "gold_support_complete": 1,
+   "wrong_sense_plausible": 1,
+   "context_disambiguation_present": 1,
+   "no_answer_leakage": 1,
+   "no_ocr_dependency": 1,
+   "no_existing_question_overlap": 1,
+   "chunk_ids_valid": 1,
+   "human_explainable": 1
+  },
+  "dense_screening_status": "not_run",
+  "ambical_used_during_construction": false,
+  "selection_status": "rejected"
+ },
+ {
+  "question_id": "msa-r04",
+  "question": "Who holds the right to revise TKPM land rent rates from time to time?",
+  "answer": "The landlord (Tuan Tanah), with any change notified in writing to participants.",
+  "reference_answer": "The landlord (Tuan Tanah), with any change notified in writing to participants.",
+  "answerability": "answerable",
+  "target_term_en": "rent revision right",
+  "target_term_ms": "hak mengkaji semula kadar",
+  "intended_sense": "landlord rent-revision right",
+  "wrong_sense": "JPPH rate-setting authority for the initial rate",
+  "ambiguity_type": "institution_role_confusion",
+  "gold_chunk_ids": [
+   "77e3fa6faff80cdc8ca5da0f62040b184d6351111685c64bfe8845fb27643854"
+  ],
+  "equivalent_gold_chunk_ids": [],
+  "wrong_sense_chunk_ids": [
+   "29ac6650120b223e449cea6f0e66efec96eb604f57436bebf11e4ed9a5845c53"
+  ],
+  "supporting_quote_ms": "Tuan Tanah mempunyai hak untuk mengkaji semula kadar dari semasa ke semasa",
+  "wrong_sense_quote_ms": "Kadar sewa adalah mengikut kadar yang ditetapkan oleh Jabatan Penilaian Dan Perkhidmatan Harta (JPPH)",
+  "disambiguating_cues": [
+   "revise",
+   "rent",
+   "landlord"
+  ],
+  "source_section": "5.5.2 Pajakan",
+  "construction_rationale": "REJECTED: fact reserved as the hard-negative attractor for mhn-005; keeping both would collide",
+  "quality_scores": {
+   "natural_language": 1,
+   "answer_uniqueness": 1,
+   "gold_support_complete": 1,
+   "wrong_sense_plausible": 1,
+   "context_disambiguation_present": 1,
+   "no_answer_leakage": 1,
+   "no_ocr_dependency": 1,
+   "no_existing_question_overlap": 1,
+   "chunk_ids_valid": 1,
+   "human_explainable": 1
+  },
+  "dense_screening_status": "not_run",
+  "ambical_used_during_construction": false,
+  "selection_status": "rejected"
+ },
+ {
+  "question_id": "msa-r05",
+  "question": "What cost obligations apply to participants farming on sloped land?",
+  "answer": "Participants bear slope-conservation or erosion-control costs in sloped areas.",
+  "reference_answer": "Participants bear slope-conservation or erosion-control costs in sloped areas.",
+  "answerability": "answerable",
+  "target_term_en": "slope conservation costs",
+  "target_term_ms": "kos pemuliharaan cerun",
+  "intended_sense": "slope-conservation cost obligation",
+  "wrong_sense": "the technical team's twice-yearly erosion-control KPI",
+  "ambiguity_type": "procedure_stage_confusion",
+  "gold_chunk_ids": [
+   "b390381ef4afcd7d704066da98b3d922351f951bada41d6030696051c478471a"
+  ],
+  "equivalent_gold_chunk_ids": [],
+  "wrong_sense_chunk_ids": [
+   "3e9b492b38d4876b06558cc1443b92203b329e9d1ffa24b5e73e6d02582c14f6"
+  ],
+  "supporting_quote_ms": "kos pemuliharaan cerun atau kawalan hakisan (bagi kawasan yang bercerun)",
+  "wrong_sense_quote_ms": "Kawalan Hakisan ... Sekurang-kurangnya dua (2) kali setahun",
+  "disambiguating_cues": [
+   "sloped land",
+   "erosion",
+   "cost"
+  ],
+  "source_section": "5.2 Kriteria dan Syarat-Syarat Pemilihan Peserta",
+  "construction_rationale": "REJECTED: obligation embedded in a long list item; the erosion KPI wrong-sense comes from a different programme row",
+  "quality_scores": {
+   "natural_language": 1,
+   "answer_uniqueness": 1,
+   "gold_support_complete": 1,
+   "wrong_sense_plausible": 1,
+   "context_disambiguation_present": 1,
+   "no_answer_leakage": 1,
+   "no_ocr_dependency": 1,
+   "no_existing_question_overlap": 1,
+   "chunk_ids_valid": 1,
+   "human_explainable": 1
+  },
+  "dense_screening_status": "not_run",
+  "ambical_used_during_construction": false,
+  "selection_status": "rejected"
+ },
+ {
+  "question_id": "msa-r06",
+  "question": "Under which Malaysia Plan was the Agrofood Park (AFP) developed?",
+  "answer": "The Twelfth Malaysia Plan (RMK-12).",
+  "reference_answer": "The Twelfth Malaysia Plan (RMK-12).",
+  "answerability": "answerable",
+  "target_term_en": "AFP development plan",
+  "target_term_ms": "Pembangunan Agrofood Park (AFP)",
+  "intended_sense": "AFP under RMK-12",
+  "wrong_sense": "NKEA EPP#7 premium fruit and vegetable market under RMK-10/11",
+  "ambiguity_type": "institution_role_confusion",
+  "gold_chunk_ids": [
+   "67ba764a2d5ee81dbab8a6fcb2499250f91bf42208c305403646105f89a28ee9"
+  ],
+  "equivalent_gold_chunk_ids": [],
+  "wrong_sense_chunk_ids": [
+   "d27072fae3a09d742fe20d9fd85a74dc5d980001f5727e375111f13a53311634"
+  ],
+  "supporting_quote_ms": "RMK-12 - Projek Pembangunan Agrofood Park (AFP",
+  "wrong_sense_quote_ms": "RMK-10 - Projek High Impact Project :TKPM ... National Key Economic Area (NKEA)(EPP#7)",
+  "disambiguating_cues": [
+   "Agrofood Park",
+   "Malaysia Plan"
+  ],
+  "source_section": "1.1 Pengenalan Program Taman Kekal Pengeluaran Makanan (TKPM",
+  "construction_rationale": "REJECTED: RMK-12 table row is OCR-compressed and the RMK family is already covered by msa-001's wrong-sense",
+  "quality_scores": {
+   "natural_language": 1,
+   "answer_uniqueness": 1,
+   "gold_support_complete": 1,
+   "wrong_sense_plausible": 1,
+   "context_disambiguation_present": 1,
+   "no_answer_leakage": 1,
+   "no_ocr_dependency": 1,
+   "no_existing_question_overlap": 1,
+   "chunk_ids_valid": 1,
+   "human_explainable": 1
+  },
+  "dense_screening_status": "not_run",
+  "ambical_used_during_construction": false,
+  "selection_status": "rejected"
+ },
+ {
+  "question_id": "msa-r07",
+  "question": "Who must approve a change to the crops a participant is allowed to plant?",
+  "answer": "The State Agriculture Director (Pengarah Pertanian Negeri), on the department's recommendation.",
+  "reference_answer": "The State Agriculture Director (Pengarah Pertanian Negeri), on the department's recommendation.",
+  "answerability": "answerable",
+  "target_term_en": "crop change approval",
+  "target_term_ms": "kelulusan perubahan tanaman",
+  "intended_sense": "state-director approval for crop changes",
+  "wrong_sense": "TKPM Manager approval for business plans and infrastructure changes",
+  "ambiguity_type": "institution_role_confusion",
+  "gold_chunk_ids": [
+   "5ee7bda27281febac7165dece1db3f237e781d545436c5b4a15ef8f091e35998"
+  ],
+  "equivalent_gold_chunk_ids": [],
+  "wrong_sense_chunk_ids": [
+   "d2bf4b5272b66aa266936c6b4599e43ed7242bc54f1ae31a549e2868e34f51d7"
+  ],
+  "supporting_quote_ms": "membuat permohonan perubahan atau penambahan tanaman kepada Pengarah Pertanian Negeri bagi pengesyoran kel",
+  "wrong_sense_quote_ms": "Pelan Bisnes ... untuk pertimbangan dan kelulusan Pengurus TKPM",
+  "disambiguating_cues": [
+   "change",
+   "crops",
+   "approve"
+  ],
+  "source_section": "5.2 Kriteria dan Syarat-Syarat Pemilihan Peserta",
+  "construction_rationale": "REJECTED: institution-role type cap reached (six institution/role questions already selected)",
+  "quality_scores": {
+   "natural_language": 1,
+   "answer_uniqueness": 1,
+   "gold_support_complete": 1,
+   "wrong_sense_plausible": 1,
+   "context_disambiguation_present": 1,
+   "no_answer_leakage": 1,
+   "no_ocr_dependency": 1,
+   "no_existing_question_overlap": 1,
+   "chunk_ids_valid": 1,
+   "human_explainable": 1
+  },
+  "dense_screening_status": "not_run",
+  "ambical_used_during_construction": false,
+  "selection_status": "rejected"
+ },
+ {
+  "question_id": "msa-r09",
+  "question": "What is the maximum development cost for lowland open-field fertigation at ground level?",
+  "answer": "Maximum RM207,000.00 per hectare.",
+  "reference_answer": "Maximum RM207,000.00 per hectare.",
+  "answerability": "answerable",
+  "target_term_en": "development cost ceiling",
+  "target_term_ms": "Kos Pembangunan Asas Fertigasi Terbuka",
+  "intended_sense": "lowland ground-level fertigation (RM207,000/ha)",
+  "wrong_sense": "conventional lowland ceilings and the suspended/para fertigation variants",
+  "ambiguity_type": "numerical_context_collision",
+  "gold_chunk_ids": [
+   "d18c80d74111440fdb87998754f83d273ab63fa175b0cdd76d566a271a44f654"
+  ],
+  "equivalent_gold_chunk_ids": [],
+  "wrong_sense_chunk_ids": [
+   "0fa4adecb69a112964535c594dfa14427916060ac1c648ddd3cbc9a7b4c443c9"
+  ],
+  "supporting_quote_ms": "Fertigasi Terbuka Atas Tanah Maksimum RM207,000.00/ hektar Gantung Maksimum RM213,000.00/ hektar",
+  "wrong_sense_quote_ms": "Sayur-Sayuran Maksimum RM109,000.00/ hektar Buah-Buahan Maksimum RM80,000.00/ hektar",
+  "disambiguating_cues": [
+   "fertigation",
+   "ground level",
+   "lowland"
+  ],
+  "source_section": "2.1 Kategori Program TKPM",
+  "construction_rationale": "REJECTED: numerical-context type cap reached; the cost-table family is already represented by msa-004",
+  "quality_scores": {
+   "natural_language": 1,
+   "answer_uniqueness": 1,
+   "gold_support_complete": 1,
+   "wrong_sense_plausible": 1,
+   "context_disambiguation_present": 1,
+   "no_answer_leakage": 1,
+   "no_ocr_dependency": 1,
+   "no_existing_question_overlap": 1,
+   "chunk_ids_valid": 1,
+   "human_explainable": 1
+  },
+  "dense_screening_status": "not_run",
+  "ambical_used_during_construction": false,
+  "selection_status": "rejected"
+ },
+ {
+  "question_id": "msa-r10",
+  "question": "What happens to the security deposit when a terminated participant owes utility bills?",
+  "answer": "The Government may forfeit part or all of the security deposit for outstanding rent or utility bills.",
+  "reference_answer": "The Government may forfeit part or all of the security deposit for outstanding rent or utility bills.",
+  "answerability": "answerable",
+  "target_term_en": "deposit forfeiture",
+  "target_term_ms": "perampasan wang cagaran",
+  "intended_sense": "deposit forfeiture for outstanding bills",
+  "wrong_sense": "the deposit amount payable at acceptance (three months' rent plus first month)",
+  "ambiguity_type": "procedure_stage_confusion",
+  "gold_chunk_ids": [
+   "6244f8da4d8ac04c147737c6aafa285531d3dec599ddb7538f6fa60ac0f29d17"
+  ],
+  "equivalent_gold_chunk_ids": [],
+  "wrong_sense_chunk_ids": [
+   "29ac6650120b223e449cea6f0e66efec96eb604f57436bebf11e4ed9a5845c53"
+  ],
+  "supporting_quote_ms": "hak untuk merampas sebahagian atau semua wang cagaran berdasarkan kepada kadar sewaan atau bil-bil utiliti yang tertunggak",
+  "wrong_sense_quote_ms": "wang cagaran dengan kadar tiga bulan sewa dan bayaran sewa bulan pertama",
+  "disambiguating_cues": [
+   "security deposit",
+   "forfeit",
+   "utility bills"
+  ],
+  "source_section": "5.7    Wang Cagaran",
+  "construction_rationale": "REJECTED: deposit-forfeiture fact family collides with msa-007 (whose wrong-sense chunk is this section)",
+  "quality_scores": {
+   "natural_language": 1,
+   "answer_uniqueness": 1,
+   "gold_support_complete": 1,
+   "wrong_sense_plausible": 1,
+   "context_disambiguation_present": 1,
+   "no_answer_leakage": 1,
+   "no_ocr_dependency": 1,
+   "no_existing_question_overlap": 1,
+   "chunk_ids_valid": 1,
+   "human_explainable": 1
+  },
+  "dense_screening_status": "not_run",
+  "ambical_used_during_construction": false,
+  "selection_status": "rejected"
+ },
+ {
+  "question_id": "mhn-r01",
+  "question": "What is the duration of the DEMIS premises tenancy agreement?",
+  "answer": "Not found in context",
+  "reference_answer": "Not found in context",
+  "answerability": "unanswerable",
+  "target_term_en": "tenancy duration",
+  "target_term_ms": "tempoh sewaan premis",
+  "ambiguity_type": "procedure_gap_high_similarity",
+  "gold_chunk_ids": [],
+  "equivalent_gold_chunk_ids": [],
+  "wrong_sense_chunk_ids": [
+   "eaa660cf385085a75d319fb42eecbc21837d0cf6e0e2cd3902e428d166e70989"
+  ],
+  "wrong_sense_quote_ms": "KLAUSA 4 - KADAR SEWAAN - Penyewa adalah dikehendaki membayar kadar sewaan penuh Premis",
+  "why_unanswerable": "the rent-rate clause exists but no agreement duration figure was verified in the KLAUSA text",
+  "disambiguating_cues": [
+   "DEMIS",
+   "tenancy",
+   "duration"
+  ],
+  "source_section": "KLAUSA 4 -  KADAR SEWAAN",
+  "construction_rationale": "REJECTED: answer-existence risk - KLAUSA duration text not fully verified, absence cannot be guaranteed",
+  "quality_scores": {
+   "natural_language": 1,
+   "answer_uniqueness": 1,
+   "gold_support_complete": 1,
+   "wrong_sense_plausible": 1,
+   "context_disambiguation_present": 1,
+   "no_answer_leakage": 1,
+   "no_ocr_dependency": 1,
+   "no_existing_question_overlap": 1,
+   "chunk_ids_valid": 1,
+   "human_explainable": 1
+  },
+  "dense_screening_status": "not_run",
+  "ambical_used_during_construction": false,
+  "selection_status": "rejected"
+ },
+ {
+  "question_id": "mhn-r02",
+  "question": "What is the maximum age for the youth priority in TKPM selection?",
+  "answer": "Not found in context",
+  "reference_answer": "Not found in context",
+  "answerability": "unanswerable",
+  "target_term_en": "youth priority age cap",
+  "target_term_ms": "had umur keutamaan belia",
+  "ambiguity_type": "absent_fact_keyword_competition",
+  "gold_chunk_ids": [],
+  "equivalent_gold_chunk_ids": [],
+  "wrong_sense_chunk_ids": [
+   "f6afc711bc3ec2cbf0dca90b1915f9a6ada7bf29a572eb92ccdf6da8f4eb4707"
+  ],
+  "wrong_sense_quote_ms": "Warganegara Malaysia, tiada had umur tetapi keutamaan kepada belia",
+  "why_unanswerable": "the corpus states there is NO age limit, only youth priority - not a valid hard negative",
+  "disambiguating_cues": [
+   "youth priority",
+   "maximum age"
+  ],
+  "source_section": "5.2 Kriteria dan Syarat-Syarat Pemilihan Peserta",
+  "construction_rationale": "REJECTED: answer exists in the corpus, so this is not a valid hard negative",
+  "quality_scores": {
+   "natural_language": 1,
+   "answer_uniqueness": 1,
+   "gold_support_complete": 1,
+   "wrong_sense_plausible": 1,
+   "context_disambiguation_present": 1,
+   "no_answer_leakage": 1,
+   "no_ocr_dependency": 1,
+   "no_existing_question_overlap": 1,
+   "chunk_ids_valid": 1,
+   "human_explainable": 1
+  },
+  "dense_screening_status": "not_run",
+  "ambical_used_during_construction": false,
+  "selection_status": "rejected"
+ },
+ {
+  "question_id": "mhn-r03",
+  "question": "Who is the current TKPM coordinator for a given state?",
+  "answer": "Not found in context",
+  "reference_answer": "Not found in context",
+  "answerability": "unanswerable",
+  "target_term_en": "coordinator identity",
+  "target_term_ms": "Penyelaras TKPM",
+  "ambiguity_type": "absent_fact_keyword_competition",
+  "gold_chunk_ids": [],
+  "equivalent_gold_chunk_ids": [],
+  "wrong_sense_chunk_ids": [
+   "b4558689e52e4a0d2cd7fda0061ed9d9dbd1b6b8c59400043cdfc3d2d1136522"
+  ],
+  "wrong_sense_quote_ms": "Penyelaras TKPM - Individu yang dilantik oleh Jabatan Pertanian",
+  "why_unanswerable": "the coordinator role is defined but specific names are time-dependent administrative data",
+  "disambiguating_cues": [
+   "coordinator",
+   "state"
+  ],
+  "source_section": "TERMINOLOGI",
+  "construction_rationale": "REJECTED: answer is time-dependent administrative data outside the stable document scope",
+  "quality_scores": {
+   "natural_language": 1,
+   "answer_uniqueness": 1,
+   "gold_support_complete": 1,
+   "wrong_sense_plausible": 1,
+   "context_disambiguation_present": 1,
+   "no_answer_leakage": 1,
+   "no_ocr_dependency": 1,
+   "no_existing_question_overlap": 1,
+   "chunk_ids_valid": 1,
+   "human_explainable": 1
+  },
+  "dense_screening_status": "not_run",
+  "ambical_used_during_construction": false,
+  "selection_status": "rejected"
+ },
+ {
+  "question_id": "mhn-r04",
+  "question": "How many TKPM sites were developed under the Twelfth Malaysia Plan?",
+  "answer": "Not found in context",
+  "reference_answer": "Not found in context",
+  "answerability": "unanswerable",
+  "target_term_en": "RMK-12 site count",
+  "target_term_ms": "bilangan TKPM RMK-12",
+  "ambiguity_type": "numerical_context_collision",
+  "gold_chunk_ids": [],
+  "equivalent_gold_chunk_ids": [],
+  "wrong_sense_chunk_ids": [
+   "67ba764a2d5ee81dbab8a6fcb2499250f91bf42208c305403646105f89a28ee9",
+   "d27072fae3a09d742fe20d9fd85a74dc5d980001f5727e375111f13a53311634"
+  ],
+  "wrong_sense_quote_ms": "RMK-12 - Projek Pembangunan Agrofood Park (AFP",
+  "why_unanswerable": "the RMK-12 row lists project names only; per-RMK site counts are not stated",
+  "disambiguating_cues": [
+   "RMK-12",
+   "sites"
+  ],
+  "source_section": "1.1 Pengenalan Program Taman Kekal Pengeluaran Makanan (TKPM",
+  "construction_rationale": "REJECTED: number family already represented by mhn-002; per-RMK counts risk partial-evidence ambiguity",
+  "quality_scores": {
+   "natural_language": 1,
+   "answer_uniqueness": 1,
+   "gold_support_complete": 1,
+   "wrong_sense_plausible": 1,
+   "context_disambiguation_present": 1,
+   "no_answer_leakage": 1,
+   "no_ocr_dependency": 1,
+   "no_existing_question_overlap": 1,
+   "chunk_ids_valid": 1,
+   "human_explainable": 1
+  },
+  "dense_screening_status": "not_run",
+  "ambical_used_during_construction": false,
+  "selection_status": "rejected"
+ },
+ {
+  "question_id": "mhn-r05",
+  "question": "Which bank account is used for TKPM rent payments?",
+  "answer": "Not found in context",
+  "reference_answer": "Not found in context",
+  "answerability": "unanswerable",
+  "target_term_en": "payment account",
+  "target_term_ms": "akaun bayaran",
+  "ambiguity_type": "absent_fact_keyword_competition",
+  "gold_chunk_ids": [],
+  "equivalent_gold_chunk_ids": [],
+  "wrong_sense_chunk_ids": [
+   "c320c397b65e16b6ca70ee075c2d949c044ed48b479ff872d14dd5a0fc558d96"
+  ],
+  "wrong_sense_quote_ms": "mendaftar akaun bil utiliti atas nama peserta",
+  "why_unanswerable": "utility-account registration is mentioned but payment bank accounts are administrative data",
+  "disambiguating_cues": [
+   "bank account",
+   "rent",
+   "payment"
+  ],
+  "source_section": "5.2 Kriteria dan Syarat-Syarat Pemilihan Peserta",
+  "construction_rationale": "REJECTED: payment-account details are administrative data the guideline does not govern",
+  "quality_scores": {
+   "natural_language": 1,
+   "answer_uniqueness": 1,
+   "gold_support_complete": 1,
+   "wrong_sense_plausible": 1,
+   "context_disambiguation_present": 1,
+   "no_answer_leakage": 1,
+   "no_ocr_dependency": 1,
+   "no_existing_question_overlap": 1,
+   "chunk_ids_valid": 1,
+   "human_explainable": 1
+  },
+  "dense_screening_status": "not_run",
+  "ambical_used_during_construction": false,
+  "selection_status": "rejected"
+ }
+]

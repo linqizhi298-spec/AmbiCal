@@ -1,0 +1,2933 @@
+[
+  {
+    "question_id": "mytkpm-dfu-002",
+    "question": "What is the notice period to cure a breach before forfeiture?",
+    "answer": "Not found in context",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "wrong_sense_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "b55e1e562069824c536685ca106c958f78062dd8492d61d44dee657f367c9c13",
+      "635721ac160c2e2b67411f83f944009dec6d26d06651a4db047082e1cbc9bcb3"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "A 30-day remedial window applies after the breach notice without a separate cure period.",
+    "topical_anchor": "breach cure",
+    "source_section": "1.1 Penamatan oleh Tuan Tanah",
+    "static_quality_pass": true,
+    "static_quality_rule": "author_full_text_adjudication_20261002_dense_b3",
+    "challenge_partition": "dense_failure",
+    "batch": 3,
+    "ambical_used_during_construction": false,
+    "dense_screening_status": "selected",
+    "dense_screening_tier": "A",
+    "dense_failure_count": 3,
+    "dense_correct_by_k": {
+      "1": false,
+      "3": false,
+      "5": false
+    },
+    "gold_best_rank": null,
+    "wrong_or_attractor_best_rank": 1,
+    "ambical_used_during_screening": false
+  },
+  {
+    "question_id": "mytkpm-dfu-003",
+    "question": "What is the maximum number of bays per fertigation participant?",
+    "answer": "Not found in context",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "wrong_sense_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "4b4e8386d5d602376f2c1372bf46a8055d7d69c5aa1f63801a44150cb6caff78",
+      "8e7871ab431ec19854fbc71fff9912c5d7e87a56927ba10caa2ca4e27e6f709b"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "Twelve bays appear as the allowance without a maximum.",
+    "topical_anchor": "fertigation scale",
+    "source_section": "5.1 Prosedur Pemilihan Peserta",
+    "static_quality_pass": true,
+    "static_quality_rule": "author_full_text_adjudication_20261002_dense_b5",
+    "challenge_partition": "dense_failure",
+    "batch": 5,
+    "ambical_used_during_construction": false,
+    "dense_screening_status": "selected",
+    "dense_screening_tier": "B",
+    "dense_failure_count": 2,
+    "dense_correct_by_k": {
+      "1": true,
+      "3": false,
+      "5": false
+    },
+    "gold_best_rank": null,
+    "wrong_or_attractor_best_rank": 1,
+    "ambical_used_during_screening": false
+  },
+  {
+    "question_id": "mytkpm-dfu-005",
+    "question": "How many days before expiry is a renewal decision announced?",
+    "answer": "Not found in context",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "wrong_sense_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "e17308cc1be7c641d147858b81ae5d105d501a33c0256c0e9cdca57eb03e49fa",
+      "3f5a59f18bd0e2a41ade4c326b37dcb3b194b09599ef4e4f1dd6af66aeeaf5b8"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "Renewal applies six months ahead without announcement timing.",
+    "topical_anchor": "renewal",
+    "source_section": "DI ANTARA",
+    "static_quality_pass": true,
+    "static_quality_rule": "author_full_text_adjudication_20261002_dense_b5",
+    "challenge_partition": "dense_failure",
+    "batch": 5,
+    "ambical_used_during_construction": false,
+    "dense_screening_status": "selected",
+    "dense_screening_tier": "B",
+    "dense_failure_count": 2,
+    "dense_correct_by_k": {
+      "1": true,
+      "3": false,
+      "5": false
+    },
+    "gold_best_rank": null,
+    "wrong_or_attractor_best_rank": 1,
+    "ambical_used_during_screening": false
+  },
+  {
+    "question_id": "mytkpm-dfu-007",
+    "question": "Which form records headquarters monitoring findings?",
+    "answer": "Not found in context",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "wrong_sense_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "db5f4ebd59230215e5b0c4358c67ac0ec14da90ae54f2c2a128bfa3be01aa5f4",
+      "279821b38f5f3e8bd3278b3fab3e5cdeb08224292981b74996b51736db21baed"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "Findings feed benchmark reports without a named form.",
+    "topical_anchor": "monitoring visits",
+    "source_section": "9.2.2.1    Fungsi Pasukan Teknikal",
+    "static_quality_pass": true,
+    "static_quality_rule": "author_full_text_adjudication_20261002_dense_b4",
+    "challenge_partition": "dense_failure",
+    "batch": 4,
+    "ambical_used_during_construction": false,
+    "dense_screening_status": "selected",
+    "dense_screening_tier": "A",
+    "dense_failure_count": 3,
+    "dense_correct_by_k": {
+      "1": false,
+      "3": false,
+      "5": false
+    },
+    "gold_best_rank": null,
+    "wrong_or_attractor_best_rank": 1,
+    "ambical_used_during_screening": false
+  },
+  {
+    "question_id": "mytkpm-dfu-008",
+    "question": "What is the maximum area for a single fertigation lot?",
+    "answer": "Not found in context",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "wrong_sense_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "4b4e8386d5d602376f2c1372bf46a8055d7d69c5aa1f63801a44150cb6caff78",
+      "7ea10c6a55f727fd1b37a9947903c608ca611c40ca4678298b5768513728f448"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "Fertigation minimums exist without lot maximums.",
+    "topical_anchor": "lot limits",
+    "source_section": "5.1 Prosedur Pemilihan Peserta",
+    "static_quality_pass": true,
+    "static_quality_rule": "author_full_text_adjudication_20261002_dense_b5",
+    "challenge_partition": "dense_failure",
+    "batch": 5,
+    "ambical_used_during_construction": false,
+    "dense_screening_status": "selected",
+    "dense_screening_tier": "B",
+    "dense_failure_count": 2,
+    "dense_correct_by_k": {
+      "1": true,
+      "3": false,
+      "5": false
+    },
+    "gold_best_rank": null,
+    "wrong_or_attractor_best_rank": 1,
+    "ambical_used_during_screening": false
+  },
+  {
+    "question_id": "mytkpm-dfu-009",
+    "question": "What is the validity period of a myGAP certificate for TKPM purposes?",
+    "answer": "Not found in context",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "wrong_sense_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "67b4afcd557d905bc69654ad7d181b1ead6573acbaa8047d1ac24e8bc04c1a8e",
+      "3194c4a28bfabca12741b1ad5d6235af7fcaa708f89e7528d5197b9936c1147d"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "Certification timing duties exist without validity periods.",
+    "topical_anchor": "certification",
+    "source_section": "5.3 Tanggungjawab Peserta",
+    "static_quality_pass": true,
+    "static_quality_rule": "author_full_text_adjudication_20261002_dense_b2",
+    "challenge_partition": "dense_failure",
+    "batch": 2,
+    "ambical_used_during_construction": false,
+    "dense_screening_status": "selected",
+    "dense_screening_tier": "A",
+    "dense_failure_count": 3,
+    "dense_correct_by_k": {
+      "1": false,
+      "3": false,
+      "5": false
+    },
+    "gold_best_rank": null,
+    "wrong_or_attractor_best_rank": 1,
+    "ambical_used_during_screening": false
+  },
+  {
+    "question_id": "mytkpm-dfu-011",
+    "question": "How many days of grace follow the rent due date before a forfeiture notice?",
+    "answer": "Not found in context",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "wrong_sense_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "b55e1e562069824c536685ca106c958f78062dd8492d61d44dee657f367c9c13",
+      "75139e4f347e8ecd223d3a789625a4654fa3548ff18986f86ba733d51b8dc965"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "Rent is due by the tenth day; forfeiture follows a 30-day unremedied notice, with no grace definition.",
+    "topical_anchor": "rent payment",
+    "source_section": "1.1 Penamatan oleh Tuan Tanah",
+    "static_quality_pass": true,
+    "static_quality_rule": "author_full_text_adjudication_20261002_dense",
+    "challenge_partition": "dense_failure",
+    "batch": 1,
+    "ambical_used_during_construction": false,
+    "dense_screening_status": "selected",
+    "dense_screening_tier": "A",
+    "dense_failure_count": 3,
+    "dense_correct_by_k": {
+      "1": false,
+      "3": false,
+      "5": false
+    },
+    "gold_best_rank": null,
+    "wrong_or_attractor_best_rank": 1,
+    "ambical_used_during_screening": false
+  },
+  {
+    "question_id": "mytkpm-dfu-012",
+    "question": "Which clause of the state-land template covers force majeure?",
+    "answer": "Not found in context",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "wrong_sense_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "c4b13024c17699dc13d9919e5cda3323e235b120a9ea6f6612d0e946a68b95d2",
+      "d0c71d8845118e44375ab974b38ceddadb2b91b520df0345a05a3ee815f141ef"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "The state template has no force-majeure clause.",
+    "topical_anchor": "state lease",
+    "source_section": "KLAUSA 15 - ' FORCE MAJEURE '",
+    "static_quality_pass": true,
+    "static_quality_rule": "author_full_text_adjudication_20261002_dense_b5",
+    "challenge_partition": "dense_failure",
+    "batch": 5,
+    "ambical_used_during_construction": false,
+    "dense_screening_status": "selected",
+    "dense_screening_tier": "A",
+    "dense_failure_count": 3,
+    "dense_correct_by_k": {
+      "1": false,
+      "3": false,
+      "5": false
+    },
+    "gold_best_rank": null,
+    "wrong_or_attractor_best_rank": 1,
+    "ambical_used_during_screening": false
+  },
+  {
+    "question_id": "mytkpm-dfu-014",
+    "question": "How many witness signatures does the state-land lease template require?",
+    "answer": "Not found in context",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "wrong_sense_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "3d02a1bacc7eba94d4fba8dce3af715d54e60466b15fc0d26ff1655aa99735a9",
+      "2a4a596b2a45e72844b493e381aa37c805969cd34512326ec90b7436a24d449e"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "The template shows signature blocks without a witness count.",
+    "topical_anchor": "state lease",
+    "source_section": "ISI KANDUNGAN",
+    "static_quality_pass": true,
+    "static_quality_rule": "author_full_text_adjudication_20261002_dense_b2",
+    "challenge_partition": "dense_failure",
+    "batch": 2,
+    "ambical_used_during_construction": false,
+    "dense_screening_status": "selected",
+    "dense_screening_tier": "B",
+    "dense_failure_count": 2,
+    "dense_correct_by_k": {
+      "1": true,
+      "3": false,
+      "5": false
+    },
+    "gold_best_rank": null,
+    "wrong_or_attractor_best_rank": 1,
+    "ambical_used_during_screening": false
+  },
+  {
+    "question_id": "mytkpm-dfu-022",
+    "question": "Which crops require departmental approval before planting?",
+    "answer": "Not found in context",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "wrong_sense_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "897c82e684440708309868518841cc9fdc2f0018d4422471097d3b2949b1a359",
+      "5ee7bda27281febac7165dece1db3f237e781d545436c5b4a15ef8f091e35998"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "Crop changes need application without a restricted list.",
+    "topical_anchor": "crop approval",
+    "source_section": "A) Tanggungjawab Peserta",
+    "static_quality_pass": true,
+    "static_quality_rule": "author_full_text_adjudication_20261002_dense_b4",
+    "challenge_partition": "dense_failure",
+    "batch": 4,
+    "ambical_used_during_construction": false,
+    "dense_screening_status": "selected",
+    "dense_screening_tier": "A",
+    "dense_failure_count": 3,
+    "dense_correct_by_k": {
+      "1": false,
+      "3": false,
+      "5": false
+    },
+    "gold_best_rank": null,
+    "wrong_or_attractor_best_rank": 1,
+    "ambical_used_during_screening": false
+  },
+  {
+    "question_id": "mytkpm-dfu-028",
+    "question": "Which signatory represents the state in tripartite agreements?",
+    "answer": "Not found in context",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "wrong_sense_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "69b7931eb4ae166a469b3aaf80e46adbb9939a40469fc6788a57eb88320e8e0b",
+      "83f016ea98b166af40ab711df59411bde57b8f248f474a7879a4a76ab69c753d"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "The State Director represents the state appointment without a named signatory.",
+    "topical_anchor": "tripartite agreement",
+    "source_section": "5.6 Perjanjian",
+    "static_quality_pass": true,
+    "static_quality_rule": "author_full_text_adjudication_20261002_dense_b3",
+    "challenge_partition": "dense_failure",
+    "batch": 3,
+    "ambical_used_during_construction": false,
+    "dense_screening_status": "selected",
+    "dense_screening_tier": "A",
+    "dense_failure_count": 3,
+    "dense_correct_by_k": {
+      "1": false,
+      "3": false,
+      "5": false
+    },
+    "gold_best_rank": null,
+    "wrong_or_attractor_best_rank": 1,
+    "ambical_used_during_screening": false
+  },
+  {
+    "question_id": "mytkpm-dfu-030",
+    "question": "How many years of accounts must the business plan project for herbs?",
+    "answer": "Not found in context",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "wrong_sense_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "85c7fc8bb4ceb72b9893148795862b86757147d3d1a24d5793bb1286673aa6f5",
+      "00e40ffb8ae1167cb1d458295db0e884e0310323551dbae5dd67cbb761057ecf"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "Herbs follow the 2-3 year cash-flow band without account years.",
+    "topical_anchor": "business plan",
+    "source_section": "6.1 Kandungan Pelan Bisnes",
+    "static_quality_pass": true,
+    "static_quality_rule": "author_full_text_adjudication_20261002_dense_b4",
+    "challenge_partition": "dense_failure",
+    "batch": 4,
+    "ambical_used_during_construction": false,
+    "dense_screening_status": "selected",
+    "dense_screening_tier": "A",
+    "dense_failure_count": 3,
+    "dense_correct_by_k": {
+      "1": false,
+      "3": false,
+      "5": false
+    },
+    "gold_best_rank": null,
+    "wrong_or_attractor_best_rank": 1,
+    "ambical_used_during_screening": false
+  },
+  {
+    "question_id": "mytkpm-dfux2-011",
+    "question": "What is the notice period for the department to retake land?",
+    "answer": "Not found in context",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "wrong_sense_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "c64dac832372ac0d48dd452494b62406172f75c496d50d3106e92f8ad36b23e3",
+      "b55e1e562069824c536685ca106c958f78062dd8492d61d44dee657f367c9c13"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "State-land retaking has no stated notice.",
+    "topical_anchor": "land retaking",
+    "source_section": "17.  PENAMATAN",
+    "static_quality_pass": true,
+    "static_quality_rule": "author_full_text_adjudication_20261002_dense_b5",
+    "challenge_partition": "dense_failure",
+    "batch": 5,
+    "ambical_used_during_construction": false,
+    "dense_screening_status": "selected",
+    "dense_screening_tier": "A",
+    "dense_failure_count": 3,
+    "dense_correct_by_k": {
+      "1": false,
+      "3": false,
+      "5": false
+    },
+    "gold_best_rank": null,
+    "wrong_or_attractor_best_rank": 1,
+    "ambical_used_during_screening": false
+  },
+  {
+    "question_id": "mytkpm-sem-035",
+    "question": "What is the total development budget allocated to TKPM under RMK-12?",
+    "answer": "Not found in context",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "target_term_en": "Only project names per RMK cycle are listed; no budget figures exist.",
+    "intended_sense": "Only project names per RMK cycle are listed; no budget figures exist.",
+    "wrong_sense": "funding sources",
+    "ambiguity_type": "number_time_confusion",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "wrong_sense_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "6276e30176e58b747401a32bd5d153ab33d92efd1297edd41b5cb84dceb28b5e",
+      "2b89adfda49ccd6ae6486810e34b41c0e27ece03a2b75d5936edaa5b01ad7f3d"
+    ],
+    "supporting_quote_id": null,
+    "wrong_sense_quote_id": null,
+    "absent_reason": "Only project names per RMK cycle are listed; no budget figures exist.",
+    "disambiguating_cues": [
+      "funding sources"
+    ],
+    "source_section": "1.1 Pengenalan Program Taman Kekal Pengeluaran Makanan (TKPM)",
+    "selection_section": "1.1 Pengenalan Program Taman Kekal Pengeluaran Makanan (TKPM)",
+    "construction_rationale": "Unanswerable probe with a dense lexical attractor on the target topic pages.",
+    "static_quality_pass": true,
+    "static_quality_rule": "author_full_text_adjudication_20261002",
+    "challenge_partition": "semantic_ambiguity",
+    "batch": 1,
+    "ambical_used_during_construction": false,
+    "qa_correctness_used_during_selection": false,
+    "context_gate_triggered": true,
+    "context_correction_executed": true,
+    "correction_mode": "topk_counterfactual_positive_v5",
+    "selected_counterfactual_phrase_count": 2,
+    "gate_diagnostic_run_id": "my_tkpm_semantic_gate_diagnostic_20261002_01",
+    "selection_status": null,
+    "dense_screening_status": null,
+    "diagnostic_success": true
+  },
+  {
+    "question_id": "mytkpm-sem-036",
+    "question": "Which state hosts the largest TKPM site by area?",
+    "answer": "Not found in context",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "target_term_en": "Only the 71-site and 10,466.53-hectare totals appear without per-site data.",
+    "intended_sense": "Only the 71-site and 10,466.53-hectare totals appear without per-site data.",
+    "wrong_sense": "site statistics",
+    "ambiguity_type": "number_time_confusion",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "wrong_sense_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "6276e30176e58b747401a32bd5d153ab33d92efd1297edd41b5cb84dceb28b5e",
+      "2b89adfda49ccd6ae6486810e34b41c0e27ece03a2b75d5936edaa5b01ad7f3d"
+    ],
+    "supporting_quote_id": null,
+    "wrong_sense_quote_id": null,
+    "absent_reason": "Only the 71-site and 10,466.53-hectare totals appear without per-site data.",
+    "disambiguating_cues": [
+      "site statistics"
+    ],
+    "source_section": "1.1 Pengenalan Program Taman Kekal Pengeluaran Makanan (TKPM)",
+    "selection_section": "1.1 Pengenalan Program Taman Kekal Pengeluaran Makanan (TKPM)",
+    "construction_rationale": "Unanswerable probe with a dense lexical attractor on the target topic pages.",
+    "static_quality_pass": true,
+    "static_quality_rule": "author_full_text_adjudication_20261002",
+    "challenge_partition": "semantic_ambiguity",
+    "batch": 1,
+    "ambical_used_during_construction": false,
+    "qa_correctness_used_during_selection": false,
+    "context_gate_triggered": true,
+    "context_correction_executed": true,
+    "correction_mode": "topk_counterfactual_positive_v5",
+    "selected_counterfactual_phrase_count": 2,
+    "gate_diagnostic_run_id": "my_tkpm_semantic_gate_diagnostic_20261002_01",
+    "selection_status": null,
+    "dense_screening_status": null,
+    "diagnostic_success": true
+  },
+  {
+    "question_id": "mytkpm-sem-038",
+    "question": "What is the application deadline for the 2024 TKPM intake?",
+    "answer": "Not found in context",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "target_term_en": "The selection procedure has no intake deadline.",
+    "intended_sense": "The selection procedure has no intake deadline.",
+    "wrong_sense": "participant selection",
+    "ambiguity_type": "procedure_stage",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "wrong_sense_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "1d286717d9b959c8f24add996a48be5aa3718e2880fc76dc3aede4fe501991c4",
+      "05083201cf9c033447dc5d3fd80da7922e2d7a59992d456f39e49f304dd99529"
+    ],
+    "supporting_quote_id": null,
+    "wrong_sense_quote_id": null,
+    "absent_reason": "The selection procedure has no intake deadline.",
+    "disambiguating_cues": [
+      "participant selection"
+    ],
+    "source_section": "A Butir-Butir Pemohon",
+    "selection_section": "A Butir-Butir Pemohon",
+    "construction_rationale": "Unanswerable probe with a dense lexical attractor on the target topic pages.",
+    "static_quality_pass": true,
+    "static_quality_rule": "author_full_text_adjudication_20261002",
+    "challenge_partition": "semantic_ambiguity",
+    "batch": 1,
+    "ambical_used_during_construction": false,
+    "qa_correctness_used_during_selection": false,
+    "context_gate_triggered": true,
+    "context_correction_executed": true,
+    "correction_mode": "topk_counterfactual_positive_v5",
+    "selected_counterfactual_phrase_count": 2,
+    "gate_diagnostic_run_id": "my_tkpm_semantic_gate_diagnostic_20261002_01",
+    "selection_status": null,
+    "dense_screening_status": null,
+    "diagnostic_success": true
+  },
+  {
+    "question_id": "mytkpm-sem-041",
+    "question": "What is the minimum distance between TKPM lots and residential areas?",
+    "answer": "Not found in context",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "target_term_en": "Site selection lists access, utilities, soil, and local-authority rules without setback distances.",
+    "intended_sense": "Site selection lists access, utilities, soil, and local-authority rules without setback distances.",
+    "wrong_sense": "site selection",
+    "ambiguity_type": "number_time_confusion",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "wrong_sense_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "5fb7b6591ed889c79ee0a948aceeb3eaac44610a56a48b650cea9385bcd17b8d",
+      "c320c397b65e16b6ca70ee075c2d949c044ed48b479ff872d14dd5a0fc558d96"
+    ],
+    "supporting_quote_id": null,
+    "wrong_sense_quote_id": null,
+    "absent_reason": "Site selection lists access, utilities, soil, and local-authority rules without setback distances.",
+    "disambiguating_cues": [
+      "site selection"
+    ],
+    "source_section": "A) Tanggungjawab Peserta",
+    "selection_section": "A) Tanggungjawab Peserta",
+    "construction_rationale": "Unanswerable probe with a dense lexical attractor on the target topic pages.",
+    "static_quality_pass": true,
+    "static_quality_rule": "author_full_text_adjudication_20261002",
+    "challenge_partition": "semantic_ambiguity",
+    "batch": 1,
+    "ambical_used_during_construction": false,
+    "qa_correctness_used_during_selection": false,
+    "context_gate_triggered": true,
+    "context_correction_executed": true,
+    "correction_mode": "topk_counterfactual_positive_v5",
+    "selected_counterfactual_phrase_count": 2,
+    "gate_diagnostic_run_id": "my_tkpm_semantic_gate_diagnostic_20261002_01",
+    "selection_status": null,
+    "dense_screening_status": null,
+    "diagnostic_success": true
+  },
+  {
+    "question_id": "mytkpm-sem-042",
+    "question": "What preferential financing does Agrobank offer to TKPM participants?",
+    "answer": "Not found in context",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "target_term_en": "Agrobank appears as a support agency under contract farming without any financing terms.",
+    "intended_sense": "Agrobank appears as a support agency under contract farming without any financing terms.",
+    "wrong_sense": "support agencies",
+    "ambiguity_type": "institution_responsibility",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "wrong_sense_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "8479eadd6008f21ac1771c8b1890f68d8f63679c2243f4ce1e4b332239e06cda",
+      "f6afc711bc3ec2cbf0dca90b1915f9a6ada7bf29a572eb92ccdf6da8f4eb4707"
+    ],
+    "supporting_quote_id": null,
+    "wrong_sense_quote_id": null,
+    "absent_reason": "Agrobank appears as a support agency under contract farming without any financing terms.",
+    "disambiguating_cues": [
+      "support agencies"
+    ],
+    "source_section": "PERJANJIAN",
+    "selection_section": "PERJANJIAN",
+    "construction_rationale": "Unanswerable probe with a dense lexical attractor on the target topic pages.",
+    "static_quality_pass": true,
+    "static_quality_rule": "author_full_text_adjudication_20261002",
+    "challenge_partition": "semantic_ambiguity",
+    "batch": 1,
+    "ambical_used_during_construction": false,
+    "qa_correctness_used_during_selection": false,
+    "context_gate_triggered": true,
+    "context_correction_executed": true,
+    "correction_mode": "topk_counterfactual_positive_v5",
+    "selected_counterfactual_phrase_count": 2,
+    "gate_diagnostic_run_id": "my_tkpm_semantic_gate_diagnostic_20261002_01",
+    "selection_status": null,
+    "dense_screening_status": null,
+    "diagnostic_success": true
+  },
+  {
+    "question_id": "mytkpm-sem-045",
+    "question": "How long does the Department take to approve a Pelan Bisnes submission?",
+    "answer": "Not found in context",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "target_term_en": "Approval is by the TKPM Manager without any processing time.",
+    "intended_sense": "Approval is by the TKPM Manager without any processing time.",
+    "wrong_sense": "business plan",
+    "ambiguity_type": "procedure_stage",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "wrong_sense_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "d2bf4b5272b66aa266936c6b4599e43ed7242bc54f1ae31a549e2868e34f51d7",
+      "00e40ffb8ae1167cb1d458295db0e884e0310323551dbae5dd67cbb761057ecf"
+    ],
+    "supporting_quote_id": null,
+    "wrong_sense_quote_id": null,
+    "absent_reason": "Approval is by the TKPM Manager without any processing time.",
+    "disambiguating_cues": [
+      "business plan"
+    ],
+    "source_section": "5.3 Tanggungjawab Peserta",
+    "selection_section": "5.3 Tanggungjawab Peserta",
+    "construction_rationale": "Unanswerable probe with a dense lexical attractor on the target topic pages.",
+    "static_quality_pass": true,
+    "static_quality_rule": "author_full_text_adjudication_20261002",
+    "challenge_partition": "semantic_ambiguity",
+    "batch": 1,
+    "ambical_used_during_construction": false,
+    "qa_correctness_used_during_selection": false,
+    "context_gate_triggered": true,
+    "context_correction_executed": true,
+    "correction_mode": "topk_counterfactual_positive_v5",
+    "selected_counterfactual_phrase_count": 2,
+    "gate_diagnostic_run_id": "my_tkpm_semantic_gate_diagnostic_20261002_01",
+    "selection_status": null,
+    "dense_screening_status": null,
+    "diagnostic_success": true
+  },
+  {
+    "question_id": "mytkpm-sem-050",
+    "question": "Which appointed TKPM officer signs the participant offer letter?",
+    "answer": "Not found in context",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "target_term_en": "The offer letter is signed by the State Director of Agriculture, who is not one of the three appointed project roles.",
+    "intended_sense": "The offer letter is signed by the State Director of Agriculture, who is not one of the three appointed project roles.",
+    "wrong_sense": "appointed roles vs offer signature",
+    "ambiguity_type": "institution_responsibility",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "wrong_sense_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "fd243421190c85b0e6a29e4353dfaff1ceeeb7959eb6383d58675d331e20a9b9",
+      "e7dde9031e68415fea53c39ebbbe48df2a0786b6300514fc9b0e74fd8ad76662"
+    ],
+    "supporting_quote_id": null,
+    "wrong_sense_quote_id": null,
+    "absent_reason": "The offer letter is signed by the State Director of Agriculture, who is not one of the three appointed project roles.",
+    "disambiguating_cues": [
+      "appointed roles vs offer signature"
+    ],
+    "source_section": "E Kegunaan Pejabat",
+    "selection_section": "E Kegunaan Pejabat",
+    "construction_rationale": "Batch-2 unanswerable probe in a non-number type with a strong lexical attractor.",
+    "static_quality_pass": true,
+    "static_quality_rule": "author_full_text_adjudication_20261002_batch2",
+    "challenge_partition": "semantic_ambiguity",
+    "batch": 2,
+    "ambical_used_during_construction": false,
+    "qa_correctness_used_during_selection": false,
+    "context_gate_triggered": true,
+    "context_correction_executed": true,
+    "correction_mode": "topk_counterfactual_positive_v5",
+    "selected_counterfactual_phrase_count": 2,
+    "gate_diagnostic_run_id": "my_tkpm_semantic_gate_diagnostic_20261002_01_batch2",
+    "selection_status": null,
+    "dense_screening_status": null,
+    "diagnostic_success": true
+  },
+  {
+    "question_id": "mytkpm-sem-051",
+    "question": "Which committee reviews a participant's appeal against termination?",
+    "answer": "Not found in context",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "target_term_en": "No participant-appeal mechanism exists in the guideline.",
+    "intended_sense": "No participant-appeal mechanism exists in the guideline.",
+    "wrong_sense": "termination procedure",
+    "ambiguity_type": "procedure_stage",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "wrong_sense_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "75139e4f347e8ecd223d3a789625a4654fa3548ff18986f86ba733d51b8dc965",
+      "b519ce896820421f5ee1ec8965629a69fd246e36f6b7f67ea6976c5a1aeba137"
+    ],
+    "supporting_quote_id": null,
+    "wrong_sense_quote_id": null,
+    "absent_reason": "No participant-appeal mechanism exists in the guideline.",
+    "disambiguating_cues": [
+      "termination procedure"
+    ],
+    "source_section": "1.1 Penamatan oleh Tuan Tanah",
+    "selection_section": "1.1 Penamatan oleh Tuan Tanah",
+    "construction_rationale": "Batch-2 unanswerable probe in a non-number type with a strong lexical attractor.",
+    "static_quality_pass": true,
+    "static_quality_rule": "author_full_text_adjudication_20261002_batch2",
+    "challenge_partition": "semantic_ambiguity",
+    "batch": 2,
+    "ambical_used_during_construction": false,
+    "qa_correctness_used_during_selection": false,
+    "context_gate_triggered": true,
+    "context_correction_executed": true,
+    "correction_mode": "topk_counterfactual_positive_v5",
+    "selected_counterfactual_phrase_count": 2,
+    "gate_diagnostic_run_id": "my_tkpm_semantic_gate_diagnostic_20261002_01_batch2",
+    "selection_status": null,
+    "dense_screening_status": null,
+    "diagnostic_success": true
+  },
+  {
+    "question_id": "mytkpm-sem-053",
+    "question": "What land area qualifies as a Demis under the premises-lease template?",
+    "answer": "Not found in context",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "target_term_en": "The Demis definition is qualitative; the lease template leaves the area blank.",
+    "intended_sense": "The Demis definition is qualitative; the lease template leaves the area blank.",
+    "wrong_sense": "lease template",
+    "ambiguity_type": "same_word_different_domain",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "wrong_sense_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "5753464097313043e19bf6e4931b220028970c86e0c705059abe631c9f78b6da",
+      "bce26ddf26f5ec108eb540a3377b3251fca3e8932ea69f370e7c1d3de13dc901"
+    ],
+    "supporting_quote_id": null,
+    "wrong_sense_quote_id": null,
+    "absent_reason": "The Demis definition is qualitative; the lease template leaves the area blank.",
+    "disambiguating_cues": [
+      "lease template"
+    ],
+    "source_section": "KLAUSA 1 - DEFINISI DAN TAFSIRAN",
+    "selection_section": "KLAUSA 1 - DEFINISI DAN TAFSIRAN",
+    "construction_rationale": "Batch-2 unanswerable probe in a non-number type with a strong lexical attractor.",
+    "static_quality_pass": true,
+    "static_quality_rule": "author_full_text_adjudication_20261002_batch2",
+    "challenge_partition": "semantic_ambiguity",
+    "batch": 2,
+    "ambical_used_during_construction": false,
+    "qa_correctness_used_during_selection": false,
+    "context_gate_triggered": true,
+    "context_correction_executed": true,
+    "correction_mode": "topk_counterfactual_positive_v5",
+    "selected_counterfactual_phrase_count": 2,
+    "gate_diagnostic_run_id": "my_tkpm_semantic_gate_diagnostic_20261002_01_batch2",
+    "selection_status": null,
+    "dense_screening_status": null,
+    "diagnostic_success": true
+  },
+  {
+    "question_id": "mytkpm-sem-054",
+    "question": "Who appoints the TKPM Supervisor at the district level?",
+    "answer": "Not found in context",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "target_term_en": "The guideline says the Department appoints all three roles without naming the appointing tier.",
+    "intended_sense": "The guideline says the Department appoints all three roles without naming the appointing tier.",
+    "wrong_sense": "appointed roles",
+    "ambiguity_type": "institution_responsibility",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "wrong_sense_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "4fb39e2baa8b7cfaa1cf285a15a4715888c030731726b8283470a6d061d6b1f5",
+      "1d51b8183eb482080e12254c13dd55bf95ad5aae721fa2ef6fc4900ce4a6585e"
+    ],
+    "supporting_quote_id": null,
+    "wrong_sense_quote_id": null,
+    "absent_reason": "The guideline says the Department appoints all three roles without naming the appointing tier.",
+    "disambiguating_cues": [
+      "appointed roles"
+    ],
+    "source_section": "7.3   Senarai Jawatankuasa Dan Skop Tugas",
+    "selection_section": "7.3   Senarai Jawatankuasa Dan Skop Tugas",
+    "construction_rationale": "Batch-2 unanswerable probe in a non-number type with a strong lexical attractor.",
+    "static_quality_pass": true,
+    "static_quality_rule": "author_full_text_adjudication_20261002_batch2",
+    "challenge_partition": "semantic_ambiguity",
+    "batch": 2,
+    "ambical_used_during_construction": false,
+    "qa_correctness_used_during_selection": false,
+    "context_gate_triggered": true,
+    "context_correction_executed": true,
+    "correction_mode": "topk_counterfactual_positive_v5",
+    "selected_counterfactual_phrase_count": 2,
+    "gate_diagnostic_run_id": "my_tkpm_semantic_gate_diagnostic_20261002_01_batch2",
+    "selection_status": null,
+    "dense_screening_status": null,
+    "diagnostic_success": true
+  },
+  {
+    "question": "What was the total federal budget allocated to the TKPM programme in 2024?",
+    "answer": "Not found in context",
+    "page": 14,
+    "question_id": "mytkpm-u-001",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "2b89adfda49ccd6ae6486810e34b41c0e27ece03a2b75d5936edaa5b01ad7f3d",
+      "6276e30176e58b747401a32bd5d153ab33d92efd1297edd41b5cb84dceb28b5e"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "The background chapter gives site counts and area but no federal budget figure for 2024.",
+    "source_section": null,
+    "source_page_verified": null,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control",
+    "selection_basis": "legacy_100x100_plus_quote_mapping_20261002",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "absence_verified_by_full_document_review",
+      "manual_semantic_review_completed": true
+    }
+  },
+  {
+    "question": "How much of Malaysia's national food supply came from TKPM farms in 2023?",
+    "answer": "Not found in context",
+    "page": 14,
+    "question_id": "mytkpm-u-002",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "6276e30176e58b747401a32bd5d153ab33d92efd1297edd41b5cb84dceb28b5e",
+      "3b8577f355d3ae7ff84b49ff66546cdbb552b80659b1433b09ff7fb2084cdcfa"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "No share of national food supply from TKPM farms is stated anywhere.",
+    "source_section": null,
+    "source_page_verified": null,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control",
+    "selection_basis": "legacy_100x100_plus_quote_mapping_20261002",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "absence_verified_by_full_document_review",
+      "manual_semantic_review_completed": true
+    }
+  },
+  {
+    "question": "What annual growth rate does the programme target for its contribution to agricultural GDP?",
+    "answer": "Not found in context",
+    "page": 14,
+    "question_id": "mytkpm-u-005",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "41b1018892e2a8ada1f015ca2d5a4e56cf2138015330987b8a4d265db305eb66",
+      "0acdcc86be119f01ec9080e7877383805570584848adbc630070324b297909b7"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "DAN 2.0 contributions are described qualitatively without any growth-rate target.",
+    "source_section": null,
+    "source_page_verified": null,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control",
+    "selection_basis": "legacy_100x100_plus_quote_mapping_20261002",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "absence_verified_by_full_document_review",
+      "manual_semantic_review_completed": true
+    }
+  },
+  {
+    "question": "What exact self-sufficiency ratio must every TKPM commodity achieve by 2030?",
+    "answer": "Not found in context",
+    "page": 14,
+    "question_id": "mytkpm-u-006",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "3650b02f6fd26879d43149f81e5e0665433db68b5f664ac6a097a8ecce5b2f83",
+      "3b8577f355d3ae7ff84b49ff66546cdbb552b80659b1433b09ff7fb2084cdcfa"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "The text mentions meeting the SSR but sets no per-commodity self-sufficiency target.",
+    "source_section": null,
+    "source_page_verified": null,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control",
+    "selection_basis": "legacy_100x100_plus_quote_mapping_20261002",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "absence_verified_by_full_document_review",
+      "manual_semantic_review_completed": true
+    }
+  },
+  {
+    "question": "What percentage of TKPM land is currently managed by private companies?",
+    "answer": "Not found in context",
+    "page": 14,
+    "question_id": "mytkpm-u-008",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "2b89adfda49ccd6ae6486810e34b41c0e27ece03a2b75d5936edaa5b01ad7f3d",
+      "6276e30176e58b747401a32bd5d153ab33d92efd1297edd41b5cb84dceb28b5e"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "No ownership split between private companies and other participants is given.",
+    "source_section": null,
+    "source_page_verified": null,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control",
+    "selection_basis": "legacy_100x100_plus_quote_mapping_20261002",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "absence_verified_by_full_document_review",
+      "manual_semantic_review_completed": true
+    }
+  },
+  {
+    "question": "What is the name and date of the current memorandum of understanding with each state?",
+    "answer": "Not found in context",
+    "page": 14,
+    "question_id": "mytkpm-u-009",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "9926b7037aa5adfb9c7b367ff8faaf0a1c65bd19a9e9d1692f7c0b984ac98354",
+      "83f016ea98b166af40ab711df59411bde57b8f248f474a7879a4a76ab69c753d"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "Only the existence of an MoU between KPKM and state governments is stated, without its date.",
+    "source_section": null,
+    "source_page_verified": null,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control",
+    "selection_basis": "legacy_100x100_plus_quote_mapping_20261002",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "absence_verified_by_full_document_review",
+      "manual_semantic_review_completed": true
+    }
+  },
+  {
+    "question": "What penalty applies when a project operates without myGAP or myOrganic certification?",
+    "answer": "Not found in context",
+    "page": 16,
+    "question_id": "mytkpm-u-012",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "67b4afcd557d905bc69654ad7d181b1ead6573acbaa8047d1ac24e8bc04c1a8e",
+      "ea02e8f3c7f45af7a3eafa3d6ed531ebd354999a094d40da1ae9ace3231be41e"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "Certification is mandatory but no penalty for operating without it is stated.",
+    "source_section": null,
+    "source_page_verified": null,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control",
+    "selection_basis": "legacy_100x100_plus_quote_mapping_20261002",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "absence_verified_by_full_document_review",
+      "manual_semantic_review_completed": true
+    }
+  },
+  {
+    "question": "What minimum internet speed must shared TKPM telecommunications provide?",
+    "answer": "Not found in context",
+    "page": 18,
+    "question_id": "mytkpm-u-015",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "b68344cd4920970468424f2775e2a03a8f50d07ed00d9ade9e05d70fae3182d1",
+      "9c6e622c3f321ce3997ad95be76c33319cbe83f49d00fa1a1b565e4071d4109d"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "Telecommunications and internet are listed as shared utilities without speed requirements.",
+    "source_section": null,
+    "source_page_verified": null,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control",
+    "selection_basis": "legacy_100x100_plus_quote_mapping_20261002",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "absence_verified_by_full_document_review",
+      "manual_semantic_review_completed": true
+    }
+  },
+  {
+    "question": "Which brand of irrigation equipment is approved for federal funding?",
+    "answer": "Not found in context",
+    "page": 18,
+    "question_id": "mytkpm-u-016",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "d18c80d74111440fdb87998754f83d273ab63fa175b0cdd76d566a271a44f654",
+      "cbecc2ead91e3deb156f4ff6b64b6c8fd1e4990f856b122436123a97239aad24"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "Irrigation equipment is procured generically; no brand is named or approved.",
+    "source_section": null,
+    "source_page_verified": null,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control",
+    "selection_basis": "legacy_100x100_plus_quote_mapping_20261002",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "absence_verified_by_full_document_review",
+      "manual_semantic_review_completed": true
+    }
+  },
+  {
+    "question": "What share of development spending must be reserved for post-harvest facilities?",
+    "answer": "Not found in context",
+    "page": 18,
+    "question_id": "mytkpm-u-017",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "ea02e8f3c7f45af7a3eafa3d6ed531ebd354999a094d40da1ae9ace3231be41e",
+      "897c82e684440708309868518841cc9fdc2f0018d4422471097d3b2949b1a359"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "Post-harvest facilities are listed without any spending share.",
+    "source_section": null,
+    "source_page_verified": null,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control",
+    "selection_basis": "legacy_100x100_plus_quote_mapping_20261002",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "absence_verified_by_full_document_review",
+      "manual_semantic_review_completed": true
+    }
+  },
+  {
+    "question": "What is the maximum conventional lowland development cost for herbs per hectare?",
+    "answer": "Not found in context",
+    "page": 19,
+    "question_id": "mytkpm-u-018",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "f743ef3899e4ed1720eb3d34ff8081f1ba5e0a43d6ae878560a4d44791edf233",
+      "0fa4adecb69a112964535c594dfa14427916060ac1c648ddd3cbc9a7b4c443c9"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "The cost table covers vegetables and fruit only; herbs have no conventional lowland ceiling.",
+    "source_section": null,
+    "source_page_verified": null,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control",
+    "selection_basis": "legacy_100x100_plus_quote_mapping_20261002",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "absence_verified_by_full_document_review",
+      "manual_semantic_review_completed": true
+    }
+  },
+  {
+    "question": "Why was Labuan assigned a 60% cost premium rather than a lower figure?",
+    "answer": "Not found in context",
+    "page": 19,
+    "question_id": "mytkpm-u-020",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "05e8b2064e1f53617a41d2ec8b93f5f832e526a9251c4baffda4fd90c1006ef2",
+      "5a294bfe6a9d0bd995c70c6a595aa5d7c983e8c7fcaa1324cf3e6be12141fff5"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "The 60% Labuan premium is stated without any justification.",
+    "source_section": null,
+    "source_page_verified": null,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control",
+    "selection_basis": "legacy_100x100_plus_quote_mapping_20261002",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "absence_verified_by_full_document_review",
+      "manual_semantic_review_completed": true
+    }
+  },
+  {
+    "question": "What maximum cost is allowed for an insect-proof nursery without a rain shelter?",
+    "answer": "Not found in context",
+    "page": 19,
+    "question_id": "mytkpm-u-021",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "47ae0c1e977c2760406d1e88bd81a2c39ee189ff207f09201a23e14eebd2d33f",
+      "3cd99bdb66bb74256c4e57a5f3cbe7e3e33d813bf52fd975ece88adc768f0482"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "The cost table covers rain shelters with or without insect screening; an insect-proof nursery alone is absent.",
+    "source_section": null,
+    "source_page_verified": null,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control",
+    "selection_basis": "legacy_100x100_plus_quote_mapping_20261002",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "absence_verified_by_full_document_review",
+      "manual_semantic_review_completed": true
+    }
+  },
+  {
+    "question": "What service-level deadline applies when shared irrigation infrastructure breaks down?",
+    "answer": "Not found in context",
+    "page": 20,
+    "question_id": "mytkpm-u-023",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "b86b938217f69babb6a7a46cf57cbddd39f455a8e8b7f47ab4e7981dd7ee1d2e",
+      "c64dac832372ac0d48dd452494b62406172f75c496d50d3106e92f8ad36b23e3"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "Irrigation is in the development scope without any repair deadline.",
+    "source_section": null,
+    "source_page_verified": null,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control",
+    "selection_basis": "legacy_100x100_plus_quote_mapping_20261002",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "absence_verified_by_full_document_review",
+      "manual_semantic_review_completed": true
+    }
+  },
+  {
+    "question": "Which insurance policy covers damage to federally maintained TKPM infrastructure?",
+    "answer": "Not found in context",
+    "page": 20,
+    "question_id": "mytkpm-u-024",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "07fe05a4083d0264a0e4c3767b7ad7caa6d1b2afe7ff1e1e5b9c3e2a4c5df443",
+      "9c6e622c3f321ce3997ad95be76c33319cbe83f49d00fa1a1b565e4071d4109d"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "No infrastructure insurance is mentioned for federally maintained TKPM assets.",
+    "source_section": null,
+    "source_page_verified": null,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control",
+    "selection_basis": "legacy_100x100_plus_quote_mapping_20261002",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "absence_verified_by_full_document_review",
+      "manual_semantic_review_completed": true
+    }
+  },
+  {
+    "question": "What numerical soil-quality score is required for a site to pass the initial assessment?",
+    "answer": "Not found in context",
+    "page": 22,
+    "question_id": "mytkpm-u-025",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "0ef1f7f680b36c482b1649a374d79a74b1cf29a563feea153063feb372269ae4",
+      "0acdcc86be119f01ec9080e7877383805570584848adbc630070324b297909b7"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "The initial study prepares suitability reports and risk assessment without a numerical soil score.",
+    "source_section": null,
+    "source_page_verified": null,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control",
+    "selection_basis": "legacy_100x100_plus_quote_mapping_20261002",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "absence_verified_by_full_document_review",
+      "manual_semantic_review_completed": true
+    }
+  },
+  {
+    "question": "Which laboratory is required to test pesticide residues and heavy metals?",
+    "answer": "Not found in context",
+    "page": 22,
+    "question_id": "mytkpm-u-027",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "cf239c3ba8d0941c45d0bab76b1662d363030fbc5e16aa4e74ce88e9a73f1784",
+      "d55c51a7c3842e84d049b24e522f8310a5aeb5006ec97585a6dcbe85839d63e6"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "Residue, heavy-metal, and microbe analysis is mentioned without naming any laboratory.",
+    "source_section": null,
+    "source_page_verified": null,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control",
+    "selection_basis": "legacy_100x100_plus_quote_mapping_20261002",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "absence_verified_by_full_document_review",
+      "manual_semantic_review_completed": true
+    }
+  },
+  {
+    "question": "What scoring rubric does the ministry use to rank competing development-funding applications?",
+    "answer": "Not found in context",
+    "page": 23,
+    "question_id": "mytkpm-u-029",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "2f96de6ffd167be797caf4213bd023367da9e9f2bcab9ee5cd5f6de7cec0063f",
+      "62e283817d340790fe0ac11bafc14c85dbe0f0930a3928fca0e1e95daefb15fc"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "Funding applications go to the Ministry of Economy without any scoring rubric.",
+    "source_section": null,
+    "source_page_verified": null,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control",
+    "selection_basis": "legacy_100x100_plus_quote_mapping_20261002",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "absence_verified_by_full_document_review",
+      "manual_semantic_review_completed": true
+    }
+  },
+  {
+    "question": "How many days are contractors allowed to complete standard TKPM infrastructure works?",
+    "answer": "Not found in context",
+    "page": 23,
+    "question_id": "mytkpm-u-032",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "00e40ffb8ae1167cb1d458295db0e884e0310323551dbae5dd67cbb761057ecf",
+      "d2bf4b5272b66aa266936c6b4599e43ed7242bc54f1ae31a549e2868e34f51d7"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "Specifications must be completed within set periods, but no works-completion day count exists.",
+    "source_section": null,
+    "source_page_verified": null,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control",
+    "selection_basis": "legacy_100x100_plus_quote_mapping_20261002",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "absence_verified_by_full_document_review",
+      "manual_semantic_review_completed": true
+    }
+  },
+  {
+    "question": "What performance bond percentage is required from an appointed contractor?",
+    "answer": "Not found in context",
+    "page": 23,
+    "question_id": "mytkpm-u-033",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "e17308cc1be7c641d147858b81ae5d105d501a33c0256c0e9cdca57eb03e49fa",
+      "34d37dc18b4dfea6ff72ab7c956aa75d7c0a7d17444667d9f2bf633d01c055b1"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "Contractors are appointed through quotation or tender without any performance-bond percentage.",
+    "source_section": null,
+    "source_page_verified": null,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control",
+    "selection_basis": "legacy_100x100_plus_quote_mapping_20261002",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "absence_verified_by_full_document_review",
+      "manual_semantic_review_completed": true
+    }
+  },
+  {
+    "question": "How long must the land-suitability study remain valid before a new master plan is approved?",
+    "answer": "Not found in context",
+    "page": 26,
+    "question_id": "mytkpm-u-034",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "d2bf4b5272b66aa266936c6b4599e43ed7242bc54f1ae31a549e2868e34f51d7",
+      "2804259d7a04a29d94c4f3571ce8f288846eac8f13b8a433812df58f81a42e87"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "The master plan is business-plan based; no validity period for the suitability study exists.",
+    "source_section": null,
+    "source_page_verified": null,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control",
+    "selection_basis": "legacy_100x100_plus_quote_mapping_20261002",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "absence_verified_by_full_document_review",
+      "manual_semantic_review_completed": true
+    }
+  },
+  {
+    "question": "What software must be used to draw the TKPM master development plan?",
+    "answer": "Not found in context",
+    "page": 26,
+    "question_id": "mytkpm-u-035",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "e45e2d0159762b43ed94a4609e1b75f008c4e3a4ea75f35ec27e33dd7cb606ff",
+      "bddf8df88250c760ab00419686c16e6cbc2b46660396a45f0f656043d83b26e1"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "No drawing software is mandated for the master plan.",
+    "source_section": null,
+    "source_page_verified": null,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control",
+    "selection_basis": "legacy_100x100_plus_quote_mapping_20261002",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "absence_verified_by_full_document_review",
+      "manual_semantic_review_completed": true
+    }
+  },
+  {
+    "question": "How many public consultations are required before a master plan is presented?",
+    "answer": "Not found in context",
+    "page": 26,
+    "question_id": "mytkpm-u-036",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "2f96de6ffd167be797caf4213bd023367da9e9f2bcab9ee5cd5f6de7cec0063f",
+      "5df50da676596b34cebbe7dfd5f98c0acb00fd4a349fc5722aae025afc526f8f"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "The master-plan contents list has no public-consultation requirement.",
+    "source_section": null,
+    "source_page_verified": null,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control",
+    "selection_basis": "legacy_100x100_plus_quote_mapping_20261002",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "absence_verified_by_full_document_review",
+      "manual_semantic_review_completed": true
+    }
+  },
+  {
+    "question": "How is the Creativity Index in a TKPM master plan calculated?",
+    "answer": "Not found in context",
+    "page": 28,
+    "question_id": "mytkpm-u-037",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "e3ecfab265fdbbb90f8ef07f43fa6a179dde2211a30a7d2f6c277f336f19a4ca",
+      "adbaedfa31aa56ef81425987b7f4d6a3e63b6d5126200c8e924df493fd41226f"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "The Creativity Index is named as an alternative to ROI without any calculation formula.",
+    "source_section": null,
+    "source_page_verified": null,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control",
+    "selection_basis": "legacy_100x100_plus_quote_mapping_20261002",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "absence_verified_by_full_document_review",
+      "manual_semantic_review_completed": true
+    }
+  },
+  {
+    "question": "How many myGAP certificates must a new project promise before approval?",
+    "answer": "Not found in context",
+    "page": 28,
+    "question_id": "mytkpm-u-038",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "67b4afcd557d905bc69654ad7d181b1ead6573acbaa8047d1ac24e8bc04c1a8e",
+      "3194c4a28bfabca12741b1ad5d6235af7fcaa708f89e7528d5197b9936c1147d"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "The output targets include myGAP/myOrganic certificate counts without any pre-approval promise.",
+    "source_section": null,
+    "source_page_verified": null,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control",
+    "selection_basis": "legacy_100x100_plus_quote_mapping_20261002",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "absence_verified_by_full_document_review",
+      "manual_semantic_review_completed": true
+    }
+  },
+  {
+    "question": "What minimum lot size applies specifically to seasonal fruit production?",
+    "answer": "Not found in context",
+    "page": 30,
+    "question_id": "mytkpm-u-039",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "4b4e8386d5d602376f2c1372bf46a8055d7d69c5aa1f63801a44150cb6caff78",
+      "f743ef3899e4ed1720eb3d34ff8081f1ba5e0a43d6ae878560a4d44791edf233"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "Minimum lot sizes cover non-seasonal fruit; seasonal fruit has no stated minimum.",
+    "source_section": null,
+    "source_page_verified": null,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control",
+    "selection_basis": "legacy_100x100_plus_quote_mapping_20261002",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "absence_verified_by_full_document_review",
+      "manual_semantic_review_completed": true
+    }
+  },
+  {
+    "question": "How many candidates are normally shortlisted for each available TKPM lot?",
+    "answer": "Not found in context",
+    "page": 30,
+    "question_id": "mytkpm-u-040",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "e7dde9031e68415fea53c39ebbbe48df2a0786b6300514fc9b0e74fd8ad76662",
+      "b68344cd4920970468424f2775e2a03a8f50d07ed00d9ade9e05d70fae3182d1"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "The interview procedure is described without any shortlisting ratio.",
+    "source_section": null,
+    "source_page_verified": null,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control",
+    "selection_basis": "legacy_100x100_plus_quote_mapping_20261002",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "absence_verified_by_full_document_review",
+      "manual_semantic_review_completed": true
+    }
+  },
+  {
+    "question": "What numerical interview score is required to receive an offer?",
+    "answer": "Not found in context",
+    "page": 30,
+    "question_id": "mytkpm-u-041",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "4ed8fb16c04a5d8e76cf18ae5886c9919194efd76c722c0fd614f44dd088b5f0",
+      "4b4e8386d5d602376f2c1372bf46a8055d7d69c5aa1f63801a44150cb6caff78"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "Interviews are held without any numerical pass score.",
+    "source_section": null,
+    "source_page_verified": null,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control",
+    "selection_basis": "legacy_100x100_plus_quote_mapping_20261002",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "absence_verified_by_full_document_review",
+      "manual_semantic_review_completed": true
+    }
+  },
+  {
+    "question": "Are interview-panel members paid an allowance, and if so, how much?",
+    "answer": "Not found in context",
+    "page": 30,
+    "question_id": "mytkpm-u-042",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "e7dde9031e68415fea53c39ebbbe48df2a0786b6300514fc9b0e74fd8ad76662",
+      "110fa217d5242f6f19d89e02407c1f1103a2d26da11e4ffb149eda1d01ff5074"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "The panel composition is listed without any allowance question.",
+    "source_section": null,
+    "source_page_verified": null,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control",
+    "selection_basis": "legacy_100x100_plus_quote_mapping_20261002",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "absence_verified_by_full_document_review",
+      "manual_semantic_review_completed": true
+    }
+  },
+  {
+    "question": "What minimum amount of capital must every individual applicant hold?",
+    "answer": "Not found in context",
+    "page": 31,
+    "question_id": "mytkpm-u-046",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "f6afc711bc3ec2cbf0dca90b1915f9a6ada7bf29a572eb92ccdf6da8f4eb4707",
+      "4b4e8386d5d602376f2c1372bf46a8055d7d69c5aa1f63801a44150cb6caff78"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "Capital sufficiency is required with amounts set by the state department, not fixed.",
+    "source_section": null,
+    "source_page_verified": null,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control",
+    "selection_basis": "legacy_100x100_plus_quote_mapping_20261002",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "absence_verified_by_full_document_review",
+      "manual_semantic_review_completed": true
+    }
+  },
+  {
+    "question": "What fine is imposed when planting begins after the three-month deadline?",
+    "answer": "Not found in context",
+    "page": 32,
+    "question_id": "mytkpm-u-049",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "1c40bd86725ad82782eb715085aced96d6afebe96a1a489c60737392b3628efd",
+      "861bec99ae093f0a0a8808ec83c06c7bbd3d71578e3bc7bdd6e60ef0bece242e"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "Late planting is interpreted as project failure leading to termination, not a fine.",
+    "source_section": null,
+    "source_page_verified": null,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control",
+    "selection_basis": "legacy_100x100_plus_quote_mapping_20261002",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "absence_verified_by_full_document_review",
+      "manual_semantic_review_completed": true
+    }
+  },
+  {
+    "question": "What approved suppliers must participants use for disease-free planting material?",
+    "answer": "Not found in context",
+    "page": 32,
+    "question_id": "mytkpm-u-050",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "b390381ef4afcd7d704066da98b3d922351f951bada41d6030696051c478471a",
+      "4df1b53b13ecbae7dc8a1bd9e596344cddc2ae7c4082a08fcbc7e46be92d818b"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "Planting material must be pest- and disease-free without any approved-supplier list.",
+    "source_section": null,
+    "source_page_verified": null,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control",
+    "selection_basis": "legacy_100x100_plus_quote_mapping_20261002",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "absence_verified_by_full_document_review",
+      "manual_semantic_review_completed": true
+    }
+  },
+  {
+    "question": "What exact environmental-emissions limit applies during site clearing?",
+    "answer": "Not found in context",
+    "page": 32,
+    "question_id": "mytkpm-u-051",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "7cf0993d388047823912ecad3b309106ad0b298b6c834e33f6778484c0045671",
+      "cf239c3ba8d0941c45d0bab76b1662d363030fbc5e16aa4e74ce88e9a73f1784"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "Participants must prevent pollution during clearing; no emissions limit is stated.",
+    "source_section": null,
+    "source_page_verified": null,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control",
+    "selection_basis": "legacy_100x100_plus_quote_mapping_20261002",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "absence_verified_by_full_document_review",
+      "manual_semantic_review_completed": true
+    }
+  },
+  {
+    "question": "How is the 30% intercrop area measured when crops are planted vertically?",
+    "answer": "Not found in context",
+    "page": 32,
+    "question_id": "mytkpm-u-052",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "7ea10c6a55f727fd1b37a9947903c608ca611c40ca4678298b5768513728f448",
+      "897c82e684440708309868518841cc9fdc2f0018d4422471097d3b2949b1a359"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "The 30% intercrop cap is by planted area; vertical planting measurement is absent.",
+    "source_section": null,
+    "source_page_verified": null,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control",
+    "selection_basis": "legacy_100x100_plus_quote_mapping_20261002",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "absence_verified_by_full_document_review",
+      "manual_semantic_review_completed": true
+    }
+  },
+  {
+    "question": "What fee does a participant pay to apply for myGAP or myOrganic certification?",
+    "answer": "Not found in context",
+    "page": 33,
+    "question_id": "mytkpm-u-053",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "67b4afcd557d905bc69654ad7d181b1ead6573acbaa8047d1ac24e8bc04c1a8e",
+      "3194c4a28bfabca12741b1ad5d6235af7fcaa708f89e7528d5197b9936c1147d"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "Certification application is required without any fee amount.",
+    "source_section": null,
+    "source_page_verified": null,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control",
+    "selection_basis": "legacy_100x100_plus_quote_mapping_20261002",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "absence_verified_by_full_document_review",
+      "manual_semantic_review_completed": true
+    }
+  },
+  {
+    "question": "How many produce samples must be submitted for each MRL analysis?",
+    "answer": "Not found in context",
+    "page": 33,
+    "question_id": "mytkpm-u-054",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "cf239c3ba8d0941c45d0bab76b1662d363030fbc5e16aa4e74ce88e9a73f1784",
+      "3194c4a28bfabca12741b1ad5d6235af7fcaa708f89e7528d5197b9936c1147d"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "MRL sample submission is required without any sample count.",
+    "source_section": null,
+    "source_page_verified": null,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control",
+    "selection_basis": "legacy_100x100_plus_quote_mapping_20261002",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "absence_verified_by_full_document_review",
+      "manual_semantic_review_completed": true
+    }
+  },
+  {
+    "question": "Which modern agricultural technologies must every participant adopt?",
+    "answer": "Not found in context",
+    "page": 33,
+    "question_id": "mytkpm-u-055",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "cf239c3ba8d0941c45d0bab76b1662d363030fbc5e16aa4e74ce88e9a73f1784",
+      "3194c4a28bfabca12741b1ad5d6235af7fcaa708f89e7528d5197b9936c1147d"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "Modern technology is required generically; no technology list is mandated.",
+    "source_section": null,
+    "source_page_verified": null,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control",
+    "selection_basis": "legacy_100x100_plus_quote_mapping_20261002",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "absence_verified_by_full_document_review",
+      "manual_semantic_review_completed": true
+    }
+  },
+  {
+    "question": "How frequently must production records be submitted to the TKPM Manager?",
+    "answer": "Not found in context",
+    "page": 33,
+    "question_id": "mytkpm-u-056",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "adbaedfa31aa56ef81425987b7f4d6a3e63b6d5126200c8e924df493fd41226f",
+      "1caceff463c7cb05c3c3577baf9f19cfa56b5b8709bcc0c0fcffbae8b80e034b"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "Production records are kept for reporting and manager checks without a submission frequency.",
+    "source_section": null,
+    "source_page_verified": null,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control",
+    "selection_basis": "legacy_100x100_plus_quote_mapping_20261002",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "absence_verified_by_full_document_review",
+      "manual_semantic_review_completed": true
+    }
+  },
+  {
+    "question": "What standard rental rate per hectare applies throughout Malaysia?",
+    "answer": "Not found in context",
+    "page": 35,
+    "question_id": "mytkpm-u-057",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "eaa660cf385085a75d319fb42eecbc21837d0cf6e0e2cd3902e428d166e70989",
+      "5a294bfe6a9d0bd995c70c6a595aa5d7c983e8c7fcaa1324cf3e6be12141fff5"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "Rates follow JPPH or landowner agreement; no national standard rate exists.",
+    "source_section": null,
+    "source_page_verified": null,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control",
+    "selection_basis": "legacy_100x100_plus_quote_mapping_20261002",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "absence_verified_by_full_document_review",
+      "manual_semantic_review_completed": true
+    }
+  },
+  {
+    "question": "What is the maximum project term that a landowner may offer?",
+    "answer": "Not found in context",
+    "page": 35,
+    "question_id": "mytkpm-u-058",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "2804259d7a04a29d94c4f3571ce8f288846eac8f13b8a433812df58f81a42e87",
+      "c361a21b0e0bf4c1aa0da39f408beed38b23d4211357a7394625124966ca6b6a"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "Only a minimum term exists; no maximum project term is stated.",
+    "source_section": null,
+    "source_page_verified": null,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control",
+    "selection_basis": "legacy_100x100_plus_quote_mapping_20261002",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "absence_verified_by_full_document_review",
+      "manual_semantic_review_completed": true
+    }
+  },
+  {
+    "question": "Which permanent crops may be exempted from the ban on rented federal land?",
+    "answer": "Not found in context",
+    "page": 36,
+    "question_id": "mytkpm-u-059",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "4ab0a89f6c05a2692d495e86a02236ac6372cc4ae5376e22ea6acf5831e1437f",
+      "8479eadd6008f21ac1771c8b1890f68d8f63679c2243f4ce1e4b332239e06cda"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "Permanent crops are banned on rented land without any exemption list.",
+    "source_section": null,
+    "source_page_verified": null,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control",
+    "selection_basis": "legacy_100x100_plus_quote_mapping_20261002",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "absence_verified_by_full_document_review",
+      "manual_semantic_review_completed": true
+    }
+  },
+  {
+    "question": "How many times may a rental agreement be extended?",
+    "answer": "Not found in context",
+    "page": 36,
+    "question_id": "mytkpm-u-060",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "85473d10640a933ce1810c2b508850f17086e474638aa8335003e4970d8af535",
+      "bafd8b58d7739eae0b9f1b9d4e9e9dec2c5a8302e41eed5d42e3bb62368927a1"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "Extension applications are possible without any count limit.",
+    "source_section": null,
+    "source_page_verified": null,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control",
+    "selection_basis": "legacy_100x100_plus_quote_mapping_20261002",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "absence_verified_by_full_document_review",
+      "manual_semantic_review_completed": true
+    }
+  },
+  {
+    "question": "What formula does JPPH use to calculate rent or lease rates?",
+    "answer": "Not found in context",
+    "page": 36,
+    "question_id": "mytkpm-u-061",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "29ac6650120b223e449cea6f0e66efec96eb604f57436bebf11e4ed9a5845c53",
+      "77e3fa6faff80cdc8ca5da0f62040b184d6351111685c64bfe8845fb27643854"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "Rates are set by JPPH or agreement without any formula.",
+    "source_section": null,
+    "source_page_verified": null,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control",
+    "selection_basis": "legacy_100x100_plus_quote_mapping_20261002",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "absence_verified_by_full_document_review",
+      "manual_semantic_review_completed": true
+    }
+  },
+  {
+    "question": "How many warnings may be issued after the second warning but before termination?",
+    "answer": "Not found in context",
+    "page": 39,
+    "question_id": "mytkpm-u-063",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "5e11b8d68fae0c1b2142a36eb3c5d51f98934bbca7ab0837a44fef6eca0255e4",
+      "3f5a59f18bd0e2a41ade4c326b37dcb3b194b09599ef4e4f1dd6af66aeeaf5b8"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "The procedure ends at the termination letter; no post-second-warning warnings exist.",
+    "source_section": null,
+    "source_page_verified": null,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control",
+    "selection_basis": "legacy_100x100_plus_quote_mapping_20261002",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "absence_verified_by_full_document_review",
+      "manual_semantic_review_completed": true
+    }
+  },
+  {
+    "question": "Can a terminated participant appeal, and what is the appeal deadline?",
+    "answer": "Not found in context",
+    "page": 39,
+    "question_id": "mytkpm-u-064",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "6a2a5b07dd44b5b18d4521abd1d8cf341b85d26900459225ab03b7516f834e30",
+      "75139e4f347e8ecd223d3a789625a4654fa3548ff18986f86ba733d51b8dc965"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "No appeal mechanism for termination appears in the procedure.",
+    "source_section": null,
+    "source_page_verified": null,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control",
+    "selection_basis": "legacy_100x100_plus_quote_mapping_20261002",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "absence_verified_by_full_document_review",
+      "manual_semantic_review_completed": true
+    }
+  },
+  {
+    "question": "What compensation is paid for crops left in the field after termination?",
+    "answer": "Not found in context",
+    "page": 39,
+    "question_id": "mytkpm-u-065",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "eeb292ab4bdb4f0e3c4b9f495202698fc077c545c9cafca27ec37cc91b92e2c9",
+      "a8ca0102a1a07795457ceafb4973c9c08a969ccebbbfd47c1d2dc1482eda1117"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "Termination terms state no compensation for crops left in the field.",
+    "source_section": null,
+    "source_page_verified": null,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control",
+    "selection_basis": "legacy_100x100_plus_quote_mapping_20261002",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "absence_verified_by_full_document_review",
+      "manual_semantic_review_completed": true
+    }
+  },
+  {
+    "question": "How long are warning and termination letters retained in departmental records?",
+    "answer": "Not found in context",
+    "page": 39,
+    "question_id": "mytkpm-u-066",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "5e11b8d68fae0c1b2142a36eb3c5d51f98934bbca7ab0837a44fef6eca0255e4",
+      "8b58b4378a99a7f5cacb2d8a486a1adbe9b4144d1d6e36240e1b76d1e3ff825f"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "Letter retention periods are not stated.",
+    "source_section": null,
+    "source_page_verified": null,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control",
+    "selection_basis": "legacy_100x100_plus_quote_mapping_20261002",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "absence_verified_by_full_document_review",
+      "manual_semantic_review_completed": true
+    }
+  },
+  {
+    "question": "What discount rate must participants use in business-plan cash-flow analysis?",
+    "answer": "Not found in context",
+    "page": 43,
+    "question_id": "mytkpm-u-067",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "685011901be5e9213cef3815607a7b4dec6f3f09913fcc5f1fa01251b652ef02",
+      "cb1b7cbad8445880b2e6a9d6fac5c93e33df6fc2923871011dbdc3b90d08d80d"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "Cash flow follows the department's current financial-flow reference without a discount rate.",
+    "source_section": null,
+    "source_page_verified": null,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control",
+    "selection_basis": "legacy_100x100_plus_quote_mapping_20261002",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "absence_verified_by_full_document_review",
+      "manual_semantic_review_completed": true
+    }
+  },
+  {
+    "question": "What template spreadsheet is mandatory for a participant's financial analysis?",
+    "answer": "Not found in context",
+    "page": 43,
+    "question_id": "mytkpm-u-068",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "110fa217d5242f6f19d89e02407c1f1103a2d26da11e4ffb149eda1d01ff5074",
+      "cb1b7cbad8445880b2e6a9d6fac5c93e33df6fc2923871011dbdc3b90d08d80d"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "Only the department's financial-flow reference is cited; no mandatory template exists.",
+    "source_section": null,
+    "source_page_verified": null,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control",
+    "selection_basis": "legacy_100x100_plus_quote_mapping_20261002",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "absence_verified_by_full_document_review",
+      "manual_semantic_review_completed": true
+    }
+  },
+  {
+    "question": "What minimum debt-service coverage ratio must a business plan show?",
+    "answer": "Not found in context",
+    "page": 43,
+    "question_id": "mytkpm-u-069",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "cb1b7cbad8445880b2e6a9d6fac5c93e33df6fc2923871011dbdc3b90d08d80d",
+      "a8ca0102a1a07795457ceafb4973c9c08a969ccebbbfd47c1d2dc1482eda1117"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "No debt-service coverage requirement appears in the business-plan contents.",
+    "source_section": null,
+    "source_page_verified": null,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control",
+    "selection_basis": "legacy_100x100_plus_quote_mapping_20261002",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "absence_verified_by_full_document_review",
+      "manual_semantic_review_completed": true
+    }
+  },
+  {
+    "question": "How many alternative marketing scenarios must be included in a business plan?",
+    "answer": "Not found in context",
+    "page": 43,
+    "question_id": "mytkpm-u-070",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "851b3f6f9fba1dc4cd356db627261512a7fca5f14c9dd3af8742e6ff24cae864",
+      "2f3ed96b2e2e8dea527c3ffbc84f33cd4a2d8241186175effd77c51e4e9db52a"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "The marketing plan is a single section; no alternative-scenario count exists.",
+    "source_section": null,
+    "source_page_verified": null,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control",
+    "selection_basis": "legacy_100x100_plus_quote_mapping_20261002",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "absence_verified_by_full_document_review",
+      "manual_semantic_review_completed": true
+    }
+  },
+  {
+    "question": "How many committee members constitute a quorum for approval decisions?",
+    "answer": "Not found in context",
+    "page": 48,
+    "question_id": "mytkpm-u-071",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "e78f1dcf86cf59a28d1f4746e94db6f1b8a81385277cf2fa77daa969154f0fa3",
+      "e7dde9031e68415fea53c39ebbbe48df2a0786b6300514fc9b0e74fd8ad76662"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "Committee membership is listed without any quorum rule.",
+    "source_section": null,
+    "source_page_verified": null,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control",
+    "selection_basis": "legacy_100x100_plus_quote_mapping_20261002",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "absence_verified_by_full_document_review",
+      "manual_semantic_review_completed": true
+    }
+  },
+  {
+    "question": "What percentage commission may a lead marketing company charge participants?",
+    "answer": "Not found in context",
+    "page": 52,
+    "question_id": "mytkpm-u-073",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "110fa217d5242f6f19d89e02407c1f1103a2d26da11e4ffb149eda1d01ff5074",
+      "4e592419cf885aabd0bd9ec048a3f3e4d31010a18cdc92648363c8bf4300a8a6"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "Lead companies are a marketing channel without any commission rule.",
+    "source_section": null,
+    "source_page_verified": null,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control",
+    "selection_basis": "legacy_100x100_plus_quote_mapping_20261002",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "absence_verified_by_full_document_review",
+      "manual_semantic_review_completed": true
+    }
+  },
+  {
+    "question": "Which online marketplace is officially designated for TKPM sales?",
+    "answer": "Not found in context",
+    "page": 52,
+    "question_id": "mytkpm-u-074",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "e45e2d0159762b43ed94a4609e1b75f008c4e3a4ea75f35ec27e33dd7cb606ff",
+      "3b8577f355d3ae7ff84b49ff66546cdbb552b80659b1433b09ff7fb2084cdcfa"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "Online marketing is listed without naming any platform.",
+    "source_section": null,
+    "source_page_verified": null,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control",
+    "selection_basis": "legacy_100x100_plus_quote_mapping_20261002",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "absence_verified_by_full_document_review",
+      "manual_semantic_review_completed": true
+    }
+  },
+  {
+    "question": "What standard contract price must buyers offer under contract farming?",
+    "answer": "Not found in context",
+    "page": 52,
+    "question_id": "mytkpm-u-076",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "0acdcc86be119f01ec9080e7877383805570584848adbc630070324b297909b7",
+      "d18c80d74111440fdb87998754f83d273ab63fa175b0cdd76d566a271a44f654"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "Contract farming guarantees market acceptance without any standard price.",
+    "source_section": null,
+    "source_page_verified": null,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control",
+    "selection_basis": "legacy_100x100_plus_quote_mapping_20261002",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "absence_verified_by_full_document_review",
+      "manual_semantic_review_completed": true
+    }
+  },
+  {
+    "question": "How are disputes between a participant and a produce buyer resolved?",
+    "answer": "Not found in context",
+    "page": 52,
+    "question_id": "mytkpm-u-077",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "3bb377117c1db3c6a4052fcceb00e1b20d5aef5a765aac6c91c6783a957a3154",
+      "b519ce896820421f5ee1ec8965629a69fd246e36f6b7f67ea6976c5a1aeba137"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "Participant-buyer disputes are not addressed in the marketing chapter.",
+    "source_section": null,
+    "source_page_verified": null,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control",
+    "selection_basis": "legacy_100x100_plus_quote_mapping_20261002",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "absence_verified_by_full_document_review",
+      "manual_semantic_review_completed": true
+    }
+  },
+  {
+    "question": "What numerical performance score is assigned during headquarters field visits?",
+    "answer": "Not found in context",
+    "page": 54,
+    "question_id": "mytkpm-u-078",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "db5f4ebd59230215e5b0c4358c67ac0ec14da90ae54f2c2a128bfa3be01aa5f4",
+      "616ab786234e57797005986c350847683b2c8c17b2380edf9a62594d961902a6"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "Headquarters visits monitor financial and physical performance without numerical scores.",
+    "source_section": null,
+    "source_page_verified": null,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control",
+    "selection_basis": "legacy_100x100_plus_quote_mapping_20261002",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "absence_verified_by_full_document_review",
+      "manual_semantic_review_completed": true
+    }
+  },
+  {
+    "question": "Which two months are fixed for the state technical team's annual visits?",
+    "answer": "Not found in context",
+    "page": 54,
+    "question_id": "mytkpm-u-079",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "db5f4ebd59230215e5b0c4358c67ac0ec14da90ae54f2c2a128bfa3be01aa5f4",
+      "50a6b89189904bacefdbcca32a5d039398dc1406ba4212f52627b1427310684c"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "Visits occur at least twice a year without fixed months.",
+    "source_section": null,
+    "source_page_verified": null,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control",
+    "selection_basis": "legacy_100x100_plus_quote_mapping_20261002",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "absence_verified_by_full_document_review",
+      "manual_semantic_review_completed": true
+    }
+  },
+  {
+    "question": "What mobile application must officers use to record monitoring visits?",
+    "answer": "Not found in context",
+    "page": 54,
+    "question_id": "mytkpm-u-080",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "db5f4ebd59230215e5b0c4358c67ac0ec14da90ae54f2c2a128bfa3be01aa5f4",
+      "58091a9bd3adc10a5939bc711a98c78fb79d5bc5286b27b7541d2eb60b598c84"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "Monitoring uses meetings, visits, and reports; no mobile application is named.",
+    "source_section": null,
+    "source_page_verified": null,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control",
+    "selection_basis": "legacy_100x100_plus_quote_mapping_20261002",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "absence_verified_by_full_document_review",
+      "manual_semantic_review_completed": true
+    }
+  },
+  {
+    "question": "How many days does a project have to correct an issue found during monitoring?",
+    "answer": "Not found in context",
+    "page": 54,
+    "question_id": "mytkpm-u-081",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "005deefa148b7ffa80a9a9f09c4450f40dea88379dcd1d41ac9ed7f2dcc8b482",
+      "50a6b89189904bacefdbcca32a5d039398dc1406ba4212f52627b1427310684c"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "Monitoring identifies issues without correction-deadline rules.",
+    "source_section": null,
+    "source_page_verified": null,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control",
+    "selection_basis": "legacy_100x100_plus_quote_mapping_20261002",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "absence_verified_by_full_document_review",
+      "manual_semantic_review_completed": true
+    }
+  },
+  {
+    "question": "What sanction follows a late monthly progress report?",
+    "answer": "Not found in context",
+    "page": 56,
+    "question_id": "mytkpm-u-082",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "005deefa148b7ffa80a9a9f09c4450f40dea88379dcd1d41ac9ed7f2dcc8b482",
+      "5e11b8d68fae0c1b2142a36eb3c5d51f98934bbca7ab0837a44fef6eca0255e4"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "Monthly reporting is required without any late-report sanction.",
+    "source_section": null,
+    "source_page_verified": null,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control",
+    "selection_basis": "legacy_100x100_plus_quote_mapping_20261002",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "absence_verified_by_full_document_review",
+      "manual_semantic_review_completed": true
+    }
+  },
+  {
+    "question": "How many years of poor productivity are required before a whole project may be terminated?",
+    "answer": "Not found in context",
+    "page": 58,
+    "question_id": "mytkpm-u-083",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "00e40ffb8ae1167cb1d458295db0e884e0310323551dbae5dd67cbb761057ecf",
+      "7fdda7bd4d3f91a51a648042e57ae5d9197e08286cfc32efeb112cdb7563c578"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "Disaster-related termination depends on uneconomic recovery cost, not a year count.",
+    "source_section": null,
+    "source_page_verified": null,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control",
+    "selection_basis": "legacy_100x100_plus_quote_mapping_20261002",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "absence_verified_by_full_document_review",
+      "manual_semantic_review_completed": true
+    }
+  },
+  {
+    "question": "What monetary threshold makes disaster recovery uneconomical?",
+    "answer": "Not found in context",
+    "page": 58,
+    "question_id": "mytkpm-u-084",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "9d426b9fcb7b6dbc1901bbdaad16193ed2127198e7e6bbba86c2490bd9c8ef00",
+      "1323fa785330ef8792f47cc484e8c49f9a68ca185d1161f2e39797487d5006db"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "Only high, uneconomic recovery expenditure is cited without any threshold.",
+    "source_section": null,
+    "source_page_verified": null,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control",
+    "selection_basis": "legacy_100x100_plus_quote_mapping_20261002",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "absence_verified_by_full_document_review",
+      "manual_semantic_review_completed": true
+    }
+  },
+  {
+    "question": "Can participants appeal a committee decision to terminate the whole project?",
+    "answer": "Not found in context",
+    "page": 58,
+    "question_id": "mytkpm-u-085",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "0ff7718d38ebba9f73a7eb40350683f93803a8a7f51e3c4471eaf9ecc915ae70",
+      "c35b275fd4eed97b0910a1c6b9294fde067f6f4edbc97929b4a9f2236ac6235a"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "The committee decides termination; no participant appeal exists.",
+    "source_section": null,
+    "source_page_verified": null,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control",
+    "selection_basis": "legacy_100x100_plus_quote_mapping_20261002",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "absence_verified_by_full_document_review",
+      "manual_semantic_review_completed": true
+    }
+  },
+  {
+    "question": "Which authority pays relocation costs after a project-wide termination?",
+    "answer": "Not found in context",
+    "page": 58,
+    "question_id": "mytkpm-u-086",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "4cd093f75adcff5c43ab0ee145720304bd22f1c36e794ea3655e61e66875dc52",
+      "485b4e982aa28803dedeeea863ddf0f3ef0828dd575ce6a8216e7d0e5a00a64f"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "Relocation costs after project-wide termination are not addressed.",
+    "source_section": null,
+    "source_page_verified": null,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control",
+    "selection_basis": "legacy_100x100_plus_quote_mapping_20261002",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "absence_verified_by_full_document_review",
+      "manual_semantic_review_completed": true
+    }
+  },
+  {
+    "question": "How frequently must the entire TKPM guideline be reviewed?",
+    "answer": "Not found in context",
+    "page": 60,
+    "question_id": "mytkpm-u-087",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "adbaedfa31aa56ef81425987b7f4d6a3e63b6d5126200c8e924df493fd41226f",
+      "948413779ddd8d88761f42eea606583d46af247591aedd46df4c4f73ce4539d1"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "The disclaimer says the document updates per current policy without a review cycle.",
+    "source_section": null,
+    "source_page_verified": null,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control",
+    "selection_basis": "legacy_100x100_plus_quote_mapping_20261002",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "absence_verified_by_full_document_review",
+      "manual_semantic_review_completed": true
+    }
+  },
+  {
+    "question": "What application fee must accompany the TKPM application form?",
+    "answer": "Not found in context",
+    "page": 64,
+    "question_id": "mytkpm-u-088",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "b68344cd4920970468424f2775e2a03a8f50d07ed00d9ade9e05d70fae3182d1",
+      "af054bb53ff90453f9de7970aa06995dce0a02076ad32e477e658893c64807d3"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "The application form has no fee field.",
+    "source_section": null,
+    "source_page_verified": null,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control",
+    "selection_basis": "legacy_100x100_plus_quote_mapping_20261002",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "absence_verified_by_full_document_review",
+      "manual_semantic_review_completed": true
+    }
+  },
+  {
+    "question": "How are marketing percentages weighted when applications are scored?",
+    "answer": "Not found in context",
+    "page": 64,
+    "question_id": "mytkpm-u-090",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "4e592419cf885aabd0bd9ec048a3f3e4d31010a18cdc92648363c8bf4300a8a6",
+      "81915c5626d900824292bb94bbf38c62c923e290f473a6576b8c0f7e903fb8fe"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "Marketing percentages are collected without any scoring weight.",
+    "source_section": null,
+    "source_page_verified": null,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control",
+    "selection_basis": "legacy_100x100_plus_quote_mapping_20261002",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "absence_verified_by_full_document_review",
+      "manual_semantic_review_completed": true
+    }
+  },
+  {
+    "question": "What supporting evidence is required for every claimed year of farming experience?",
+    "answer": "Not found in context",
+    "page": 64,
+    "question_id": "mytkpm-u-091",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "85c7fc8bb4ceb72b9893148795862b86757147d3d1a24d5793bb1286673aa6f5",
+      "67b4afcd557d905bc69654ad7d181b1ead6573acbaa8047d1ac24e8bc04c1a8e"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "Farming experience is declared in years without evidence requirements.",
+    "source_section": null,
+    "source_page_verified": null,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control",
+    "selection_basis": "legacy_100x100_plus_quote_mapping_20261002",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "absence_verified_by_full_document_review",
+      "manual_semantic_review_completed": true
+    }
+  },
+  {
+    "question": "What interest rate applies to financing identified as a loan?",
+    "answer": "Not found in context",
+    "page": 65,
+    "question_id": "mytkpm-u-092",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "eaa660cf385085a75d319fb42eecbc21837d0cf6e0e2cd3902e428d166e70989",
+      "5a294bfe6a9d0bd995c70c6a595aa5d7c983e8c7fcaa1324cf3e6be12141fff5"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "Loan is a funding source checkbox without any interest rate.",
+    "source_section": null,
+    "source_page_verified": null,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control",
+    "selection_basis": "legacy_100x100_plus_quote_mapping_20261002",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "absence_verified_by_full_document_review",
+      "manual_semantic_review_completed": true
+    }
+  },
+  {
+    "question": "What fixed ringgit amount appears in the sample offer letter as the deposit?",
+    "answer": "Not found in context",
+    "page": 67,
+    "question_id": "mytkpm-u-094",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "3c3dacc025076119269297b1a1dc950a3880ddbeffddc9c532c6d4963d68426d",
+      "b68344cd4920970468424f2775e2a03a8f50d07ed00d9ade9e05d70fae3182d1"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "The deposit is three months' rent expressed as a formula, not a fixed amount.",
+    "source_section": null,
+    "source_page_verified": null,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control",
+    "selection_basis": "legacy_100x100_plus_quote_mapping_20261002",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "absence_verified_by_full_document_review",
+      "manual_semantic_review_completed": true
+    }
+  },
+  {
+    "question": "How many days after acceptance is a participant given to sign the rental agreement?",
+    "answer": "Not found in context",
+    "page": 67,
+    "question_id": "mytkpm-u-095",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "7fdda7bd4d3f91a51a648042e57ae5d9197e08286cfc32efeb112cdb7563c578",
+      "861bec99ae093f0a0a8808ec83c06c7bbd3d71578e3bc7bdd6e60ef0bece242e"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "Only the acceptance-letter return period exists; no agreement-signing deadline appears.",
+    "source_section": null,
+    "source_page_verified": null,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control",
+    "selection_basis": "legacy_100x100_plus_quote_mapping_20261002",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "absence_verified_by_full_document_review",
+      "manual_semantic_review_completed": true
+    }
+  },
+  {
+    "question": "What annual interest is paid on a tenant's security deposit?",
+    "answer": "Not found in context",
+    "page": 85,
+    "question_id": "mytkpm-u-096",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "5a294bfe6a9d0bd995c70c6a595aa5d7c983e8c7fcaa1324cf3e6be12141fff5",
+      "eaa660cf385085a75d319fb42eecbc21837d0cf6e0e2cd3902e428d166e70989"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "No interest is paid on the security deposit; unclaimed deposits are eventually gazetted.",
+    "source_section": null,
+    "source_page_verified": null,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control",
+    "selection_basis": "legacy_100x100_plus_quote_mapping_20261002",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "absence_verified_by_full_document_review",
+      "manual_semantic_review_completed": true
+    }
+  },
+  {
+    "question": "What late fee is added when monthly rent is paid after the tenth day?",
+    "answer": "Not found in context",
+    "page": 85,
+    "question_id": "mytkpm-u-097",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "eaa660cf385085a75d319fb42eecbc21837d0cf6e0e2cd3902e428d166e70989",
+      "75139e4f347e8ecd223d3a789625a4654fa3548ff18986f86ba733d51b8dc965"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "Late payment triggers a 30-day notice and deposit forfeiture, not a late fee.",
+    "source_section": null,
+    "source_page_verified": null,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control",
+    "selection_basis": "legacy_100x100_plus_quote_mapping_20261002",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "absence_verified_by_full_document_review",
+      "manual_semantic_review_completed": true
+    }
+  },
+  {
+    "question": "What minimum duration must a force-majeure event last before either party may invoke it?",
+    "answer": "Not found in context",
+    "page": 93,
+    "question_id": "mytkpm-u-098",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "38d54cf530968b8d898d82aceac6e47d42fc5156ae2db84f6dba4edd30afb7ad",
+      "f095ad90ffa0c4a3bf69eb9206b7b609a6ece043c8411db4000d8ad6898cb465"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "Force majeure has no minimum duration; notification within 48 hours is the only timing rule.",
+    "source_section": null,
+    "source_page_verified": null,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control",
+    "selection_basis": "legacy_100x100_plus_quote_mapping_20261002",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "absence_verified_by_full_document_review",
+      "manual_semantic_review_completed": true
+    }
+  },
+  {
+    "question": "How many days does the dispute-resolution committee have to issue a decision?",
+    "answer": "Not found in context",
+    "page": 95,
+    "question_id": "mytkpm-u-099",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "418c2626d60b3cf4913c49de6966fa6cbac27d1af3646495990bbd55767aa8bc",
+      "b519ce896820421f5ee1ec8965629a69fd246e36f6b7f67ea6976c5a1aeba137"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "The dispute committee issues final decisions without any deadline.",
+    "source_section": null,
+    "source_page_verified": null,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control",
+    "selection_basis": "legacy_100x100_plus_quote_mapping_20261002",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "absence_verified_by_full_document_review",
+      "manual_semantic_review_completed": true
+    }
+  },
+  {
+    "question": "For how many years after termination must confidential information remain secret?",
+    "answer": "Not found in context",
+    "page": 99,
+    "question_id": "mytkpm-u-100",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "cb61b71df0d9489a705ec36c0ca193b3fa05dacc2d78fa56da6592a6e3c00843",
+      "635721ac160c2e2b67411f83f944009dec6d26d06651a4db047082e1cbc9bcb3"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "Confidentiality survives termination without any year limit.",
+    "source_section": null,
+    "source_page_verified": null,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control",
+    "selection_basis": "legacy_100x100_plus_quote_mapping_20261002",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "absence_verified_by_full_document_review",
+      "manual_semantic_review_completed": true
+    }
+  }
+]

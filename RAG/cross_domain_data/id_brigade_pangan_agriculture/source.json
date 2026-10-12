@@ -1,0 +1,35 @@
+{
+  "language_code": "id",
+  "domain": "Agriculture, farm machinery, rural finance",
+  "publisher": "Pusat Pelatihan Pertanian, Kementerian Pertanian Republik Indonesia",
+  "publication_date": "2024-12",
+  "edition": "First edition",
+  "landing_page": "https://repository.pertanian.go.id/items/0501f1cb-855b-47e5-97b7-8721e7e7330e",
+  "pdf_url": "https://repository.pertanian.go.id/bitstreams/9f03adf4-585e-4d92-9430-e324e9fb5782/download",
+  "expected_pages": "176-179",
+  "download_policy": "Temporary download; delete PDF after successful conversion and validation",
+  "downloaded_at": "2026-09-10T11:23:53+08:00",
+  "document_id": "id_brigade_pangan_agriculture",
+  "title": "Buku Saku Brigade Pangan",
+  "language": "Indonesian",
+  "sha256": "584EC57683D337960E79B437B37BEBBE64D2D61FD8E7C0C43B267543D7073181",
+  "downloaded_size_bytes": 11473170,
+  "local_pdf_retained": false,
+  "temporary_pdf_deleted": true,
+  "processing_status": "text_only_markdown_validated",
+  "last_processed_utc": "2026-09-11T02:58:46.262629+00:00",
+  "artifacts": {
+    "docling_markdown": "cross_domain_data/id_brigade_pangan_agriculture/docling_output/BrigadePangan.md",
+    "docling_json": "cross_domain_data/id_brigade_pangan_agriculture/docling_output/BrigadePangan.json",
+    "retrieval_markdown": "cross_domain_data/id_brigade_pangan_agriculture/retrieval_text/Buku_Saku_Brigade_Pangan_text_only.md"
+  },
+  "quality_check": {
+    "passed": true,
+    "characters": 129175,
+    "headings": 332,
+    "table_rows": 211,
+    "embedded_image_hits": 0,
+    "replacement_characters": 0,
+    "mojibake_hits": 0
+  }
+}

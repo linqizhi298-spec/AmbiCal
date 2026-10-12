@@ -1,0 +1,272 @@
+[
+  {
+    "question": "What stocking density of fingerlings is recommended for an integrated rice-fish field?",
+    "answer": "Not found in context",
+    "page": null,
+    "calibration_id": "AMB-VN-NULL-001",
+    "calibration_purpose": "null_distribution",
+    "topical_anchor": "Outside handbook scope: rice-fish farming",
+    "absent_reason": "The handbook does not cover integrated rice-fish production."
+  },
+  {
+    "question": "Which duck breed and stocking rate should be used in an integrated rice-duck system?",
+    "answer": "Not found in context",
+    "page": null,
+    "calibration_id": "AMB-VN-NULL-002",
+    "calibration_purpose": "null_distribution",
+    "topical_anchor": "Outside handbook scope: rice-duck farming",
+    "absent_reason": "The handbook does not cover integrated rice-duck production."
+  },
+  {
+    "question": "What salinity schedule is recommended for rotating rice with brackish-water shrimp?",
+    "answer": "Not found in context",
+    "page": null,
+    "calibration_id": "AMB-VN-NULL-003",
+    "calibration_purpose": "null_distribution",
+    "topical_anchor": "Outside handbook scope: rice-shrimp farming",
+    "absent_reason": "The handbook does not provide a rice-shrimp rotation protocol."
+  },
+  {
+    "question": "What irrigation-canal water tariff must a cooperative pay per cubic metre?",
+    "answer": "Not found in context",
+    "page": null,
+    "calibration_id": "AMB-VN-NULL-004",
+    "calibration_purpose": "null_distribution",
+    "topical_anchor": "Outside handbook scope: water-service pricing",
+    "absent_reason": "Water-management practices are covered, but irrigation-service tariffs are not."
+  },
+  {
+    "question": "Which permit is required to drill a groundwater well for rice irrigation?",
+    "answer": "Not found in context",
+    "page": null,
+    "calibration_id": "AMB-VN-NULL-005",
+    "calibration_purpose": "null_distribution",
+    "topical_anchor": "Outside handbook scope: groundwater permitting",
+    "absent_reason": "The handbook does not address groundwater-well permits."
+  },
+  {
+    "question": "What photovoltaic array capacity is needed to power a solar irrigation pump for ten hectares?",
+    "answer": "Not found in context",
+    "page": null,
+    "calibration_id": "AMB-VN-NULL-006",
+    "calibration_purpose": "null_distribution",
+    "topical_anchor": "Outside handbook scope: solar irrigation",
+    "absent_reason": "No solar-pump sizing guidance is included."
+  },
+  {
+    "question": "What daily wage must be paid to seasonal rice-transplanting workers?",
+    "answer": "Not found in context",
+    "page": null,
+    "calibration_id": "AMB-VN-NULL-007",
+    "calibration_purpose": "null_distribution",
+    "topical_anchor": "Outside handbook scope: agricultural wages",
+    "absent_reason": "The handbook contains no wage schedule or labor-rate requirement."
+  },
+  {
+    "question": "What premium per hectare is charged for drought and flood crop insurance?",
+    "answer": "Not found in context",
+    "page": null,
+    "calibration_id": "AMB-VN-NULL-008",
+    "calibration_purpose": "null_distribution",
+    "topical_anchor": "Outside handbook scope: crop insurance",
+    "absent_reason": "Crop-insurance products and premiums are outside the handbook's scope."
+  },
+  {
+    "question": "What interest rate is offered for a cooperative's seasonal rice-production loan?",
+    "answer": "Not found in context",
+    "page": null,
+    "calibration_id": "AMB-VN-NULL-009",
+    "calibration_purpose": "null_distribution",
+    "topical_anchor": "Outside handbook scope: agricultural credit",
+    "absent_reason": "The handbook gives no credit product or interest-rate information."
+  },
+  {
+    "question": "What annual land-lease price is assumed for one hectare of Mekong Delta paddy?",
+    "answer": "Not found in context",
+    "page": null,
+    "calibration_id": "AMB-VN-NULL-010",
+    "calibration_purpose": "null_distribution",
+    "topical_anchor": "Outside handbook scope: land leasing",
+    "absent_reason": "Land-lease pricing is not discussed."
+  },
+  {
+    "question": "What head-rice recovery percentage should a commercial milling line achieve?",
+    "answer": "Not found in context",
+    "page": null,
+    "calibration_id": "AMB-VN-NULL-011",
+    "calibration_purpose": "null_distribution",
+    "topical_anchor": "Outside handbook scope: rice milling",
+    "absent_reason": "The handbook stops at paddy storage and does not specify milling recovery."
+  },
+  {
+    "question": "What whiteness index should polished rice meet after milling?",
+    "answer": "Not found in context",
+    "page": null,
+    "calibration_id": "AMB-VN-NULL-012",
+    "calibration_purpose": "null_distribution",
+    "topical_anchor": "Outside handbook scope: milled-rice quality",
+    "absent_reason": "No polished-rice whiteness standard is included."
+  },
+  {
+    "question": "Which Incoterm should a cooperative use when exporting bagged rice through Can Tho?",
+    "answer": "Not found in context",
+    "page": null,
+    "calibration_id": "AMB-VN-NULL-013",
+    "calibration_purpose": "null_distribution",
+    "topical_anchor": "Outside handbook scope: export contracts",
+    "absent_reason": "Export-contract terms are outside the technical handbook."
+  },
+  {
+    "question": "What retail package size is recommended for low-emission rice sold in supermarkets?",
+    "answer": "Not found in context",
+    "page": null,
+    "calibration_id": "AMB-VN-NULL-014",
+    "calibration_purpose": "null_distribution",
+    "topical_anchor": "Outside handbook scope: retail packaging",
+    "absent_reason": "The handbook does not address consumer packaging sizes."
+  },
+  {
+    "question": "What water-to-rice ratio should consumers use when cooking this high-quality rice?",
+    "answer": "Not found in context",
+    "page": null,
+    "calibration_id": "AMB-VN-NULL-015",
+    "calibration_purpose": "null_distribution",
+    "topical_anchor": "Outside handbook scope: cooking instructions",
+    "absent_reason": "Consumer cooking instructions are not part of the handbook."
+  },
+  {
+    "question": "What glycemic-index value is reported for rice produced under the low-emission process?",
+    "answer": "Not found in context",
+    "page": null,
+    "calibration_id": "AMB-VN-NULL-016",
+    "calibration_purpose": "null_distribution",
+    "topical_anchor": "Outside handbook scope: human nutrition",
+    "absent_reason": "The handbook reports no glycemic-index measurements."
+  },
+  {
+    "question": "How much iron and zinc does one hundred grams of the finished rice contain?",
+    "answer": "Not found in context",
+    "page": null,
+    "calibration_id": "AMB-VN-NULL-017",
+    "calibration_purpose": "null_distribution",
+    "topical_anchor": "Outside handbook scope: nutritional composition",
+    "absent_reason": "Nutritional composition of the finished rice is not provided."
+  },
+  {
+    "question": "What fee is charged for an organic-rice certification audit?",
+    "answer": "Not found in context",
+    "page": null,
+    "calibration_id": "AMB-VN-NULL-018",
+    "calibration_purpose": "null_distribution",
+    "topical_anchor": "Outside handbook scope: organic certification",
+    "absent_reason": "Organic-certification audits and fees are not discussed."
+  },
+  {
+    "question": "For how many years must a farm retain records for a VietGAP inspection?",
+    "answer": "Not found in context",
+    "page": null,
+    "calibration_id": "AMB-VN-NULL-019",
+    "calibration_purpose": "null_distribution",
+    "topical_anchor": "Outside handbook scope: VietGAP records",
+    "absent_reason": "The handbook does not prescribe VietGAP record-retention periods."
+  },
+  {
+    "question": "What license category must a pilot hold to spray rice fields with an agricultural drone?",
+    "answer": "Not found in context",
+    "page": null,
+    "calibration_id": "AMB-VN-NULL-020",
+    "calibration_purpose": "null_distribution",
+    "topical_anchor": "Outside handbook scope: drone licensing",
+    "absent_reason": "Drone pilot licensing is not covered."
+  },
+  {
+    "question": "What annual subscription fee is charged for commercial satellite crop imagery?",
+    "answer": "Not found in context",
+    "page": null,
+    "calibration_id": "AMB-VN-NULL-021",
+    "calibration_purpose": "null_distribution",
+    "topical_anchor": "Outside handbook scope: satellite imagery procurement",
+    "absent_reason": "The handbook does not price commercial satellite-imagery services."
+  },
+  {
+    "question": "How often must an automated farm weather station's rain gauge be recalibrated?",
+    "answer": "Not found in context",
+    "page": null,
+    "calibration_id": "AMB-VN-NULL-022",
+    "calibration_purpose": "null_distribution",
+    "topical_anchor": "Outside handbook scope: weather-station maintenance",
+    "absent_reason": "No weather-station hardware maintenance schedule is given."
+  },
+  {
+    "question": "What electrical-conductivity range should be maintained in a hydroponic lettuce solution?",
+    "answer": "Not found in context",
+    "page": null,
+    "calibration_id": "AMB-VN-NULL-023",
+    "calibration_purpose": "null_distribution",
+    "topical_anchor": "Outside handbook scope: hydroponic vegetables",
+    "absent_reason": "Hydroponic crop production is outside the rice handbook."
+  },
+  {
+    "question": "What plant spacing is recommended for cassava grown on upland soil?",
+    "answer": "Not found in context",
+    "page": null,
+    "calibration_id": "AMB-VN-NULL-024",
+    "calibration_purpose": "null_distribution",
+    "topical_anchor": "Outside handbook scope: cassava production",
+    "absent_reason": "Cassava cultivation is not covered."
+  },
+  {
+    "question": "In which month should robusta coffee trees be pruned after harvest?",
+    "answer": "Not found in context",
+    "page": null,
+    "calibration_id": "AMB-VN-NULL-025",
+    "calibration_purpose": "null_distribution",
+    "topical_anchor": "Outside handbook scope: coffee production",
+    "absent_reason": "Coffee-tree management is not covered."
+  },
+  {
+    "question": "How many hand-pollinated flowers should be retained on each durian branch?",
+    "answer": "Not found in context",
+    "page": null,
+    "calibration_id": "AMB-VN-NULL-026",
+    "calibration_purpose": "null_distribution",
+    "topical_anchor": "Outside handbook scope: durian production",
+    "absent_reason": "Durian pollination and fruit thinning are outside the handbook."
+  },
+  {
+    "question": "At what age should piglets receive their first classical swine fever vaccination?",
+    "answer": "Not found in context",
+    "page": null,
+    "calibration_id": "AMB-VN-NULL-027",
+    "calibration_purpose": "null_distribution",
+    "topical_anchor": "Outside handbook scope: pig health",
+    "absent_reason": "Livestock vaccination schedules are not included."
+  },
+  {
+    "question": "What maximum stocking density is recommended for broiler chickens in hot weather?",
+    "answer": "Not found in context",
+    "page": null,
+    "calibration_id": "AMB-VN-NULL-028",
+    "calibration_purpose": "null_distribution",
+    "topical_anchor": "Outside handbook scope: poultry production",
+    "absent_reason": "Poultry housing and stocking density are not covered."
+  },
+  {
+    "question": "What dissolved-oxygen level should be maintained in a pangasius grow-out pond?",
+    "answer": "Not found in context",
+    "page": null,
+    "calibration_id": "AMB-VN-NULL-029",
+    "calibration_purpose": "null_distribution",
+    "topical_anchor": "Outside handbook scope: aquaculture",
+    "absent_reason": "Pond-water management for pangasius is not discussed."
+  },
+  {
+    "question": "How far should honeybee hives be placed from a flowering fruit orchard?",
+    "answer": "Not found in context",
+    "page": null,
+    "calibration_id": "AMB-VN-NULL-030",
+    "calibration_purpose": "null_distribution",
+    "topical_anchor": "Outside handbook scope: beekeeping",
+    "absent_reason": "Beekeeping and pollination management are outside the handbook."
+  }
+]

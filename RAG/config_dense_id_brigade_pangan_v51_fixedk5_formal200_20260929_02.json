@@ -1,0 +1,23 @@
+{
+  "llm_models": {"ollama": {
+    "qwen2.5_7B-128k": {"name": "qwen2.5:7b", "temperature": 0.0, "num_predict": 1024, "context_window": 128000},
+    "gemma3_12B-128k": {"name": "gemma3:12b", "temperature": 0.0, "num_predict": 1024, "context_window": 128000}
+  }},
+  "question_models_to_test": ["qwen2.5_7B-128k"],
+  "evaluator_model_name": "gemma3_12B-128k",
+  "enable_reevaluation": false,
+  "prompt_paths": {
+    "question_prompt": "D:\\Analysis code\\ambical\\RAG\\prompt_templates\\question_prompt.txt",
+    "evaluation_prompt": "D:\\Analysis code\\ambical\\RAG\\prompt_templates\\evaluation_prompt.txt"
+  },
+  "language_configs": [{"language": "indonesian", "manual_path": "D:\\Analysis code\\ambical\\RAG\\cross_domain_data\\id_brigade_pangan_agriculture\\retrieval_text\\Buku_Saku_Brigade_Pangan_text_only.md", "collection_base_name": "id_brigade_pangan_indonesian_bge_m3"}],
+  "question_dataset_paths": {
+    "general_questions": "D:\\Analysis code\\ambical\\RAG\\question_datasets\\id_brigade_pangan_english_qa\\question_answers_pairs_id_brigade_pangan_v51_independent_100_20260929_01.json",
+    "unanswerable_questions": "D:\\Analysis code\\ambical\\RAG\\question_datasets\\id_brigade_pangan_english_qa\\question_answers_unanswerable_id_brigade_pangan_v51_independent_100_20260929_01.json"
+  },
+  "output_dir": "D:\\Analysis code\\ambical\\RAG\\user_runs\\dense\\id_brigade_pangan_v51\\formal200\\fixed_k5_20260929_02",
+  "embedding_model_name": "D:\\Analysis code\\models\\bge-m3",
+  "embedding_max_length": 8192,
+  "chroma_persist_dir": "D:\\Analysis code\\ambical\\RAG\\chroma_db_id_brigade_pangan_bge_m3_fp16",
+  "rag_parameters": {"retrieval_algorithms_to_test": ["embedding"], "chunk_sizes_to_test": [200], "overlap_sizes_to_test": [100], "num_retrieved_docs": 5, "adaptive_k_enabled": false}
+}

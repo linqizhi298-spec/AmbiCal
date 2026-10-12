@@ -1,0 +1,644 @@
+[
+  {
+    "development_id": "ewdev-oa-002",
+    "question": "Before precision laser leveling is considered, how even should the prepared field surface already be under the general land-preparation requirement?",
+    "answer": "The difference between the highest and lowest points should not exceed 5 cm.",
+    "page": null,
+    "answerability": "answerable",
+    "category": "ordinary_answerable",
+    "manual_sections": [
+      "II. Kỹ thuật canh tác",
+      "1. Làm đất"
+    ],
+    "gold_chunk_ids": [
+      "4200654e207c64bd629fac901fcd1a231f667779846f890d1033c36b15b5ef8d"
+    ],
+    "wrong_sense_chunk_ids": [],
+    "minimum_evidence_count": 1,
+    "context_gate_label": "not_required",
+    "parameter_roles": [
+      "lambda_false_positive",
+      "null_thresholds"
+    ]
+  },
+  {
+    "development_id": "ewdev-oa-004",
+    "question": "Besides making the surface level, which input-use efficiencies does the laser-leveling summary say can improve?",
+    "answer": "It says laser leveling can improve the efficiency of seed, water, fertilizer, and pesticide use while increasing yield.",
+    "page": null,
+    "answerability": "answerable",
+    "category": "ordinary_answerable",
+    "manual_sections": [
+      "II. Kỹ thuật canh tác",
+      "SAN PHẲNG LASER"
+    ],
+    "gold_chunk_ids": [
+      "401677c1d3089f3e80656bb70dbf07a6b81fbab05223159a84a11917222b73c4"
+    ],
+    "wrong_sense_chunk_ids": [],
+    "minimum_evidence_count": 1,
+    "context_gate_label": "not_required",
+    "parameter_roles": [
+      "lambda_false_positive",
+      "null_thresholds"
+    ]
+  },
+  {
+    "development_id": "ewdev-oa-006",
+    "question": "What optional field operations can be added to the cluster seeder described in the handbook?",
+    "answer": "It can be fitted with additional functions such as fertilizer application and pesticide spraying.",
+    "page": null,
+    "answerability": "answerable",
+    "category": "ordinary_answerable",
+    "manual_sections": [
+      "II. Kỹ thuật canh tác",
+      "3.3. Máy sạ hàng và sạ cụm"
+    ],
+    "gold_chunk_ids": [
+      "0a1fbca4f0d8be4bd820e686736840d3ce81d251ab7bbc391189ed043fc246bf"
+    ],
+    "wrong_sense_chunk_ids": [],
+    "minimum_evidence_count": 1,
+    "context_gate_label": "not_required",
+    "parameter_roles": [
+      "lambda_false_positive",
+      "null_thresholds"
+    ]
+  },
+  {
+    "development_id": "ewdev-oa-008",
+    "question": "How can farmers concentrate adult golden apple snails and their eggs so that they are easier to collect?",
+    "answer": "They can use bundled taro leaves as bait, place bamboo or wooden stakes in flooded spots to attract egg laying, and make drainage furrows where snails collect as water is removed.",
+    "page": null,
+    "answerability": "answerable",
+    "category": "ordinary_answerable",
+    "manual_sections": [
+      "II. Kỹ thuật canh tác",
+      "Phòng trừ ốc bươu vàng"
+    ],
+    "gold_chunk_ids": [
+      "3ea34dfd569cb6ea688f127adc7d760e2870543e420aaa72ebd15db492b23e28"
+    ],
+    "wrong_sense_chunk_ids": [],
+    "minimum_evidence_count": 1,
+    "context_gate_label": "not_required",
+    "parameter_roles": [
+      "lambda_false_positive",
+      "null_thresholds"
+    ]
+  },
+  {
+    "development_id": "ewdev-oa-010",
+    "question": "What transport arrangement is needed after a tractor-mounted straw baler drops its bales in the field?",
+    "answer": "Because it has no onboard storage and leaves bales in the field, a separate collection vehicle is needed to carry them away.",
+    "page": null,
+    "answerability": "answerable",
+    "category": "ordinary_answerable",
+    "manual_sections": [
+      "IV. Quản lý rơm rạ",
+      "1. Thu gom rơm"
+    ],
+    "gold_chunk_ids": [
+      "118953422180ac5280c7c3164276c8289a3fe398f6441d4f3a0cd12429a0681e"
+    ],
+    "wrong_sense_chunk_ids": [],
+    "minimum_evidence_count": 1,
+    "context_gate_label": "not_required",
+    "parameter_roles": [
+      "lambda_false_positive",
+      "null_thresholds"
+    ]
+  },
+  {
+    "development_id": "ewdev-oa-012",
+    "question": "How much lime is used to prepare an outdoor straw-mushroom site according to the handbook?",
+    "answer": "The site is treated with CaCO3 at 5 kg per 100 square metres, equivalent to about 300-500 kg per hectare.",
+    "page": null,
+    "answerability": "answerable",
+    "category": "ordinary_answerable",
+    "manual_sections": [
+      "IV. Quản lý rơm rạ",
+      "3.2. Trồng nấm"
+    ],
+    "gold_chunk_ids": [
+      "db490c7b2cbe9e0cbf6c751e8267c92d7fc0ecfd6c1b764c491f3099d269b81c"
+    ],
+    "wrong_sense_chunk_ids": [],
+    "minimum_evidence_count": 1,
+    "context_gate_label": "not_required",
+    "parameter_roles": [
+      "lambda_false_positive",
+      "null_thresholds"
+    ]
+  },
+  {
+    "development_id": "ewdev-oa-014",
+    "question": "How much straw is packed into one nylon bag for treatment as cattle feed, and what daily intake range is stated for one animal?",
+    "answer": "One nylon bag holds about 16-20 kg of straw, and one animal may eat about 2-7 kg of treated straw per day depending on age.",
+    "page": null,
+    "answerability": "answerable",
+    "category": "ordinary_answerable",
+    "manual_sections": [
+      "IV. Quản lý rơm rạ",
+      "3.3. Thức ăn cho trâu, bò"
+    ],
+    "gold_chunk_ids": [
+      "6f0007434d98d664271712262bcc29399775f5bc3050ab09e8758c2df72a72f4"
+    ],
+    "wrong_sense_chunk_ids": [],
+    "minimum_evidence_count": 1,
+    "context_gate_label": "not_required",
+    "parameter_roles": [
+      "lambda_false_positive",
+      "null_thresholds"
+    ]
+  },
+  {
+    "development_id": "ewdev-me-002",
+    "question": "For mechanized sowing with fertilizer burial, what seed-rate ceiling applies and what fertilizer characteristics and placement schedule must accompany it?",
+    "answer": "Mechanized sowing should use no more than 70 kg seed per hectare. The burial machine should use common granular fertilizers with 2-4 mm particles that disintegrate slowly when damp; 70-80% is buried at sowing and the remainder is applied around 38-42 days after sowing.",
+    "page": null,
+    "answerability": "answerable",
+    "category": "multi_evidence_answerable",
+    "manual_sections": [
+      "II. Kỹ thuật canh tác",
+      "2. Chuẩn bị giống",
+      "5. Bón phân"
+    ],
+    "gold_chunk_ids": [
+      "162688834755665012012fde3ef4badc973a89b61c397000ddb2e7edde72c23a",
+      "66ef4e9b7a2f2f9e5a4bf3a65bc9a23d27250d8125721c221665d52ab2732abe"
+    ],
+    "wrong_sense_chunk_ids": [],
+    "minimum_evidence_count": 2,
+    "context_gate_label": "not_required",
+    "parameter_roles": [
+      "lambda_redundancy",
+      "lambda_false_positive"
+    ]
+  },
+  {
+    "development_id": "ewdev-me-004",
+    "question": "Trace the handbook's quality-preservation sequence from crop maturity through drying and into storage.",
+    "answer": "Harvest at about 85-90% maturity with a combine, dry within 24 hours to 14% moisture for commercial paddy or 13.5% for seed, clean the paddy, and store it in suitable forced-air silos or sealed bags while limiting fumigation.",
+    "page": null,
+    "answerability": "answerable",
+    "category": "multi_evidence_answerable",
+    "manual_sections": [
+      "III. Quản lý thu hoạch và xử lý sau thu hoạch"
+    ],
+    "gold_chunk_ids": [
+      "d196bca3761c17bee017c7d36cd2c6eeb544b1b93075820e4b4eac8464a62093",
+      "f889c5913ef49283e12a1f9836a99347d1543cfdebe7eb7b9c852a412df2b739",
+      "ce3cc7f3fc30a9867b9d27166a162ef7a1de2a14fdfbdff7ccccd41d3af2970a"
+    ],
+    "wrong_sense_chunk_ids": [],
+    "minimum_evidence_count": 3,
+    "context_gate_label": "not_required",
+    "parameter_roles": [
+      "lambda_redundancy",
+      "null_thresholds"
+    ]
+  },
+  {
+    "development_id": "ewdev-me-006",
+    "question": "How do SSNM and CF-Rice cover different parts of low-emission decision-making?",
+    "answer": "SSNM combines site-specific nutrient management with tools and soil or risk maps to reduce fertilizer overuse and related emissions, whereas CF-Rice uses life-cycle assessment to calculate a rice product's carbon footprint and provide a digital label.",
+    "page": null,
+    "answerability": "answerable",
+    "category": "multi_evidence_answerable",
+    "manual_sections": [
+      "V. Xu hướng phát triển và áp dụng công nghệ số trong nông nghiệp"
+    ],
+    "gold_chunk_ids": [
+      "31d811f04c1040b8aaa1151d9808744440d0ce34b2389163a6ecaf3a6f202719",
+      "b3e5ede084aacaa40564e2c81a43bef08baa48acd89286b26d8a63169bd1900e"
+    ],
+    "wrong_sense_chunk_ids": [],
+    "minimum_evidence_count": 2,
+    "context_gate_label": "not_required",
+    "parameter_roles": [
+      "lambda_redundancy",
+      "lambda_false_positive"
+    ]
+  },
+  {
+    "development_id": "ewdev-me-008",
+    "question": "Summarize the mechanized straw-compost path from windrow preparation through the finished product, including the main moisture and timing controls.",
+    "answer": "Materials are layered in a windrow, initially mixed while microbes or enzymes and water are added, held near 50-60% moisture under cover, remixed after about 10-15 days for aeration and cooling with moisture then around 40-50%, and screened as finished organic fertilizer after roughly 30-45 days, depending on inputs.",
+    "page": null,
+    "answerability": "answerable",
+    "category": "multi_evidence_answerable",
+    "manual_sections": [
+      "IV. Quản lý rơm rạ",
+      "3.5. Phân hữu cơ"
+    ],
+    "gold_chunk_ids": [
+      "c56a340f15b314c1a9820fb2fea1cb81db8a2213ade9c201adcc192a1162be9a",
+      "572cbe58f5347b3cf9aa6ea9cd3e9ea0e10839672b6b12602b1e96db697d6d93",
+      "b5d0f9dc41706b5a2cc9dc733d7b230c4b81b9d7954f8e8bf31dc22a83c9dc4e",
+      "aa8fe1a2bda22541cac58a37a12cead344a7629f7a020fea4454dfbae902a3e8"
+    ],
+    "wrong_sense_chunk_ids": [],
+    "minimum_evidence_count": 3,
+    "context_gate_label": "not_required",
+    "parameter_roles": [
+      "lambda_redundancy",
+      "null_thresholds"
+    ]
+  },
+  {
+    "development_id": "ewdev-me-010",
+    "question": "Why does the handbook connect avoiding straw burning, aerobic field treatment, and productive straw reuse as one circular low-emission strategy?",
+    "answer": "Burning loses nutrients and harms biodiversity, while flooding fresh incorporated straw promotes methane. Keeping incorporated residues aerobic preserves nutrients, and removing clean straw for mushrooms, feed, bedding, mulch, or fertilizer turns a by-product into useful inputs and reduces waste and emissions.",
+    "page": null,
+    "answerability": "answerable",
+    "category": "multi_evidence_answerable",
+    "manual_sections": [
+      "IV. Quản lý rơm rạ"
+    ],
+    "gold_chunk_ids": [
+      "35d4b7182862afbc13d18332c4573fb93c4491816d5be3834c2172beb2670e9f",
+      "08a388bed6d2882e009f6758fec7efeba3699ebd0261b16af8f0f56b0fb2e1ea",
+      "e1d54040e0f6acbc963838c2d667528dcdc5af56d551358e297e93e93acd97fc"
+    ],
+    "wrong_sense_chunk_ids": [],
+    "minimum_evidence_count": 3,
+    "context_gate_label": "not_required",
+    "parameter_roles": [
+      "lambda_redundancy",
+      "null_thresholds"
+    ]
+  },
+  {
+    "development_id": "ewdev-aa-002",
+    "question": "When the handbook discusses fertilizer placement depth beside a rice row, what depth and lateral offset does it mean, rather than soil tillage depth?",
+    "answer": "The fertilizer is buried 3-5 cm deep and placed 3-5 cm from the rice row.",
+    "page": null,
+    "answerability": "answerable",
+    "category": "ambiguous_term_answerable",
+    "manual_sections": [
+      "II. Kỹ thuật canh tác",
+      "3.3. Máy sạ hàng và sạ cụm"
+    ],
+    "gold_chunk_ids": [
+      "69f7c793c0f9419dcb5f1e07d914706e7048503b1e9246052bb148d6bab0a308"
+    ],
+    "wrong_sense_chunk_ids": [
+      "4c2e453fec6ea4cd63f6aca6e7121894b38e07f0c751ba7484b6d91edd57f393"
+    ],
+    "minimum_evidence_count": 1,
+    "context_gate_label": "required",
+    "parameter_roles": [
+      "lambda_context",
+      "context_gate_threshold"
+    ]
+  },
+  {
+    "development_id": "ewdev-aa-004",
+    "question": "For rapid stubble decomposition in the Summer-Autumn and Autumn-Winter crops, what does the handbook's approximately 0.1% application rate measure?",
+    "answer": "It is the amount of biological decomposition product sprayed, expressed as approximately 0.1% of the total mass of straw or stubble being incorporated.",
+    "page": null,
+    "answerability": "answerable",
+    "category": "ambiguous_term_answerable",
+    "manual_sections": [
+      "IV. Quản lý rơm rạ",
+      "2. Xử lý rạ trên ruộng"
+    ],
+    "gold_chunk_ids": [
+      "dec27911074940b1efbde72d10a50d6b324884ae9543b0ef6e8d87e9437f1f38"
+    ],
+    "wrong_sense_chunk_ids": [
+      "ade0d69da211d3b03692037493b9160df2056ffa6b68a2020b16dc2fa6b72674"
+    ],
+    "minimum_evidence_count": 1,
+    "context_gate_label": "required",
+    "parameter_roles": [
+      "lambda_context",
+      "context_gate_threshold"
+    ]
+  },
+  {
+    "development_id": "ewdev-aa-006",
+    "question": "In the indoor mushroom facility, what spacing is specified between shelf levels, rather than between rice rows or seed clusters?",
+    "answer": "The shelf levels are spaced about 0.5 m apart.",
+    "page": null,
+    "answerability": "answerable",
+    "category": "ambiguous_term_answerable",
+    "manual_sections": [
+      "IV. Quản lý rơm rạ",
+      "Trồng nấm trong nhà"
+    ],
+    "gold_chunk_ids": [
+      "0f28d3607ca0030f9d9fe82032f4ebd05819fa6217f75944d10c0d3e612b08ba"
+    ],
+    "wrong_sense_chunk_ids": [
+      "162688834755665012012fde3ef4badc973a89b61c397000ddb2e7edde72c23a"
+    ],
+    "minimum_evidence_count": 1,
+    "context_gate_label": "required",
+    "parameter_roles": [
+      "lambda_context",
+      "context_gate_threshold"
+    ]
+  },
+  {
+    "development_id": "ewdev-aa-008",
+    "question": "When the handbook says freshly harvested rice must be dried promptly, what deadline does it set, rather than referring to dry fallowing of the field?",
+    "answer": "Freshly harvested paddy should be dried within 24 hours after harvest.",
+    "page": null,
+    "answerability": "answerable",
+    "category": "ambiguous_term_answerable",
+    "manual_sections": [
+      "III. Quản lý thu hoạch và xử lý sau thu hoạch",
+      "2. Sấy lúa"
+    ],
+    "gold_chunk_ids": [
+      "f889c5913ef49283e12a1f9836a99347d1543cfdebe7eb7b9c852a412df2b739"
+    ],
+    "wrong_sense_chunk_ids": [
+      "4200654e207c64bd629fac901fcd1a231f667779846f890d1033c36b15b5ef8d"
+    ],
+    "minimum_evidence_count": 1,
+    "context_gate_label": "required",
+    "parameter_roles": [
+      "lambda_context",
+      "context_gate_threshold"
+    ]
+  },
+  {
+    "development_id": "ewdev-aa-010",
+    "question": "In the fertilizer schedule for a burial seeder, how is the application divided, rather than how a pneumatic machine distributes seed?",
+    "answer": "The fertilizer is divided into two applications: 70-80% buried at sowing and the remainder broadcast as the panicle-initiation dressing at 38-42 days after sowing.",
+    "page": null,
+    "answerability": "answerable",
+    "category": "ambiguous_term_answerable",
+    "manual_sections": [
+      "II. Kỹ thuật canh tác",
+      "5. Bón phân"
+    ],
+    "gold_chunk_ids": [
+      "66ef4e9b7a2f2f9e5a4bf3a65bc9a23d27250d8125721c221665d52ab2732abe"
+    ],
+    "wrong_sense_chunk_ids": [
+      "bfd6056bff2c889dc01b1c50dec653ce8863b51dd7513dbbb1bcf598a65a6d42"
+    ],
+    "minimum_evidence_count": 1,
+    "context_gate_label": "required",
+    "parameter_roles": [
+      "lambda_context",
+      "context_gate_threshold"
+    ]
+  },
+  {
+    "development_id": "ewdev-ah-002",
+    "question": "What compression pressure is used to form a dense 50-by-70-centimetre straw bale?",
+    "answer": "Not found in context",
+    "page": null,
+    "answerability": "unanswerable",
+    "category": "ambiguous_term_hard_negative",
+    "manual_sections": [
+      "IV. Quản lý rơm rạ",
+      "1. Thu gom rơm"
+    ],
+    "gold_chunk_ids": [],
+    "wrong_sense_chunk_ids": [
+      "118953422180ac5280c7c3164276c8289a3fe398f6441d4f3a0cd12429a0681e"
+    ],
+    "minimum_evidence_count": 0,
+    "context_gate_label": "required",
+    "parameter_roles": [
+      "lambda_context",
+      "context_gate_threshold",
+      "null_thresholds"
+    ]
+  },
+  {
+    "development_id": "ewdev-ah-004",
+    "question": "What cooling-air flow rate should be supplied to each tonne of finished straw compost?",
+    "answer": "Not found in context",
+    "page": null,
+    "answerability": "unanswerable",
+    "category": "ambiguous_term_hard_negative",
+    "manual_sections": [
+      "IV. Quản lý rơm rạ",
+      "3.5. Phân hữu cơ"
+    ],
+    "gold_chunk_ids": [],
+    "wrong_sense_chunk_ids": [
+      "b5d0f9dc41706b5a2cc9dc733d7b230c4b81b9d7954f8e8bf31dc22a83c9dc4e"
+    ],
+    "minimum_evidence_count": 0,
+    "context_gate_label": "required",
+    "parameter_roles": [
+      "lambda_context",
+      "context_gate_threshold",
+      "null_thresholds"
+    ]
+  },
+  {
+    "development_id": "ewdev-ah-006",
+    "question": "What minimum load capacity must the wooden platforms under warehouse rice bags support?",
+    "answer": "Not found in context",
+    "page": null,
+    "answerability": "unanswerable",
+    "category": "ambiguous_term_hard_negative",
+    "manual_sections": [
+      "III. Quản lý thu hoạch và xử lý sau thu hoạch",
+      "3. Bảo quản lúa"
+    ],
+    "gold_chunk_ids": [],
+    "wrong_sense_chunk_ids": [
+      "726219a8ed795453b9fc12bc81c2fc3bbb6f936d586956c84bdba3c6a64d89ec"
+    ],
+    "minimum_evidence_count": 0,
+    "context_gate_label": "required",
+    "parameter_roles": [
+      "lambda_context",
+      "context_gate_threshold",
+      "null_thresholds"
+    ]
+  },
+  {
+    "development_id": "ewdev-ah-008",
+    "question": "How many kilograms can each shelf level safely carry in the indoor straw-mushroom house?",
+    "answer": "Not found in context",
+    "page": null,
+    "answerability": "unanswerable",
+    "category": "ambiguous_term_hard_negative",
+    "manual_sections": [
+      "IV. Quản lý rơm rạ",
+      "Trồng nấm trong nhà"
+    ],
+    "gold_chunk_ids": [],
+    "wrong_sense_chunk_ids": [
+      "0f28d3607ca0030f9d9fe82032f4ebd05819fa6217f75944d10c0d3e612b08ba"
+    ],
+    "minimum_evidence_count": 0,
+    "context_gate_label": "required",
+    "parameter_roles": [
+      "lambda_context",
+      "context_gate_threshold",
+      "null_thresholds"
+    ]
+  },
+  {
+    "development_id": "ewdev-ah-010",
+    "question": "What maximum operating temperature is allowed for the pneumatic seeder's blower?",
+    "answer": "Not found in context",
+    "page": null,
+    "answerability": "unanswerable",
+    "category": "ambiguous_term_hard_negative",
+    "manual_sections": [
+      "II. Kỹ thuật canh tác",
+      "3.3. Máy sạ hàng và sạ cụm"
+    ],
+    "gold_chunk_ids": [],
+    "wrong_sense_chunk_ids": [
+      "ade0d69da211d3b03692037493b9160df2056ffa6b68a2020b16dc2fa6b72674"
+    ],
+    "minimum_evidence_count": 0,
+    "context_gate_label": "required",
+    "parameter_roles": [
+      "lambda_context",
+      "context_gate_threshold",
+      "null_thresholds"
+    ]
+  },
+  {
+    "development_id": "ewdev-ou-001",
+    "question": "What minimum age must a farmer meet to participate in the one-million-hectare program?",
+    "answer": "Not found in context",
+    "page": null,
+    "answerability": "unanswerable",
+    "category": "ordinary_unanswerable",
+    "manual_sections": [],
+    "gold_chunk_ids": [],
+    "wrong_sense_chunk_ids": [],
+    "minimum_evidence_count": 0,
+    "context_gate_label": "not_required",
+    "parameter_roles": [
+      "null_thresholds",
+      "lambda_false_positive"
+    ]
+  },
+  {
+    "development_id": "ewdev-ou-003",
+    "question": "Which land-title document must a household submit before its field can be included in the project?",
+    "answer": "Not found in context",
+    "page": null,
+    "answerability": "unanswerable",
+    "category": "ordinary_unanswerable",
+    "manual_sections": [],
+    "gold_chunk_ids": [],
+    "wrong_sense_chunk_ids": [],
+    "minimum_evidence_count": 0,
+    "context_gate_label": "not_required",
+    "parameter_roles": [
+      "null_thresholds",
+      "lambda_false_positive"
+    ]
+  },
+  {
+    "development_id": "ewdev-ou-005",
+    "question": "On what schedule will the ministry publish revised editions of this technical handbook?",
+    "answer": "Not found in context",
+    "page": null,
+    "answerability": "unanswerable",
+    "category": "ordinary_unanswerable",
+    "manual_sections": [],
+    "gold_chunk_ids": [],
+    "wrong_sense_chunk_ids": [],
+    "minimum_evidence_count": 0,
+    "context_gate_label": "not_required",
+    "parameter_roles": [
+      "null_thresholds",
+      "lambda_false_positive"
+    ]
+  },
+  {
+    "development_id": "ewdev-ou-007",
+    "question": "What monetary fine is imposed on a farmer who burns rice straw in a project field?",
+    "answer": "Not found in context",
+    "page": null,
+    "answerability": "unanswerable",
+    "category": "ordinary_unanswerable",
+    "manual_sections": [],
+    "gold_chunk_ids": [],
+    "wrong_sense_chunk_ids": [],
+    "minimum_evidence_count": 0,
+    "context_gate_label": "not_required",
+    "parameter_roles": [
+      "null_thresholds",
+      "lambda_false_positive"
+    ]
+  },
+  {
+    "development_id": "ewdev-ou-009",
+    "question": "Which grant pays farmers for installing the digital applications introduced in the handbook?",
+    "answer": "Not found in context",
+    "page": null,
+    "answerability": "unanswerable",
+    "category": "ordinary_unanswerable",
+    "manual_sections": [],
+    "gold_chunk_ids": [],
+    "wrong_sense_chunk_ids": [],
+    "minimum_evidence_count": 0,
+    "context_gate_label": "not_required",
+    "parameter_roles": [
+      "null_thresholds",
+      "lambda_false_positive"
+    ]
+  },
+  {
+    "development_id": "ewdev-ou-011",
+    "question": "Which encryption standard protects data exchanged by CF-Rice?",
+    "answer": "Not found in context",
+    "page": null,
+    "answerability": "unanswerable",
+    "category": "ordinary_unanswerable",
+    "manual_sections": [],
+    "gold_chunk_ids": [],
+    "wrong_sense_chunk_ids": [],
+    "minimum_evidence_count": 0,
+    "context_gate_label": "not_required",
+    "parameter_roles": [
+      "null_thresholds",
+      "lambda_false_positive"
+    ]
+  },
+  {
+    "development_id": "ewdev-ou-013",
+    "question": "Which occupational-safety certificate must a worker hold before operating a rice dryer?",
+    "answer": "Not found in context",
+    "page": null,
+    "answerability": "unanswerable",
+    "category": "ordinary_unanswerable",
+    "manual_sections": [],
+    "gold_chunk_ids": [],
+    "wrong_sense_chunk_ids": [],
+    "minimum_evidence_count": 0,
+    "context_gate_label": "not_required",
+    "parameter_roles": [
+      "null_thresholds",
+      "lambda_false_positive"
+    ]
+  },
+  {
+    "development_id": "ewdev-ou-015",
+    "question": "What emergency medical protocol should be followed after suspected pesticide poisoning in the field?",
+    "answer": "Not found in context",
+    "page": null,
+    "answerability": "unanswerable",
+    "category": "ordinary_unanswerable",
+    "manual_sections": [],
+    "gold_chunk_ids": [],
+    "wrong_sense_chunk_ids": [],
+    "minimum_evidence_count": 0,
+    "context_gate_label": "not_required",
+    "parameter_roles": [
+      "null_thresholds",
+      "lambda_false_positive"
+    ]
+  }
+]

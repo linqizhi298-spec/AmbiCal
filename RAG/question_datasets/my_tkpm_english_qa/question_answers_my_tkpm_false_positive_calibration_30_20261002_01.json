@@ -1,0 +1,482 @@
+[
+  {
+    "question": "What premium rate must member banks pay to LPS for deposit insurance coverage?",
+    "answer": "Not found in context",
+    "page": null,
+    "calibration_id": "AMB-MYTKPM-FP-001",
+    "calibration_type": "false_positive",
+    "calibration_purpose": "false_positive_prior",
+    "absent_reason": "The handbook states the LPS guarantee ceiling and 3T criteria but no premium rate paid by banks.",
+    "topical_anchor": "LPS deposit insurance",
+    "attractor_chunk_ids": [
+      "3cd99bdb66bb74256c4e57a5f3cbe7e3e33d813bf52fd975ece88adc768f0482",
+      "8e7871ab431ec19854fbc71fff9912c5d7e87a56927ba10caa2ca4e27e6f709b"
+    ],
+    "source_question_id": "ojk-a-016",
+    "answerability_audit": "manual full-document entity-attribute check"
+  },
+  {
+    "question": "Who chairs OJK's Board of Commissioners according to the handbook?",
+    "answer": "Not found in context",
+    "page": null,
+    "calibration_id": "AMB-MYTKPM-FP-002",
+    "calibration_type": "false_positive",
+    "calibration_purpose": "false_positive_prior",
+    "absent_reason": "The preface names Tirta Segara as a board member for consumer education and protection, but no chair of the board.",
+    "topical_anchor": "OJK governance",
+    "attractor_chunk_ids": [
+      "4811ccff543e36573aa2095941ed573f3611f6c9b7884c4a4cdaef0d7ff3e2f7",
+      "2f3c58e988dd7bcd0c11e91b581bce00a11084587324e9d94cae073042a3691f"
+    ],
+    "source_question_id": "ojk-a-001",
+    "answerability_audit": "manual full-document entity-attribute check"
+  },
+  {
+    "question": "How many members sit on OJK's Board of Commissioners?",
+    "answer": "Not found in context",
+    "page": null,
+    "calibration_id": "AMB-MYTKPM-FP-003",
+    "calibration_type": "false_positive",
+    "calibration_purpose": "false_positive_prior",
+    "absent_reason": "The handbook describes OJK's independence and functions but never gives the board's size.",
+    "topical_anchor": "OJK governance",
+    "attractor_chunk_ids": [
+      "4811ccff543e36573aa2095941ed573f3611f6c9b7884c4a4cdaef0d7ff3e2f7",
+      "2f3c58e988dd7bcd0c11e91b581bce00a11084587324e9d94cae073042a3691f"
+    ],
+    "source_question_id": "ojk-a-056",
+    "answerability_audit": "manual full-document entity-attribute check"
+  },
+  {
+    "question": "What is the minimum opening deposit required for a Tabungan account?",
+    "answer": "Not found in context",
+    "page": null,
+    "calibration_id": "AMB-MYTKPM-FP-004",
+    "calibration_type": "false_positive",
+    "calibration_purpose": "false_positive_prior",
+    "absent_reason": "The handbook mentions a minimum balance to keep a savings account active, but no minimum opening deposit.",
+    "topical_anchor": "savings account requirements",
+    "attractor_chunk_ids": [
+      "4b4e8386d5d602376f2c1372bf46a8055d7d69c5aa1f63801a44150cb6caff78",
+      "0acdcc86be119f01ec9080e7877383805570584848adbc630070324b297909b7"
+    ],
+    "source_question_id": "ojk-a-013",
+    "answerability_audit": "manual full-document entity-attribute check"
+  },
+  {
+    "question": "How much is the monthly administration fee for a standard Tabungan account?",
+    "answer": "Not found in context",
+    "page": null,
+    "calibration_id": "AMB-MYTKPM-FP-005",
+    "calibration_type": "false_positive",
+    "calibration_purpose": "false_positive_prior",
+    "absent_reason": "The handbook says savings may carry administration fees per bank policy without any amount.",
+    "topical_anchor": "savings fees",
+    "attractor_chunk_ids": [
+      "eaa660cf385085a75d319fb42eecbc21837d0cf6e0e2cd3902e428d166e70989",
+      "0acdcc86be119f01ec9080e7877383805570584848adbc630070324b297909b7"
+    ],
+    "source_question_id": "ojk-a-005",
+    "answerability_audit": "manual full-document entity-attribute check"
+  },
+  {
+    "question": "What is the maximum value per transaction for a regular online transfer between banks?",
+    "answer": "Not found in context",
+    "page": null,
+    "calibration_id": "AMB-MYTKPM-FP-006",
+    "calibration_type": "false_positive",
+    "calibration_purpose": "false_positive_prior",
+    "absent_reason": "The handbook caps SKNI at Rp500,000,000 and sets the RTGS minimum, but states no online-transfer maximum.",
+    "topical_anchor": "bank transfer services",
+    "attractor_chunk_ids": [
+      "0fa4adecb69a112964535c594dfa14427916060ac1c648ddd3cbc9a7b4c443c9",
+      "3c3dacc025076119269297b1a1dc950a3880ddbeffddc9c532c6d4963d68426d"
+    ],
+    "source_question_id": "ojk-a-076",
+    "answerability_audit": "manual full-document entity-attribute check"
+  },
+  {
+    "question": "Which banks currently offer the Laku Pandai branchless-banking program?",
+    "answer": "Not found in context",
+    "page": null,
+    "calibration_id": "AMB-MYTKPM-FP-007",
+    "calibration_type": "false_positive",
+    "calibration_purpose": "false_positive_prior",
+    "absent_reason": "The handbook names Laku Pandai as an agency-banking example without listing participating banks.",
+    "topical_anchor": "digital banking services",
+    "attractor_chunk_ids": [
+      "66c0d0874354198a8076a5527eb56d4168d99e11cadf43ff4d7f71703404c241",
+      "67ba764a2d5ee81dbab8a6fcb2499250f91bf42208c305403646105f89a28ee9"
+    ],
+    "source_question_id": "ojk-a-079",
+    "answerability_audit": "manual full-document entity-attribute check"
+  },
+  {
+    "question": "What is the typical bond transaction fee charged by securities companies?",
+    "answer": "Not found in context",
+    "page": null,
+    "calibration_id": "AMB-MYTKPM-FP-008",
+    "calibration_type": "false_positive",
+    "calibration_purpose": "false_positive_prior",
+    "absent_reason": "The handbook says bond transaction fees are usually a certain nominal amount and often free, without quoting figures.",
+    "topical_anchor": "capital market fees",
+    "attractor_chunk_ids": [
+      "991cd2a49682babf4acecbfe7e7f0dae89cb235aa1094ce413dd9df940a33e06",
+      "bdab2825870eb9c949d6f0edbcd1a2d58fb0ee9339dbb0a23014c6596025b74a"
+    ],
+    "source_question_id": "ojk-a-094",
+    "answerability_audit": "manual full-document entity-attribute check"
+  },
+  {
+    "question": "What is the dividend yield of a typical blue-chip stock listed on the IDX?",
+    "answer": "Not found in context",
+    "page": null,
+    "calibration_id": "AMB-MYTKPM-FP-009",
+    "calibration_type": "false_positive",
+    "calibration_purpose": "false_positive_prior",
+    "absent_reason": "The handbook explains dividends as a return form without any yield figures.",
+    "topical_anchor": "stock investing returns",
+    "attractor_chunk_ids": [
+      "7ea10c6a55f727fd1b37a9947903c608ca611c40ca4678298b5768513728f448",
+      "0acdcc86be119f01ec9080e7877383805570584848adbc630070324b297909b7"
+    ],
+    "source_question_id": "ojk-a-019",
+    "answerability_audit": "manual full-document entity-attribute check"
+  },
+  {
+    "question": "Which mutual funds currently have the best three-year performance?",
+    "answer": "Not found in context",
+    "page": null,
+    "calibration_id": "AMB-MYTKPM-FP-010",
+    "calibration_type": "false_positive",
+    "calibration_purpose": "false_positive_prior",
+    "absent_reason": "The handbook describes mutual-fund types and benefits without any performance ranking.",
+    "topical_anchor": "mutual fund selection",
+    "attractor_chunk_ids": [
+      "4e07408562bedb8b60ce05c1decfe3ad16b72230967de01f640b7e4729b49fce",
+      "d27072fae3a09d742fe20d9fd85a74dc5d980001f5727e375111f13a53311634"
+    ],
+    "source_question_id": "ojk-a-087",
+    "answerability_audit": "manual full-document entity-attribute check"
+  },
+  {
+    "question": "What is the minimum age to open a Rekening Efek?",
+    "answer": "Not found in context",
+    "page": null,
+    "calibration_id": "AMB-MYTKPM-FP-011",
+    "calibration_type": "false_positive",
+    "calibration_purpose": "false_positive_prior",
+    "absent_reason": "The handbook lists the account-opening steps and documents without any age requirement.",
+    "topical_anchor": "securities account opening",
+    "attractor_chunk_ids": [
+      "f6afc711bc3ec2cbf0dca90b1915f9a6ada7bf29a572eb92ccdf6da8f4eb4707",
+      "47ae0c1e977c2760406d1e88bd81a2c39ee189ff207f09201a23e14eebd2d33f"
+    ],
+    "source_question_id": "ojk-a-020",
+    "answerability_audit": "manual full-document entity-attribute check"
+  },
+  {
+    "question": "Which insurance company offers the cheapest term-life premium in Indonesia?",
+    "answer": "Not found in context",
+    "page": null,
+    "calibration_id": "AMB-MYTKPM-FP-012",
+    "calibration_type": "false_positive",
+    "calibration_purpose": "false_positive_prior",
+    "absent_reason": "The handbook explains term-life features without naming companies or premium levels.",
+    "topical_anchor": "life insurance pricing",
+    "attractor_chunk_ids": [
+      "47ae0c1e977c2760406d1e88bd81a2c39ee189ff207f09201a23e14eebd2d33f",
+      "8e7871ab431ec19854fbc71fff9912c5d7e87a56927ba10caa2ca4e27e6f709b"
+    ],
+    "source_question_id": "ojk-a-096",
+    "answerability_audit": "manual full-document entity-attribute check"
+  },
+  {
+    "question": "What is the monthly premium for BPJS Kesehatan class 3?",
+    "answer": "Not found in context",
+    "page": null,
+    "calibration_id": "AMB-MYTKPM-FP-013",
+    "calibration_type": "false_positive",
+    "calibration_purpose": "false_positive_prior",
+    "absent_reason": "The handbook presents BPJS Kesehatan as a public health-insurance option without premium amounts.",
+    "topical_anchor": "health insurance costs",
+    "attractor_chunk_ids": [
+      "3c3dacc025076119269297b1a1dc950a3880ddbeffddc9c532c6d4963d68426d",
+      "4a408aec53416e10af4828615c0a26a65d962d654e15c51fe81b0ec847658c56"
+    ],
+    "source_question_id": "ojk-sem-013",
+    "answerability_audit": "manual full-document entity-attribute check"
+  },
+  {
+    "question": "What waiting period applies before health insurance covers childbirth?",
+    "answer": "Not found in context",
+    "page": null,
+    "calibration_id": "AMB-MYTKPM-FP-014",
+    "calibration_type": "false_positive",
+    "calibration_purpose": "false_positive_prior",
+    "absent_reason": "The handbook lists childbirth among covered health benefits without any waiting period.",
+    "topical_anchor": "health insurance coverage terms",
+    "attractor_chunk_ids": [
+      "861bec99ae093f0a0a8808ec83c06c7bbd3d71578e3bc7bdd6e60ef0bece242e",
+      "1c40bd86725ad82782eb715085aced96d6afebe96a1a489c60737392b3628efd"
+    ],
+    "source_question_id": "ojk-a-097",
+    "answerability_audit": "manual full-document entity-attribute check"
+  },
+  {
+    "question": "What is the maximum financing amount for a motorcycle under a multifinance Multiguna product?",
+    "answer": "Not found in context",
+    "page": null,
+    "calibration_id": "AMB-MYTKPM-FP-015",
+    "calibration_type": "false_positive",
+    "calibration_purpose": "false_positive_prior",
+    "absent_reason": "The handbook states the ceiling follows the agreement (page 94) without any amount.",
+    "topical_anchor": "multifinance limits",
+    "attractor_chunk_ids": [
+      "8e7871ab431ec19854fbc71fff9912c5d7e87a56927ba10caa2ca4e27e6f709b",
+      "3c3dacc025076119269297b1a1dc950a3880ddbeffddc9c532c6d4963d68426d"
+    ],
+    "source_question_id": "ojk-a-032",
+    "answerability_audit": "manual full-document entity-attribute check"
+  },
+  {
+    "question": "What down-payment percentage is required for motorcycle financing?",
+    "answer": "Not found in context",
+    "page": null,
+    "calibration_id": "AMB-MYTKPM-FP-016",
+    "calibration_type": "false_positive",
+    "calibration_purpose": "false_positive_prior",
+    "absent_reason": "The handbook describes installment financing without any down-payment requirement.",
+    "topical_anchor": "multifinance requirements",
+    "attractor_chunk_ids": [
+      "eaa660cf385085a75d319fb42eecbc21837d0cf6e0e2cd3902e428d166e70989",
+      "4a408aec53416e10af4828615c0a26a65d962d654e15c51fe81b0ec847658c56"
+    ],
+    "source_question_id": "ojk-a-036",
+    "answerability_audit": "manual full-document entity-attribute check"
+  },
+  {
+    "question": "How soon after retirement does a TASPEN pension payment begin?",
+    "answer": "Not found in context",
+    "page": null,
+    "calibration_id": "AMB-MYTKPM-FP-017",
+    "calibration_type": "false_positive",
+    "calibration_purpose": "false_positive_prior",
+    "absent_reason": "The handbook gives contribution rates and the minimum benefit level but no payment-start timing.",
+    "topical_anchor": "pension payments",
+    "attractor_chunk_ids": [
+      "d2bf4b5272b66aa266936c6b4599e43ed7242bc54f1ae31a549e2868e34f51d7",
+      "00e40ffb8ae1167cb1d458295db0e884e0310323551dbae5dd67cbb761057ecf"
+    ],
+    "source_question_id": "ojk-a-040",
+    "answerability_audit": "manual full-document entity-attribute check"
+  },
+  {
+    "question": "What is the minimum monthly contribution for a DPLK participant?",
+    "answer": "Not found in context",
+    "page": null,
+    "calibration_id": "AMB-MYTKPM-FP-018",
+    "calibration_type": "false_positive",
+    "calibration_purpose": "false_positive_prior",
+    "absent_reason": "The handbook says DPLK contributions follow agreement between the plan and the participant.",
+    "topical_anchor": "pension planning",
+    "attractor_chunk_ids": [
+      "110fa217d5242f6f19d89e02407c1f1103a2d26da11e4ffb149eda1d01ff5074",
+      "4b4e8386d5d602376f2c1372bf46a8055d7d69c5aa1f63801a44150cb6caff78"
+    ],
+    "source_question_id": "ojk-a-038",
+    "answerability_audit": "manual full-document entity-attribute check"
+  },
+  {
+    "question": "What is the maximum pawn loan amount for electronic goods?",
+    "answer": "Not found in context",
+    "page": null,
+    "calibration_id": "AMB-MYTKPM-FP-019",
+    "calibration_type": "false_positive",
+    "calibration_purpose": "false_positive_prior",
+    "absent_reason": "The handbook says pawn loan sizes follow the collateral appraisal without product-specific maximums.",
+    "topical_anchor": "pawn limits",
+    "attractor_chunk_ids": [
+      "3c3dacc025076119269297b1a1dc950a3880ddbeffddc9c532c6d4963d68426d",
+      "3cd99bdb66bb74256c4e57a5f3cbe7e3e33d813bf52fd975ece88adc768f0482"
+    ],
+    "source_question_id": "ojk-a-044",
+    "answerability_audit": "manual full-document entity-attribute check"
+  },
+  {
+    "question": "How long does PT Pegadaian store an unredeemed item before auctioning it?",
+    "answer": "Not found in context",
+    "page": null,
+    "calibration_id": "AMB-MYTKPM-FP-020",
+    "calibration_type": "false_positive",
+    "calibration_purpose": "false_positive_prior",
+    "absent_reason": "The handbook says overdue collateral will be auctioned without a storage duration before auction.",
+    "topical_anchor": "pawn auction process",
+    "attractor_chunk_ids": [
+      "5a294bfe6a9d0bd995c70c6a595aa5d7c983e8c7fcaa1324cf3e6be12141fff5",
+      "85473d10640a933ce1810c2b508850f17086e474638aa8335003e4970d8af535"
+    ],
+    "source_question_id": "ojk-a-045",
+    "answerability_audit": "manual full-document entity-attribute check"
+  },
+  {
+    "question": "What is the minimum credit score to qualify as a fintech lending borrower?",
+    "answer": "Not found in context",
+    "page": null,
+    "calibration_id": "AMB-MYTKPM-FP-021",
+    "calibration_type": "false_positive",
+    "calibration_purpose": "false_positive_prior",
+    "absent_reason": "The handbook contains no credit-score concept in its fintech lending description.",
+    "topical_anchor": "fintech borrower requirements",
+    "attractor_chunk_ids": [
+      "f6afc711bc3ec2cbf0dca90b1915f9a6ada7bf29a572eb92ccdf6da8f4eb4707",
+      "4b4e8386d5d602376f2c1372bf46a8055d7d69c5aa1f63801a44150cb6caff78"
+    ],
+    "source_question_id": "ojk-a-054",
+    "answerability_audit": "manual full-document entity-attribute check"
+  },
+  {
+    "question": "What is the maximum loan amount a first-time fintech borrower may request?",
+    "answer": "Not found in context",
+    "page": null,
+    "calibration_id": "AMB-MYTKPM-FP-022",
+    "calibration_type": "false_positive",
+    "calibration_purpose": "false_positive_prior",
+    "absent_reason": "The handbook describes borrower benefits and costs without any loan-size limit.",
+    "topical_anchor": "fintech borrower requirements",
+    "attractor_chunk_ids": [
+      "3cd99bdb66bb74256c4e57a5f3cbe7e3e33d813bf52fd975ece88adc768f0482",
+      "0acdcc86be119f01ec9080e7877383805570584848adbc630070324b297909b7"
+    ],
+    "source_question_id": "ojk-a-049",
+    "answerability_audit": "manual full-document entity-attribute check"
+  },
+  {
+    "question": "Which encryption standard does the handbook recommend for mobile banking?",
+    "answer": "Not found in context",
+    "page": null,
+    "calibration_id": "AMB-MYTKPM-FP-023",
+    "calibration_type": "false_positive",
+    "calibration_purpose": "false_positive_prior",
+    "absent_reason": "The handbook describes mobile banking as a channel without any security-technology detail.",
+    "topical_anchor": "digital banking security",
+    "attractor_chunk_ids": [
+      "08a57040aed28d4c8040ee21b2d06a975b40b70625598050379eb2eef37c215d",
+      "0ac876f5c5e6cf1fc9523ec7b43af764667c33100a10ebca5a075a263a0507fa"
+    ],
+    "source_question_id": "ojk-a-079",
+    "answerability_audit": "manual full-document entity-attribute check"
+  },
+  {
+    "question": "What tax deduction applies to employee contributions in a DPPK?",
+    "answer": "Not found in context",
+    "page": null,
+    "calibration_id": "AMB-MYTKPM-FP-024",
+    "calibration_type": "false_positive",
+    "calibration_purpose": "false_positive_prior",
+    "absent_reason": "The handbook discusses pension tax duties in general terms without any deduction rule.",
+    "topical_anchor": "pension taxation",
+    "attractor_chunk_ids": [
+      "6244f8da4d8ac04c147737c6aafa285531d3dec599ddb7538f6fa60ac0f29d17",
+      "34d37dc18b4dfea6ff72ab7c956aa75d7c0a7d17444667d9f2bf633d01c055b1"
+    ],
+    "source_question_id": "ojk-a-041",
+    "answerability_audit": "manual full-document entity-attribute check"
+  },
+  {
+    "question": "What is the minimum purchase for retail Sukuk such as SR or Sukuk Ritel?",
+    "answer": "Not found in context",
+    "page": null,
+    "calibration_id": "AMB-MYTKPM-FP-025",
+    "calibration_type": "false_positive",
+    "calibration_purpose": "false_positive_prior",
+    "absent_reason": "The handbook names ORI and Sukuk as bank-offered investments without purchase minimums.",
+    "topical_anchor": "government securities",
+    "attractor_chunk_ids": [
+      "f743ef3899e4ed1720eb3d34ff8081f1ba5e0a43d6ae878560a4d44791edf233",
+      "0fa4adecb69a112964535c594dfa14427916060ac1c648ddd3cbc9a7b4c443c9"
+    ],
+    "source_question_id": "ojk-a-075",
+    "answerability_audit": "manual full-document entity-attribute check"
+  },
+  {
+    "question": "What interest rate does the handbook quote for KUR loans?",
+    "answer": "Not found in context",
+    "page": null,
+    "calibration_id": "AMB-MYTKPM-FP-026",
+    "calibration_type": "false_positive",
+    "calibration_purpose": "false_positive_prior",
+    "absent_reason": "The handbook lists KUR Syariah among sharia financing products without any rate.",
+    "topical_anchor": "sharia financing products",
+    "attractor_chunk_ids": [
+      "eaa660cf385085a75d319fb42eecbc21837d0cf6e0e2cd3902e428d166e70989",
+      "f743ef3899e4ed1720eb3d34ff8081f1ba5e0a43d6ae878560a4d44791edf233"
+    ],
+    "source_question_id": "ojk-a-074",
+    "answerability_audit": "manual full-document entity-attribute check"
+  },
+  {
+    "question": "What is the minimum sum assured for a Term Life policy?",
+    "answer": "Not found in context",
+    "page": null,
+    "calibration_id": "AMB-MYTKPM-FP-027",
+    "calibration_type": "false_positive",
+    "calibration_purpose": "false_positive_prior",
+    "absent_reason": "The handbook describes term-life protection features without any minimum coverage amount.",
+    "topical_anchor": "life insurance policy terms",
+    "attractor_chunk_ids": [
+      "47ae0c1e977c2760406d1e88bd81a2c39ee189ff207f09201a23e14eebd2d33f",
+      "d18c80d74111440fdb87998754f83d273ab63fa175b0cdd76d566a271a44f654"
+    ],
+    "source_question_id": "ojk-a-096",
+    "answerability_audit": "manual full-document entity-attribute check"
+  },
+  {
+    "question": "Which OJK directorate handles pawn company licensing?",
+    "answer": "Not found in context",
+    "page": null,
+    "calibration_id": "AMB-MYTKPM-FP-028",
+    "calibration_type": "false_positive",
+    "calibration_purpose": "false_positive_prior",
+    "absent_reason": "The handbook assigns pawn oversight to OJK generally without naming a directorate.",
+    "topical_anchor": "pawn regulation",
+    "attractor_chunk_ids": [
+      "1ebd38e64a0bf0b2862b3dd50617209870311f50a49078225ab5f4b2b3a8aee2",
+      "4b40afccd516e3ff884a4a82aef45f2312493f6041e971b4cb014520dec02fa0"
+    ],
+    "source_question_id": "ojk-a-099",
+    "answerability_audit": "manual full-document entity-attribute check"
+  },
+  {
+    "question": "What is the fee for an online inter-bank transfer between different banks?",
+    "answer": "Not found in context",
+    "page": null,
+    "calibration_id": "AMB-MYTKPM-FP-029",
+    "calibration_type": "false_positive",
+    "calibration_purpose": "false_positive_prior",
+    "absent_reason": "The handbook categorizes transfer services without quoting any fee amounts.",
+    "topical_anchor": "bank transfer services",
+    "attractor_chunk_ids": [
+      "eaa660cf385085a75d319fb42eecbc21837d0cf6e0e2cd3902e428d166e70989",
+      "3c3dacc025076119269297b1a1dc950a3880ddbeffddc9c532c6d4963d68426d"
+    ],
+    "source_question_id": "ojk-a-076",
+    "answerability_audit": "manual full-document entity-attribute check"
+  },
+  {
+    "question": "What is the minimum salary required to join BPJS Ketenagakerjaan?",
+    "answer": "Not found in context",
+    "page": null,
+    "calibration_id": "AMB-MYTKPM-FP-030",
+    "calibration_type": "false_positive",
+    "calibration_purpose": "false_positive_prior",
+    "absent_reason": "The handbook gives contribution rates and bounds without any salary eligibility threshold.",
+    "topical_anchor": "employment-based social security",
+    "attractor_chunk_ids": [
+      "f6afc711bc3ec2cbf0dca90b1915f9a6ada7bf29a572eb92ccdf6da8f4eb4707",
+      "4b4e8386d5d602376f2c1372bf46a8055d7d69c5aa1f63801a44150cb6caff78"
+    ],
+    "source_question_id": "ojk-a-040",
+    "answerability_audit": "manual full-document entity-attribute check"
+  }
+]

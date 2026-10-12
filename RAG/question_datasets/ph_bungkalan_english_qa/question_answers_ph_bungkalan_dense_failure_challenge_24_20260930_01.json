@@ -1,0 +1,955 @@
+[
+  {
+    "question": "Why was Hacienda Luisita, Inc. created shortly after the agrarian reform law was passed?",
+    "answer": "TADECO created it in August 1988 to implement the Stock Distribution Option at Hacienda Luisita.",
+    "page": 26,
+    "question_id": "phbg-a-010",
+    "reference_answer": "TADECO created it in August 1988 to implement the Stock Distribution Option at Hacienda Luisita.",
+    "answerability": "answerable",
+    "gold_chunk_ids": [
+      "9501aef9fa4b181b7a1ff1e6e8441677f76d7255187f351ed6bb0491abe41a76",
+      "dcdc580348c245604aea5d474cf238824b9e7385f4d23cfcce9872ca6eef6742",
+      "cc784097d780eb4eaff1715d5f89e270beea760a016c489bd15d79e5ba0db668"
+    ],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [],
+    "supporting_quote_id": "Dalawang buwan matapos isabatas ang Comprehensive Agrarian Reform Program o CARP ni Cory, itinatag ng mga Cojuangco-Aquino sa pamamagitan ng TADECO ang Hacienda Luisita, Inc. o HLI noong Agosto 1988 upang ipatupad ang iskemang Stock Distribution Option o SDO.\n\nHalos kaalinsabay na itinatag ng mga manggagawang-bukid ang alyansang AMBALUS, ang organisasyon bago naitayo ang kasalukuyang Alyansa ng mga Manggagawang-Bukid sa Asyenda Luisita o AMBALA.\n## COMPREHENSIVE AGRARIAN REFORM PROGRAM (CARP) AT STOCK DISTRIBUTION OPTION (SDO)",
+    "absent_reason": null,
+    "source_section": "Hacienda Luisita sa Ilalim ni Cory / 1986",
+    "source_page_verified": 26,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "dense_failure_challenge",
+    "selection_basis": "original_100x100_plus_docling_page_provenance",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "page_provenance_mapped",
+      "mapping_method": "docling_page_to_frozen_chroma_chunk",
+      "manual_semantic_review_required_before_final_selection": true
+    },
+    "gold_refinement": {
+      "method": "page_window_first_numbers_then_bge_disambiguation_v4",
+      "bge_use_scope": "annotation_only_within_human_page_windows_not_retrieval_screening",
+      "top_chunk_order": 67,
+      "top_num_hits": 1,
+      "answer_number_count": 1,
+      "previous_first_gold_kept": false
+    },
+    "dense_screening_tier": "A",
+    "dense_failure_count": 3,
+    "dense_correct_by_k": {
+      "1": false,
+      "3": false,
+      "5": false
+    },
+    "gold_best_rank": 2,
+    "wrong_or_attractor_best_rank": null,
+    "ambical_used_during_screening": false,
+    "dense_screening_status": "selected"
+  },
+  {
+    "question": "Why did land rental, or aryendo, spread after the lottery-based land allocation?",
+    "answer": "Many beneficiaries received plots too far from where they lived, while government support was lacking and disqualification threats pushed some toward renting or illegally selling their plots.",
+    "page": 35,
+    "question_id": "phbg-a-021",
+    "reference_answer": "Many beneficiaries received plots too far from where they lived, while government support was lacking and disqualification threats pushed some toward renting or illegally selling their plots.",
+    "answerability": "answerable",
+    "gold_chunk_ids": [
+      "6b47e361a2ecec59da9a7f70241e288c29347aefcc7974c080cfe21eea23577d",
+      "ee499b067ba4c533a946d066fd6a7f21fbe1d15140942aba5735194fd7a4ba54",
+      "0dcde9e85ccf981426b6870c99e8cbb307aaf66e12936188b2483aefcf5bdcd0"
+    ],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [],
+    "supporting_quote_id": "Sa halip na kilalanin ang inisyatiba sa bungkalan, pinaikot ang mga magbubukid sa sistemang tambiyolo. Dahil ginawang palabunutan ang sistema ng alokasyon ng lupa, maraming magsasaka ang binigyan ng lote na iba pa sa mismong lote na kanila nang binubungkal mula 2004 o 2005. Kung hindi naman ay napakalayo ng lote mula sa kanilang tirahan o barangay.  Pati ang mga mag-asawa at magkakaanak ay binigyan ng magkakahiwalay na alokasyon ng lote.\n\nMarahas na sinupil ang sinumang magtanong at tumutol. Tinambakan ng pulis at sundalo ang mga barangay. Muling nabuhay ang mga kompanya at kasosyo ng mga Cojuangco-Aquino gaya ng TADECO, LRC, at RCBC na nagpalayas sa mga magsasakang naglilinang ng lupa.",
+    "absent_reason": null,
+    "source_section": "Hacienda Luisita sa Ilalim ni Noynoy Aquino",
+    "source_page_verified": 35,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "dense_failure_challenge",
+    "selection_basis": "original_100x100_plus_docling_page_provenance",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "page_provenance_mapped",
+      "mapping_method": "docling_page_to_frozen_chroma_chunk",
+      "manual_semantic_review_required_before_final_selection": true
+    },
+    "gold_refinement": {
+      "method": "page_window_first_numbers_then_bge_disambiguation_v4",
+      "bge_use_scope": "annotation_only_within_human_page_windows_not_retrieval_screening",
+      "top_chunk_order": 91,
+      "top_num_hits": 0,
+      "answer_number_count": 0,
+      "previous_first_gold_kept": false
+    },
+    "dense_screening_tier": "A",
+    "dense_failure_count": 3,
+    "dense_correct_by_k": {
+      "1": false,
+      "3": false,
+      "5": false
+    },
+    "gold_best_rank": 7,
+    "wrong_or_attractor_best_rank": null,
+    "ambical_used_during_screening": false,
+    "dense_screening_status": "selected"
+  },
+  {
+    "question": "What does the manual mean by 'bungkalan'?",
+    "answer": "It is the organized occupation and cultivation of land controlled by landlords or large companies, primarily to produce food while asserting farmers' land rights.",
+    "page": 40,
+    "question_id": "phbg-a-022",
+    "reference_answer": "It is the organized occupation and cultivation of land controlled by landlords or large companies, primarily to produce food while asserting farmers' land rights.",
+    "answerability": "answerable",
+    "gold_chunk_ids": [
+      "774526471de08b96fc722bbae016830ad210a56c9f0038ab979d617b533e76b3",
+      "a8ed3ab0f3249542806a2228f5c8d21a17ba71e3a31dfc1ba2568e042e5a8e09",
+      "f677b346bf85dd70fad15a7d16f5355f41367d19edb0026936be41054af2c3a2"
+    ],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [],
+    "supporting_quote_id": "Ang bungkalan  ay tumutugon  sa bahagi ng  kabuhayan ng mga magbubukid habang isinusulong nila ang masalimuot na pakikibaka para sa karapatan sa lupa. Kilusang masa ang nagtataguyod sa sama-samang bungkalan at pagpapaunlad sa produksiyon.  Ang mga ito ay integral na bahagi ng tuloy-tuloy na pagsusulong ng pakikibaka para sa pambansang demokrasya --  para  sa  tunay  na  reporma  sa  lupa,  hustisyang  panlipunan,    at  pambansang    industriyalisasyon.    Ang bungkalan  ay isang militanteng paraan ng paggigiit sa karapatan sa lupa ayon sa prinsipyo ng 'lupa para sa nagbubungkal.'",
+    "absent_reason": null,
+    "source_section": "Ano ang bungkalan?",
+    "source_page_verified": 40,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "dense_failure_challenge",
+    "selection_basis": "original_100x100_plus_docling_page_provenance",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "page_provenance_mapped",
+      "mapping_method": "docling_page_to_frozen_chroma_chunk",
+      "manual_semantic_review_required_before_final_selection": true
+    },
+    "gold_refinement": {
+      "method": "page_window_first_numbers_then_bge_disambiguation_v4",
+      "bge_use_scope": "annotation_only_within_human_page_windows_not_retrieval_screening",
+      "top_chunk_order": 102,
+      "top_num_hits": 0,
+      "answer_number_count": 0,
+      "previous_first_gold_kept": true
+    },
+    "dense_screening_tier": "A",
+    "dense_failure_count": 3,
+    "dense_correct_by_k": {
+      "1": false,
+      "3": false,
+      "5": false
+    },
+    "gold_best_rank": 6,
+    "wrong_or_attractor_best_rank": null,
+    "ambical_used_during_screening": false,
+    "dense_screening_status": "selected"
+  },
+  {
+    "question": "Besides technical knowledge, what conditions does the manual say are needed for organic farming to expand?",
+    "answer": "Strong farmer organization and collective action, control over land, seed and irrigation, preservation of traditional varieties, and suitable machinery, irrigation, and alternative energy are needed.",
+    "page": 63,
+    "question_id": "phbg-a-037",
+    "reference_answer": "Strong farmer organization and collective action, control over land, seed and irrigation, preservation of traditional varieties, and suitable machinery, irrigation, and alternative energy are needed.",
+    "answerability": "answerable",
+    "gold_chunk_ids": [
+      "ce512435568e51281cc8361354b7b33cc9794c936fc644f7aba3294e816ab49a",
+      "837009ded8717ee27d83ed0a07be7cb9545f55e06e12a02d8f383a57ac12fc52",
+      "4e21ad05e034b235f54b9dd1fe243b0477ea15ead970631595eb91edb140d91a"
+    ],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [],
+    "supporting_quote_id": "Sari-sari, integrado, at organikong sistema ng pagsasaka (diversified, integrated, organic farming system o DIOFS).  Ito ang pag-aalaga ng iba't ibang pananim at hayop sa loob ng isang organikong sakahan. Dito, ang mga pananim, hayop, at ang buong kalikasan ay nagtutulungan. Inaalagaan at binubuhay ng sistemang ito ang mga sustansiya sa lupa na siyang pagkain ng mga pananim. Ang ganitong paraan ng pagsasaka ay may batayang siyentipiko at tumatalima sa batas ng kalikasan.",
+    "absent_reason": null,
+    "source_section": "III Ang Organiko at Likas-Kayang Pagsasaka",
+    "source_page_verified": 63,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "dense_failure_challenge",
+    "selection_basis": "original_100x100_plus_docling_page_provenance",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "page_provenance_mapped",
+      "mapping_method": "docling_page_to_frozen_chroma_chunk",
+      "manual_semantic_review_required_before_final_selection": true
+    },
+    "gold_refinement": {
+      "method": "page_window_first_numbers_then_bge_disambiguation_v4",
+      "bge_use_scope": "annotation_only_within_human_page_windows_not_retrieval_screening",
+      "top_chunk_order": 181,
+      "top_num_hits": 0,
+      "answer_number_count": 0,
+      "previous_first_gold_kept": true
+    },
+    "dense_screening_tier": "A",
+    "dense_failure_count": 3,
+    "dense_correct_by_k": {
+      "1": false,
+      "3": false,
+      "5": false
+    },
+    "gold_best_rank": 14,
+    "wrong_or_attractor_best_rank": null,
+    "ambical_used_during_screening": false,
+    "dense_screening_status": "selected"
+  },
+  {
+    "question": "What financial burden does the manual associate with commercial seed and chemical-input farming?",
+    "answer": "It cites loans of about Php 35,000 to Php 40,000 per hectare, often with 20 percent interest, and in some cases repayment of one sack of rice for every Php 1,000 borrowed.",
+    "page": 66,
+    "question_id": "phbg-a-039",
+    "reference_answer": "It cites loans of about Php 35,000 to Php 40,000 per hectare, often with 20 percent interest, and in some cases repayment of one sack of rice for every Php 1,000 borrowed.",
+    "answerability": "answerable",
+    "gold_chunk_ids": [
+      "f97fb2a9c3f906485035273f14db3d0b0695d4cdb768c3ee2dd4a57d39eb0acb",
+      "c6ab4bfb0e30a831b1148d6a8550e64a05551e73c5a65d35d64f8d77106f08a3",
+      "7e556f4b42e9a1dfe9b0f6b7c07b853912d02a8db332894435cd0ae828560416"
+    ],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [],
+    "supporting_quote_id": "Magastos at nakasandig sa mga komersiyanteng usura.  Binabaon nito sa utang ang magsasaka. Kada cropping, nasa Php 35,000 - 40,000 ang inuutang ng magsasaka para sa kada ektarya. Binabayaran ito sa napakataas na interes. Bumababa rin ang presyo ng produkto ng magsasaka dahil sa kanilang obligasyon sa usurero. Nasa 20% (5-6) ang karaniwang interes. Mayroon ding nagbabayad ng  1 sako ng palay sa bawat Php 1,000 utang.\n## Permakultura\n\n## Monokultura",
+    "absent_reason": null,
+    "source_section": "Permakultura / Monokultura",
+    "source_page_verified": 66,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "dense_failure_challenge",
+    "selection_basis": "original_100x100_plus_docling_page_provenance",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "page_provenance_mapped",
+      "mapping_method": "docling_page_to_frozen_chroma_chunk",
+      "manual_semantic_review_required_before_final_selection": true
+    },
+    "gold_refinement": {
+      "method": "page_window_first_numbers_then_bge_disambiguation_v4",
+      "bge_use_scope": "annotation_only_within_human_page_windows_not_retrieval_screening",
+      "top_chunk_order": 189,
+      "top_num_hits": 4,
+      "answer_number_count": 4,
+      "previous_first_gold_kept": false
+    },
+    "dense_screening_tier": "A",
+    "dense_failure_count": 3,
+    "dense_correct_by_k": {
+      "1": false,
+      "3": false,
+      "5": false
+    },
+    "gold_best_rank": 5,
+    "wrong_or_attractor_best_rank": null,
+    "ambical_used_during_screening": false,
+    "dense_screening_status": "selected"
+  },
+  {
+    "question": "How does the manual classify acidic, neutral, and alkaline soil on the pH scale?",
+    "answer": "It classifies pH 1 to 6.5 as acidic, pH 7 as neutral, and pH 8 to 11 as alkaline.",
+    "page": 77,
+    "question_id": "phbg-a-048",
+    "reference_answer": "It classifies pH 1 to 6.5 as acidic, pH 7 as neutral, and pH 8 to 11 as alkaline.",
+    "answerability": "answerable",
+    "gold_chunk_ids": [
+      "eecc2a8c473c87e9b6f07347fc2e8fd3c395f793c3712768ec0498c7f7064fb4",
+      "b301250e04c2c3ad0a4f684c7d91b19df262f06fa0c4989a7b5f1218783c08b4",
+      "b79044be3f4b297d67a5af12cf8a187314c53afebd46ad8a11cec35c5ae0d031"
+    ],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [],
+    "supporting_quote_id": "| 1                                                                                                                                                                                                                                                                                                                                                                                   | 2 3 ACIDIC KATAMTAMAN MAALAT                                                                                                                                                                                                                                                                                                                                                        | 4 pH 1 - 6.5 pH 7 pH 8 - 11                       ",
+    "absent_reason": null,
+    "source_section": "Katangian ng Lupa",
+    "source_page_verified": 77,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "dense_failure_challenge",
+    "selection_basis": "original_100x100_plus_docling_page_provenance",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "page_provenance_mapped",
+      "mapping_method": "docling_page_to_frozen_chroma_chunk",
+      "manual_semantic_review_required_before_final_selection": true
+    },
+    "gold_refinement": {
+      "method": "page_window_first_numbers_then_bge_disambiguation_v4",
+      "bge_use_scope": "annotation_only_within_human_page_windows_not_retrieval_screening",
+      "top_chunk_order": 226,
+      "top_num_hits": 5,
+      "answer_number_count": 5,
+      "previous_first_gold_kept": false
+    },
+    "dense_screening_tier": "A",
+    "dense_failure_count": 3,
+    "dense_correct_by_k": {
+      "1": false,
+      "3": false,
+      "5": false
+    },
+    "gold_best_rank": 8,
+    "wrong_or_attractor_best_rank": null,
+    "ambical_used_during_screening": false,
+    "dense_screening_status": "selected"
+  },
+  {
+    "question": "What physical, chemical, and biological improvements does organic fertilizer bring to soil?",
+    "answer": "It darkens and loosens the soil, improves aeration, rooting and water movement; increases immediately available minerals; and multiplies organisms that drive decomposition, nutrient formation, and biological nitrogen fixation.",
+    "page": 100,
+    "question_id": "phbg-a-071",
+    "reference_answer": "It darkens and loosens the soil, improves aeration, rooting and water movement; increases immediately available minerals; and multiplies organisms that drive decomposition, nutrient formation, and biological nitrogen fixation.",
+    "answerability": "answerable",
+    "gold_chunk_ids": [
+      "643a471048e355835851876558969567d5461bb4fd70e8ced3778e121ed2d2eb",
+      "fa52407cafaaf42ad4be13e06f3eb8a91d6a6558b0390718377e983b03045c81",
+      "8760682ccb18743013441e11749af17f5d25d201a9048d334b9a52a6a7763ab3"
+    ],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [],
+    "supporting_quote_id": "· Pagpaparami ng iba't ibang organismo na nabubuhay sa lupa gaya ng uod, nematodes, protozoa, mikrobyo o bakterya na tumutulong sa pagpapataba ng lupa at pagpapayabong ng mga halaman. Ang mga mikrobyo ay may mahalagang papel sa paggawa ng sustansiya sa lupa gaya ng ammonification, denitrification, at biyolohikal na paghahanda ng nitrohino (biological nitrogen fixation).\n## Komposting\n\nKung isasapraktika ang organiko at likas-kayang pagsasaka sa konteksto ng kampanyang bungkalan, dapat tiyakin na ang mga magsasaka ay magkakaroon ng tuloytuloy na mapagkukunan ng organikong abono. Kung hindi, napakadali para sa mga magsasaka na muling bumaling sa agrokemikal na pagsasaka dahil ito pa rin ang laganap na kalakaran sa kanayunan.",
+    "absent_reason": null,
+    "source_section": "Kemikal / Biyolohikal",
+    "source_page_verified": 100,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "dense_failure_challenge",
+    "selection_basis": "original_100x100_plus_docling_page_provenance",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "page_provenance_mapped",
+      "mapping_method": "docling_page_to_frozen_chroma_chunk",
+      "manual_semantic_review_required_before_final_selection": true
+    },
+    "gold_refinement": {
+      "method": "page_window_first_numbers_then_bge_disambiguation_v4",
+      "bge_use_scope": "annotation_only_within_human_page_windows_not_retrieval_screening",
+      "top_chunk_order": 304,
+      "top_num_hits": 0,
+      "answer_number_count": 0,
+      "previous_first_gold_kept": false
+    },
+    "dense_screening_tier": "A",
+    "dense_failure_count": 3,
+    "dense_correct_by_k": {
+      "1": false,
+      "3": false,
+      "5": false
+    },
+    "gold_best_rank": 10,
+    "wrong_or_attractor_best_rank": null,
+    "ambical_used_during_screening": false,
+    "dense_screening_status": "selected"
+  },
+  {
+    "question": "Who was assigned to produce and distribute fertilizer and pest-control juices at Hacienda Luisita?",
+    "answer": "Groups of women farmers were assigned to the work.",
+    "page": 102,
+    "question_id": "phbg-a-073",
+    "reference_answer": "Groups of women farmers were assigned to the work.",
+    "answerability": "answerable",
+    "gold_chunk_ids": [
+      "54530f36e3d63ea454bbbc3200612719633d65403a06874f13bc60ebf6618a03",
+      "8760682ccb18743013441e11749af17f5d25d201a9048d334b9a52a6a7763ab3",
+      "e16207a90e19259d48147dd0836c09b4e64a5959ec440213c5fc4c3c05682eba"
+    ],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [],
+    "supporting_quote_id": "Sa Hacienda Luisita, halimbawa, iniatas sa mga grupo ng kababaihan ang produksiyon at distribusyon ng mga fertilizer at pest control juices.\n\n## Pagpapalit-palit ng pananim (Crop Rotation)\n\nAng  pagpapalit-palit  ng  mga  tanim o  crop  rotation  sa iisang lugar ay ginagawa upang mapanatiling mataba ang lupa dulot ng mga pananim na mayaman sa sustansiyang kailangan nito.  Nagdudulot ang ganitong proseso ng iba't ibang sustansiya sa lupa o nutrient cycling.",
+    "absent_reason": null,
+    "source_section": "Paggamit ng mga Binurong Katas Pang-Abono at Pangkontrol sa Peste",
+    "source_page_verified": 102,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "dense_failure_challenge",
+    "selection_basis": "original_100x100_plus_docling_page_provenance",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "page_provenance_mapped",
+      "mapping_method": "docling_page_to_frozen_chroma_chunk",
+      "manual_semantic_review_required_before_final_selection": true
+    },
+    "gold_refinement": {
+      "method": "page_window_first_numbers_then_bge_disambiguation_v4",
+      "bge_use_scope": "annotation_only_within_human_page_windows_not_retrieval_screening",
+      "top_chunk_order": 310,
+      "top_num_hits": 0,
+      "answer_number_count": 0,
+      "previous_first_gold_kept": true
+    },
+    "dense_screening_tier": "A",
+    "dense_failure_count": 3,
+    "dense_correct_by_k": {
+      "1": false,
+      "3": false,
+      "5": false
+    },
+    "gold_best_rank": 11,
+    "wrong_or_attractor_best_rank": null,
+    "ambical_used_during_screening": false,
+    "dense_screening_status": "selected"
+  },
+  {
+    "question": "How can a pig pen be designed as part of a low-waste organic farm?",
+    "answer": "Manure and urine can fall directly into sawdust, straw, and grass to become compost; IMO sprays control odor, nearby legumes provide feed, and the manure may also supply a biogas system.",
+    "page": 110,
+    "question_id": "phbg-a-083",
+    "reference_answer": "Manure and urine can fall directly into sawdust, straw, and grass to become compost; IMO sprays control odor, nearby legumes provide feed, and the manure may also supply a biogas system.",
+    "answerability": "answerable",
+    "gold_chunk_ids": [
+      "bb4fb07af1dbef3bb8998df549556f1f0b4574b6a4e6e9c740c5c02498b770b7",
+      "260c5ea9024b4eb7ef1d25a31a895f896ea545e9a75e569713c212ccb3b36004",
+      "8fb1cd9e5357c6b9917b414230a285fca7e391c55c4e4df03e8dcbaf7379633e"
+    ],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [],
+    "supporting_quote_id": "Ang  pag-iimpok  ng  mga  binhi  o  seed  banking  ay maaari  lamang  gawin  kung  organiko  ang  ating  paraan. Karaniwang terminator seeds ang mga HYV o may pangisahang  gamit  lang  na  nakaprograma  o  dependiyente  sa mga agrokemikal.\n\nAng mga magsasaka ng Hacienda Luisita ay nakapag-impok ng mga binhi ng organikong pipino, patola, kalabasa at iba pang gulay\nMga organikong binhi sa bungkalan ng Hacienda Luisita\n## Sistema ng Pagpapalago ng Palay o 'Sipag-Palay' (System of Rice Intensification or SRI)",
+    "absent_reason": null,
+    "source_section": "Integradong Paghahayupan (Animal or Livestock Integration)",
+    "source_page_verified": 110,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "dense_failure_challenge",
+    "selection_basis": "original_100x100_plus_docling_page_provenance",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "page_provenance_mapped",
+      "mapping_method": "docling_page_to_frozen_chroma_chunk",
+      "manual_semantic_review_required_before_final_selection": true
+    },
+    "gold_refinement": {
+      "method": "page_window_first_numbers_then_bge_disambiguation_v4",
+      "bge_use_scope": "annotation_only_within_human_page_windows_not_retrieval_screening",
+      "top_chunk_order": 333,
+      "top_num_hits": 0,
+      "answer_number_count": 0,
+      "previous_first_gold_kept": true
+    },
+    "dense_screening_tier": "A",
+    "dense_failure_count": 3,
+    "dense_correct_by_k": {
+      "1": false,
+      "3": false,
+      "5": false
+    },
+    "gold_best_rank": 9,
+    "wrong_or_attractor_best_rank": null,
+    "ambical_used_during_screening": false,
+    "dense_screening_status": "selected"
+  },
+  {
+    "question": "What flooding, drying, and weeding cycle is recommended after SRI seedlings are transplanted?",
+    "answer": "Irrigate after 7 to 10 days, flood for 2 to 3 days, then dry for 5 to 7 days and repeat. Weed after 7 to 10 days and again every 7 to 10 days, ideally three or four times before the leaves close.",
+    "page": 119,
+    "question_id": "phbg-a-094",
+    "reference_answer": "Irrigate after 7 to 10 days, flood for 2 to 3 days, then dry for 5 to 7 days and repeat. Weed after 7 to 10 days and again every 7 to 10 days, ideally three or four times before the leaves close.",
+    "answerability": "answerable",
+    "gold_chunk_ids": [
+      "efdfccc67aa3adf0c2d8d3b7971ce1da3c488ad85d8b45ae414a6b838f5193e6",
+      "6f4c74fe84b37dfc71230bfd5b098d8effe83e42ba6f5e596b48407faf6f3342",
+      "2ad3ff0429f2ccaaa529a5f6f2b0a2de2ead95b6685e7e30c1e830526a4e5a3c"
+    ],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [],
+    "supporting_quote_id": "-  Huwag  ibabad  ang  palay  sa  tubig  nang  tuloy-tuloy. Patuyuin din ang lupa sa tuwina. Magpatubig sa bukid mga 7-10 araw matapos ilipat ang punla. Bahain ito sa loob ng 2-3 araw. Pagkatapos ay patuyuin naman ang lupa sa loob ng 5-7 araw. Pagkatapos ay bahain ulit. Gawin ang salitsalitang  pagbabaha  at  pagtutuyo  ng  palayan  o  alternate wetting and drying.\n-  Tanggalin  ang  damo  7-10  araw  pagkatapos  ilipat  ang punla  at  sa  tuwing  7-10  araw  pagkatapos.  Mas  gaganda ang  ani  kung  nakakatatlo  o  apat  na  pagtatanggal  ng damo  bago  magsara  ang  mga  dahon.  Nabubungkal  ang lupa at nakakahinga nang mas mabuti ang mga ugat. Ang pagbubunot ng damo ay maaaring gawin sa paraang manomano o sa paggamit ng mekanikal na pandamo o rotary weeder.",
+    "absent_reason": null,
+    "source_section": "Pangangalaga sa Palayan",
+    "source_page_verified": 119,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "dense_failure_challenge",
+    "selection_basis": "original_100x100_plus_docling_page_provenance",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "page_provenance_mapped",
+      "mapping_method": "docling_page_to_frozen_chroma_chunk",
+      "manual_semantic_review_required_before_final_selection": true
+    },
+    "gold_refinement": {
+      "method": "page_window_first_numbers_then_bge_disambiguation_v4",
+      "bge_use_scope": "annotation_only_within_human_page_windows_not_retrieval_screening",
+      "top_chunk_order": 359,
+      "top_num_hits": 10,
+      "answer_number_count": 10,
+      "previous_first_gold_kept": false
+    },
+    "dense_screening_tier": "A",
+    "dense_failure_count": 3,
+    "dense_correct_by_k": {
+      "1": false,
+      "3": false,
+      "5": false
+    },
+    "gold_best_rank": 28,
+    "wrong_or_attractor_best_rank": null,
+    "ambical_used_during_screening": false,
+    "dense_screening_status": "selected"
+  },
+  {
+    "question": "How does the manual combine water control, trapping, and biological control against rice-field snails?",
+    "answer": "It delays flooding, leaves the water outlet open, channels snails into a screened perimeter canal, spreads rice hull or carbonized rice hull after irrigation, and may introduce ducks to eat snails, weeds, and insects.",
+    "page": 120,
+    "question_id": "phbg-a-095",
+    "reference_answer": "It delays flooding, leaves the water outlet open, channels snails into a screened perimeter canal, spreads rice hull or carbonized rice hull after irrigation, and may introduce ducks to eat snails, weeds, and insects.",
+    "answerability": "answerable",
+    "gold_chunk_ids": [
+      "0bb778ea5f3ea78f55e2c1d38a9e30370a24e5fda603350c519b4c521e24e573",
+      "7099dfff9c77bad7f77c5e1011466ed62b4c9d506713af510debcdf278270f6c",
+      "1dc8a9d1002845ba918d0995eacdff2a80aa2721f6fcee76f81a9a91125e2539"
+    ],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [],
+    "supporting_quote_id": "- Pagkontrol sa kuhol: Kung  mataas ang tubig, hindi lalabas ang kuhol. Pagkalipat ng tanim, huwag agad papasukin ang tubig.  Iwanan  munang  bukas  ang  lagusan  nito.  Gumawa ng kanal sa paligid ng pitak, lagyan ng iskrin o manipis na lambat upang dito maipon ang kuhol.",
+    "absent_reason": null,
+    "source_section": "Pangangalaga sa Palayan",
+    "source_page_verified": 120,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "dense_failure_challenge",
+    "selection_basis": "original_100x100_plus_docling_page_provenance",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "page_provenance_mapped",
+      "mapping_method": "docling_page_to_frozen_chroma_chunk",
+      "manual_semantic_review_required_before_final_selection": true
+    },
+    "gold_refinement": {
+      "method": "page_window_first_numbers_then_bge_disambiguation_v4",
+      "bge_use_scope": "annotation_only_within_human_page_windows_not_retrieval_screening",
+      "top_chunk_order": 362,
+      "top_num_hits": 0,
+      "answer_number_count": 0,
+      "previous_first_gold_kept": true
+    },
+    "dense_screening_tier": "A",
+    "dense_failure_count": 3,
+    "dense_correct_by_k": {
+      "1": false,
+      "3": false,
+      "5": false
+    },
+    "gold_best_rank": 4,
+    "wrong_or_attractor_best_rank": null,
+    "ambical_used_during_screening": false,
+    "dense_screening_status": "selected"
+  },
+  {
+    "question_id": "phbg-df-u3-006",
+    "question": "How many sacks per hectare did conventional rice farming yield before SRI was introduced?",
+    "answer": "Not found in context",
+    "reference_answer": "Not found in context",
+    "page": 100,
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "96359c7d4ca1fbbbe3cbbe90c0d8d4649aca9171ea22cfe1e66f2267ce289524"
+    ],
+    "absent_reason": "The manual cites SRI yields of 52 to 144 kaban and the 448-kaban record, but no conventional baseline yield is stated.",
+    "challenge_partition": "dense_failure_challenge",
+    "batch": 3,
+    "formal_result_used_during_selection": false,
+    "answerability": "unanswerable",
+    "dense_screening_tier": "A",
+    "dense_failure_count": 3,
+    "dense_correct_by_k": {
+      "1": false,
+      "3": false,
+      "5": false
+    },
+    "gold_best_rank": null,
+    "wrong_or_attractor_best_rank": 1,
+    "ambical_used_during_screening": false,
+    "dense_screening_status": "selected"
+  },
+  {
+    "question_id": "phbg-df-u3-007",
+    "question": "How many hectares of sugar land did CARP actually cover in Hacienda Luisita?",
+    "answer": "Not found in context",
+    "reference_answer": "Not found in context",
+    "page": 18,
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "dcdc580348c245604aea5d474cf238824b9e7385f4d23cfcce9872ca6eef6742",
+      "9501aef9fa4b181b7a1ff1e6e8441677f76d7255187f351ed6bb0491abe41a76"
+    ],
+    "absent_reason": "CARP's law and the SDO scheme are described, but no covered-hectare figure for the hacienda is stated.",
+    "challenge_partition": "dense_failure_challenge",
+    "batch": 3,
+    "formal_result_used_during_selection": false,
+    "answerability": "unanswerable",
+    "dense_screening_tier": "A",
+    "dense_failure_count": 3,
+    "dense_correct_by_k": {
+      "1": false,
+      "3": false,
+      "5": false
+    },
+    "gold_best_rank": null,
+    "wrong_or_attractor_best_rank": 2,
+    "ambical_used_during_screening": false,
+    "dense_screening_status": "selected"
+  },
+  {
+    "question_id": "phbg-df-u4-007",
+    "question": "How many square metres is the SRI seedbed at the Learning Farm?",
+    "answer": "Not found in context",
+    "reference_answer": "Not found in context",
+    "page": 124,
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "a2b3676be7c9ce9c4ac16e5f80dd4c0a4ab11310760c7fc2fc81512adc3e1d5d"
+    ],
+    "absent_reason": "The experimental paddy measures about 2,000 square metres; the seedbed area itself is not stated.",
+    "challenge_partition": "dense_failure_challenge",
+    "batch": 4,
+    "formal_result_used_during_selection": false,
+    "answerability": "unanswerable",
+    "dense_screening_tier": "B",
+    "dense_failure_count": 2,
+    "dense_correct_by_k": {
+      "1": true,
+      "3": false,
+      "5": false
+    },
+    "gold_best_rank": null,
+    "wrong_or_attractor_best_rank": 2,
+    "ambical_used_during_screening": false,
+    "dense_screening_status": "selected"
+  },
+  {
+    "question_id": "phbg-df-u4-011",
+    "question": "How many sacks of bokashi did one production cycle at the bungkalan actually make?",
+    "answer": "Not found in context",
+    "reference_answer": "Not found in context",
+    "page": 72,
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "ce958c2c65186c376fe53bcbbe8828a851fb8b1fa5a2994453b5282a7c2946a4"
+    ],
+    "absent_reason": "The recipe is scaled for 30 sacks per hectare, but no actual production count is stated.",
+    "challenge_partition": "dense_failure_challenge",
+    "batch": 4,
+    "formal_result_used_during_selection": false,
+    "answerability": "unanswerable",
+    "dense_screening_tier": "A",
+    "dense_failure_count": 3,
+    "dense_correct_by_k": {
+      "1": false,
+      "3": false,
+      "5": false
+    },
+    "gold_best_rank": null,
+    "wrong_or_attractor_best_rank": 1,
+    "ambical_used_during_screening": false,
+    "dense_screening_status": "selected"
+  },
+  {
+    "question_id": "phbg-df-u4-013",
+    "question": "How many years did Ninoy Aquino serve as governor of Tarlac?",
+    "answer": "Not found in context",
+    "reference_answer": "Not found in context",
+    "page": 12,
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "c710e1fece6c89b677e8cb4cd96f91f02b70ef56f85d632fa0ec6d6a346f7b36",
+      "c16582d60fa4a811b75082be5ce6cf334b6152e30214893501251494267ce0a3"
+    ],
+    "absent_reason": "His 1961 and 1963 governorship elections are mentioned, but no duration in years is stated.",
+    "challenge_partition": "dense_failure_challenge",
+    "batch": 4,
+    "formal_result_used_during_selection": false,
+    "answerability": "unanswerable",
+    "dense_screening_tier": "A",
+    "dense_failure_count": 3,
+    "dense_correct_by_k": {
+      "1": false,
+      "3": false,
+      "5": false
+    },
+    "gold_best_rank": null,
+    "wrong_or_attractor_best_rank": 37,
+    "ambical_used_during_screening": false,
+    "dense_screening_status": "selected"
+  },
+  {
+    "question_id": "phbg-df-u5-010",
+    "question": "How many waterings per week does an aerobic compost pile need?",
+    "answer": "Not found in context",
+    "reference_answer": "Not found in context",
+    "page": 70,
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "22441fa1bcb42b04483dc752767ac5777b0690b2b7c427dec1d31a260d44beca",
+      "d772356fa8b3ad1026075786922767505e94b88540f5c5287fd6977af3aa896e"
+    ],
+    "absent_reason": "The pile is watered to stay moist but not soaked, and no weekly watering count is stated.",
+    "challenge_partition": "dense_failure_challenge",
+    "batch": 5,
+    "formal_result_used_during_selection": false,
+    "answerability": "unanswerable",
+    "dense_screening_tier": "B",
+    "dense_failure_count": 2,
+    "dense_correct_by_k": {
+      "1": true,
+      "3": false,
+      "5": false
+    },
+    "gold_best_rank": null,
+    "wrong_or_attractor_best_rank": 2,
+    "ambical_used_during_screening": false,
+    "dense_screening_status": "selected"
+  },
+  {
+    "question_id": "phbg-df-u7-006",
+    "question": "How many pesos is the salary of a sakada per kabyaw season?",
+    "answer": "Not found in context",
+    "reference_answer": "Not found in context",
+    "page": 22,
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "e96c76422de242f9d15e3f64fca619967f4055e09f15dec091db65358b5841eb",
+      "f97fb2a9c3f906485035273f14db3d0b0695d4cdb768c3ee2dd4a57d39eb0acb"
+    ],
+    "absent_reason": "The Php 9.50 take-home and the Php 35,000-40,000 credit figures are nearby, but no sakada seasonal salary is stated.",
+    "challenge_partition": "dense_failure_challenge",
+    "batch": 7,
+    "formal_result_used_during_selection": false,
+    "answerability": "unanswerable",
+    "dense_screening_tier": "A",
+    "dense_failure_count": 3,
+    "dense_correct_by_k": {
+      "1": false,
+      "3": false,
+      "5": false
+    },
+    "gold_best_rank": null,
+    "wrong_or_attractor_best_rank": 2,
+    "ambical_used_during_screening": false,
+    "dense_screening_status": "selected"
+  },
+  {
+    "question_id": "phbg-df-u7-007",
+    "question": "How many litres of gin go into one storage bottle of oriental herbal nutrient?",
+    "answer": "Not found in context",
+    "reference_answer": "Not found in context",
+    "page": 83,
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "ad7e4f1f856b21f3a3bcdd3bd3be4973ceb3eaafc5d0f0fda374e25470c85262"
+    ],
+    "absent_reason": "Gin is poured to fill the fermentation jar, but no storage-bottle volume is stated.",
+    "challenge_partition": "dense_failure_challenge",
+    "batch": 7,
+    "formal_result_used_during_selection": false,
+    "answerability": "unanswerable",
+    "dense_screening_tier": "A",
+    "dense_failure_count": 3,
+    "dense_correct_by_k": {
+      "1": false,
+      "3": false,
+      "5": false
+    },
+    "gold_best_rank": null,
+    "wrong_or_attractor_best_rank": 2,
+    "ambical_used_during_screening": false,
+    "dense_screening_status": "selected"
+  },
+  {
+    "question_id": "phbg-df-u7-011",
+    "question": "How many kaban per hill did the Learning Farm's best SRI hill produce?",
+    "answer": "Not found in context",
+    "reference_answer": "Not found in context",
+    "page": 128,
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "57d840b9e6390ceb5c4c864f52b4d9ee4e28fa31562a556995111460498dc458",
+      "b2e4971be55482ebdf8e4ead8b0df2067c4e82316d92136b01f3d60adf25ad79"
+    ],
+    "absent_reason": "The best hills reached more than fifty tillers, but no per-hill kaban figure is stated.",
+    "challenge_partition": "dense_failure_challenge",
+    "batch": 7,
+    "formal_result_used_during_selection": false,
+    "answerability": "unanswerable",
+    "dense_screening_tier": "B",
+    "dense_failure_count": 2,
+    "dense_correct_by_k": {
+      "1": true,
+      "3": false,
+      "5": false
+    },
+    "gold_best_rank": null,
+    "wrong_or_attractor_best_rank": 2,
+    "ambical_used_during_screening": false,
+    "dense_screening_status": "selected"
+  },
+  {
+    "question": "Exactly how many people were injured at the Hacienda Luisita picket line on November 16, 2004?",
+    "answer": "Not found in context",
+    "page": 18,
+    "question_id": "phbg-u-001",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "ebd65fcaceb06567febd7967ed254af641339187e0c3d6af502b896dd99867d5",
+      "9ba4273341912eac6a31dffc856da4433b9b2e8241ca8ab6559a027b5aa8e898"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "The referenced handbook page contains a related topic, but the requested fact is not stated in the frozen corpus.",
+    "source_section": "I Hacienda Luisita: Maikling Kasaysayan",
+    "source_page_verified": 18,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "dense_failure_challenge",
+    "selection_basis": "original_100x100_plus_docling_page_provenance",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "page_provenance_mapped",
+      "mapping_method": "docling_page_to_frozen_chroma_chunk",
+      "manual_semantic_review_required_before_final_selection": true
+    },
+    "gold_refinement": {
+      "method": "unchanged_page_based_attractors"
+    },
+    "dense_screening_tier": "A",
+    "dense_failure_count": 3,
+    "dense_correct_by_k": {
+      "1": false,
+      "3": false,
+      "5": false
+    },
+    "gold_best_rank": null,
+    "wrong_or_attractor_best_rank": 5,
+    "ambical_used_during_screening": false,
+    "dense_screening_status": "selected"
+  },
+  {
+    "question": "How long can fermented rice wash be stored after the seven-day fermentation?",
+    "answer": "Not found in context",
+    "page": 89,
+    "question_id": "phbg-u-047",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "be40d7a966e0d9085b8cb809756e1fed13513b51df6ea645f7a519e910825746",
+      "6b827a798f49b5dece26a9b207821379463a891d36d18866a6de487bcbc751bd"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "The referenced handbook page contains a related topic, but the requested fact is not stated in the frozen corpus.",
+    "source_section": "Paraan ng Paggawa ng FRW / Paraan ng Paggamit ng  FRW",
+    "source_page_verified": 89,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "dense_failure_challenge",
+    "selection_basis": "original_100x100_plus_docling_page_provenance",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "page_provenance_mapped",
+      "mapping_method": "docling_page_to_frozen_chroma_chunk",
+      "manual_semantic_review_required_before_final_selection": true
+    },
+    "gold_refinement": {
+      "method": "unchanged_page_based_attractors"
+    },
+    "dense_screening_tier": "A",
+    "dense_failure_count": 3,
+    "dense_correct_by_k": {
+      "1": false,
+      "3": false,
+      "5": false
+    },
+    "gold_best_rank": null,
+    "wrong_or_attractor_best_rank": 1,
+    "ambical_used_during_screening": false,
+    "dense_screening_status": "selected"
+  },
+  {
+    "question": "How many days after flowering should mung bean be left before it is plowed under as green manure?",
+    "answer": "Not found in context",
+    "page": 105,
+    "question_id": "phbg-u-063",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "caf77da0715119cefca888ef73b4f6f1413edcaed6c82133c9c503f5bc4e74a3",
+      "0f63f8a69864293fba2d362e2297500f3d64219fbe60fff6c67fff3ee820030d"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "The referenced handbook page contains a related topic, but the requested fact is not stated in the frozen corpus.",
+    "source_section": "Luntiang Pag-aabono (Green manuring)",
+    "source_page_verified": 105,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "dense_failure_challenge",
+    "selection_basis": "original_100x100_plus_docling_page_provenance",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "page_provenance_mapped",
+      "mapping_method": "docling_page_to_frozen_chroma_chunk",
+      "manual_semantic_review_required_before_final_selection": true
+    },
+    "gold_refinement": {
+      "method": "unchanged_page_based_attractors"
+    },
+    "dense_screening_tier": "B",
+    "dense_failure_count": 2,
+    "dense_correct_by_k": {
+      "1": false,
+      "3": false,
+      "5": true
+    },
+    "gold_best_rank": null,
+    "wrong_or_attractor_best_rank": 4,
+    "ambical_used_during_screening": false,
+    "dense_screening_status": "selected"
+  },
+  {
+    "question": "What spacing is required between ipil-ipil trees when they are planted as a windbreak?",
+    "answer": "Not found in context",
+    "page": 107,
+    "question_id": "phbg-u-065",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "a603ac4bd7004ac10634749e38ca65a669e7c05bd774f79401fafe6199cd8a84",
+      "9a8e788888fb310efd806d109a159f465893e997f2ac5cacf90e76251dbd51b8"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "The referenced handbook page contains a related topic, but the requested fact is not stated in the frozen corpus.",
+    "source_section": "Paggamit ng Legumbre (Legume usage)",
+    "source_page_verified": 107,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "dense_failure_challenge",
+    "selection_basis": "original_100x100_plus_docling_page_provenance",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "page_provenance_mapped",
+      "mapping_method": "docling_page_to_frozen_chroma_chunk",
+      "manual_semantic_review_required_before_final_selection": true
+    },
+    "gold_refinement": {
+      "method": "unchanged_page_based_attractors"
+    },
+    "dense_screening_tier": "B",
+    "dense_failure_count": 2,
+    "dense_correct_by_k": {
+      "1": true,
+      "3": false,
+      "5": false
+    },
+    "gold_best_rank": null,
+    "wrong_or_attractor_best_rank": 1,
+    "ambical_used_during_screening": false,
+    "dense_screening_status": "selected"
+  }
+]

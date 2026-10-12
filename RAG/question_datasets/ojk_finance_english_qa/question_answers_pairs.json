@@ -1,0 +1,502 @@
+[
+  {
+    "question": "What is the primary nature of the Financial Services Authority (OJK) regarding its independence?",
+    "answer": "The OJK is an independent institution that is free from interference by other parties.",
+    "page": 7
+  },
+  {
+    "question": "What are the three main sectors of financial services activities that the OJK regulates and supervises?",
+    "answer": "The OJK regulates activities in the banking sector, the capital market sector, and the insurance, pension, financing, and other financial services sectors.",
+    "page": 8
+  },
+  {
+    "question": "How does the OJK's approach to consumer protection differ between preventive and repressive actions?",
+    "answer": "Preventive actions involve regulation and education to provide understanding before issues arise, while repressive actions involve resolving complaints, facilitating dispute resolution, stopping illegal activities, and legal defense.",
+    "page": 14
+  },
+  {
+    "question": "What is the specific administrative authority of the OJK regarding business licenses?",
+    "answer": "The OJK has the authority to grant and/or revoke business licenses, approvals, or dissolution determinations.",
+    "page": 10
+  },
+  {
+    "question": "What two categories of charges can apply to bank savings products?",
+    "answer": "Savings products can carry mandatory charges applied by all banks and variable charges determined by each bank's internal policy.",
+    "page": 54
+  },
+  {
+    "question": "What is the main benefit of having a good understanding of financial products for the public?",
+    "answer": "A good understanding ultimately increases the use of financial products and services, as well as public and consumer trust in financial institutions and products in Indonesia.",
+    "page": 13
+  },
+  {
+    "question": "How does the Financial Planning Standards Board (FPSB) define financial planning?",
+    "answer": "FPSB defines financial planning as a process of achieving life goals through planned financial management.",
+    "page": 22
+  },
+  {
+    "question": "What are the stages of life mentioned in the handbook?",
+    "answer": "The handbook mentions stages including childhood, singlehood, early marriage, middle age, early old age, early retirement, and full retirement.",
+    "page": 23
+  },
+  {
+    "question": "Why is it important to openly discuss family financial goals with a partner?",
+    "answer": "Open discussion fosters harmony and mutual support for achieving shared objectives.",
+    "page": 24
+  },
+  {
+    "question": "What is the recommended maximum percentage of income for debt installments?",
+    "answer": "The recommended maximum is 30% of income.",
+    "page": 27
+  },
+  {
+    "question": "What should someone do if they are financially pressured and cannot reduce expenses?",
+    "answer": "They should seek additional income.",
+    "page": 30
+  },
+  {
+    "question": "What distinguishes good debt from bad debt?",
+    "answer": "Good debt can increase productivity or quality of life, while bad debt burdens the family and is often used for excessive consumption.",
+    "page": 29
+  },
+  {
+    "question": "What is the definition of a 'Tabungan' (savings) account according to the text?",
+    "answer": "A savings account is a consumer deposit at a bank that provides convenience for the customer to withdraw funds at any time using instruments such as a passbook, ATM/debit card, mobile banking, or internet banking.",
+    "page": 37
+  },
+  {
+    "question": "What are the three main activities of a bank as described in the handbook?",
+    "answer": "The three main activities are: 1) Gathering funds from the public (savings, deposits, giro), 2) Channeling funds to the public (credit facilities), and 3) Providing banking services (money transfers, payments, and purchases).",
+    "page": 34
+  },
+  {
+    "question": "Why is a conventional savings account described as a low-risk product?",
+    "answer": "Because eligible savings are guaranteed by the Indonesia Deposit Insurance Corporation (LPS), subject to the applicable guarantee requirements.",
+    "page": 41
+  },
+  {
+    "question": "What is the maximum amount of savings guaranteed by the LPS per customer per bank?",
+    "answer": "The maximum guaranteed amount is Rp2,000,000,000.00 (Two Billion Rupiah).",
+    "page": 41
+  },
+  {
+    "question": "What is a practical application of a 'Giro' account for a business?",
+    "answer": "A practical application is using checks or giro bills to make payments indirectly to third parties, which is convenient for business transactions.",
+    "page": 40
+  },
+  {
+    "question": "What is the primary difference between a conventional bank and a Sharia bank regarding their operating principles?",
+    "answer": "A conventional bank operates based on general customs and agreements (adat, kebiasaan), whereas a Sharia bank operates according to Islamic Sharia principles, specifically regarding Islamic social transactions (muamalah).",
+    "page": 36
+  },
+  {
+    "question": "What is the definition of a stock (saham) according to the text?",
+    "answer": "A stock is proof of ownership of a company.",
+    "page": 64
+  },
+  {
+    "question": "What are the four steps an investor must take to open a securities account (Rekening Efek)?",
+    "answer": "The investor must bring identity documents (KTP and NPWP), complete the Securities Account and Customer Fund Account forms, transfer the initial deposit, and receive a Single Investor Identity (SID).",
+    "page": 70
+  },
+  {
+    "question": "How does the risk of investing in stocks compare to investing in bonds or mutual funds?",
+    "answer": "Stocks have a higher risk than bonds and mutual funds.",
+    "page": 63
+  },
+  {
+    "question": "What is the maximum investment limit for an individual investor with an annual income of less than Rp500,000,000 in Securities Crowdfunding (SCF)?",
+    "answer": "The maximum investment limit is 5% of their annual income.",
+    "page": 68
+  },
+  {
+    "question": "What is a practical benefit of investing in mutual funds (Reksa Dana) regarding taxes?",
+    "answer": "Mutual fund income is not subject to tax.",
+    "page": 67
+  },
+  {
+    "question": "What are the four main types of investment risks mentioned in the capital markets chapter?",
+    "answer": "The four main risks are market risk (fluctuation), credit risk (default), liquidity risk, and regulation risk.",
+    "page": 62
+  },
+  {
+    "question": "What is the definition of 'Tertanggung' in the context of insurance?",
+    "answer": "The party facing the risk as stipulated in the insurance or reinsurance agreement.",
+    "page": 78
+  },
+  {
+    "question": "How should an insured person complete an insurance form or application?",
+    "answer": "The form or application should be completed and signed in good faith and honestly.",
+    "page": 86
+  },
+  {
+    "question": "How does 'Asuransi Wajib' differ from 'Asuransi Sosial'?",
+    "answer": "Asuransi Wajib is a program mandated by laws for specific groups to get protection from specific risks, whereas Asuransi Sosial is formed by the government to provide social security for community members.",
+    "page": 80
+  },
+  {
+    "question": "What is the specific rule regarding the 'cooling-off period' for a policyholder?",
+    "answer": "The policyholder has the right to study the policy during the cooling-off period.",
+    "page": 86
+  },
+  {
+    "question": "What is a practical application of 'Asuransi Kendaraan Bermotor'?",
+    "answer": "It provides protection against loss, damage, or theft of a motor vehicle caused by risks covered in the policy.",
+    "page": 83
+  },
+  {
+    "question": "What is the primary benefit of insurance mentioned in the text?",
+    "answer": "It provides a sense of security and protection.",
+    "page": 79
+  },
+  {
+    "question": "What is the definition of a Conventional Finance Company according to the text?",
+    "answer": "A non-bank financial institution that provides financing for goods and services, whether productive (business investment or working capital) or consumptive.",
+    "page": 92
+  },
+  {
+    "question": "What are the steps a consumer must take to obtain a financing product?",
+    "answer": "The consumer must visit the office or partner, ensure the company is registered with OJK, fill out and sign the application in good faith, ask specific questions about payments and penalties, and understand the insurance and document return process.",
+    "page": 99
+  },
+  {
+    "question": "How does conventional installment financing differ from Sharia murabahah financing?",
+    "answer": "Conventional installment financing pays for goods or services through installments, whereas murabahah is a sale in which the acquisition cost is disclosed and the buyer pays that cost plus an agreed profit margin.",
+    "page": 95
+  },
+  {
+    "question": "How are flat interest and effective interest calculated differently?",
+    "answer": "Flat interest is calculated from the original loan principal, while effective interest is calculated from the remaining principal balance.",
+    "page": 97
+  },
+  {
+    "question": "What cost information should a consumer ask for before signing a financing agreement?",
+    "answer": "The consumer should ask about the monthly installment, tenor, due date, daily late-payment penalty, and other charges, including online-payment and early-settlement fees.",
+    "page": 99
+  },
+  {
+    "question": "What speed-related consumer benefit of finance-company products is listed in the handbook?",
+    "answer": "Consumers can obtain needed goods and services relatively quickly.",
+    "page": 93
+  },
+  {
+    "question": "What is the definition of a Pension Fund (Dana Pensiun) according to the text?",
+    "answer": "A Pension Fund is a legal entity that manages and operates programs promising pension benefits, including those operating on Islamic principles.",
+    "page": 102
+  },
+  {
+    "question": "What four steps does the handbook give for registering with a DPLK?",
+    "answer": "Contact the pension-fund provider, ask for necessary information, discuss the requirements, contributions, contribution period, and investment choices, then visit its office to sign a contract or register online.",
+    "page": 114
+  },
+  {
+    "question": "How does the risk of investment differ between a Defined Benefit Plan (PPMP) and a Defined Contribution Plan (PPIP)?",
+    "answer": "In a Defined Benefit Plan (PPMP), the founder bears the investment risk, whereas in a Defined Contribution Plan (PPIP), the participant bears the investment risk.",
+    "page": 106
+  },
+  {
+    "question": "What are the specific contribution rates for PT TASPEN?",
+    "answer": "The contribution rate is 4.25% of the basic salary plus family allowance, plus 3.75% for old-age allowance.",
+    "page": 107
+  },
+  {
+    "question": "What benefits can a pensioner certificate provide?",
+    "answer": "It may provide tax-related facilities, such as a property-tax reduction, and special discounts on public transportation.",
+    "page": 111
+  },
+  {
+    "question": "What is a key benefit of having a Pension Fund for an employee while they are still working?",
+    "answer": "A key benefit is that there is an additional contribution to the Pension Fund from the employer, making the benefits more maximal.",
+    "page": 103
+  },
+  {
+    "question": "According to the Civil Code, what is the legal definition of 'gadai' (pawn)?",
+    "answer": "Gadai is a right obtained by a creditor over movable property delivered to them by a debtor or another person on their behalf, granting the creditor priority in repayment from that property, excluding auction and preservation costs.",
+    "page": 118
+  },
+  {
+    "question": "What are the five general characteristics of pawnshop services described in the text?",
+    "answer": "The five characteristics are: 1) Borrowing/lending relationship, 2) Existence of a pawn receipt, 3) Collateral is movable property, 4) Loan amount is limited to the pledged item, and 5) The pledged item is controlled by the pawnshop.",
+    "page": 121
+  },
+  {
+    "question": "What happens if a pawnshop customer cannot repay a pawn loan by its due date?",
+    "answer": "The pledged item will be auctioned, and the customer will be charged the applicable auction-related costs.",
+    "page": 126
+  },
+  {
+    "question": "How many types of pawnshop companies are identified by ownership in Indonesia?",
+    "answer": "Two types are identified: government-owned pawnshops and privately owned pawnshops.",
+    "page": 119
+  },
+  {
+    "question": "What are the main stages for obtaining a loan through a pawn service?",
+    "answer": "The customer obtains information, brings movable collateral for appraisal, receives the appraised value and proposed loan amount, and, if agreeing, leaves the collateral for storage and receives the loan.",
+    "page": 127
+  },
+  {
+    "question": "What are the three main costs a customer incurs when utilizing pawnshop products and services?",
+    "answer": "The three main costs are: administrative fees, capital rental/storage fees (ujrah), and other fees such as insurance, vehicle registration blocking, notary fees, stamp duties, and auction processing fees.",
+    "page": 128
+  },
+  {
+    "question": "What is the definition of Fintech Peer-to-Peer Lending (Fintech Pendanaan Bersama)?",
+    "answer": "It is a financial service that matches lenders with borrowers to make loan agreements in Rupiah directly through an electronic system using the internet.",
+    "page": 130
+  },
+  {
+    "question": "What are the steps a user must take to become a lender in Fintech Peer-to-Peer Lending?",
+    "answer": "The user must visit the registered platform, register, choose a borrower to fund, agree to the fund disbursement scheme and contract, and send funds to the escrow account.",
+    "page": 137
+  },
+  {
+    "question": "How does the business model of Fintech Peer-to-Peer Lending differ between conventional and Shariah approaches?",
+    "answer": "In the conventional model, the Fintech acts as a mediator between the lender and borrower. In the Shariah model, the contract between the lender and borrower is executed using Islamic legal instruments such as murabahah, mudharabah, musyarakah, ijarah, and wakalah.",
+    "page": 134
+  },
+  {
+    "question": "What is the minimum participation amount required for an individual to become a lender?",
+    "answer": "The minimum participation amount is Rp100,000.",
+    "page": 131
+  },
+  {
+    "question": "What are the costs typically borne by the borrower when using Fintech Peer-to-Peer Lending services?",
+    "answer": "The borrower typically bears administrative fees, management fees charged by the organizer, and penalty fees for default or late payment.",
+    "page": 138
+  },
+  {
+    "question": "What is a key benefit for borrowers who cannot meet the formal requirements of other financial institutions?",
+    "answer": "They still have the opportunity to obtain funding support for personal or business needs through Fintech Peer-to-Peer Lending.",
+    "page": 133
+  },
+  {
+    "question": "What three kinds of knowledge is the handbook intended to provide to couples preparing for marriage?",
+    "answer": "It is intended to explain simple household financial management, introduce financial products and services needed by families, and build understanding of financial consumer protection.",
+    "page": 3
+  },
+  {
+    "question": "Under which law was the OJK established, and what four core functions does the law assign to it?",
+    "answer": "It was established under Law Number 21 of 2011 and is assigned regulation, supervision, examination, and investigation functions.",
+    "page": 8
+  },
+  {
+    "question": "What four categories of rules may the OJK establish under its regulatory authority?",
+    "answer": "It may establish implementing regulations for the OJK Law, financial-sector legislation, supervisory regulations, and procedures for issuing written orders.",
+    "page": 9
+  },
+  {
+    "question": "What three consumer-education and protection activities is the OJK authorised to perform?",
+    "answer": "It may educate the public to prevent losses, provide consumer complaint services, and conduct legal defence for consumers and the public.",
+    "page": 11
+  },
+  {
+    "question": "Which articles of Law Number 21 of 2011 contain the mandate to protect consumers and the public?",
+    "answer": "The mandate is contained in Articles 28 through 31.",
+    "page": 12
+  },
+  {
+    "question": "How broadly was the Investment Alert Task Force formed, and what actions can it take against illegal investment cases?",
+    "answer": "The OJK formed it with 11 ministries and agencies; it can inventory and analyse cases, stop or impede illegal schemes, educate the public, coordinate case handling, and conduct joint examinations.",
+    "page": 15
+  },
+  {
+    "question": "What is the APPK and which kinds of consumer requests does it handle?",
+    "answer": "APPK is the OJK's integrated consumer service system for the financial-services sector, handling questions, submitted information, and complaints.",
+    "page": 18
+  },
+  {
+    "question": "What kinds of planned goals and unexpected events does the handbook say financial planning should cover?",
+    "answer": "It should cover goals such as childbirth, education, a home, worship, retirement, and inheritance, as well as unexpected events such as unemployment and illness.",
+    "page": 22
+  },
+  {
+    "question": "How does the handbook define short-, medium-, and long-term financial goals?",
+    "answer": "Short-term goals are targeted within 1 to 3 years, medium-term goals within 3 to 5 years, and long-term goals take more than 5 years.",
+    "page": 24
+  },
+  {
+    "question": "Which financial topics and behaviours should partners discuss before marriage?",
+    "answer": "They should discuss income sources and jointly agreed financial goals and priorities, avoid debt for unimportant wants, save toward assets, and keep their lifestyle aligned with family needs.",
+    "page": 26
+  },
+  {
+    "question": "What reference allocation does the handbook suggest for social funds, investment, debt instalments, and daily needs?",
+    "answer": "It suggests about 10% for social funds, at least 20% for investment, at most 30% for debt instalments, and the remaining 40% for daily needs.",
+    "page": 27
+  },
+  {
+    "question": "Which five questions does the handbook use for a basic personal financial-health check?",
+    "answer": "It asks whether income exceeds expenses, saving and investing are routine, debt instalments stay below 30% of income, an emergency fund exists, and assets exceed total debt.",
+    "page": 31
+  },
+  {
+    "question": "What four financial ratios and threshold values are recommended for assessing financial health?",
+    "answer": "Liquidity should be at least three months of expenses, saving at least 10% of income, instalments at most 30% of monthly income, and total debt at most 50% of total assets.",
+    "page": 32
+  },
+  {
+    "question": "What is the key service difference between a commercial bank and a BPR or BPRS?",
+    "answer": "A commercial bank provides payment-traffic services, whereas a BPR or BPRS does not provide services in payment traffic.",
+    "page": 35
+  },
+  {
+    "question": "How does a planned-savings account help a customer work toward a financial goal?",
+    "answer": "It allows the customer to save a fixed amount every month for a specified period, such as five years, without withdrawing it during that period.",
+    "page": 38
+  },
+  {
+    "question": "What are the three '3T' conditions for a bank deposit to qualify for LPS payment if a bank is liquidated?",
+    "answer": "The deposit must be recorded at the bank, must not exceed the LPS guaranteed interest rate, and the customer must not have contributed to the bank becoming unsound, such as through bad credit or fraud.",
+    "page": 41
+  },
+  {
+    "question": "How do working-capital credit and investment credit differ in purpose and typical term?",
+    "answer": "Working-capital credit funds short-term needs such as inventory and operations and usually lasts 1 to 3 years; investment credit funds long-term assets such as premises, machinery, or vehicles and usually lasts more than 3 years.",
+    "page": 42
+  },
+  {
+    "question": "Why are consumer-credit interest rates or profit margins generally higher than those for business credit?",
+    "answer": "Consumer credit is generally considered to carry a higher credit risk than credit used for business purposes.",
+    "page": 43
+  },
+  {
+    "question": "How does requiring collateral generally affect the interest rate or profit margin of a bank loan?",
+    "answer": "Credit without collateral generally carries a higher interest rate or profit margin than credit that requires collateral.",
+    "page": 44
+  },
+  {
+    "question": "Which main contract schemes are used for Sharia bank financing?",
+    "answer": "The schemes include profit sharing through mudharabah or musyarakah, leasing through ijarah, sale financing through murabahah, salam or istishna', lending through qardh, and service leasing through ijarah.",
+    "page": 45
+  },
+  {
+    "question": "Which investment products does the handbook say can be purchased through banks?",
+    "answer": "Banks can offer products such as mutual funds and government securities, including ORI and sukuk.",
+    "page": 46
+  },
+  {
+    "question": "How do online transfer, SKNI, and RTGS differ in timing and transaction limits?",
+    "answer": "Online transfer is received in real time; SKNI follows scheduled batches, currently four times daily, and is limited to Rp500 million per instruction; RTGS is real time after bank instruction and has a minimum of Rp100 million per instruction.",
+    "page": 47
+  },
+  {
+    "question": "What information and remedies are included among a bank customer's rights?",
+    "answer": "Customers may receive detailed product information, agreed interest or profit sharing, banking services and transaction reports, and may sue the bank if customer secrecy is disclosed.",
+    "page": 49
+  },
+  {
+    "question": "What confidentiality duties do bank customers have?",
+    "answer": "Customers must protect personal and banking data, must not disclose PINs or OTPs to other people, and must not lend their account details to others.",
+    "page": 50
+  },
+  {
+    "question": "What transactions can digital banking cover, and when and where can customers access it?",
+    "answer": "It can cover activities from opening through closing an account and can be accessed independently 24 hours a day, seven days a week, from devices such as phones and computers.",
+    "page": 51
+  },
+  {
+    "question": "What checks should a consumer make before agreeing to use a bank product or service?",
+    "answer": "The consumer should verify OJK authorisation and LPS coverage, read and clarify the contract, understand present and future charges, and understand expected returns and risks.",
+    "page": 53
+  },
+  {
+    "question": "What final income-tax rate applies to interest or profit sharing on deposits above Rp7,000,000?",
+    "answer": "A final income-tax rate of 20% applies under Article 4(2).",
+    "page": 54
+  },
+  {
+    "question": "Why should an investment return exceed the inflation rate?",
+    "answer": "Inflation reduces the real value of money and purchasing power, so a return above inflation helps preserve or increase real purchasing power.",
+    "page": 56
+  },
+  {
+    "question": "What restriction does the handbook place on investment funds, and what income share should a person with a well-managed lifestyle aim to invest?",
+    "answer": "Money needed for daily living should not be invested, and a person who manages their lifestyle well should be able to invest more than 10% of income.",
+    "page": 59
+  },
+  {
+    "question": "What are the two forms of return from financial investment products?",
+    "answer": "Returns may come from a gain in price, or capital gain, and from regular income generated by the product.",
+    "page": 60
+  },
+  {
+    "question": "How does the handbook distinguish investment in real assets from investment in financial assets?",
+    "answer": "Real-asset investment includes land, houses, property, gold, and precious metals, while financial-asset investment includes savings, deposits, and capital-market products.",
+    "page": 61
+  },
+  {
+    "question": "How do market risk and credit risk arise in capital-market investing?",
+    "answer": "Market risk comes from price declines caused by daily market fluctuations, while credit risk arises when a party cannot meet obligations stated in a contract.",
+    "page": 62
+  },
+  {
+    "question": "How are money-market, fixed-income, equity, and mixed mutual funds distinguished by portfolio composition?",
+    "answer": "Money-market funds invest 100% in money-market instruments; fixed-income and equity funds invest at least 80% in debt and equity respectively; mixed funds allocate 1% to 79% among equity, debt, and money-market instruments.",
+    "page": 66
+  },
+  {
+    "question": "What is the SCF funding cap for an issuer, and what is the investment limit for an individual who earns more than Rp500 million per year?",
+    "answer": "An issuer may raise at most Rp10 billion within 12 months, and such an individual may invest at most 10% of annual income, subject to the stated exceptions.",
+    "page": 68
+  },
+  {
+    "question": "Give three rights and three obligations of a capital-market investor listed in the handbook.",
+    "answer": "Rights include receiving product information, investment returns, and disclosure; obligations include obeying investor requirements, understanding product prospects, and paying transaction fees and applicable taxes.",
+    "page": 69
+  },
+  {
+    "question": "When must payment for a successful securities purchase be deposited, and when is payment from a successful sale received?",
+    "answer": "Purchase funds plus fees must be deposited within two working days of the transaction, and sale proceeds are received two working days after the transaction.",
+    "page": 71
+  },
+  {
+    "question": "What are the five main steps for opening and funding a mutual-fund account?",
+    "answer": "Use a registered selling agent or application, complete the form with ID data, read the prospectus, transfer the purchase amount to the mutual fund's account, and receive electronic confirmation from the custodian bank through KSEI.",
+    "page": 72
+  },
+  {
+    "question": "How do the roles of a custodian bank and an investment manager differ in a mutual fund?",
+    "answer": "The custodian settles transactions, safeguards securities, calculates net asset value, and registers investors, while the investment manager invests and manages the collected funds in capital-market products.",
+    "page": 73
+  },
+  {
+    "question": "What average broker-fee ranges are given for buying and selling shares?",
+    "answer": "The average buying fee ranges from 0.15% to 0.3%, while the average selling fee ranges from 0.25% to 0.4%.",
+    "page": 74
+  },
+  {
+    "question": "What annual range is given for the custody fee charged on electronic bonds?",
+    "answer": "The custody fee ranges from 0% to 0.05% per year and is deducted when the coupon is distributed.",
+    "page": 76
+  },
+  {
+    "question": "How does Sharia insurance manage risk differently from conventional insurance?",
+    "answer": "Conventional insurance transfers risk to an insurer for a premium, while Sharia insurance uses mutual protection and assistance among participants through donated tabarru' funds and Sharia-compliant contracts.",
+    "page": 81
+  },
+  {
+    "question": "How do term life, whole life, and endowment insurance differ?",
+    "answer": "Term life provides high protection for a relatively low premium, whole life covers a person for life, and endowment pays on death during a specified period or a stated benefit if the insured survives to the end of the term.",
+    "page": 82
+  },
+  {
+    "question": "What protections are provided by health insurance and personal-accident insurance?",
+    "answer": "Health insurance may cover inpatient and outpatient care, dental treatment, glasses, and childbirth within policy limits; personal-accident insurance covers death and permanent or temporary disability caused by an accident.",
+    "page": 84
+  },
+  {
+    "question": "What checks and precautions does the handbook recommend before purchasing an insurance policy?",
+    "answer": "Choose an OJK-supervised insurer and a certified agent, select a product based on need rather than promotion, ask about benefits and exclusions, complete the application honestly without signing it blank, and review the policy and attachments.",
+    "page": 89
+  },
+  {
+    "question": "What approval is required before a conventional pawn company may conduct part of its business under Sharia principles?",
+    "answer": "It must first obtain OJK approval and comply with the rules for establishing a Sharia business unit.",
+    "page": 120
+  },
+  {
+    "question": "How does an instalment-based pawn product differ from a fiduciary-based financing product in its collateral arrangement?",
+    "answer": "For the instalment pawn product, the pawn company holds the pledged collateral and the loan is repaid monthly; fiduciary financing uses collateral such as a vehicle ownership book or land certificate under SHM or SHGB status.",
+    "page": 123
+  }
+]

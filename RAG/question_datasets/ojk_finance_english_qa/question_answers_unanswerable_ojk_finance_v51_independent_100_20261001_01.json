@@ -1,0 +1,2947 @@
+[
+  {
+    "question_id": "ojk-dfu-009",
+    "question": "What is the minimum first contribution amount for PT TASPEN membership?",
+    "answer": "Not found in context",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "80a77f72b66829eb97b661eee28fb1532eba48a89baed519e3453a012143743f",
+      "6c62e1626f8cde3a7d29c1d1fe842d2a87e184cd094d914240e99dec09d5915e"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "The handbook gives percentage rates and benefit floors, not an opening contribution amount.",
+    "topical_anchor": "TASPEN membership",
+    "source_section": "Page 108",
+    "source_page": 2,
+    "static_quality_pass": true,
+    "static_quality_rule": "author_full_text_adjudication_20261001",
+    "challenge_partition": "dense_failure",
+    "ambical_used_during_construction": false,
+    "dense_screening_status": "selected",
+    "dense_screening_tier": "B",
+    "dense_failure_count": 2,
+    "dense_correct_by_k": {
+      "1": false,
+      "3": true,
+      "5": false
+    },
+    "gold_best_rank": null,
+    "wrong_or_attractor_best_rank": 1,
+    "ambical_used_during_screening": false
+  },
+  {
+    "question_id": "ojk-dfu-011",
+    "question": "What is the maximum number of DPLK plans one person may join?",
+    "answer": "Not found in context",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "98448a0a7ab079261ed20b64ad1f7a23bf409b6affce8b7c04591e85ab1a620a",
+      "edf4859a85cf463bd88e532780c82a53af682baa0aacf2994b3963656003e036"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "The handbook says a participant may join more than one DPLK without any cap.",
+    "topical_anchor": "choosing a DPLK",
+    "source_section": "Tips Memilih DPLK",
+    "source_page": 2,
+    "static_quality_pass": true,
+    "static_quality_rule": "author_full_text_adjudication_20261001",
+    "challenge_partition": "dense_failure",
+    "ambical_used_during_construction": false,
+    "dense_screening_status": "selected",
+    "dense_screening_tier": "A",
+    "dense_failure_count": 3,
+    "dense_correct_by_k": {
+      "1": false,
+      "3": false,
+      "5": false
+    },
+    "gold_best_rank": null,
+    "wrong_or_attractor_best_rank": 1,
+    "ambical_used_during_screening": false
+  },
+  {
+    "question_id": "ojk-dfu-021",
+    "question": "What percentage of income does the handbook cap for daily expenses?",
+    "answer": "Not found in context",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "af2b0400e5e3592d63ee1344430be6f25c191a55e8fcb1a178d2c8bc76b00ef5",
+      "fca0c51e9eb7b968e6d4e855546fe98a5d7dadc745808b8c00aa308c15b3bca9"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "The 40% figure is the remainder after allocations, not a stated cap on daily spending.",
+    "topical_anchor": "family budget allocation",
+    "source_section": "Sisihkan vs Sisakan ( Cashflow Management )",
+    "source_page": 7,
+    "static_quality_pass": true,
+    "static_quality_rule": "author_full_text_adjudication_20261001_batch2",
+    "challenge_partition": "dense_failure",
+    "batch": 2,
+    "ambical_used_during_construction": false,
+    "dense_screening_status": "selected",
+    "dense_screening_tier": "A",
+    "dense_failure_count": 3,
+    "dense_correct_by_k": {
+      "1": false,
+      "3": false,
+      "5": false
+    },
+    "gold_best_rank": null,
+    "wrong_or_attractor_best_rank": 1,
+    "ambical_used_during_screening": false
+  },
+  {
+    "question_id": "ojk-dfu-042",
+    "question": "What is the maximum transfer amount for RTGS?",
+    "answer": "Not found in context",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "wrong_sense_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "effa76f1e253b0024fdc6cb05064e844bbcd96407c1d0d6656d9ba254a82c2e3",
+      "804d832ebd9be94541768a40d5621026733b780eb1b2e6f4eafe8c1804f6057d"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "Only SKNI has a maximum (Rp500,000,000); RTGS has a minimum instead.",
+    "topical_anchor": "RTGS vs SKNI limits",
+    "source_section": "Page 48",
+    "source_page": 36,
+    "static_quality_pass": true,
+    "static_quality_rule": "author_full_text_adjudication_20261001_batch3",
+    "challenge_partition": "dense_failure",
+    "batch": 3,
+    "ambical_used_during_construction": false,
+    "dense_screening_status": "selected",
+    "dense_screening_tier": "B",
+    "dense_failure_count": 2,
+    "dense_correct_by_k": {
+      "1": true,
+      "3": false,
+      "5": false
+    },
+    "gold_best_rank": null,
+    "wrong_or_attractor_best_rank": 1,
+    "ambical_used_during_screening": false
+  },
+  {
+    "question_id": "ojk-dfu-049",
+    "question": "Does the handbook say personal accident insurance covers illness?",
+    "answer": "Not found in context",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "wrong_sense_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "6641675880a14c47a06462e498f683293fdfc84bd4598cd72b57df06bed04b73",
+      "a000b8ce08c30a974448353fabc0fc1d6218c537a77015dc9b8afe7f38ee9946"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "Personal accident insurance covers death and disability from accidents; illness is not in its scope.",
+    "topical_anchor": "personal accident scope",
+    "source_section": "Hak",
+    "source_page": 2,
+    "static_quality_pass": true,
+    "static_quality_rule": "author_full_text_adjudication_20261001_batch3",
+    "challenge_partition": "dense_failure",
+    "batch": 3,
+    "ambical_used_during_construction": false,
+    "dense_screening_status": "selected",
+    "dense_screening_tier": "B",
+    "dense_failure_count": 2,
+    "dense_correct_by_k": {
+      "1": true,
+      "3": false,
+      "5": false
+    },
+    "gold_best_rank": null,
+    "wrong_or_attractor_best_rank": 1,
+    "ambical_used_during_screening": false
+  },
+  {
+    "question_id": "ojk-dfu-060",
+    "question": "What income-tax rate applies to bond coupons?",
+    "answer": "Not found in context",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "wrong_sense_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "4be2c55f511ec3ed9b92e9e2ddcfb3ec5ff1ba0bb1139c5b8f1edd85fc5a5b32",
+      "c607a10c7d3becf91f607180cc448f5fea19b9b056d3052ee57657402265b780"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "Only the deposit-interest final tax and the mutual-fund tax exemption are stated; coupon taxation is absent.",
+    "topical_anchor": "investment taxation",
+    "source_section": "Mengapa kita perlu BERINVESTASI?",
+    "source_page": 36,
+    "static_quality_pass": true,
+    "static_quality_rule": "author_full_text_adjudication_20261001_batch4",
+    "challenge_partition": "dense_failure",
+    "batch": 4,
+    "ambical_used_during_construction": false,
+    "dense_screening_status": "selected",
+    "dense_screening_tier": "A",
+    "dense_failure_count": 3,
+    "dense_correct_by_k": {
+      "1": false,
+      "3": false,
+      "5": false
+    },
+    "gold_best_rank": null,
+    "wrong_or_attractor_best_rank": 1,
+    "ambical_used_during_screening": false
+  },
+  {
+    "question_id": "ojk-dfu-069",
+    "question": "What percentage penalty applies to early deposito withdrawal?",
+    "answer": "Not found in context",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "wrong_sense_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "cdb7bec13846bc4274c5ad2cabd64a6f5140702973d201cba4a3b21091e91666",
+      "4be2c55f511ec3ed9b92e9e2ddcfb3ec5ff1ba0bb1139c5b8f1edd85fc5a5b32"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "A penalty cost is named without any percentage.",
+    "topical_anchor": "deposito penalties",
+    "source_section": "2.  Deposito",
+    "source_page": 4,
+    "static_quality_pass": true,
+    "static_quality_rule": "author_full_text_adjudication_20261001_batch4",
+    "challenge_partition": "dense_failure",
+    "batch": 4,
+    "ambical_used_during_construction": false,
+    "dense_screening_status": "selected",
+    "dense_screening_tier": "B",
+    "dense_failure_count": 2,
+    "dense_correct_by_k": {
+      "1": true,
+      "3": false,
+      "5": false
+    },
+    "gold_best_rank": null,
+    "wrong_or_attractor_best_rank": 1,
+    "ambical_used_during_screening": false
+  },
+  {
+    "question_id": "ojk-dfu-104",
+    "question": "What percentage of salary does the TASPEN survivor pension pay?",
+    "answer": "Not found in context",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "wrong_sense_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "80a77f72b66829eb97b661eee28fb1532eba48a89baed519e3453a012143743f",
+      "47af474bb196d500655623b7e12e6f444ce133788dd82ee24a460797c0123ee1"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "Only the 75% minimum member benefit exists; survivor percentages are absent.",
+    "topical_anchor": "TASPEN benefits",
+    "source_section": "Page 108",
+    "source_page": 2,
+    "static_quality_pass": true,
+    "static_quality_rule": "author_full_text_adjudication_20261001_batch5",
+    "challenge_partition": "dense_failure",
+    "batch": 5,
+    "ambical_used_during_construction": false,
+    "dense_screening_status": "selected",
+    "dense_screening_tier": "A",
+    "dense_failure_count": 3,
+    "dense_correct_by_k": {
+      "1": false,
+      "3": false,
+      "5": false
+    },
+    "gold_best_rank": null,
+    "wrong_or_attractor_best_rank": 1,
+    "ambical_used_during_screening": false
+  },
+  {
+    "question_id": "ojk-dfu-105",
+    "question": "What disability benefit percentage does ASABRI pay?",
+    "answer": "Not found in context",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "wrong_sense_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "47af474bb196d500655623b7e12e6f444ce133788dd82ee24a460797c0123ee1",
+      "80a77f72b66829eb97b661eee28fb1532eba48a89baed519e3453a012143743f"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "ASABRI mirrors TASPEN's contribution rates and the 75% minimum retirement benefit; disability percentages are absent.",
+    "topical_anchor": "ASABRI benefits",
+    "source_section": "Page 108",
+    "source_page": 2,
+    "static_quality_pass": true,
+    "static_quality_rule": "author_full_text_adjudication_20261001_batch5",
+    "challenge_partition": "dense_failure",
+    "batch": 5,
+    "ambical_used_during_construction": false,
+    "dense_screening_status": "selected",
+    "dense_screening_tier": "B",
+    "dense_failure_count": 2,
+    "dense_correct_by_k": {
+      "1": false,
+      "3": true,
+      "5": false
+    },
+    "gold_best_rank": null,
+    "wrong_or_attractor_best_rank": 1,
+    "ambical_used_during_screening": false
+  },
+  {
+    "question_id": "ojk-dfu-116",
+    "question": "How many times can a deposito roll over automatically?",
+    "answer": "Not found in context",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "wrong_sense_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "cdb7bec13846bc4274c5ad2cabd64a6f5140702973d201cba4a3b21091e91666",
+      "560873d1281c57ff90101d02539eec44bf47c53681d7cc6c789599ea5943574a"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "Automatic roll over is stated without any count limit.",
+    "topical_anchor": "deposito renewal",
+    "source_section": "2.  Deposito",
+    "source_page": 4,
+    "static_quality_pass": true,
+    "static_quality_rule": "author_full_text_adjudication_20261001_batch5",
+    "challenge_partition": "dense_failure",
+    "batch": 5,
+    "ambical_used_during_construction": false,
+    "dense_screening_status": "selected",
+    "dense_screening_tier": "B",
+    "dense_failure_count": 2,
+    "dense_correct_by_k": {
+      "1": true,
+      "3": false,
+      "5": false
+    },
+    "gold_best_rank": null,
+    "wrong_or_attractor_best_rank": 1,
+    "ambical_used_during_screening": false
+  },
+  {
+    "question_id": "ojk-dfu-120",
+    "question": "What is the investment cap for a SCF investor participating through a legal entity?",
+    "answer": "Not found in context",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "wrong_sense_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "05def01bfadcc04d188ae97d3cd10fac6ebfeaa85ce31ba18c5ad24df2c540f2",
+      "c63fcf9b4f8ba4426891bc3c30d640ff4c0af0e094391f302b0c642e3ecbb3ef"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "Legal-entity investors are listed as an exception without any cap.",
+    "topical_anchor": "SCF investor limits",
+    "source_section": "PEMODAL",
+    "source_page": 2,
+    "static_quality_pass": true,
+    "static_quality_rule": "author_full_text_adjudication_20261001_batch5",
+    "challenge_partition": "dense_failure",
+    "batch": 5,
+    "ambical_used_during_construction": false,
+    "dense_screening_status": "selected",
+    "dense_screening_tier": "B",
+    "dense_failure_count": 2,
+    "dense_correct_by_k": {
+      "1": true,
+      "3": false,
+      "5": false
+    },
+    "gold_best_rank": null,
+    "wrong_or_attractor_best_rank": 1,
+    "ambical_used_during_screening": false
+  },
+  {
+    "question_id": "ojk-dfu-132",
+    "question": "How long does a mutual-fund switching transaction take to process?",
+    "answer": "Not found in context",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "wrong_sense_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "be0ce5b6bbe6c0f3d5d367ae0008eff0111be2e2f805522e25c250336b4a05c2",
+      "e7a9e3a17d06242dda09e9b23b2adad6008b16cd53c19799f799246677937fc3"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "Only redemption settlement (max T+7) is stated; switching processing time is absent.",
+    "topical_anchor": "mutual fund switching",
+    "source_section": "Page 74",
+    "source_page": 67,
+    "static_quality_pass": true,
+    "static_quality_rule": "author_full_text_adjudication_20261001_batch6",
+    "challenge_partition": "dense_failure",
+    "batch": 6,
+    "ambical_used_during_construction": false,
+    "dense_screening_status": "selected",
+    "dense_screening_tier": "B",
+    "dense_failure_count": 2,
+    "dense_correct_by_k": {
+      "1": true,
+      "3": false,
+      "5": false
+    },
+    "gold_best_rank": null,
+    "wrong_or_attractor_best_rank": 1,
+    "ambical_used_during_screening": false
+  },
+  {
+    "question_id": "ojk-dfu-173",
+    "question": "What is the processing time for withdrawing funds from a Rekening Dana Nasabah?",
+    "answer": "Not found in context",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "wrong_sense_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "e7a9e3a17d06242dda09e9b23b2adad6008b16cd53c19799f799246677937fc3",
+      "cdb7bec13846bc4274c5ad2cabd64a6f5140702973d201cba4a3b21091e91666"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "Only share-trade settlement (max 2 working days) is stated; RDN withdrawal processing is absent.",
+    "topical_anchor": "securities settlement",
+    "source_section": "Page 74",
+    "source_page": 67,
+    "static_quality_pass": true,
+    "static_quality_rule": "author_full_text_adjudication_20261001_batch9",
+    "challenge_partition": "dense_failure",
+    "batch": 9,
+    "ambical_used_during_construction": false,
+    "dense_screening_status": "selected",
+    "dense_screening_tier": "B",
+    "dense_failure_count": 2,
+    "dense_correct_by_k": {
+      "1": true,
+      "3": false,
+      "5": false
+    },
+    "gold_best_rank": null,
+    "wrong_or_attractor_best_rank": 1,
+    "ambical_used_during_screening": false
+  },
+  {
+    "question_id": "ojk-sem-034",
+    "question": "How many working days does the pawn appraisal take?",
+    "answer": "Not found in context",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "target_term_en": "appraisal duration",
+    "intended_sense": "appraisal duration",
+    "wrong_sense": "appraisal stage reading",
+    "ambiguity_type": "procedure_stage",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "wrong_sense_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "ebdbf3788016362aabeba3bbfca4ec71a95678be4ca4bc9be1ecc8339749560f",
+      "be0ce5b6bbe6c0f3d5d367ae0008eff0111be2e2f805522e25c250336b4a05c2"
+    ],
+    "supporting_quote_id": null,
+    "wrong_sense_quote_id": null,
+    "absent_reason": "The handbook describes the appraisal step (page 127) without any duration.",
+    "disambiguating_cues": [
+      "appraisal stage reading"
+    ],
+    "source_section": "Cara memperoleh produk pembiayaan adalah sebagai berikut:",
+    "source_page": 84,
+    "construction_rationale": "Unanswerable semantic probe: the intended fact is absent from the frozen corpus while the wrong-sense reading stays topically close, so dense retrieval should surface an attractor.",
+    "static_quality_pass": true,
+    "static_quality_rule": "author_full_text_adjudication_20261001",
+    "challenge_partition": "semantic_ambiguity",
+    "ambical_used_during_construction": false,
+    "qa_correctness_used_during_selection": false,
+    "context_gate_triggered": true,
+    "context_correction_executed": true,
+    "correction_mode": "topk_counterfactual_positive_v5",
+    "selected_counterfactual_phrase_count": 2,
+    "gate_diagnostic_run_id": "ojk_finance_semantic_gate_diagnostic_20261001_02",
+    "selection_status": null,
+    "dense_screening_status": null,
+    "selection_section": "Tahapan jasa gadai",
+    "diagnostic_success": true
+  },
+  {
+    "question_id": "ojk-sem-037",
+    "question": "Which sharia contracts does the handbook assign specifically to sharia pawn transactions?",
+    "answer": "Not found in context",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "target_term_en": "akad list for sharia pawn",
+    "intended_sense": "akad list for sharia pawn",
+    "wrong_sense": "sharia bank / sharia fintech akad lists",
+    "ambiguity_type": "multi_evidence_conflict",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "wrong_sense_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "a8e96f25003e24118e8289088831ebd19101d2b0de4870accf525a6c6e951f18",
+      "915b3a852a055bebfd68da2da87a66904b451b293cfbaa03ce39448479d4c201"
+    ],
+    "supporting_quote_id": null,
+    "wrong_sense_quote_id": null,
+    "absent_reason": "The handbook says pawn products can run conventionally or under sharia principles (page 122) but never names pawn-specific contracts.",
+    "disambiguating_cues": [
+      "sharia bank / sharia fintech akad lists"
+    ],
+    "source_section": "Page 46",
+    "source_page": 36,
+    "construction_rationale": "Unanswerable semantic probe: the intended fact is absent from the frozen corpus while the wrong-sense reading stays topically close, so dense retrieval should surface an attractor.",
+    "static_quality_pass": true,
+    "static_quality_rule": "author_full_text_adjudication_20261001",
+    "challenge_partition": "semantic_ambiguity",
+    "ambical_used_during_construction": false,
+    "qa_correctness_used_during_selection": false,
+    "context_gate_triggered": true,
+    "context_correction_executed": true,
+    "correction_mode": "topk_counterfactual_positive_v5",
+    "selected_counterfactual_phrase_count": 2,
+    "gate_diagnostic_run_id": "ojk_finance_semantic_gate_diagnostic_20261001_02",
+    "selection_status": null,
+    "dense_screening_status": null,
+    "selection_section": "Produk gadai",
+    "diagnostic_success": true
+  },
+  {
+    "question_id": "ojk-sem-038",
+    "question": "What is the maximum tenor allowed for a multifinance consumer loan?",
+    "answer": "Not found in context",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "target_term_en": "maximum multifinance tenor",
+    "intended_sense": "maximum multifinance tenor",
+    "wrong_sense": "tenor follows the agreement reading",
+    "ambiguity_type": "number_time_confusion",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "wrong_sense_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "4486cf66745e1d76bd62f0c8b298ea6c10d2f88f005e8d8dac555d225dd2d0a5",
+      "f79744b72ae0a01f2babaf9aa90a2d7049883afed536e28a8cbf5ec395e51032"
+    ],
+    "supporting_quote_id": null,
+    "wrong_sense_quote_id": null,
+    "absent_reason": "The handbook states tenor and ceiling follow the agreement (page 94) without any maximum.",
+    "disambiguating_cues": [
+      "tenor follows the agreement reading"
+    ],
+    "source_section": "Page 95",
+    "source_page": 84,
+    "construction_rationale": "Unanswerable semantic probe: the intended fact is absent from the frozen corpus while the wrong-sense reading stays topically close, so dense retrieval should surface an attractor.",
+    "static_quality_pass": true,
+    "static_quality_rule": "author_full_text_adjudication_20261001",
+    "challenge_partition": "semantic_ambiguity",
+    "ambical_used_during_construction": false,
+    "qa_correctness_used_during_selection": false,
+    "context_gate_triggered": true,
+    "context_correction_executed": true,
+    "correction_mode": "topk_counterfactual_positive_v5",
+    "selected_counterfactual_phrase_count": 2,
+    "gate_diagnostic_run_id": "ojk_finance_semantic_gate_diagnostic_20261001_02",
+    "selection_status": null,
+    "dense_screening_status": null,
+    "selection_section": "Kegiatan usaha pembiayaan",
+    "diagnostic_success": true
+  },
+  {
+    "question_id": "ojk-sem-039",
+    "question": "What annual return does the handbook assign to the gold instalment investment product?",
+    "answer": "Not found in context",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "target_term_en": "return figure for gold instalment product",
+    "intended_sense": "return figure for gold instalment product",
+    "wrong_sense": "pawn product description reading",
+    "ambiguity_type": "same_word_different_domain",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "wrong_sense_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "37d6eeceb2b61c71cb58616ca42fcde4d27b3575d22b7ede75e6772cb456f27c",
+      "0b88da951404080886854c38e314b204a1d2c0e65c87dbde3e9b07b40860c84e"
+    ],
+    "supporting_quote_id": null,
+    "wrong_sense_quote_id": null,
+    "absent_reason": "The handbook describes the gold instalment purchase product (page 123) without any return figure.",
+    "disambiguating_cues": [
+      "pawn product description reading"
+    ],
+    "source_section": "7 Risiko",
+    "source_page": 53,
+    "construction_rationale": "Unanswerable semantic probe: the intended fact is absent from the frozen corpus while the wrong-sense reading stays topically close, so dense retrieval should surface an attractor.",
+    "static_quality_pass": true,
+    "static_quality_rule": "author_full_text_adjudication_20261001",
+    "challenge_partition": "semantic_ambiguity",
+    "ambical_used_during_construction": false,
+    "qa_correctness_used_during_selection": false,
+    "context_gate_triggered": true,
+    "context_correction_executed": true,
+    "correction_mode": "topk_counterfactual_positive_v5",
+    "selected_counterfactual_phrase_count": 2,
+    "gate_diagnostic_run_id": "ojk_finance_semantic_gate_diagnostic_20261001_02",
+    "selection_status": null,
+    "dense_screening_status": null,
+    "selection_section": "Produk investasi emas",
+    "diagnostic_success": true
+  },
+  {
+    "question_id": "ojk-sem-054",
+    "question": "What is the maximum loan amount for a Gadai-system pawn credit?",
+    "answer": "Not found in context",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "target_term_en": "Loan sizes follow the collateral appraisal with no maximum stated.",
+    "intended_sense": "Loan sizes follow the collateral appraisal with no maximum stated.",
+    "wrong_sense": "pawn loan sizing",
+    "ambiguity_type": "number_time_confusion",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "wrong_sense_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "957a2cb4db822ae106fbb8bb6b688ac1cb2e9efc075eaee7e1e0c3d16bdb14ff",
+      "2f571724f260a89d9b850df40088c31c24265bda599d322205c3a446a3164368"
+    ],
+    "supporting_quote_id": null,
+    "wrong_sense_quote_id": null,
+    "absent_reason": "Loan sizes follow the collateral appraisal with no maximum stated.",
+    "disambiguating_cues": [
+      "pawn loan sizing"
+    ],
+    "source_section": "Page 127",
+    "source_page": 4,
+    "construction_rationale": "Batch-2 unanswerable probe with a dense lexical attractor on the target product pages.",
+    "static_quality_pass": true,
+    "static_quality_rule": "author_full_text_adjudication_20261001_batch2",
+    "challenge_partition": "semantic_ambiguity",
+    "batch": 2,
+    "ambical_used_during_construction": false,
+    "qa_correctness_used_during_selection": false,
+    "context_gate_triggered": true,
+    "context_correction_executed": true,
+    "correction_mode": "topk_counterfactual_positive_v5",
+    "selected_counterfactual_phrase_count": 2,
+    "gate_diagnostic_run_id": "ojk_finance_semantic_gate_diagnostic_20261001_02_batch2",
+    "selection_status": null,
+    "dense_screening_status": null,
+    "selection_section": "Page 127",
+    "diagnostic_success": true
+  },
+  {
+    "question_id": "ojk-sem-058",
+    "question": "How much is the administration fee charged by pawn companies?",
+    "answer": "Not found in context",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "target_term_en": "The pawn cost list names administration fees without amounts.",
+    "intended_sense": "The pawn cost list names administration fees without amounts.",
+    "wrong_sense": "pawn fees",
+    "ambiguity_type": "number_time_confusion",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "wrong_sense_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "80a77f72b66829eb97b661eee28fb1532eba48a89baed519e3453a012143743f",
+      "df76f7c151af7973e978af233ff3c4733a2541660fe6d12973c6b1b6536c6344"
+    ],
+    "supporting_quote_id": null,
+    "wrong_sense_quote_id": null,
+    "absent_reason": "The pawn cost list names administration fees without amounts.",
+    "disambiguating_cues": [
+      "pawn fees"
+    ],
+    "source_section": "Page 108",
+    "source_page": 2,
+    "construction_rationale": "Batch-2 unanswerable probe with a dense lexical attractor on the target product pages.",
+    "static_quality_pass": true,
+    "static_quality_rule": "author_full_text_adjudication_20261001_batch2",
+    "challenge_partition": "semantic_ambiguity",
+    "batch": 2,
+    "ambical_used_during_construction": false,
+    "qa_correctness_used_during_selection": false,
+    "context_gate_triggered": true,
+    "context_correction_executed": true,
+    "correction_mode": "topk_counterfactual_positive_v5",
+    "selected_counterfactual_phrase_count": 2,
+    "gate_diagnostic_run_id": "ojk_finance_semantic_gate_diagnostic_20261001_02_batch2",
+    "selection_status": null,
+    "dense_screening_status": null,
+    "selection_section": "Page 108",
+    "diagnostic_success": true
+  },
+  {
+    "question_id": "ojk-sem-068",
+    "question": "Which parties must approve a pawn loan above a certain value?",
+    "answer": "Not found in context",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "target_term_en": "The pawn flow names the appraiser and loan sizing without any approval thresholds.",
+    "intended_sense": "The pawn flow names the appraiser and loan sizing without any approval thresholds.",
+    "wrong_sense": "pawn approval",
+    "ambiguity_type": "multi_evidence_conflict",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "wrong_sense_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "63276f46f31bd5c6a472e71115b4e0030314a723d2f625d5c4cc7f76126c9f38",
+      "ebdbf3788016362aabeba3bbfca4ec71a95678be4ca4bc9be1ecc8339749560f"
+    ],
+    "supporting_quote_id": null,
+    "wrong_sense_quote_id": null,
+    "absent_reason": "The pawn flow names the appraiser and loan sizing without any approval thresholds.",
+    "disambiguating_cues": [
+      "pawn approval"
+    ],
+    "source_section": "Page 41",
+    "source_page": 4,
+    "selection_section": "Tahapan jasa gadai",
+    "construction_rationale": "Batch-3 unanswerable probe in a non-number type with a strong lexical attractor.",
+    "static_quality_pass": true,
+    "static_quality_rule": "author_full_text_adjudication_20261001_batch3",
+    "challenge_partition": "semantic_ambiguity",
+    "batch": 3,
+    "ambical_used_during_construction": false,
+    "qa_correctness_used_during_selection": false,
+    "context_gate_triggered": true,
+    "context_correction_executed": true,
+    "correction_mode": "topk_counterfactual_positive_v5",
+    "selected_counterfactual_phrase_count": 2,
+    "gate_diagnostic_run_id": "ojk_finance_semantic_gate_diagnostic_20261001_02_batch3",
+    "selection_status": null,
+    "dense_screening_status": null,
+    "diagnostic_success": true
+  },
+  {
+    "question_id": "ojk-sem-070",
+    "question": "What guarantee backs valuables held through the pawn safekeeping service?",
+    "answer": "Not found in context",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "target_term_en": "The titipan service lists loss risks it avoids but names no guarantee scheme.",
+    "intended_sense": "The titipan service lists loss risks it avoids but names no guarantee scheme.",
+    "wrong_sense": "pawn safekeeping",
+    "ambiguity_type": "same_word_different_domain",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "wrong_sense_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "44fc9aa2690a48a413bb381167e22770f7e86cc41063201393171be9e3de3a4e",
+      "17d6405521d3ff5dffa74091e1abc1c617bc65876b01c5bd68da0dd6f0fb9f64"
+    ],
+    "supporting_quote_id": null,
+    "wrong_sense_quote_id": null,
+    "absent_reason": "The titipan service lists loss risks it avoids but names no guarantee scheme.",
+    "disambiguating_cues": [
+      "pawn safekeeping"
+    ],
+    "source_section": "Kewajiban Nasabah:",
+    "source_page": 5,
+    "selection_section": "Jasa Titipan",
+    "construction_rationale": "Batch-3 unanswerable probe in a non-number type with a strong lexical attractor.",
+    "static_quality_pass": true,
+    "static_quality_rule": "author_full_text_adjudication_20261001_batch3",
+    "challenge_partition": "semantic_ambiguity",
+    "batch": 3,
+    "ambical_used_during_construction": false,
+    "qa_correctness_used_during_selection": false,
+    "context_gate_triggered": true,
+    "context_correction_executed": true,
+    "correction_mode": "topk_counterfactual_positive_v5",
+    "selected_counterfactual_phrase_count": 2,
+    "gate_diagnostic_run_id": "ojk_finance_semantic_gate_diagnostic_20261001_02_batch3",
+    "selection_status": null,
+    "dense_screening_status": null,
+    "diagnostic_success": true
+  },
+  {
+    "question_id": "ojk-sem-071",
+    "question": "Which insurer covers items stored through the pawn safekeeping service?",
+    "answer": "Not found in context",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "target_term_en": "The handbook names no insurer for stored items.",
+    "intended_sense": "The handbook names no insurer for stored items.",
+    "wrong_sense": "pawn safekeeping",
+    "ambiguity_type": "institution_responsibility",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "wrong_sense_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "17d6405521d3ff5dffa74091e1abc1c617bc65876b01c5bd68da0dd6f0fb9f64",
+      "a000b8ce08c30a974448353fabc0fc1d6218c537a77015dc9b8afe7f38ee9946"
+    ],
+    "supporting_quote_id": null,
+    "wrong_sense_quote_id": null,
+    "absent_reason": "The handbook names no insurer for stored items.",
+    "disambiguating_cues": [
+      "pawn safekeeping"
+    ],
+    "source_section": "Page 83",
+    "source_page": 2,
+    "selection_section": "Jasa Titipan",
+    "construction_rationale": "Batch-3 unanswerable probe in a non-number type with a strong lexical attractor.",
+    "static_quality_pass": true,
+    "static_quality_rule": "author_full_text_adjudication_20261001_batch3",
+    "challenge_partition": "semantic_ambiguity",
+    "batch": 3,
+    "ambical_used_during_construction": false,
+    "qa_correctness_used_during_selection": false,
+    "context_gate_triggered": true,
+    "context_correction_executed": true,
+    "correction_mode": "topk_counterfactual_positive_v5",
+    "selected_counterfactual_phrase_count": 2,
+    "gate_diagnostic_run_id": "ojk_finance_semantic_gate_diagnostic_20261001_02_batch3",
+    "selection_status": null,
+    "dense_screening_status": null,
+    "diagnostic_success": true
+  },
+  {
+    "question_id": "ojk-sem-074",
+    "question": "What is the monthly rate for a safe deposit box at a pawn company?",
+    "answer": "Not found in context",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "target_term_en": "The handbook lists the safe deposit box among fee-based services without any rate.",
+    "intended_sense": "The handbook lists the safe deposit box among fee-based services without any rate.",
+    "wrong_sense": "pawn fee-based services",
+    "ambiguity_type": "table_field",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "wrong_sense_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "4be2c55f511ec3ed9b92e9e2ddcfb3ec5ff1ba0bb1139c5b8f1edd85fc5a5b32",
+      "80a77f72b66829eb97b661eee28fb1532eba48a89baed519e3453a012143743f"
+    ],
+    "supporting_quote_id": null,
+    "wrong_sense_quote_id": null,
+    "absent_reason": "The handbook lists the safe deposit box among fee-based services without any rate.",
+    "disambiguating_cues": [
+      "pawn fee-based services"
+    ],
+    "source_section": "Mengapa kita perlu BERINVESTASI?",
+    "source_page": 36,
+    "selection_section": "Tujuan Pergadaian",
+    "construction_rationale": "Batch-3 unanswerable probe in a non-number type with a strong lexical attractor.",
+    "static_quality_pass": true,
+    "static_quality_rule": "author_full_text_adjudication_20261001_batch3",
+    "challenge_partition": "semantic_ambiguity",
+    "batch": 3,
+    "ambical_used_during_construction": false,
+    "qa_correctness_used_during_selection": false,
+    "context_gate_triggered": true,
+    "context_correction_executed": true,
+    "correction_mode": "topk_counterfactual_positive_v5",
+    "selected_counterfactual_phrase_count": 2,
+    "gate_diagnostic_run_id": "ojk_finance_semantic_gate_diagnostic_20261001_02_batch3",
+    "selection_status": null,
+    "dense_screening_status": null,
+    "diagnostic_success": true
+  },
+  {
+    "question": "What specific ministerial department oversaw Bank Indonesia prior to the formation of the OJK?",
+    "answer": "Not found in context",
+    "page": 8,
+    "question_id": "ojk-u-001",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "13d3d7016840d8de4c0af3a2ead18c8eefa5ac365aa44e2bcdcc82fd4646c4d5",
+      "cb4db2984bbdc9d33d4acfb667490c639718228a8e22e801bec57f60f37191b2"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "Page 8 states that banking was supervised by Bank Indonesia before the OJK, but the handbook never states which ministerial department oversaw Bank Indonesia itself.",
+    "source_section": null,
+    "source_page_verified": 7,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control",
+    "selection_basis": "original_100x100_plus_docling_page_provenance",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "absence_verified_by_full_document_review",
+      "manual_semantic_review_completed": true
+    }
+  },
+  {
+    "question": "What specific methods are used by the OJK to deliver preventative educational materials to the public?",
+    "answer": "Not found in context",
+    "page": 13,
+    "question_id": "ojk-u-002",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "66d7835bc63dfb7646dfdc55a7f492f7f7d112701a0d01ef8b9c2235d1b3fe47",
+      "3cd64fad836a62285d0a4e29c84a657abc35409828a9c8270dc51ca8d8841745"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "The handbook says education is delivered through various media and methods (page 13) but does not specify any concrete delivery methods.",
+    "source_section": null,
+    "source_page_verified": 14,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control",
+    "selection_basis": "original_100x100_plus_docling_page_provenance",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "absence_verified_by_full_document_review",
+      "manual_semantic_review_completed": true
+    }
+  },
+  {
+    "question": "How many distinct types of Fintech lending platforms are officially recognized and regulated by the OJK?",
+    "answer": "Not found in context",
+    "page": 130,
+    "question_id": "ojk-u-004",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "14ebda2fdd85bc4d77a357a4738dc2fe7db4254fbc23be070e5669e0cf588357",
+      "8a626639069c54ebce214a0a15f7dc0d4111c945322344360ffffa871255a9a8"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "The handbook lists four regulated fintech service categories on page 130 but does not enumerate distinct types of peer-to-peer lending platforms.",
+    "source_section": null,
+    "source_page_verified": 139,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control",
+    "selection_basis": "original_100x100_plus_docling_page_provenance",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "absence_verified_by_full_document_review",
+      "manual_semantic_review_completed": true
+    }
+  },
+  {
+    "question": "What is the precise legal definition of 'dana sosial' as it relates to personal financial planning in Indonesia?",
+    "answer": "Not found in context",
+    "page": 27,
+    "question_id": "ojk-u-007",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "af2b0400e5e3592d63ee1344430be6f25c191a55e8fcb1a178d2c8bc76b00ef5",
+      "fca0c51e9eb7b968e6d4e855546fe98a5d7dadc745808b8c00aa308c15b3bca9"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "The handbook allocates about 10% of income to social funds (page 27) but provides no legal definition of 'dana sosial'.",
+    "source_section": null,
+    "source_page_verified": 27,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control",
+    "selection_basis": "original_100x100_plus_docling_page_provenance",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "absence_verified_by_full_document_review",
+      "manual_semantic_review_completed": true
+    }
+  },
+  {
+    "question": "Does the handbook specify whether gross or net monthly expenses must be used to calculate the liquidity ratio?",
+    "answer": "Not found in context",
+    "page": 32,
+    "question_id": "ojk-u-008",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "749a7f0e2f60217c1d632d0876097b91b1e42f553d84ee85228399f38fb306f3",
+      "79a70152c06755adc5d1446723aa334e6bc5b75695639fd1e9921a45d227c093"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "The handbook defines the liquidity ratio as at least 3x monthly expenses (page 32) but does not state whether gross or net expenses apply.",
+    "source_section": null,
+    "source_page_verified": 32,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control",
+    "selection_basis": "original_100x100_plus_docling_page_provenance",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "absence_verified_by_full_document_review",
+      "manual_semantic_review_completed": true
+    }
+  },
+  {
+    "question": "What interest-rate threshold distinguishes good debt from bad debt?",
+    "answer": "Not found in context",
+    "page": 29,
+    "question_id": "ojk-u-009",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "b0f35157c35aef14e927a0c3c000fe0a97f30acaaf09ad3801b6c2eaed8fc5c8",
+      "79a70152c06755adc5d1446723aa334e6bc5b75695639fd1e9921a45d227c093"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "The handbook distinguishes good and bad debt by purpose and burden (page 29), not by any interest-rate threshold.",
+    "source_section": null,
+    "source_page_verified": 29,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control",
+    "selection_basis": "original_100x100_plus_docling_page_provenance",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "absence_verified_by_full_document_review",
+      "manual_semantic_review_completed": true
+    }
+  },
+  {
+    "question": "Should the suggested allocations for social funds, investment, debt instalments, and daily needs be calculated from gross income or net income?",
+    "answer": "Not found in context",
+    "page": 27,
+    "question_id": "ojk-u-011",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "af2b0400e5e3592d63ee1344430be6f25c191a55e8fcb1a178d2c8bc76b00ef5",
+      "04c25d64ae4897769485d21c5810731f9bbaa3b349e8cc7785179c7cc3e47999"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "The handbook gives the 10/20/30/40 allocation (page 27) without stating whether it applies to gross or net income.",
+    "source_section": null,
+    "source_page_verified": 27,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control",
+    "selection_basis": "original_100x100_plus_docling_page_provenance",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "absence_verified_by_full_document_review",
+      "manual_semantic_review_completed": true
+    }
+  },
+  {
+    "question": "What numerical scoring scale should a family use to rank needs above wants?",
+    "answer": "Not found in context",
+    "page": 28,
+    "question_id": "ojk-u-012",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "31985fac6f3f1ceb5aa431a9520443f56e7ac4a0e002543a3bb5037cf5140964",
+      "04c25d64ae4897769485d21c5810731f9bbaa3b349e8cc7785179c7cc3e47999"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "Page 28 discusses setting priorities between needs and wants but provides no numerical scoring scale.",
+    "source_section": null,
+    "source_page_verified": 28,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control",
+    "selection_basis": "original_100x100_plus_docling_page_provenance",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "absence_verified_by_full_document_review",
+      "manual_semantic_review_completed": true
+    }
+  },
+  {
+    "question": "What is the precise legal definition of 'mobile banking' as used by Indonesian banks?",
+    "answer": "Not found in context",
+    "page": 52,
+    "question_id": "ojk-u-013",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "5d9b05518ed8c372bd3d37aede5878a21537b34e068fe3b926a53e5a757b2380",
+      "4d214bd1dac5d3987702b2b0d56795375d32e932ef8c63e3daf4ee501d816cb2"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "The handbook mentions mobile banking as an access channel but gives no legal definition.",
+    "source_section": null,
+    "source_page_verified": 35,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control",
+    "selection_basis": "original_100x100_plus_docling_page_provenance",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "absence_verified_by_full_document_review",
+      "manual_semantic_review_completed": true
+    }
+  },
+  {
+    "question": "Describe the exact sequence of events that occur when a customer initiates a transfer via the SKNI system, from the customer's perspective.",
+    "answer": "Not found in context",
+    "page": 47,
+    "question_id": "ojk-u-014",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "effa76f1e253b0024fdc6cb05064e844bbcd96407c1d0d6656d9ba254a82c2e3",
+      "804d832ebd9be94541768a40d5621026733b780eb1b2e6f4eafe8c1804f6057d"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "The handbook describes SKNI scheduling in four batches per day (page 47) but does not describe the event sequence a customer experiences.",
+    "source_section": null,
+    "source_page_verified": 47,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control",
+    "selection_basis": "original_100x100_plus_docling_page_provenance",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "absence_verified_by_full_document_review",
+      "manual_semantic_review_completed": true
+    }
+  },
+  {
+    "question": "Under what specific circumstances would a bank be legally obligated to offer a customer a higher interest rate on a deposito account?",
+    "answer": "Not found in context",
+    "page": 39,
+    "question_id": "ojk-u-015",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "63276f46f31bd5c6a472e71115b4e0030314a723d2f625d5c4cc7f76126c9f38",
+      "4be2c55f511ec3ed9b92e9e2ddcfb3ec5ff1ba0bb1139c5b8f1edd85fc5a5b32"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "The handbook describes deposit products and LPS guarantees but never states circumstances forcing a bank to offer a higher deposit rate.",
+    "source_section": null,
+    "source_page_verified": 41,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control",
+    "selection_basis": "original_100x100_plus_docling_page_provenance",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "absence_verified_by_full_document_review",
+      "manual_semantic_review_completed": true
+    }
+  },
+  {
+    "question": "Assuming a customer wants to secure a 'Kredit Usaha' loan to expand their small business, what specific documents must they provide to demonstrate the business's long-term viability and profitability, beyond basic application forms?",
+    "answer": "Not found in context",
+    "page": 42,
+    "question_id": "ojk-u-017",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "e8c01d9cb1b6cedc860d54d16774a3ab92a8f289339bc3a47b423581f374adcb",
+      "5f742be5a08838d28b35eab4b163a811c0434dd0f6502e887a9af8cc072bbfde"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "Page 42 describes working-capital and investment credit purposes but lists no document requirements for proving business viability.",
+    "source_section": null,
+    "source_page_verified": 43,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control",
+    "selection_basis": "original_100x100_plus_docling_page_provenance",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "absence_verified_by_full_document_review",
+      "manual_semantic_review_completed": true
+    }
+  },
+  {
+    "question": "What are the specific, unquantifiable psychological factors that banks consider when assessing the risk profile of a potential borrower applying for a 'Kredit Multiguna'?",
+    "answer": "Not found in context",
+    "page": 44,
+    "question_id": "ojk-u-018",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "f6fccd4977deacd6344220faa2ced6029d73ba772d45b430ba611c42a82126d1",
+      "4486cf66745e1d76bd62f0c8b298ea6c10d2f88f005e8d8dac555d225dd2d0a5"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "The handbook describes Kredit Multiguna collateral terms (page 44) but contains no discussion of psychological risk factors.",
+    "source_section": null,
+    "source_page_verified": 44,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control",
+    "selection_basis": "original_100x100_plus_docling_page_provenance",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "absence_verified_by_full_document_review",
+      "manual_semantic_review_completed": true
+    }
+  },
+  {
+    "question": "What is the precise legal definition of 'securities' as used within the Indonesian capital markets framework?",
+    "answer": "Not found in context",
+    "page": 63,
+    "question_id": "ojk-u-019",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "d90d3c766cbb9da5c2b8ab6440a30185b8e94e1e744f450c04ba0c2a16e0b759",
+      "01e2e6e5ee3fd7cd6ea35f5061f1014e56c4f27262f611feb9d9ef64fdddece8"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "The handbook cites the Capital Market Law and describes its products, but never provides a legal definition of 'Efek' (securities).",
+    "source_section": null,
+    "source_page_verified": 62,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control",
+    "selection_basis": "original_100x100_plus_docling_page_provenance",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "absence_verified_by_full_document_review",
+      "manual_semantic_review_completed": true
+    }
+  },
+  {
+    "question": "Describe the exact workflow for a newly registered investor to access and utilize the online trading platform, including all required approvals and system interactions.",
+    "answer": "Not found in context",
+    "page": 71,
+    "question_id": "ojk-u-020",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "ff676956d502b35567274c5c414848f1d07c2b0fa06c8a8465e7c0353529939e",
+      "959b2770746999cc9568f29778e346d178f324e5ed2ea349bdeb7a102ff36f4a"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "The handbook covers opening a securities account and order settlement (pages 70-71) but not an online platform access workflow.",
+    "source_section": null,
+    "source_page_verified": 71,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control",
+    "selection_basis": "original_100x100_plus_docling_page_provenance",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "absence_verified_by_full_document_review",
+      "manual_semantic_review_completed": true
+    }
+  },
+  {
+    "question": "How does the regulatory oversight of Fintech Pendanaan Bersama differ when a lender and borrower are both foreign entities?",
+    "answer": "Not found in context",
+    "page": 130,
+    "question_id": "ojk-u-021",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "dc42f958562b7de58fb4a1b71404f8982470199d008009a5840d9d2ffc4998e3",
+      "748637933ff74a62354ce3be0511c57c5730f1a7ab5d42969c63af9f0cf5eca1"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "The handbook does not discuss cross-border or foreign lender/borrower regulatory treatment in fintech lending.",
+    "source_section": null,
+    "source_page_verified": 137,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control",
+    "selection_basis": "original_100x100_plus_docling_page_provenance",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "absence_verified_by_full_document_review",
+      "manual_semantic_review_completed": true
+    }
+  },
+  {
+    "question": "What is the maximum allowable interest rate for a Gadai (pawnshop) loan, adjusted for inflation, according to current OJK regulations?",
+    "answer": "Not found in context",
+    "page": 128,
+    "question_id": "ojk-u-022",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "c6440ddc80ee057a59e425f59866fe79dc59eeca56e92c941f436fd829949b63",
+      "25a348f2f1fa984c6a6791a411547b8d55890cc655c1e03c645f97a320cc813f"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "The handbook explains that pawn loan amounts depend on the appraised collateral value (page 122) but states no interest-rate ceiling.",
+    "source_section": null,
+    "source_page_verified": 118,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control",
+    "selection_basis": "original_100x100_plus_docling_page_provenance",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "absence_verified_by_full_document_review",
+      "manual_semantic_review_completed": true
+    }
+  },
+  {
+    "question": "Provide a detailed breakdown of the typical fees and commissions charged by a securities company when facilitating a cross-border securities crowdfunding investment for a retail investor.",
+    "answer": "Not found in context",
+    "page": 68,
+    "question_id": "ojk-u-023",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "df76f7c151af7973e978af233ff3c4733a2541660fe6d12973c6b1b6536c6344",
+      "d1520fee1094217f5d9b993a0163a0b3e8046a85d29a7028be2e50f76ee1a2b7"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "The handbook lists domestic trading fees (pages 74-76) but contains no cross-border SCF fee schedule.",
+    "source_section": null,
+    "source_page_verified": 74,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control",
+    "selection_basis": "original_100x100_plus_docling_page_provenance",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "absence_verified_by_full_document_review",
+      "manual_semantic_review_completed": true
+    }
+  },
+  {
+    "question": "What are the potential long-term systemic risks to the Indonesian capital market arising from the increasing popularity of Securities Crowdfunding (SCF) platforms?",
+    "answer": "Not found in context",
+    "page": 62,
+    "question_id": "ojk-u-024",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "05def01bfadcc04d188ae97d3cd10fac6ebfeaa85ce31ba18c5ad24df2c540f2",
+      "34c2df4caa6b9aa7330cead7f9e1a972e3b75b1ec82e0852d51e3c2103fc5ab0"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "The handbook describes SCF participation limits (page 68) but offers no analysis of systemic risks from SCF growth.",
+    "source_section": null,
+    "source_page_verified": 68,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control",
+    "selection_basis": "original_100x100_plus_docling_page_provenance",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "absence_verified_by_full_document_review",
+      "manual_semantic_review_completed": true
+    }
+  },
+  {
+    "question": "What specific types of pre-existing medical conditions would automatically disqualify an applicant from obtaining a Whole Life insurance policy?",
+    "answer": "Not found in context",
+    "page": 82,
+    "question_id": "ojk-u-025",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "a000b8ce08c30a974448353fabc0fc1d6218c537a77015dc9b8afe7f38ee9946",
+      "6641675880a14c47a06462e498f683293fdfc84bd4598cd72b57df06bed04b73"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "The handbook lists life-insurance product types (page 82) but never discusses underwriting or pre-existing condition exclusions.",
+    "source_section": null,
+    "source_page_verified": 84,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control",
+    "selection_basis": "original_100x100_plus_docling_page_provenance",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "absence_verified_by_full_document_review",
+      "manual_semantic_review_completed": true
+    }
+  },
+  {
+    "question": "What is the precise sequence of steps a claims adjuster takes when investigating a property damage claim, including internal communication protocols?",
+    "answer": "Not found in context",
+    "page": 88,
+    "question_id": "ojk-u-026",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "8112b13e630266a65fd05dfb555857d3d41747269286235e0bd5bb7a6ca01df4",
+      "c70bd0638fcbf861b526923d18a5d66a1e9b6ad1c9db5b5d0bfdbb2b0a1e7100"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "Page 88 introduces the claims procedure section, but the handbook contains no adjuster workflow or internal communication protocol details.",
+    "source_section": null,
+    "source_page_verified": 88,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control",
+    "selection_basis": "original_100x100_plus_docling_page_provenance",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "absence_verified_by_full_document_review",
+      "manual_semantic_review_completed": true
+    }
+  },
+  {
+    "question": "Under what specific circumstances would a Property Insurance policy be suspended or cancelled mid-term, beyond simple non-payment of premiums?",
+    "answer": "Not found in context",
+    "page": 83,
+    "question_id": "ojk-u-027",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "17d6405521d3ff5dffa74091e1abc1c617bc65876b01c5bd68da0dd6f0fb9f64",
+      "b3dfd759aafb570507701f489b2807bf3e6d8ce68fc6d2a18cf873ee6c18c224"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "The handbook defines property-insurance perils (page 83) but does not describe mid-term suspension or cancellation conditions.",
+    "source_section": null,
+    "source_page_verified": 83,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control",
+    "selection_basis": "original_100x100_plus_docling_page_provenance",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "absence_verified_by_full_document_review",
+      "manual_semantic_review_completed": true
+    }
+  },
+  {
+    "question": "What is the minimum level of professional training (hours, curriculum) required for an insurance agent to initially obtain their certification?",
+    "answer": "Not found in context",
+    "page": 89,
+    "question_id": "ojk-u-028",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "dec8c78dadd7863705d8c7edca4819382ea0f1bfc7a88d5a62e373c30387197e",
+      "8112b13e630266a65fd05dfb555857d3d41747269286235e0bd5bb7a6ca01df4"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "The handbook advises choosing certified agents (page 89) but states no training-hour or curriculum requirement.",
+    "source_section": null,
+    "source_page_verified": 89,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control",
+    "selection_basis": "original_100x100_plus_docling_page_provenance",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "absence_verified_by_full_document_review",
+      "manual_semantic_review_completed": true
+    }
+  },
+  {
+    "question": "If a Term Life policyholder wants to increase their coverage amount after the initial policy is issued, what is the exact process and potential impact on premiums?",
+    "answer": "Not found in context",
+    "page": 82,
+    "question_id": "ojk-u-029",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "6b934b619124921c286c83b6fb6d03a68624a41fd5e24841589872d50b6cd00f",
+      "b3dfd759aafb570507701f489b2807bf3e6d8ce68fc6d2a18cf873ee6c18c224"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "The handbook does not describe any process for increasing coverage after a term-life policy is issued.",
+    "source_section": null,
+    "source_page_verified": 78,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control",
+    "selection_basis": "original_100x100_plus_docling_page_provenance",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "absence_verified_by_full_document_review",
+      "manual_semantic_review_completed": true
+    }
+  },
+  {
+    "question": "What specific legal recourse does an insurance company have if a policyholder intentionally provides false information during the application process, and what is the maximum financial penalty?",
+    "answer": "Not found in context",
+    "page": 90,
+    "question_id": "ojk-u-030",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "8112b13e630266a65fd05dfb555857d3d41747269286235e0bd5bb7a6ca01df4",
+      "8469adb0ee08099eb2b850b050f7d5c8565db3a61908284a5ecd848a8ecf0a58"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "The handbook requires honest application (page 86) but gives no sanctions or penalty amounts for false information.",
+    "source_section": null,
+    "source_page_verified": 88,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control",
+    "selection_basis": "original_100x100_plus_docling_page_provenance",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "absence_verified_by_full_document_review",
+      "manual_semantic_review_completed": true
+    }
+  },
+  {
+    "question": "Beyond the general category of 'electronic goods,' what specific types of electronic devices are explicitly approved for financing, categorized by brand or model?",
+    "answer": "Not found in context",
+    "page": 94,
+    "question_id": "ojk-u-031",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "0b88da951404080886854c38e314b204a1d2c0e65c87dbde3e9b07b40860c84e",
+      "821149b5519a131a186c137cff7e5f11fdc78e2e8886d643b986c181c1ddcd17"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "Page 94 lists 'barang elektronik' as a financeable category without naming brands, models, or an approval list.",
+    "source_section": null,
+    "source_page_verified": 123,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control",
+    "selection_basis": "original_100x100_plus_docling_page_provenance",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "absence_verified_by_full_document_review",
+      "manual_semantic_review_completed": true
+    }
+  },
+  {
+    "question": "What is the precise sequence of steps a consumer must take, including specific forms to complete and documents to submit, to initiate a financing application for a wedding package?",
+    "answer": "Not found in context",
+    "page": 94,
+    "question_id": "ojk-u-032",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "b5e10e22ed4c0d2c681e54df8bc8e2d97e841cf5e2121308e319335a3d7d8013",
+      "957a2cb4db822ae106fbb8bb6b688ac1cb2e9efc075eaee7e1e0c3d16bdb14ff"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "The handbook lists wedding costs among financeable services (page 94) but provides no form or document checklist.",
+    "source_section": null,
+    "source_page_verified": 99,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control",
+    "selection_basis": "original_100x100_plus_docling_page_provenance",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "absence_verified_by_full_document_review",
+      "manual_semantic_review_completed": true
+    }
+  },
+  {
+    "question": "How does the handbook compare the eligibility criteria for financing a vehicle purchased from a dealership versus a private seller, detailing any differences in required documentation or approval processes?",
+    "answer": "Not found in context",
+    "page": 94,
+    "question_id": "ojk-u-033",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "50224d81e8604578febf944352b57a5feb8037c95b2cd318d9510da45c16e324",
+      "2b9cfbb664a3d0a804d51162ab697549b7791580225c5fbc273599c83ca11ecf"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "The handbook does not compare dealership and private-seller financing eligibility or documentation.",
+    "source_section": null,
+    "source_page_verified": 91,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control",
+    "selection_basis": "original_100x100_plus_docling_page_provenance",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "absence_verified_by_full_document_review",
+      "manual_semantic_review_completed": true
+    }
+  },
+  {
+    "question": "Describe a hypothetical scenario where a consumer successfully utilizes a Multifinance program to purchase a home, detailing the specific financial planning strategies and risk mitigation techniques employed.",
+    "answer": "Not found in context",
+    "page": 94,
+    "question_id": "ojk-u-035",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "4486cf66745e1d76bd62f0c8b298ea6c10d2f88f005e8d8dac555d225dd2d0a5",
+      "f79744b72ae0a01f2babaf9aa90a2d7049883afed536e28a8cbf5ec395e51032"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "This is a hypothetical scenario; the handbook contains no case study of financing a home through a multifinance program.",
+    "source_section": null,
+    "source_page_verified": 95,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control",
+    "selection_basis": "original_100x100_plus_docling_page_provenance",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "absence_verified_by_full_document_review",
+      "manual_semantic_review_completed": true
+    }
+  },
+  {
+    "question": "What maximum debt-to-income ratio must a consumer meet to qualify for a multifinance product?",
+    "answer": "Not found in context",
+    "page": 92,
+    "question_id": "ojk-u-036",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "f79744b72ae0a01f2babaf9aa90a2d7049883afed536e28a8cbf5ec395e51032",
+      "4486cf66745e1d76bd62f0c8b298ea6c10d2f88f005e8d8dac555d225dd2d0a5"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "The handbook states financing requirements in general terms (page 94) and gives no debt-to-income qualification threshold.",
+    "source_section": null,
+    "source_page_verified": 93,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control",
+    "selection_basis": "original_100x100_plus_docling_page_provenance",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "absence_verified_by_full_document_review",
+      "manual_semantic_review_completed": true
+    }
+  },
+  {
+    "question": "What specific age range qualifies an individual as 'tidak produktif' for pension planning purposes?",
+    "answer": "Not found in context",
+    "page": 101,
+    "question_id": "ojk-u-037",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "1c24ecbc1d5d7b28c4bb480498afe9bf49076ddca20036e0bda69da18548f304",
+      "6c62e1626f8cde3a7d29c1d1fe842d2a87e184cd094d914240e99dec09d5915e"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "Page 101 refers to entering an unproductive age at retirement without specifying any age range.",
+    "source_section": null,
+    "source_page_verified": 101,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control",
+    "selection_basis": "original_100x100_plus_docling_page_provenance",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "absence_verified_by_full_document_review",
+      "manual_semantic_review_completed": true
+    }
+  },
+  {
+    "question": "What identity-verification method and verification deadline are required during online BPJS Ketenagakerjaan registration?",
+    "answer": "Not found in context",
+    "page": 115,
+    "question_id": "ojk-u-038",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "57b5815c5809d119cec0b8c96a37c0d6c6a5f3d933105aba82adf2a0cf1669e7",
+      "8c9b243a6c497a8806bdb024f336e4e521b034da6f0c67ec1d265faaa8f7c189"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "The handbook gives BPJS Ketenagakerjaan online registration steps (page 115) but no identity-verification method or deadline.",
+    "source_section": null,
+    "source_page_verified": 115,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control",
+    "selection_basis": "original_100x100_plus_docling_page_provenance",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "absence_verified_by_full_document_review",
+      "manual_semantic_review_completed": true
+    }
+  },
+  {
+    "question": "Under what specific circumstances would a DPLK investment portfolio be considered 'tidak aman' by regulators, and what actions would be taken?",
+    "answer": "Not found in context",
+    "page": 113,
+    "question_id": "ojk-u-039",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "edf4859a85cf463bd88e532780c82a53af682baa0aacf2994b3963656003e036",
+      "55b2eb1dd69b91b452e2715c2ac2bba6e77e7bfd8988ca3d447d6dd4b8e5226e"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "The handbook gives DPLK selection tips (page 113) but defines no regulatory 'unsafe portfolio' criteria.",
+    "source_section": null,
+    "source_page_verified": 110,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control",
+    "selection_basis": "original_100x100_plus_docling_page_provenance",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "absence_verified_by_full_document_review",
+      "manual_semantic_review_completed": true
+    }
+  },
+  {
+    "question": "How does the tax treatment of pension benefits differ for individuals who retire before the age of 50 versus those who retire after 60, specifically concerning DPPK?",
+    "answer": "Not found in context",
+    "page": 112,
+    "question_id": "ojk-u-041",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "edf4859a85cf463bd88e532780c82a53af682baa0aacf2994b3963656003e036",
+      "04b741cf562b259fe94e91d774b2ccdcd6bfa52d8ac725c1238af490c01b02eb"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "Page 112 mentions pension tax obligations in general; the handbook contains no age-based tax comparison.",
+    "source_section": null,
+    "source_page_verified": 110,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control",
+    "selection_basis": "original_100x100_plus_docling_page_provenance",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "absence_verified_by_full_document_review",
+      "manual_semantic_review_completed": true
+    }
+  },
+  {
+    "question": "What specific internal risk assessment metrics does ASABRI utilize to determine the maximum allowable investment exposure to volatile sectors like cryptocurrency?",
+    "answer": "Not found in context",
+    "page": 108,
+    "question_id": "ojk-u-042",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "47af474bb196d500655623b7e12e6f444ce133788dd82ee24a460797c0123ee1",
+      "34c2df4caa6b9aa7330cead7f9e1a972e3b75b1ec82e0852d51e3c2103fc5ab0"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "The handbook describes ASABRI membership and contributions (page 108) with no internal risk metrics or crypto exposure discussion.",
+    "source_section": null,
+    "source_page_verified": 108,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control",
+    "selection_basis": "original_100x100_plus_docling_page_provenance",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "absence_verified_by_full_document_review",
+      "manual_semantic_review_completed": true
+    }
+  },
+  {
+    "question": "What specific criteria determine the 'good condition' required for a vehicle to be accepted as collateral at PT Pegadaian (Persero)?",
+    "answer": "Not found in context",
+    "page": 124,
+    "question_id": "ojk-u-043",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "821149b5519a131a186c137cff7e5f11fdc78e2e8886d643b986c181c1ddcd17",
+      "44fc9aa2690a48a413bb381167e22770f7e86cc41063201393171be9e3de3a4e"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "Page 124 lists acceptable collateral categories without any condition criteria for vehicles.",
+    "source_section": null,
+    "source_page_verified": 124,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control",
+    "selection_basis": "original_100x100_plus_docling_page_provenance",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "absence_verified_by_full_document_review",
+      "manual_semantic_review_completed": true
+    }
+  },
+  {
+    "question": "What is the precise sequence of steps a customer must follow to initiate a 'safe deposit box' rental online, including required documentation uploads?",
+    "answer": "Not found in context",
+    "page": 119,
+    "question_id": "ojk-u-044",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "c70bd0638fcbf861b526923d18a5d66a1e9b6ad1c9db5b5d0bfdbb2b0a1e7100",
+      "3222f54a64225b59ce0b38c59732eb01c8ac525452ebf123abc6d55fd4739015"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "The handbook mentions safe deposit boxes as a bank service (page 48) and a pawn fee-based service (page 119) but describes no online rental procedure.",
+    "source_section": null,
+    "source_page_verified": 127,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control",
+    "selection_basis": "original_100x100_plus_docling_page_provenance",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "absence_verified_by_full_document_review",
+      "manual_semantic_review_completed": true
+    }
+  },
+  {
+    "question": "What is the maximum age a person can be to be eligible for a pawn loan at PT Pegadaian (Persero)?",
+    "answer": "Not found in context",
+    "page": 117,
+    "question_id": "ojk-u-046",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "44a5277788c633a7b65b71bab0e1af5453d3147ac86c9e288439dc8efdf86e5d",
+      "44fc9aa2690a48a413bb381167e22770f7e86cc41063201393171be9e3de3a4e"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "The handbook contains no age eligibility requirement for pawn customers.",
+    "source_section": null,
+    "source_page_verified": 120,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control",
+    "selection_basis": "original_100x100_plus_docling_page_provenance",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "absence_verified_by_full_document_review",
+      "manual_semantic_review_completed": true
+    }
+  },
+  {
+    "question": "If a customer's pawned item is damaged while in the custody of PT Pegadaian (Persero), what is the exact procedure for determining compensation and resolving disputes?",
+    "answer": "Not found in context",
+    "page": 119,
+    "question_id": "ojk-u-047",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "44fc9aa2690a48a413bb381167e22770f7e86cc41063201393171be9e3de3a4e",
+      "44a5277788c633a7b65b71bab0e1af5453d3147ac86c9e288439dc8efdf86e5d"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "The handbook guarantees item safety as an advantage (page 121) but describes no compensation procedure for damaged pledges.",
+    "source_section": null,
+    "source_page_verified": 124,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control",
+    "selection_basis": "original_100x100_plus_docling_page_provenance",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "absence_verified_by_full_document_review",
+      "manual_semantic_review_completed": true
+    }
+  },
+  {
+    "question": "What specific legal recourse does PT Pegadaian (Persero) have if a borrower intentionally falsifies the appraisal value of a pawned item to secure a larger loan?",
+    "answer": "Not found in context",
+    "page": 124,
+    "question_id": "ojk-u-048",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "85dbe19ce07fa3aa09b48575c0a70a0bb395444ea82e933257f67bdc5a6974e3",
+      "821149b5519a131a186c137cff7e5f11fdc78e2e8886d643b986c181c1ddcd17"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "The handbook contains no fraud-sanction discussion for pawn transactions.",
+    "source_section": null,
+    "source_page_verified": 120,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control",
+    "selection_basis": "original_100x100_plus_docling_page_provenance",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "absence_verified_by_full_document_review",
+      "manual_semantic_review_completed": true
+    }
+  },
+  {
+    "question": "What mandatory maximum approval time must an OJK-licensed Fintech Peer-to-Peer Lending platform meet for a loan application?",
+    "answer": "Not found in context",
+    "page": 130,
+    "question_id": "ojk-u-049",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "2b9cfbb664a3d0a804d51162ab697549b7791580225c5fbc273599c83ca11ecf",
+      "14ebda2fdd85bc4d77a357a4738dc2fe7db4254fbc23be070e5669e0cf588357"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "The handbook gives lender/borrower process steps (pages 131-137) but no regulatory approval-time requirement.",
+    "source_section": null,
+    "source_page_verified": 99,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control",
+    "selection_basis": "original_100x100_plus_docling_page_provenance",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "absence_verified_by_full_document_review",
+      "manual_semantic_review_completed": true
+    }
+  },
+  {
+    "question": "What is the standard sequence of events a borrower experiences from initial application to loan disbursement, including all internal system checks?",
+    "answer": "Not found in context",
+    "page": 138,
+    "question_id": "ojk-u-050",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "ebdbf3788016362aabeba3bbfca4ec71a95678be4ca4bc9be1ecc8339749560f",
+      "2b9cfbb664a3d0a804d51162ab697549b7791580225c5fbc273599c83ca11ecf"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "The handbook outlines borrower benefits (page 133) and costs (page 138) but no end-to-end internal system workflow.",
+    "source_section": null,
+    "source_page_verified": 99,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control",
+    "selection_basis": "original_100x100_plus_docling_page_provenance",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "absence_verified_by_full_document_review",
+      "manual_semantic_review_completed": true
+    }
+  },
+  {
+    "question": "What is the maximum allowable total interest rate, including all fees and charges, that a Fintech Peer-to-Peer Lending platform can legally impose on a borrower?",
+    "answer": "Not found in context",
+    "page": 132,
+    "question_id": "ojk-u-052",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "5392bf3b56ed0b5c76fb8d5633ef655ba239256028a9a1c83755431ae3ab1742",
+      "8a626639069c54ebce214a0a15f7dc0d4111c945322344360ffffa871255a9a8"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "The handbook lists borrower cost types (page 138) without any legal maximum total-interest cap.",
+    "source_section": null,
+    "source_page_verified": 138,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control",
+    "selection_basis": "original_100x100_plus_docling_page_provenance",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "absence_verified_by_full_document_review",
+      "manual_semantic_review_completed": true
+    }
+  },
+  {
+    "question": "Can you provide a detailed case study illustrating how a small business owner successfully utilized a Fintech Peer-to-Peer Lending platform to expand their operations, including specific financial metrics?",
+    "answer": "Not found in context",
+    "page": 133,
+    "question_id": "ojk-u-053",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "8a626639069c54ebce214a0a15f7dc0d4111c945322344360ffffa871255a9a8",
+      "7c0117797cb273e06be3e68b6e36b11c3d9037bf0ae25570ae18b7cbf91758b8"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "The handbook contains no case studies or financial metrics for P2P-funded businesses.",
+    "source_section": null,
+    "source_page_verified": 130,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control",
+    "selection_basis": "original_100x100_plus_docling_page_provenance",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "absence_verified_by_full_document_review",
+      "manual_semantic_review_completed": true
+    }
+  },
+  {
+    "question": "What was the exact publication and distribution budget for the financial-management handbook?",
+    "answer": "Not found in context",
+    "page": 3,
+    "question_id": "ojk-u-055",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "97109b7de7c46600a9f23588bccc9076017828624282644f3880c39c2f7b896a",
+      "7f9429caeb766ebc2382720631cc6843c88c8be806403111e9f05801bf523c93"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "The preface and religious-quotation pages contain no publication or distribution budget.",
+    "source_section": null,
+    "source_page_verified": 22,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control",
+    "selection_basis": "original_100x100_plus_docling_page_provenance",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "absence_verified_by_full_document_review",
+      "manual_semantic_review_completed": true
+    }
+  },
+  {
+    "question": "On what dates did each of the OJK implementing regulations listed under its regulatory authority take effect?",
+    "answer": "Not found in context",
+    "page": 9,
+    "question_id": "ojk-u-057",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "37371fd1b623721206906b87e06e7be925faba98637e482731eb9b1caf6a15a9",
+      "cb4db2984bbdc9d33d4acfb667490c639718228a8e22e801bec57f60f37191b2"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "Page 9 lists categories of OJK regulations without naming specific regulations or their effective dates.",
+    "source_section": null,
+    "source_page_verified": 9,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control",
+    "selection_basis": "original_100x100_plus_docling_page_provenance",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "absence_verified_by_full_document_review",
+      "manual_semantic_review_completed": true
+    }
+  },
+  {
+    "question": "How many consumer complaints did the OJK resolve successfully during 2021?",
+    "answer": "Not found in context",
+    "page": 11,
+    "question_id": "ojk-u-058",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "a6c2fb902be88053efadd47acfe6adcaac95751d46b04c476299bf26eb00096d",
+      "37371fd1b623721206906b87e06e7be925faba98637e482731eb9b1caf6a15a9"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "The handbook provides no complaint-statistics figures.",
+    "source_section": null,
+    "source_page_verified": 11,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control",
+    "selection_basis": "original_100x100_plus_docling_page_provenance",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "absence_verified_by_full_document_review",
+      "manual_semantic_review_completed": true
+    }
+  },
+  {
+    "question": "What average compensation amount did consumers receive through the OJK's protection mandate?",
+    "answer": "Not found in context",
+    "page": 12,
+    "question_id": "ojk-u-059",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "a6c2fb902be88053efadd47acfe6adcaac95751d46b04c476299bf26eb00096d",
+      "3cd64fad836a62285d0a4e29c84a657abc35409828a9c8270dc51ca8d8841745"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "The handbook cites the consumer-protection mandate (articles 28-31) without compensation statistics.",
+    "source_section": null,
+    "source_page_verified": 11,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control",
+    "selection_basis": "original_100x100_plus_docling_page_provenance",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "absence_verified_by_full_document_review",
+      "manual_semantic_review_completed": true
+    }
+  },
+  {
+    "question": "What meeting frequency and quorum rules govern the Investment Alert Task Force?",
+    "answer": "Not found in context",
+    "page": 15,
+    "question_id": "ojk-u-060",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "0c14df33e2597668c20d788a660973585a50970c755c8e69ee514716cd16971c",
+      "d90d3c766cbb9da5c2b8ab6440a30185b8e94e1e744f450c04ba0c2a16e0b759"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "Page 15 lists Satgas WI duties without meeting frequency or quorum rules.",
+    "source_section": null,
+    "source_page_verified": 15,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control",
+    "selection_basis": "original_100x100_plus_docling_page_provenance",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "absence_verified_by_full_document_review",
+      "manual_semantic_review_completed": true
+    }
+  },
+  {
+    "question": "Which encryption standard does APPK use to protect submitted consumer complaints?",
+    "answer": "Not found in context",
+    "page": 18,
+    "question_id": "ojk-u-061",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "0beed8381d69182d8450d76d60629eafcdc6b1ad004defc70ff45d2b16390188",
+      "193ec6c8380a50a345462ae6f466bfa173622112e2fc988d7f9e18206859de6a"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "The handbook introduces APPK (page 18) without any technical security details.",
+    "source_section": null,
+    "source_page_verified": 16,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control",
+    "selection_basis": "original_100x100_plus_docling_page_provenance",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "absence_verified_by_full_document_review",
+      "manual_semantic_review_completed": true
+    }
+  },
+  {
+    "question": "What exact rupiah amount should a newly married couple allocate to each life goal listed in the handbook?",
+    "answer": "Not found in context",
+    "page": 22,
+    "question_id": "ojk-u-062",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "5ebc3644cdd7fefcb714eee499217ccd09b87d46d1b90bb1f1ce2c29d478b3db",
+      "5b6dbbb4c6d53a783d6b0018ac2f60044df5cfeea6d93185e6fbcd6b3a64eabd"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "The handbook lists life-goal examples (page 22) without assigning rupiah amounts.",
+    "source_section": null,
+    "source_page_verified": 24,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control",
+    "selection_basis": "original_100x100_plus_docling_page_provenance",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "absence_verified_by_full_document_review",
+      "manual_semantic_review_completed": true
+    }
+  },
+  {
+    "question": "Does the handbook require married couples to use a joint bank account rather than separate accounts?",
+    "answer": "Not found in context",
+    "page": 26,
+    "question_id": "ojk-u-064",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "e708c68c32231f59b595b4e3f635624ca197e3fc471d7f4b3c556f8cb8d12f47",
+      "22837cd42071188bf95b610650c661a57bd5107bc18cc224471b86530c68efba"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "The handbook recommends discussing financial topics before marriage (page 26) but does not require a joint bank account.",
+    "source_section": null,
+    "source_page_verified": 1,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control",
+    "selection_basis": "original_100x100_plus_docling_page_provenance",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "absence_verified_by_full_document_review",
+      "manual_semantic_review_completed": true
+    }
+  },
+  {
+    "question": "How should the suggested 10/20/30/40 budget allocation change with the number of children in a family?",
+    "answer": "Not found in context",
+    "page": 27,
+    "question_id": "ojk-u-065",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "fca0c51e9eb7b968e6d4e855546fe98a5d7dadc745808b8c00aa308c15b3bca9",
+      "b6ac4b13f8236f025c34cebde5fdb3c512d7107594fc6560fb603816eee90a12"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "The handbook gives a single 10/20/30/40 reference allocation (page 27) without family-size adjustments.",
+    "source_section": null,
+    "source_page_verified": 27,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control",
+    "selection_basis": "original_100x100_plus_docling_page_provenance",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "absence_verified_by_full_document_review",
+      "manual_semantic_review_completed": true
+    }
+  },
+  {
+    "question": "What minimum credit-score value does the handbook use to classify a family's finances as healthy?",
+    "answer": "Not found in context",
+    "page": 31,
+    "question_id": "ojk-u-066",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "68076cb7b212e0aee268797a66601f66b5acd34ffc91d6bb493ed07c92776231",
+      "7f9429caeb766ebc2382720631cc6843c88c8be806403111e9f05801bf523c93"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "The handbook uses five yes/no financial-health questions (page 31), not a credit score.",
+    "source_section": null,
+    "source_page_verified": 31,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control",
+    "selection_basis": "original_100x100_plus_docling_page_provenance",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "absence_verified_by_full_document_review",
+      "manual_semantic_review_completed": true
+    }
+  },
+  {
+    "question": "How many times may a bank extend a working-capital credit facility after maturity?",
+    "answer": "Not found in context",
+    "page": 42,
+    "question_id": "ojk-u-071",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "e8c01d9cb1b6cedc860d54d16774a3ab92a8f289339bc3a47b423581f374adcb",
+      "cdb7bec13846bc4274c5ad2cabd64a6f5140702973d201cba4a3b21091e91666"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "Page 42 says banks may allow extension of working-capital facilities but does not state how many times.",
+    "source_section": null,
+    "source_page_verified": 43,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control",
+    "selection_basis": "original_100x100_plus_docling_page_provenance",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "absence_verified_by_full_document_review",
+      "manual_semantic_review_completed": true
+    }
+  },
+  {
+    "question": "What exact annual interest rate must every bank charge for consumer credit?",
+    "answer": "Not found in context",
+    "page": 43,
+    "question_id": "ojk-u-072",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "a9df563fca633531b1748c15e57de16c5b0080665fcf493251058d53300fc7ac",
+      "4be2c55f511ec3ed9b92e9e2ddcfb3ec5ff1ba0bb1139c5b8f1edd85fc5a5b32"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "The handbook explains why consumer-credit rates are higher (page 43) without any numerical rate.",
+    "source_section": null,
+    "source_page_verified": 98,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control",
+    "selection_basis": "original_100x100_plus_docling_page_provenance",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "absence_verified_by_full_document_review",
+      "manual_semantic_review_completed": true
+    }
+  },
+  {
+    "question": "What valuation formula must a bank use to determine the acceptable value of loan collateral?",
+    "answer": "Not found in context",
+    "page": 44,
+    "question_id": "ojk-u-073",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "0f6b0e8b59a8793fc12ac3171af70bfe17579946380530ffd830dc3b425dd46f",
+      "63276f46f31bd5c6a472e71115b4e0030314a723d2f625d5c4cc7f76126c9f38"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "The handbook discusses collateral generally (page 44) without a valuation formula.",
+    "source_section": null,
+    "source_page_verified": 45,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control",
+    "selection_basis": "original_100x100_plus_docling_page_provenance",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "absence_verified_by_full_document_review",
+      "manual_semantic_review_completed": true
+    }
+  },
+  {
+    "question": "How are members of a Sharia bank's supervisory board selected and appointed?",
+    "answer": "Not found in context",
+    "page": 45,
+    "question_id": "ojk-u-074",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "74158219f9882a7fa46e6535dd4e7f3aab572c6d5483ff2e0bd24896316eea7e",
+      "c70183de5391f050582001e19407f994ff533156d1816cdf38a8ac7baf1d841e"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "The handbook covers sharia contract schemes (page 45) but says nothing about supervisory-board appointment.",
+    "source_section": null,
+    "source_page_verified": 36,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control",
+    "selection_basis": "original_100x100_plus_docling_page_provenance",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "absence_verified_by_full_document_review",
+      "manual_semantic_review_completed": true
+    }
+  },
+  {
+    "question": "What are the exact daily cut-off times for each of the four SKNI transfer batches?",
+    "answer": "Not found in context",
+    "page": 47,
+    "question_id": "ojk-u-076",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "effa76f1e253b0024fdc6cb05064e844bbcd96407c1d0d6656d9ba254a82c2e3",
+      "804d832ebd9be94541768a40d5621026733b780eb1b2e6f4eafe8c1804f6057d"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "The handbook says SKNI clears four times daily (page 47) without cut-off times.",
+    "source_section": null,
+    "source_page_verified": 47,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control",
+    "selection_basis": "original_100x100_plus_docling_page_provenance",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "absence_verified_by_full_document_review",
+      "manual_semantic_review_completed": true
+    }
+  },
+  {
+    "question": "What fixed compensation amount must a bank pay when it discloses a customer's confidential data?",
+    "answer": "Not found in context",
+    "page": 49,
+    "question_id": "ojk-u-077",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "7b0106a75cd7ffe9ec4b89dc4b1589dcd30d846da80675faa8ff1647e1f5e5a8",
+      "193ec6c8380a50a345462ae6f466bfa173622112e2fc988d7f9e18206859de6a"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "The handbook gives customers the right to sue over data breaches (page 49) without any fixed compensation amount.",
+    "source_section": null,
+    "source_page_verified": 50,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control",
+    "selection_basis": "original_100x100_plus_docling_page_provenance",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "absence_verified_by_full_document_review",
+      "manual_semantic_review_completed": true
+    }
+  },
+  {
+    "question": "What minimum internet speed and mobile operating-system version are required for digital banking?",
+    "answer": "Not found in context",
+    "page": 51,
+    "question_id": "ojk-u-079",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "e289b0c18e5c98dcdd58f1da043f05f53ece0346ccc3d53190f7996abef5317c",
+      "4d214bd1dac5d3987702b2b0d56795375d32e932ef8c63e3daf4ee501d816cb2"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "The handbook describes digital banking channels (page 51) without technical requirements.",
+    "source_section": null,
+    "source_page_verified": 52,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control",
+    "selection_basis": "original_100x100_plus_docling_page_provenance",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "absence_verified_by_full_document_review",
+      "manual_semantic_review_completed": true
+    }
+  },
+  {
+    "question": "What numerical scoring formula should consumers use to rank competing banks before choosing a product?",
+    "answer": "Not found in context",
+    "page": 53,
+    "question_id": "ojk-u-080",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "6d27267fe43f95c04cfb5a98a041043f3dedd5cec79f2491652bbb3eed1e5f5b",
+      "a9df563fca633531b1748c15e57de16c5b0080665fcf493251058d53300fc7ac"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "Page 53 gives qualitative selection checks without any scoring formula.",
+    "source_section": null,
+    "source_page_verified": 54,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control",
+    "selection_basis": "original_100x100_plus_docling_page_provenance",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "absence_verified_by_full_document_review",
+      "manual_semantic_review_completed": true
+    }
+  },
+  {
+    "question": "Which named banks waive all mandatory savings-account fees?",
+    "answer": "Not found in context",
+    "page": 54,
+    "question_id": "ojk-u-081",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "eb116c4ea4573dd517eab7e2a1ad90a8781613d2a0d1ee5ea739710c3670a8b3",
+      "4be2c55f511ec3ed9b92e9e2ddcfb3ec5ff1ba0bb1139c5b8f1edd85fc5a5b32"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "The handbook says mandatory and variable fees depend on bank policy (page 54) and names no fee-waiving banks; student savings are mentioned as a fee-free variation without naming banks.",
+    "source_section": null,
+    "source_page_verified": 37,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control",
+    "selection_basis": "original_100x100_plus_docling_page_provenance",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "absence_verified_by_full_document_review",
+      "manual_semantic_review_completed": true
+    }
+  },
+  {
+    "question": "What annual inflation rate does the handbook forecast for Indonesia over the next ten years?",
+    "answer": "Not found in context",
+    "page": 56,
+    "question_id": "ojk-u-082",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "712c6c456156f8db4d9262c74cf3aac21a1074f32a66db1829e9147075822a20",
+      "79a70152c06755adc5d1446723aa334e6bc5b75695639fd1e9921a45d227c093"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "The handbook uses a 5% illustrative inflation figure (page 56) and gives no ten-year forecast.",
+    "source_section": null,
+    "source_page_verified": 57,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control",
+    "selection_basis": "original_100x100_plus_docling_page_provenance",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "absence_verified_by_full_document_review",
+      "manual_semantic_review_completed": true
+    }
+  },
+  {
+    "question": "What exact percentage of income should each age group invest?",
+    "answer": "Not found in context",
+    "page": 59,
+    "question_id": "ojk-u-083",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "970b71dae3885599027d92aeb6595381e64cef0bfdea7b513036abc0815aed24",
+      "b6ac4b13f8236f025c34cebde5fdb3c512d7107594fc6560fb603816eee90a12"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "The handbook suggests investing more than 10% of income for good lifestyle managers (page 59) without age-group percentages.",
+    "source_section": null,
+    "source_page_verified": 59,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control",
+    "selection_basis": "original_100x100_plus_docling_page_provenance",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "absence_verified_by_full_document_review",
+      "manual_semantic_review_completed": true
+    }
+  },
+  {
+    "question": "What formula does the handbook provide for forecasting the future capital gain of an investment?",
+    "answer": "Not found in context",
+    "page": 60,
+    "question_id": "ojk-u-084",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "37d6eeceb2b61c71cb58616ca42fcde4d27b3575d22b7ede75e6772cb456f27c",
+      "91584b34db4cf9db6d89e3746bc9759275cc2db91d3ffa688b100ec14183368c"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "The handbook defines capital gain qualitatively (page 60) without a forecasting formula.",
+    "source_section": null,
+    "source_page_verified": 60,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control",
+    "selection_basis": "original_100x100_plus_docling_page_provenance",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "absence_verified_by_full_document_review",
+      "manual_semantic_review_completed": true
+    }
+  },
+  {
+    "question": "What expected annual return does the handbook assign to real assets compared with financial assets?",
+    "answer": "Not found in context",
+    "page": 61,
+    "question_id": "ojk-u-085",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "a86af7bf1608226ce6947fc7546f299686367c45d13255c078149ef32b2ec422",
+      "37d6eeceb2b61c71cb58616ca42fcde4d27b3575d22b7ede75e6772cb456f27c"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "The handbook classifies real and financial assets (page 61) without return expectations.",
+    "source_section": null,
+    "source_page_verified": 61,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control",
+    "selection_basis": "original_100x100_plus_docling_page_provenance",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "absence_verified_by_full_document_review",
+      "manual_semantic_review_completed": true
+    }
+  },
+  {
+    "question": "What numerical probability does the handbook assign to each type of capital-market risk?",
+    "answer": "Not found in context",
+    "page": 62,
+    "question_id": "ojk-u-086",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "34c2df4caa6b9aa7330cead7f9e1a972e3b75b1ec82e0852d51e3c2103fc5ab0",
+      "a86af7bf1608226ce6947fc7546f299686367c45d13255c078149ef32b2ec422"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "The handbook lists four capital-market risks (page 62) without probability values.",
+    "source_section": null,
+    "source_page_verified": 62,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control",
+    "selection_basis": "original_100x100_plus_docling_page_provenance",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "absence_verified_by_full_document_review",
+      "manual_semantic_review_completed": true
+    }
+  },
+  {
+    "question": "What maximum percentage may each mutual-fund type invest in securities from a single issuer?",
+    "answer": "Not found in context",
+    "page": 66,
+    "question_id": "ojk-u-087",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "c63fcf9b4f8ba4426891bc3c30d640ff4c0af0e094391f302b0c642e3ecbb3ef",
+      "05def01bfadcc04d188ae97d3cd10fac6ebfeaa85ce31ba18c5ad24df2c540f2"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "The handbook defines fund types by asset composition (page 66) without single-issuer concentration limits.",
+    "source_section": null,
+    "source_page_verified": 69,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control",
+    "selection_basis": "original_100x100_plus_docling_page_provenance",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "absence_verified_by_full_document_review",
+      "manual_semantic_review_completed": true
+    }
+  },
+  {
+    "question": "What exact minimum initial deposit must every securities company require before an investor may trade?",
+    "answer": "Not found in context",
+    "page": 71,
+    "question_id": "ojk-u-090",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "3222f54a64225b59ce0b38c59732eb01c8ac525452ebf123abc6d55fd4739015",
+      "959b2770746999cc9568f29778e346d178f324e5ed2ea349bdeb7a102ff36f4a"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "Page 71 says securities companies require a certain deposit without stating a minimum amount.",
+    "source_section": null,
+    "source_page_verified": 71,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control",
+    "selection_basis": "original_100x100_plus_docling_page_provenance",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "absence_verified_by_full_document_review",
+      "manual_semantic_review_completed": true
+    }
+  },
+  {
+    "question": "How many working days must a selling agent take to approve a new mutual-fund account?",
+    "answer": "Not found in context",
+    "page": 72,
+    "question_id": "ojk-u-091",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "e7a9e3a17d06242dda09e9b23b2adad6008b16cd53c19799f799246677937fc3",
+      "be0ce5b6bbe6c0f3d5d367ae0008eff0111be2e2f805522e25c250336b4a05c2"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "The handbook gives account-opening steps (page 72) without an approval-time figure.",
+    "source_section": null,
+    "source_page_verified": 74,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control",
+    "selection_basis": "original_100x100_plus_docling_page_provenance",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "absence_verified_by_full_document_review",
+      "manual_semantic_review_completed": true
+    }
+  },
+  {
+    "question": "Which securities company offers the lowest share-trading broker fee?",
+    "answer": "Not found in context",
+    "page": 74,
+    "question_id": "ojk-u-093",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "df76f7c151af7973e978af233ff3c4733a2541660fe6d12973c6b1b6536c6344",
+      "be0ce5b6bbe6c0f3d5d367ae0008eff0111be2e2f805522e25c250336b4a05c2"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "The handbook gives average broker-fee ranges (page 74) without naming companies or identifying a cheapest one.",
+    "source_section": null,
+    "source_page_verified": 74,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control",
+    "selection_basis": "original_100x100_plus_docling_page_provenance",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "absence_verified_by_full_document_review",
+      "manual_semantic_review_completed": true
+    }
+  },
+  {
+    "question": "How does the electronic-bond custody fee differ among individual Indonesian banks and securities firms?",
+    "answer": "Not found in context",
+    "page": 76,
+    "question_id": "ojk-u-094",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "8cad9e3e4d1d6d54c1d7402a3c525c42ee803fbbc67e51a27ad6d2768c83f2dc",
+      "9ef53d25ea5aeba9a84d34280b9a783ef6a21e74da4c047fe2e2d525dcb558c2"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "The handbook gives a 0-0.05% custody-fee range (page 76) without firm-by-firm differences.",
+    "source_section": null,
+    "source_page_verified": 75,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control",
+    "selection_basis": "original_100x100_plus_docling_page_provenance",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "absence_verified_by_full_document_review",
+      "manual_semantic_review_completed": true
+    }
+  },
+  {
+    "question": "What annual claim limits apply to dental care, glasses, and childbirth under health insurance?",
+    "answer": "Not found in context",
+    "page": 84,
+    "question_id": "ojk-u-097",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "a000b8ce08c30a974448353fabc0fc1d6218c537a77015dc9b8afe7f38ee9946",
+      "6641675880a14c47a06462e498f683293fdfc84bd4598cd72b57df06bed04b73"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "The handbook lists covered health benefits as limited by the policy wording (page 84) without numeric limits.",
+    "source_section": null,
+    "source_page_verified": 84,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control",
+    "selection_basis": "original_100x100_plus_docling_page_provenance",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "absence_verified_by_full_document_review",
+      "manual_semantic_review_completed": true
+    }
+  },
+  {
+    "question": "Which organisation issues insurance-agent certification, and how often must the certification be renewed?",
+    "answer": "Not found in context",
+    "page": 89,
+    "question_id": "ojk-u-098",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "dec8c78dadd7863705d8c7edca4819382ea0f1bfc7a88d5a62e373c30387197e",
+      "6641675880a14c47a06462e498f683293fdfc84bd4598cd72b57df06bed04b73"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "The handbook requires certified agents (page 89) without naming the certification body or renewal period.",
+    "source_section": null,
+    "source_page_verified": 89,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control",
+    "selection_basis": "original_100x100_plus_docling_page_provenance",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "absence_verified_by_full_document_review",
+      "manual_semantic_review_completed": true
+    }
+  },
+  {
+    "question": "What minimum paid-up capital is required to establish a conventional or Sharia pawn company?",
+    "answer": "Not found in context",
+    "page": 120,
+    "question_id": "ojk-u-099",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "25a348f2f1fa984c6a6791a411547b8d55890cc655c1e03c645f97a320cc813f",
+      "80a77f72b66829eb97b661eee28fb1532eba48a89baed519e3453a012143743f"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "The handbook cites the legal basis of PT Pegadaian (page 119) without capital requirements for pawn companies.",
+    "source_section": null,
+    "source_page_verified": 120,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control",
+    "selection_basis": "original_100x100_plus_docling_page_provenance",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "absence_verified_by_full_document_review",
+      "manual_semantic_review_completed": true
+    }
+  },
+  {
+    "question": "What interest or profit-margin rates apply to instalment-based pawn loans and fiduciary financing?",
+    "answer": "Not found in context",
+    "page": 123,
+    "question_id": "ojk-u-100",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "4be2c55f511ec3ed9b92e9e2ddcfb3ec5ff1ba0bb1139c5b8f1edd85fc5a5b32",
+      "c607a10c7d3becf91f607180cc448f5fea19b9b056d3052ee57657402265b780"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "The handbook describes instalment pawn and fiducia products (page 123) without interest or margin rates.",
+    "source_section": null,
+    "source_page_verified": 54,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control",
+    "selection_basis": "original_100x100_plus_docling_page_provenance",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "absence_verified_by_full_document_review",
+      "manual_semantic_review_completed": true
+    }
+  }
+]

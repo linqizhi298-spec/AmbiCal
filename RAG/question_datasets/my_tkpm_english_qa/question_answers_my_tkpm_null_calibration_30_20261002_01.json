@@ -1,0 +1,302 @@
+[
+  {
+    "question": "Which Indonesian bank currently pays the highest savings interest rate?",
+    "answer": "Not found in context",
+    "page": null,
+    "calibration_id": "AMB-MYTKPM-NULL-001",
+    "calibration_type": "null",
+    "calibration_purpose": "null_distribution",
+    "absent_reason": "Market rate rankings sit outside the handbook's scope.",
+    "topical_anchor": "Outside handbook scope: bank rate comparison"
+  },
+  {
+    "question": "How does Bank Indonesia decide the 7-day reverse repo rate?",
+    "answer": "Not found in context",
+    "page": null,
+    "calibration_id": "AMB-MYTKPM-NULL-002",
+    "calibration_type": "null",
+    "calibration_purpose": "null_distribution",
+    "absent_reason": "Monetary-policy mechanics are not covered; the handbook only mentions BI as the former banking supervisor.",
+    "topical_anchor": "Outside handbook scope: monetary policy"
+  },
+  {
+    "question": "What was Indonesia's GDP growth rate last year?",
+    "answer": "Not found in context",
+    "page": null,
+    "calibration_id": "AMB-MYTKPM-NULL-003",
+    "calibration_type": "null",
+    "calibration_purpose": "null_distribution",
+    "absent_reason": "Macroeconomic statistics sit outside this consumer-protection handbook.",
+    "topical_anchor": "Outside handbook scope: macroeconomics"
+  },
+  {
+    "question": "How do exchange-rate swings affect import prices for Indonesian retailers?",
+    "answer": "Not found in context",
+    "page": null,
+    "calibration_id": "AMB-MYTKPM-NULL-004",
+    "calibration_type": "null",
+    "calibration_purpose": "null_distribution",
+    "absent_reason": "Currency analysis is outside the handbook's household-finance scope.",
+    "topical_anchor": "Outside handbook scope: exchange rates"
+  },
+  {
+    "question": "What is the historical average annual return of the Jakarta Composite Index?",
+    "answer": "Not found in context",
+    "page": null,
+    "calibration_id": "AMB-MYTKPM-NULL-005",
+    "calibration_type": "null",
+    "calibration_purpose": "null_distribution",
+    "absent_reason": "Market-history data is not part of the handbook.",
+    "topical_anchor": "Outside handbook scope: equity market history"
+  },
+  {
+    "question": "Which accounting standard governs small-business bookkeeping in Indonesia?",
+    "answer": "Not found in context",
+    "page": null,
+    "calibration_id": "AMB-MYTKPM-NULL-006",
+    "calibration_type": "null",
+    "calibration_purpose": "null_distribution",
+    "absent_reason": "Accounting standards are outside the handbook.",
+    "topical_anchor": "Outside handbook scope: accounting standards"
+  },
+  {
+    "question": "What tax deductions are available for home-office expenses in Indonesia?",
+    "answer": "Not found in context",
+    "page": null,
+    "calibration_id": "AMB-MYTKPM-NULL-007",
+    "calibration_type": "null",
+    "calibration_purpose": "null_distribution",
+    "absent_reason": "Only the final deposit-interest tax appears in the handbook; broader income-tax rules are outside it.",
+    "topical_anchor": "Outside handbook scope: income taxation"
+  },
+  {
+    "question": "How do mutual-fund managers use derivatives to hedge portfolios?",
+    "answer": "Not found in context",
+    "page": null,
+    "calibration_id": "AMB-MYTKPM-NULL-008",
+    "calibration_type": "null",
+    "calibration_purpose": "null_distribution",
+    "absent_reason": "Derivative strategies are outside the handbook's introductory treatment.",
+    "topical_anchor": "Outside handbook scope: derivatives"
+  },
+  {
+    "question": "What is the minimum wage in Jakarta this year?",
+    "answer": "Not found in context",
+    "page": null,
+    "calibration_id": "AMB-MYTKPM-NULL-009",
+    "calibration_type": "null",
+    "calibration_purpose": "null_distribution",
+    "absent_reason": "Wage policy sits outside the handbook.",
+    "topical_anchor": "Outside handbook scope: labor market"
+  },
+  {
+    "question": "What are the tax implications of receiving an inheritance in Indonesia?",
+    "answer": "Not found in context",
+    "page": null,
+    "calibration_id": "AMB-MYTKPM-NULL-010",
+    "calibration_type": "null",
+    "calibration_purpose": "null_distribution",
+    "absent_reason": "Inheritance appears only as a savings goal; inheritance tax rules are outside the handbook.",
+    "topical_anchor": "Outside handbook scope: inheritance taxation"
+  },
+  {
+    "question": "How does blockchain technology change interbank settlement?",
+    "answer": "Not found in context",
+    "page": null,
+    "calibration_id": "AMB-MYTKPM-NULL-011",
+    "calibration_type": "null",
+    "calibration_purpose": "null_distribution",
+    "absent_reason": "Settlement technology beyond the named systems is outside the handbook.",
+    "topical_anchor": "Outside handbook scope: financial technology infrastructure"
+  },
+  {
+    "question": "What is the average wedding cost in Jakarta?",
+    "answer": "Not found in context",
+    "page": null,
+    "calibration_id": "AMB-MYTKPM-NULL-012",
+    "calibration_type": "null",
+    "calibration_purpose": "null_distribution",
+    "absent_reason": "Weddings appear only as a financeable service; cost surveys are outside the handbook.",
+    "topical_anchor": "Outside handbook scope: household spending surveys"
+  },
+  {
+    "question": "What is the corporate income-tax rate for small enterprises in Indonesia?",
+    "answer": "Not found in context",
+    "page": null,
+    "calibration_id": "AMB-MYTKPM-NULL-013",
+    "calibration_type": "null",
+    "calibration_purpose": "null_distribution",
+    "absent_reason": "Corporate taxation is outside the handbook.",
+    "topical_anchor": "Outside handbook scope: corporate taxation"
+  },
+  {
+    "question": "How do cryptocurrency exchanges comply with anti-money-laundering rules in Indonesia?",
+    "answer": "Not found in context",
+    "page": null,
+    "calibration_id": "AMB-MYTKPM-NULL-014",
+    "calibration_type": "null",
+    "calibration_purpose": "null_distribution",
+    "absent_reason": "Crypto assets are not covered by the handbook.",
+    "topical_anchor": "Outside handbook scope: crypto regulation"
+  },
+  {
+    "question": "What pension reforms did Indonesia's 2020 omnibus law introduce?",
+    "answer": "Not found in context",
+    "page": null,
+    "calibration_id": "AMB-MYTKPM-NULL-015",
+    "calibration_type": "null",
+    "calibration_purpose": "null_distribution",
+    "absent_reason": "Legislative reform history is outside the handbook.",
+    "topical_anchor": "Outside handbook scope: pension reform"
+  },
+  {
+    "question": "How is the hajj pilgrimage savings queue allocated by the government?",
+    "answer": "Not found in context",
+    "page": null,
+    "calibration_id": "AMB-MYTKPM-NULL-016",
+    "calibration_type": "null",
+    "calibration_purpose": "null_distribution",
+    "absent_reason": "Hajj appears only as a long-term savings goal; queue administration is outside the handbook.",
+    "topical_anchor": "Outside handbook scope: hajj financing administration"
+  },
+  {
+    "question": "What asset allocation does modern portfolio theory recommend for a 30-year-old investor?",
+    "answer": "Not found in context",
+    "page": null,
+    "calibration_id": "AMB-MYTKPM-NULL-017",
+    "calibration_type": "null",
+    "calibration_purpose": "null_distribution",
+    "absent_reason": "Portfolio theory is outside the handbook's reference allocation.",
+    "topical_anchor": "Outside handbook scope: portfolio theory"
+  },
+  {
+    "question": "Which universities in Indonesia offer actuarial science degrees?",
+    "answer": "Not found in context",
+    "page": null,
+    "calibration_id": "AMB-MYTKPM-NULL-018",
+    "calibration_type": "null",
+    "calibration_purpose": "null_distribution",
+    "absent_reason": "Education directories are outside the handbook.",
+    "topical_anchor": "Outside handbook scope: education directories"
+  },
+  {
+    "question": "What are the listing requirements for a company to hold an IPO on the IDX?",
+    "answer": "Not found in context",
+    "page": null,
+    "calibration_id": "AMB-MYTKPM-NULL-019",
+    "calibration_type": "null",
+    "calibration_purpose": "null_distribution",
+    "absent_reason": "The handbook covers investing in listed products, not IPO listing requirements.",
+    "topical_anchor": "Outside handbook scope: IPO process"
+  },
+  {
+    "question": "What government subsidies support residential solar-panel installation?",
+    "answer": "Not found in context",
+    "page": null,
+    "calibration_id": "AMB-MYTKPM-NULL-020",
+    "calibration_type": "null",
+    "calibration_purpose": "null_distribution",
+    "absent_reason": "Energy subsidies are outside the handbook.",
+    "topical_anchor": "Outside handbook scope: energy subsidies"
+  },
+  {
+    "question": "How does zakat calculation differ between farming income and salary?",
+    "answer": "Not found in context",
+    "page": null,
+    "calibration_id": "AMB-MYTKPM-NULL-021",
+    "calibration_type": "null",
+    "calibration_purpose": "null_distribution",
+    "absent_reason": "Zakat appears only as a stock-philanthropy feature; zakat rules are outside the handbook.",
+    "topical_anchor": "Outside handbook scope: religious obligations"
+  },
+  {
+    "question": "What credit data does the OJK loan-bureau (SLIK) provide to lenders?",
+    "answer": "Not found in context",
+    "page": null,
+    "calibration_id": "AMB-MYTKPM-NULL-022",
+    "calibration_type": "null",
+    "calibration_purpose": "null_distribution",
+    "absent_reason": "The handbook never mentions the credit-bureau system.",
+    "topical_anchor": "Outside handbook scope: credit information systems"
+  },
+  {
+    "question": "How do currency-hedged bond funds reduce exchange-rate risk?",
+    "answer": "Not found in context",
+    "page": null,
+    "calibration_id": "AMB-MYTKPM-NULL-023",
+    "calibration_type": "null",
+    "calibration_purpose": "null_distribution",
+    "absent_reason": "Hedged fund structures are outside the handbook.",
+    "topical_anchor": "Outside handbook scope: hedging instruments"
+  },
+  {
+    "question": "What are the eligibility criteria for the government's FLPP housing subsidy mortgage?",
+    "answer": "Not found in context",
+    "page": null,
+    "calibration_id": "AMB-MYTKPM-NULL-024",
+    "calibration_type": "null",
+    "calibration_purpose": "null_distribution",
+    "absent_reason": "Housing credit appears as a consumer product; subsidy programs are outside the handbook.",
+    "topical_anchor": "Outside handbook scope: housing subsidies"
+  },
+  {
+    "question": "How do remittance firms keep transfer costs low for migrant workers?",
+    "answer": "Not found in context",
+    "page": null,
+    "calibration_id": "AMB-MYTKPM-NULL-025",
+    "calibration_type": "null",
+    "calibration_purpose": "null_distribution",
+    "absent_reason": "The handbook names overseas transfers as a bank service but not remittance-cost economics.",
+    "topical_anchor": "Outside handbook scope: remittance economics"
+  },
+  {
+    "question": "What cybersecurity standards apply to bank data centers in Indonesia?",
+    "answer": "Not found in context",
+    "page": null,
+    "calibration_id": "AMB-MYTKPM-NULL-026",
+    "calibration_type": "null",
+    "calibration_purpose": "null_distribution",
+    "absent_reason": "The handbook covers customer data confidentiality only, not data-center standards.",
+    "topical_anchor": "Outside handbook scope: security standards"
+  },
+  {
+    "question": "Which indicators do analysts use to time stock-market cycles?",
+    "answer": "Not found in context",
+    "page": null,
+    "calibration_id": "AMB-MYTKPM-NULL-027",
+    "calibration_type": "null",
+    "calibration_purpose": "null_distribution",
+    "absent_reason": "Market-timing analysis is outside the handbook's introductory investing guidance.",
+    "topical_anchor": "Outside handbook scope: market analysis"
+  },
+  {
+    "question": "How does fractional-reserve banking multiply the money supply?",
+    "answer": "Not found in context",
+    "page": null,
+    "calibration_id": "AMB-MYTKPM-NULL-028",
+    "calibration_type": "null",
+    "calibration_purpose": "null_distribution",
+    "absent_reason": "Money-supply mechanics are outside the handbook.",
+    "topical_anchor": "Outside handbook scope: banking theory"
+  },
+  {
+    "question": "What insurance covers professional liability for Indonesian doctors?",
+    "answer": "Not found in context",
+    "page": null,
+    "calibration_id": "AMB-MYTKPM-NULL-029",
+    "calibration_type": "null",
+    "calibration_purpose": "null_distribution",
+    "absent_reason": "The handbook's insurance taxonomy stops at standard retail products; professional indemnity details are outside it.",
+    "topical_anchor": "Outside handbook scope: professional liability insurance"
+  },
+  {
+    "question": "How are sovereign-credit ratings determined for Indonesia?",
+    "answer": "Not found in context",
+    "page": null,
+    "calibration_id": "AMB-MYTKPM-NULL-030",
+    "calibration_type": "null",
+    "calibration_purpose": "null_distribution",
+    "absent_reason": "Credit-rating methodology is outside the handbook.",
+    "topical_anchor": "Outside handbook scope: sovereign ratings"
+  }
+]

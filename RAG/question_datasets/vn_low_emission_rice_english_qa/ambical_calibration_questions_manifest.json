@@ -1,0 +1,64 @@
+{
+  "schema_version": 1,
+  "artifact_type": "ambical_calibration_question_sets",
+  "created_at": "2026-09-17T14:41:56.2874793+08:00",
+  "dataset": "vn_low_emission_rice_english_qa",
+  "document_language": "vietnamese",
+  "query_language": "english",
+  "answer_label": "Not found in context",
+  "design": {
+    "total_questions": 60,
+    "false_positive_prior_questions": 30,
+    "null_distribution_questions": 30,
+    "false_positive_design": "Topically close hard negatives that refer to a handbook section but request an unsupported attribute, specification, limit, price, service, or rule.",
+    "null_design": "Agriculture-related questions outside the handbook's technical scope, used only to estimate document-level Null evidence strength.",
+    "page_policy": "All calibration questions use page=null because the handbook contains no supporting answer page.",
+    "formal_evaluation_policy": "Calibration questions must not be merged into, scored as, or used to tune against the formal 100 answerable plus 100 unanswerable test questions."
+  },
+  "sources": {
+    "manual": {
+      "path": "RAG/cross_domain_data/vn_low_emission_rice_agriculture/retrieval_text/So_tay_lua_chat_luong_cao_phat_thai_thap_DBSCL_text_only.md",
+      "sha256": "6a69331bbe23e6b5fe53b09594f08822911e8ba8a2eeb8c692db585e93bca0dd"
+    },
+    "formal_answerable_questions": {
+      "path": "RAG/question_datasets/vn_low_emission_rice_english_qa/question_answers_pairs.json",
+      "count": 100,
+      "sha256": "6b4d918c8433186703b0c1918170883b3cdeaaae5240ee000c1dacf0ee4ac4eb"
+    },
+    "formal_unanswerable_questions": {
+      "path": "RAG/question_datasets/vn_low_emission_rice_english_qa/question_answers_unanswerable.json",
+      "count": 100,
+      "sha256": "23de6833abd42b586b925952002be6f71e8dcbb736a5526beaf8d5fc8da0065c"
+    }
+  },
+  "calibration_sets": {
+    "false_positive_prior": {
+      "path": "RAG/question_datasets/vn_low_emission_rice_english_qa/question_answers_false_positive_calibration.json",
+      "count": 30,
+      "sha256": "678255e48af9e08f8ab2d1d2d89e6f6dde686f7f4acb1d850bb8777a8b542362"
+    },
+    "null_distribution": {
+      "path": "RAG/question_datasets/vn_low_emission_rice_english_qa/question_answers_null_calibration.json",
+      "count": 30,
+      "sha256": "77fe196880f44d5b2eea920bff7383f568012aba6c79889e997d8545c77393e9"
+    }
+  },
+  "independence_checks": {
+    "normalization": "lowercase ASCII alphanumeric tokens with punctuation and repeated whitespace removed",
+    "false_positive_test_overlap_count": 0,
+    "null_test_overlap_count": 0,
+    "false_positive_null_overlap_count": 0,
+    "duplicate_calibration_id_count": 0,
+    "schema_violation_count": 0,
+    "manual_paraphrase_or_requested_attribute_duplicate_count": 0,
+    "false_positive_vs_formal_max_token_jaccard": 0.5,
+    "null_vs_formal_max_token_jaccard": 0.3125,
+    "false_positive_vs_null_max_token_jaccard": 0.25,
+    "jaccard_note": "Lexical similarity is diagnostic only. False-positive hard negatives intentionally share handbook terminology while asking for a different unsupported attribute."
+  },
+  "status": {
+    "questions_ready": true,
+    "calibration_profile_built": false,
+    "ambical_full_test_started": false
+  }
+}

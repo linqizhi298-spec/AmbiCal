@@ -1,0 +1,62 @@
+{
+  "embedding_model_name": "D:\\Analysis code\\models\\bge-m3",
+  "embedding_max_length": 8192,
+  "chroma_persist_dir": "D:\\Analysis code\\ambical\\RAG\\chroma_db_ojk_bge_m3_fp16",
+  "enable_reevaluation": false,
+  "evaluator_model_name": "gemma3_12B-128k",
+  "question_models_to_test": [
+    "qwen2.5_7B-128k"
+  ],
+  "prompt_paths": {
+    "question_prompt": "D:\\Analysis code\\ambical\\RAG\\prompt_templates\\question_prompt.txt",
+    "evaluation_prompt": "D:\\Analysis code\\ambical\\RAG\\prompt_templates\\evaluation_prompt.txt"
+  },
+  "language_configs": [
+    {
+      "language": "indonesian",
+      "translation_target_language": "Indonesian",
+      "manual_path": "D:\\Analysis code\\ambical\\manuals\\ojk_docling\\Buku_Saku_OJK_-_Bagi_Calon_Pengantin.md",
+      "collection_base_name": "ojk_finance_indonesian_bge_m3",
+      "manual_sha256": "edaa11a5c54e8fcc88a826eee5a929542163b5168f46164827ee4ac266756190"
+    }
+  ],
+  "llm_models": {
+    "ollama": {
+      "qwen2.5_7B-128k": {
+        "name": "qwen2.5:7b",
+        "temperature": 0.0,
+        "num_predict": 1024,
+        "context_window": 128000
+      },
+      "qwen2.5_7B-translator": {
+        "name": "qwen2.5:7b",
+        "temperature": 0,
+        "num_predict": 256
+      },
+      "gemma3_12B-128k": {
+        "name": "gemma3:12b",
+        "temperature": 0.0,
+        "num_predict": 1024,
+        "context_window": 128000
+      }
+    }
+  },
+  "rag_parameters": {
+    "retrieval_algorithms_to_test": [
+      "embedding"
+    ],
+    "chunk_sizes_to_test": [
+      200
+    ],
+    "overlap_sizes_to_test": [
+      100
+    ],
+    "num_retrieved_docs": 10,
+    "adaptive_k_enabled": false
+  },
+  "question_dataset_paths": {
+    "general_questions": "D:\\Analysis code\\ambical\\RAG\\question_datasets\\ojk_finance_english_qa\\question_answers_pairs_ojk_finance_v51_independent_100_20261001_01.json",
+    "unanswerable_questions": "D:\\Analysis code\\ambical\\RAG\\question_datasets\\ojk_finance_english_qa\\question_answers_unanswerable_ojk_finance_v51_independent_100_20261001_01.json"
+  },
+  "output_dir": "D:\\Analysis code\\ambical\\RAG\\user_runs\\dense\\ojk_finance_v51\\formal200\\fixed_k10_20261001_01"
+}

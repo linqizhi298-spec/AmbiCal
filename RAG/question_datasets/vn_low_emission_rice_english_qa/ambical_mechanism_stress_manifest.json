@@ -1,0 +1,68 @@
+{
+  "schema_version": 1,
+  "dataset_id": "vn_low_emission_rice_ambical_mechanism_stress_v1",
+  "dataset_role": "post_formal_mechanism_stress_only",
+  "created_after_primary_formal_run": true,
+  "question_count": 30,
+  "answerable_count": 22,
+  "unanswerable_count": 8,
+  "question_language": "English",
+  "document_language": "Vietnamese",
+  "data_file": {
+    "path": "RAG/question_datasets/vn_low_emission_rice_english_qa/question_answers_ambical_mechanism_stress.json",
+    "sha256": "e2adeab860cb8dec184beadbece3e8eda284b937a3d38941e70a564390eb072c"
+  },
+  "source_artifacts": {
+    "manual": {
+      "path": "RAG/cross_domain_data/vn_low_emission_rice_agriculture/retrieval_text/So_tay_lua_chat_luong_cao_phat_thai_thap_DBSCL_text_only.md",
+      "sha256": "6a69331bbe23e6b5fe53b09594f08822911e8ba8a2eeb8c692db585e93bca0dd"
+    },
+    "formal_answerable": {
+      "path": "RAG/question_datasets/vn_low_emission_rice_english_qa/question_answers_pairs.json",
+      "sha256": "6b4d918c8433186703b0c1918170883b3cdeaaae5240ee000c1dacf0ee4ac4eb"
+    },
+    "formal_unanswerable": {
+      "path": "RAG/question_datasets/vn_low_emission_rice_english_qa/question_answers_unanswerable.json",
+      "sha256": "23de6833abd42b586b925952002be6f71e8dcbb736a5526beaf8d5fc8da0065c"
+    },
+    "false_positive_calibration": {
+      "path": "RAG/question_datasets/vn_low_emission_rice_english_qa/question_answers_false_positive_calibration.json",
+      "sha256": "678255e48af9e08f8ab2d1d2d89e6f6dde686f7f4acb1d850bb8777a8b542362"
+    },
+    "null_calibration": {
+      "path": "RAG/question_datasets/vn_low_emission_rice_english_qa/question_answers_null_calibration.json",
+      "sha256": "77fe196880f44d5b2eea920bff7383f568012aba6c79889e997d8545c77393e9"
+    }
+  },
+  "method_indicator_mapping": {
+    "B0(q)": "context_gate.competition",
+    "D_bar(q)": "context_gate.weighted_distance",
+    "D0(q)": "context_gate.context_split",
+    "J_route(q)": "context_gate.route_total_variation",
+    "chi(q)": "diagnostics.combined_consistency",
+    "C_path(q)": "context_gate.path_conflict",
+    "E0(q)": "context_gate.evidence_strength",
+    "A_ctx(q)": "context_gate.risk",
+    "g_ctx(q)": "context_gate.triggered",
+    "beta_l(a)": "context_correction.phrases.*.(source|target).beta",
+    "M_l(c_i)": "context_correction.phrases.*.(source|target).risk"
+  },
+  "evaluation_policy": {
+    "run_total": "100 answerable + 100 unanswerable + 30 mechanism-stress",
+    "primary_metrics": "computed only from the original 100 + 100 formal questions",
+    "stress_metrics": "reported separately as indicator and trigger coverage",
+    "parameter_tuning_from_primary_200": false,
+    "parameter_tuning_from_stress_30": false,
+    "may_be_merged_into_primary_accuracy_or_f1": false,
+    "may_be_described_as_an_independent_natural_test_set": false
+  },
+  "verification_status": {
+    "questions_constructed": true,
+    "schema_and_overlap_checks_completed": true,
+    "actual_A_ctx_threshold_crossing_verified": false,
+    "context_gate_trigger_verified": false,
+    "counterfactual_correction_verified": false,
+    "full_230_run_started": false
+  },
+  "important_interpretation": "Indicator targets are preregistered qualitative expectations, not observed results. A question counts as a verified trigger only when the unchanged method reports A_ctx(q) >= 0.20, g_ctx(q)=true, and context_correction.executed=true."
+}

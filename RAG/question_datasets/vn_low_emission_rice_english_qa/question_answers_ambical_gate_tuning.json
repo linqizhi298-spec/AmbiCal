@@ -1,0 +1,654 @@
+[
+  {
+    "development_id": "ewdev-oa-001",
+    "question": "Which previously issued technical process does the handbook cite as the basis for its land-preparation guidance, and when was that process issued?",
+    "answer": "It cites the common Mekong Delta land-preparation process under Decision No. 73/QD-TT-VPPN, issued on April 25, 2022.",
+    "page": null,
+    "answerability": "answerable",
+    "category": "ordinary_answerable",
+    "manual_sections": [
+      "II. Kỹ thuật canh tác",
+      "1. Làm đất"
+    ],
+    "gold_chunk_ids": [
+      "1484eb545bc948b7dd6a910624dec15b0af95210aab99cda60373e98cd510963"
+    ],
+    "wrong_sense_chunk_ids": [],
+    "minimum_evidence_count": 1,
+    "context_gate_label": "not_required",
+    "parameter_roles": [
+      "lambda_false_positive",
+      "null_thresholds"
+    ]
+  },
+  {
+    "development_id": "ewdev-oa-003",
+    "question": "What material should be cleared from the field before disc plowing, and which field structure should be reinforced for water control?",
+    "answer": "Excess straw and stubble, plants or stakes, and plastic film should be removed, and the field bunds should be reinforced.",
+    "page": null,
+    "answerability": "answerable",
+    "category": "ordinary_answerable",
+    "manual_sections": [
+      "II. Kỹ thuật canh tác",
+      "1. Làm đất"
+    ],
+    "gold_chunk_ids": [
+      "4c2e453fec6ea4cd63f6aca6e7121894b38e07f0c751ba7484b6d91edd57f393"
+    ],
+    "wrong_sense_chunk_ids": [],
+    "minimum_evidence_count": 1,
+    "context_gate_label": "not_required",
+    "parameter_roles": [
+      "lambda_false_positive",
+      "null_thresholds"
+    ]
+  },
+  {
+    "development_id": "ewdev-oa-005",
+    "question": "Which crop and field characteristics does the seed-quantity guidance say may justify sowing less seed?",
+    "answer": "Varieties with a long growth duration and tall plants should be sown more sparsely, and the amount also depends on tillering ability, cultivation conditions, and whether the soil is good or poor.",
+    "page": null,
+    "answerability": "answerable",
+    "category": "ordinary_answerable",
+    "manual_sections": [
+      "II. Kỹ thuật canh tác",
+      "2. Chuẩn bị giống"
+    ],
+    "gold_chunk_ids": [
+      "c68172912cbb6d66cc75b3d4ac4140687a06ae32a918792f04cdbda400c7f45b"
+    ],
+    "wrong_sense_chunk_ids": [],
+    "minimum_evidence_count": 1,
+    "context_gate_label": "not_required",
+    "parameter_roles": [
+      "lambda_false_positive",
+      "null_thresholds"
+    ]
+  },
+  {
+    "development_id": "ewdev-oa-007",
+    "question": "Which active ingredients does the handbook associate with the main caterpillar pests, and which ones with brown planthopper control?",
+    "answer": "It associates chlorfluazuron and emamectin benzoate with leaf folders and stem borers, and petromethin and diflubenzuron with brown planthoppers.",
+    "page": null,
+    "answerability": "answerable",
+    "category": "ordinary_answerable",
+    "manual_sections": [
+      "II. Kỹ thuật canh tác",
+      "6.2 Phòng trừ dịch hại chính"
+    ],
+    "gold_chunk_ids": [
+      "3b80fe3a53be5d0b38f8210e31860dc1908d954b1a20f4a24eb9dba80d0838d0"
+    ],
+    "wrong_sense_chunk_ids": [],
+    "minimum_evidence_count": 1,
+    "context_gate_label": "not_required",
+    "parameter_roles": [
+      "lambda_false_positive",
+      "null_thresholds"
+    ]
+  },
+  {
+    "development_id": "ewdev-oa-009",
+    "question": "Why should straw not remain in the field for more than five days, and what should be done when it becomes wet after harvest?",
+    "answer": "Longer field exposure reduces straw quality, especially through nitrogen loss; wet straw should be collected promptly to prevent decomposition, further quality loss, and higher greenhouse-gas emissions.",
+    "page": null,
+    "answerability": "answerable",
+    "category": "ordinary_answerable",
+    "manual_sections": [
+      "IV. Quản lý rơm rạ",
+      "1. Thu gom rơm"
+    ],
+    "gold_chunk_ids": [
+      "43c8d4af2d10e86518d29574aef9528e0c1bca73f8e84e364afdb14b3dbf4c32"
+    ],
+    "wrong_sense_chunk_ids": [],
+    "minimum_evidence_count": 1,
+    "context_gate_label": "not_required",
+    "parameter_roles": [
+      "lambda_false_positive",
+      "null_thresholds"
+    ]
+  },
+  {
+    "development_id": "ewdev-oa-011",
+    "question": "What safety-related origin requirement applies to straw before it is reused for crops, mushrooms, feed, bedding, or fertilizer?",
+    "answer": "It should come from fields managed under good agricultural practices so that pesticide residues, heavy metals, and harmful microorganisms are limited.",
+    "page": null,
+    "answerability": "answerable",
+    "category": "ordinary_answerable",
+    "manual_sections": [
+      "IV. Quản lý rơm rạ",
+      "3. Sử dụng rơm đã được thu gom"
+    ],
+    "gold_chunk_ids": [
+      "e1d54040e0f6acbc963838c2d667528dcdc5af56d551358e297e93e93acd97fc"
+    ],
+    "wrong_sense_chunk_ids": [],
+    "minimum_evidence_count": 1,
+    "context_gate_label": "not_required",
+    "parameter_roles": [
+      "lambda_false_positive",
+      "null_thresholds"
+    ]
+  },
+  {
+    "development_id": "ewdev-oa-013",
+    "question": "What shelf arrangement does the handbook describe for an indoor straw-mushroom house?",
+    "answer": "It describes shelves with 2-4 levels spaced about 0.5 m apart and arranged so workers can move conveniently.",
+    "page": null,
+    "answerability": "answerable",
+    "category": "ordinary_answerable",
+    "manual_sections": [
+      "IV. Quản lý rơm rạ",
+      "Trồng nấm trong nhà"
+    ],
+    "gold_chunk_ids": [
+      "0f28d3607ca0030f9d9fe82032f4ebd05819fa6217f75944d10c0d3e612b08ba"
+    ],
+    "wrong_sense_chunk_ids": [],
+    "minimum_evidence_count": 1,
+    "context_gate_label": "not_required",
+    "parameter_roles": [
+      "lambda_false_positive",
+      "null_thresholds"
+    ]
+  },
+  {
+    "development_id": "ewdev-oa-015",
+    "question": "How should bagged paddy be positioned in a warehouse, and how high should a tightly packed stack generally be allowed to reach?",
+    "answer": "Bags should be kept off the wall on ventilated wooden platforms, with stacks generally no higher than 2.5 m so air can circulate and condensation and mold are avoided.",
+    "page": null,
+    "answerability": "answerable",
+    "category": "ordinary_answerable",
+    "manual_sections": [
+      "III. Quản lý thu hoạch và xử lý sau thu hoạch",
+      "3. Bảo quản lúa"
+    ],
+    "gold_chunk_ids": [
+      "726219a8ed795453b9fc12bc81c2fc3bbb6f936d586956c84bdba3c6a64d89ec"
+    ],
+    "wrong_sense_chunk_ids": [],
+    "minimum_evidence_count": 1,
+    "context_gate_label": "not_required",
+    "parameter_roles": [
+      "lambda_false_positive",
+      "null_thresholds"
+    ]
+  },
+  {
+    "development_id": "ewdev-me-001",
+    "question": "Combine the handbook's water and stubble guidance into a low-emission transition from crop harvest to the next crop: when is water removed, and how is incorporated stubble kept from producing methane?",
+    "answer": "The field is drained 7-15 days before harvest; after harvest, stubble is incorporated promptly and then kept under non-flooded conditions for at least three weeks, with biological decomposition support recommended in the later seasons, so decomposition remains aerobic rather than methane-producing.",
+    "page": null,
+    "answerability": "answerable",
+    "category": "multi_evidence_answerable",
+    "manual_sections": [
+      "II. Kỹ thuật canh tác",
+      "4. Quản lý nước",
+      "IV. Quản lý rơm rạ",
+      "2. Xử lý rạ trên ruộng"
+    ],
+    "gold_chunk_ids": [
+      "89f30d40ea0b60ccfae3e92dbe2601ed04616ad252ddc51f26cca5a4af05c9bf",
+      "ce5904d06e22f0e9d164c4ece8b65ff3691b7bac8d263c4ed8365d798d341c3a"
+    ],
+    "wrong_sense_chunk_ids": [],
+    "minimum_evidence_count": 2,
+    "context_gate_label": "not_required",
+    "parameter_roles": [
+      "lambda_redundancy",
+      "null_thresholds"
+    ]
+  },
+  {
+    "development_id": "ewdev-me-003",
+    "question": "How should straw collection timing and machinery change between a dry field and a wet field?",
+    "answer": "Dry straw may be left briefly to dry but should be collected within five days, and a tractor-mounted baler can be used on a dry field. Wet straw should be collected promptly, using a self-propelled tracked baler that can operate in wet as well as dry fields.",
+    "page": null,
+    "answerability": "answerable",
+    "category": "multi_evidence_answerable",
+    "manual_sections": [
+      "IV. Quản lý rơm rạ",
+      "1. Thu gom rơm"
+    ],
+    "gold_chunk_ids": [
+      "43c8d4af2d10e86518d29574aef9528e0c1bca73f8e84e364afdb14b3dbf4c32",
+      "7406d2a4c5d0afdc5bcecd9eabbb1368d8a32d523421fe88b96220a34ce44015"
+    ],
+    "wrong_sense_chunk_ids": [],
+    "minimum_evidence_count": 2,
+    "context_gate_label": "not_required",
+    "parameter_roles": [
+      "lambda_redundancy",
+      "null_thresholds"
+    ]
+  },
+  {
+    "development_id": "ewdev-me-005",
+    "question": "Which two digital approaches help farmers plan for climate risk and then coordinate harvesting logistics, and what does each contribute?",
+    "answer": "CS-MAP supports participatory climate-risk mapping and adaptation action planning, while EasyHarvest connects farmers with combine-service providers and predicts farm conditions, harvest timing, infrastructure, wet-paddy logistics, and post-harvest needs.",
+    "page": null,
+    "answerability": "answerable",
+    "category": "multi_evidence_answerable",
+    "manual_sections": [
+      "V. Xu hướng phát triển và áp dụng công nghệ số trong nông nghiệp"
+    ],
+    "gold_chunk_ids": [
+      "d20ab0a695a08e0e897294233400b3aa0bf24636992929583d17e15c4b0d5877",
+      "b6577a7d76b53b147e23aa832dc3939746fb0aede14b5f2797c40faeb4fd382d"
+    ],
+    "wrong_sense_chunk_ids": [],
+    "minimum_evidence_count": 2,
+    "context_gate_label": "not_required",
+    "parameter_roles": [
+      "lambda_redundancy",
+      "lambda_false_positive"
+    ]
+  },
+  {
+    "development_id": "ewdev-me-007",
+    "question": "What combination of preventive field practices and targeted controls does the handbook give for weedy rice, golden apple snails, and rodents?",
+    "answer": "For weedy rice it recommends clean land preparation, certified seed, removal before seed shed, mechanical weeding, and suitable pre- or post-emergence herbicides; snails are collected or trapped with bait, stakes, screens, and drainage furrows; rodent control combines community timing, sanitation, trapping or capture, and biological or chemical bait where needed.",
+    "page": null,
+    "answerability": "answerable",
+    "category": "multi_evidence_answerable",
+    "manual_sections": [
+      "II. Kỹ thuật canh tác",
+      "6. Quản lý dịch hại tổng hợp"
+    ],
+    "gold_chunk_ids": [
+      "05b2f7582aef9d085ab78bb6715593287f4975795b5f08e3692f742aa3679021",
+      "3ea34dfd569cb6ea688f127adc7d760e2870543e420aaa72ebd15db492b23e28",
+      "101141566523932aa1eeddc7e5fbf0c4ca8f5809cea12ea736c67f3a4df4ac68"
+    ],
+    "wrong_sense_chunk_ids": [],
+    "minimum_evidence_count": 3,
+    "context_gate_label": "not_required",
+    "parameter_roles": [
+      "lambda_redundancy",
+      "null_thresholds"
+    ]
+  },
+  {
+    "development_id": "ewdev-me-009",
+    "question": "Which preparation steps are shared by outdoor and indoor straw-mushroom production, and what facility feature distinguishes indoor production?",
+    "answer": "Both require clean, pesticide-safe straw, soaking and draining, an aerated compost pile, moisture checks, turning, and sound spawn. Indoor production additionally uses a covered growing house with multi-level shelves arranged for access.",
+    "page": null,
+    "answerability": "answerable",
+    "category": "multi_evidence_answerable",
+    "manual_sections": [
+      "IV. Quản lý rơm rạ",
+      "3.2. Trồng nấm"
+    ],
+    "gold_chunk_ids": [
+      "db490c7b2cbe9e0cbf6c751e8267c92d7fc0ecfd6c1b764c491f3099d269b81c",
+      "d1ff0746ce48cbde86c40a8d7d6bdf67e38d5555f077f004aa2b133746e48259",
+      "0f28d3607ca0030f9d9fe82032f4ebd05819fa6217f75944d10c0d3e612b08ba"
+    ],
+    "wrong_sense_chunk_ids": [],
+    "minimum_evidence_count": 2,
+    "context_gate_label": "not_required",
+    "parameter_roles": [
+      "lambda_redundancy",
+      "null_thresholds"
+    ]
+  },
+  {
+    "development_id": "ewdev-aa-001",
+    "question": "For the self-propelled tracked straw baler, what does its carrying capacity refer to, rather than its field work rate?",
+    "answer": "It refers to an onboard storage capacity of 50 straw bales, which the machine can transport to the field edge.",
+    "page": null,
+    "answerability": "answerable",
+    "category": "ambiguous_term_answerable",
+    "manual_sections": [
+      "IV. Quản lý rơm rạ",
+      "1. Thu gom rơm"
+    ],
+    "gold_chunk_ids": [
+      "423e27ea3b0576f4782ee33f66d507bc6fd210c8c0723c315c521d85dcc73535"
+    ],
+    "wrong_sense_chunk_ids": [
+      "ade0d69da211d3b03692037493b9160df2056ffa6b68a2020b16dc2fa6b72674",
+      "bfd6056bff2c889dc01b1c50dec653ce8863b51dd7513dbbb1bcf598a65a6d42"
+    ],
+    "minimum_evidence_count": 1,
+    "context_gate_label": "required",
+    "parameter_roles": [
+      "lambda_context",
+      "context_gate_threshold",
+      "lambda_false_positive"
+    ]
+  },
+  {
+    "development_id": "ewdev-aa-003",
+    "question": "In the rice-storage section, what moisture limit applies to commercial paddy, rather than the moisture maintained in a compost windrow?",
+    "answer": "Commercial paddy must be below 14% moisture before storage.",
+    "page": null,
+    "answerability": "answerable",
+    "category": "ambiguous_term_answerable",
+    "manual_sections": [
+      "III. Quản lý thu hoạch và xử lý sau thu hoạch",
+      "3. Bảo quản lúa"
+    ],
+    "gold_chunk_ids": [
+      "ce3cc7f3fc30a9867b9d27166a162ef7a1de2a14fdfbdff7ccccd41d3af2970a"
+    ],
+    "wrong_sense_chunk_ids": [
+      "b5d0f9dc41706b5a2cc9dc733d7b230c4b81b9d7954f8e8bf31dc22a83c9dc4e"
+    ],
+    "minimum_evidence_count": 1,
+    "context_gate_label": "required",
+    "parameter_roles": [
+      "lambda_context",
+      "context_gate_threshold",
+      "null_thresholds"
+    ]
+  },
+  {
+    "development_id": "ewdev-aa-005",
+    "question": "What tractor power is associated with the tractor-mounted straw baler, not with a rice seeding machine?",
+    "answer": "The tractor-mounted straw baler is paired with a tractor of at least 25 HP.",
+    "page": null,
+    "answerability": "answerable",
+    "category": "ambiguous_term_answerable",
+    "manual_sections": [
+      "IV. Quản lý rơm rạ",
+      "1. Thu gom rơm"
+    ],
+    "gold_chunk_ids": [
+      "423e27ea3b0576f4782ee33f66d507bc6fd210c8c0723c315c521d85dcc73535"
+    ],
+    "wrong_sense_chunk_ids": [
+      "ade0d69da211d3b03692037493b9160df2056ffa6b68a2020b16dc2fa6b72674",
+      "0a1fbca4f0d8be4bd820e686736840d3ce81d251ab7bbc391189ed043fc246bf"
+    ],
+    "minimum_evidence_count": 1,
+    "context_gate_label": "required",
+    "parameter_roles": [
+      "lambda_context",
+      "context_gate_threshold"
+    ]
+  },
+  {
+    "development_id": "ewdev-aa-007",
+    "question": "When 'treatment' refers to post-harvest stubble in the later rice seasons, what treatment is recommended instead of the seed-soaking procedure?",
+    "answer": "The field should be tilled immediately after harvest and a permitted biological product such as Trichoderma should be sprayed before incorporation to accelerate residue decomposition.",
+    "page": null,
+    "answerability": "answerable",
+    "category": "ambiguous_term_answerable",
+    "manual_sections": [
+      "IV. Quản lý rơm rạ",
+      "2. Xử lý rạ trên ruộng"
+    ],
+    "gold_chunk_ids": [
+      "ce5904d06e22f0e9d164c4ece8b65ff3691b7bac8d263c4ed8365d798d341c3a"
+    ],
+    "wrong_sense_chunk_ids": [
+      "db26f130dd198797f90a01b6efd68c1d73e700109b31722238841e8b9d3bcb29"
+    ],
+    "minimum_evidence_count": 1,
+    "context_gate_label": "required",
+    "parameter_roles": [
+      "lambda_context",
+      "context_gate_threshold"
+    ]
+  },
+  {
+    "development_id": "ewdev-aa-009",
+    "question": "During compost cooling, what moisture range is maintained, rather than the instruction to keep sprouted seed in a cool place?",
+    "answer": "The compost moisture is maintained at about 40-50% during the aeration and cooling stage.",
+    "page": null,
+    "answerability": "answerable",
+    "category": "ambiguous_term_answerable",
+    "manual_sections": [
+      "IV. Quản lý rơm rạ",
+      "3.5. Phân hữu cơ"
+    ],
+    "gold_chunk_ids": [
+      "b5d0f9dc41706b5a2cc9dc733d7b230c4b81b9d7954f8e8bf31dc22a83c9dc4e"
+    ],
+    "wrong_sense_chunk_ids": [
+      "db26f130dd198797f90a01b6efd68c1d73e700109b31722238841e8b9d3bcb29"
+    ],
+    "minimum_evidence_count": 1,
+    "context_gate_label": "required",
+    "parameter_roles": [
+      "lambda_context",
+      "context_gate_threshold"
+    ]
+  },
+  {
+    "development_id": "ewdev-ah-001",
+    "question": "What hydraulic pressure should be set at the laser leveler's blade actuator during operation?",
+    "answer": "Not found in context",
+    "page": null,
+    "answerability": "unanswerable",
+    "category": "ambiguous_term_hard_negative",
+    "manual_sections": [
+      "II. Kỹ thuật canh tác",
+      "SAN PHẲNG LASER"
+    ],
+    "gold_chunk_ids": [],
+    "wrong_sense_chunk_ids": [
+      "65fa231449bd1797667d6a4d86a06d60c36f5808e78bf65d2dd194aca11422b5"
+    ],
+    "minimum_evidence_count": 0,
+    "context_gate_label": "required",
+    "parameter_roles": [
+      "lambda_context",
+      "context_gate_threshold",
+      "null_thresholds"
+    ]
+  },
+  {
+    "development_id": "ewdev-ah-003",
+    "question": "How many kilowatt-hours of electricity does the two-stage industrial dryer consume per tonne of paddy?",
+    "answer": "Not found in context",
+    "page": null,
+    "answerability": "unanswerable",
+    "category": "ambiguous_term_hard_negative",
+    "manual_sections": [
+      "III. Quản lý thu hoạch và xử lý sau thu hoạch",
+      "2. Sấy lúa"
+    ],
+    "gold_chunk_ids": [],
+    "wrong_sense_chunk_ids": [
+      "f889c5913ef49283e12a1f9836a99347d1543cfdebe7eb7b9c852a412df2b739"
+    ],
+    "minimum_evidence_count": 0,
+    "context_gate_label": "required",
+    "parameter_roles": [
+      "lambda_context",
+      "context_gate_threshold",
+      "null_thresholds"
+    ]
+  },
+  {
+    "development_id": "ewdev-ah-005",
+    "question": "What storage capacity in tonnes is specified for the forced-air paddy silo?",
+    "answer": "Not found in context",
+    "page": null,
+    "answerability": "unanswerable",
+    "category": "ambiguous_term_hard_negative",
+    "manual_sections": [
+      "III. Quản lý thu hoạch và xử lý sau thu hoạch",
+      "3. Bảo quản lúa"
+    ],
+    "gold_chunk_ids": [],
+    "wrong_sense_chunk_ids": [
+      "ce3cc7f3fc30a9867b9d27166a162ef7a1de2a14fdfbdff7ccccd41d3af2970a"
+    ],
+    "minimum_evidence_count": 0,
+    "context_gate_label": "required",
+    "parameter_roles": [
+      "lambda_context",
+      "context_gate_threshold",
+      "null_thresholds"
+    ]
+  },
+  {
+    "development_id": "ewdev-ah-007",
+    "question": "What pickup working width is specified for the tractor-mounted straw baler?",
+    "answer": "Not found in context",
+    "page": null,
+    "answerability": "unanswerable",
+    "category": "ambiguous_term_hard_negative",
+    "manual_sections": [
+      "IV. Quản lý rơm rạ",
+      "1. Thu gom rơm"
+    ],
+    "gold_chunk_ids": [],
+    "wrong_sense_chunk_ids": [
+      "423e27ea3b0576f4782ee33f66d507bc6fd210c8c0723c315c521d85dcc73535"
+    ],
+    "minimum_evidence_count": 0,
+    "context_gate_label": "required",
+    "parameter_roles": [
+      "lambda_context",
+      "context_gate_threshold",
+      "null_thresholds"
+    ]
+  },
+  {
+    "development_id": "ewdev-ah-009",
+    "question": "What target soil-compaction pressure should be achieved after laser land leveling?",
+    "answer": "Not found in context",
+    "page": null,
+    "answerability": "unanswerable",
+    "category": "ambiguous_term_hard_negative",
+    "manual_sections": [
+      "II. Kỹ thuật canh tác",
+      "SAN PHẲNG LASER"
+    ],
+    "gold_chunk_ids": [],
+    "wrong_sense_chunk_ids": [
+      "644af92862b4e1cec98ce25cce49525cd1b9a830e365ecef11cee2a75d9826ee"
+    ],
+    "minimum_evidence_count": 0,
+    "context_gate_label": "required",
+    "parameter_roles": [
+      "lambda_context",
+      "context_gate_threshold",
+      "null_thresholds"
+    ]
+  },
+  {
+    "development_id": "ewdev-ou-002",
+    "question": "How many members must a cooperative have before it can join the low-emission rice project?",
+    "answer": "Not found in context",
+    "page": null,
+    "answerability": "unanswerable",
+    "category": "ordinary_unanswerable",
+    "manual_sections": [],
+    "gold_chunk_ids": [],
+    "wrong_sense_chunk_ids": [],
+    "minimum_evidence_count": 0,
+    "context_gate_label": "not_required",
+    "parameter_roles": [
+      "null_thresholds",
+      "lambda_false_positive"
+    ]
+  },
+  {
+    "development_id": "ewdev-ou-004",
+    "question": "Which competitive-bidding procedure must a cooperative use when purchasing machinery with project funds?",
+    "answer": "Not found in context",
+    "page": null,
+    "answerability": "unanswerable",
+    "category": "ordinary_unanswerable",
+    "manual_sections": [],
+    "gold_chunk_ids": [],
+    "wrong_sense_chunk_ids": [],
+    "minimum_evidence_count": 0,
+    "context_gate_label": "not_required",
+    "parameter_roles": [
+      "null_thresholds",
+      "lambda_false_positive"
+    ]
+  },
+  {
+    "development_id": "ewdev-ou-006",
+    "question": "What email address should users contact to report an error in the handbook?",
+    "answer": "Not found in context",
+    "page": null,
+    "answerability": "unanswerable",
+    "category": "ordinary_unanswerable",
+    "manual_sections": [],
+    "gold_chunk_ids": [],
+    "wrong_sense_chunk_ids": [],
+    "minimum_evidence_count": 0,
+    "context_gate_label": "not_required",
+    "parameter_roles": [
+      "null_thresholds",
+      "lambda_false_positive"
+    ]
+  },
+  {
+    "development_id": "ewdev-ou-008",
+    "question": "What percentage subsidy is available for purchasing a mechanized compost turner?",
+    "answer": "Not found in context",
+    "page": null,
+    "answerability": "unanswerable",
+    "category": "ordinary_unanswerable",
+    "manual_sections": [],
+    "gold_chunk_ids": [],
+    "wrong_sense_chunk_ids": [],
+    "minimum_evidence_count": 0,
+    "context_gate_label": "not_required",
+    "parameter_roles": [
+      "null_thresholds",
+      "lambda_false_positive"
+    ]
+  },
+  {
+    "development_id": "ewdev-ou-010",
+    "question": "How long does the MRV platform retain personally identifiable farmer records?",
+    "answer": "Not found in context",
+    "page": null,
+    "answerability": "unanswerable",
+    "category": "ordinary_unanswerable",
+    "manual_sections": [],
+    "gold_chunk_ids": [],
+    "wrong_sense_chunk_ids": [],
+    "minimum_evidence_count": 0,
+    "context_gate_label": "not_required",
+    "parameter_roles": [
+      "null_thresholds",
+      "lambda_false_positive"
+    ]
+  },
+  {
+    "development_id": "ewdev-ou-012",
+    "question": "Which international barcode standard is mandatory for retail packages of low-emission rice?",
+    "answer": "Not found in context",
+    "page": null,
+    "answerability": "unanswerable",
+    "category": "ordinary_unanswerable",
+    "manual_sections": [],
+    "gold_chunk_ids": [],
+    "wrong_sense_chunk_ids": [],
+    "minimum_evidence_count": 0,
+    "context_gate_label": "not_required",
+    "parameter_roles": [
+      "null_thresholds",
+      "lambda_false_positive"
+    ]
+  },
+  {
+    "development_id": "ewdev-ou-014",
+    "question": "What maximum daily noise exposure is permitted for operators of rice-field machinery?",
+    "answer": "Not found in context",
+    "page": null,
+    "answerability": "unanswerable",
+    "category": "ordinary_unanswerable",
+    "manual_sections": [],
+    "gold_chunk_ids": [],
+    "wrong_sense_chunk_ids": [],
+    "minimum_evidence_count": 0,
+    "context_gate_label": "not_required",
+    "parameter_roles": [
+      "null_thresholds",
+      "lambda_false_positive"
+    ]
+  }
+]

@@ -1,0 +1,2886 @@
+[
+  {
+    "question_id": "vnlrb-dfu-014",
+    "question": "What is the standard duration of Giai đoạn II?",
+    "answer": "Not found in context",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "wrong_sense_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "3bf1848c503e03d5b0183fac805da14de5484946319859da6f4e3fb11aed2104",
+      "e8740f32fc71bb62b056928aac59f80e06a418725911ab189978d1e110b4fc87"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "Phase content is listed without durations.",
+    "topical_anchor": "phase duration",
+    "source_section": "Điêu 6. An toàn, vệ sinh lao động của người lao động làm việc theo hình thức cộng đông",
+    "static_quality_pass": true,
+    "static_quality_rule": "author_full_text_adjudication_20261002_dense_b3",
+    "challenge_partition": "dense_failure",
+    "batch": 3,
+    "ambical_used_during_construction": false,
+    "dense_screening_status": "selected",
+    "dense_screening_tier": "B",
+    "dense_failure_count": 2,
+    "dense_correct_by_k": {
+      "1": true,
+      "3": false,
+      "5": false
+    },
+    "gold_best_rank": null,
+    "wrong_or_attractor_best_rank": 1,
+    "ambical_used_during_screening": false,
+    "dense_screening_source": "batch3"
+  },
+  {
+    "question_id": "vnlrb-sem-034",
+    "question": "How many workers participated in public employment under the program in 2017?",
+    "answer": "Not found in context",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "target_term_en": "No participation statistics appear.",
+    "intended_sense": "No participation statistics appear.",
+    "wrong_sense": "participation statistics",
+    "ambiguity_type": "number_confusion",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "wrong_sense_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "9d72a12850fe1abbf4f11ddc4d2c10f8012e253232280d1e0c9b40e161db3be5",
+      "25e20dc43210e34d7ac335564a047a24e78a03918830c4a18829e9c349d2aa7a"
+    ],
+    "supporting_quote_id": null,
+    "wrong_sense_quote_id": null,
+    "absent_reason": "No participation statistics appear.",
+    "disambiguating_cues": [
+      "participation statistics"
+    ],
+    "source_section": "1.1 Căn cứ pháp lý",
+    "selection_section": "1.1 Căn cứ pháp lý",
+    "construction_rationale": "Unanswerable probe with a dense lexical attractor on the target topic pages.",
+    "static_quality_pass": true,
+    "static_quality_rule": "author_full_text_adjudication_20261002_02",
+    "challenge_partition": "semantic_ambiguity",
+    "batch": 1,
+    "ambical_used_during_construction": false,
+    "qa_correctness_used_during_selection": false,
+    "context_gate_triggered": true,
+    "context_correction_executed": true,
+    "correction_mode": "topk_counterfactual_positive_v5",
+    "selected_counterfactual_phrase_count": 2,
+    "gate_diagnostic_run_id": "vn_infrastructure_semantic_gate_diagnostic_20261002_02",
+    "selection_status": null,
+    "dense_screening_status": null,
+    "diagnostic_success": true
+  },
+  {
+    "question_id": "vnlrb-sem-035",
+    "question": "Which provinces piloted the LRB approach first?",
+    "answer": "Not found in context",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "target_term_en": "No pilot-province list appears.",
+    "intended_sense": "No pilot-province list appears.",
+    "wrong_sense": "pilot provinces",
+    "ambiguity_type": "procedure_stage",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "wrong_sense_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "e893562219170d6631cd5296faab203cc530f1cfe08841fe75420779a7d693f3",
+      "d715d79541de72e71143a095755765535b6d6f5d39af0d3629dbfc8b19598447"
+    ],
+    "supporting_quote_id": null,
+    "wrong_sense_quote_id": null,
+    "absent_reason": "No pilot-province list appears.",
+    "disambiguating_cues": [
+      "pilot provinces"
+    ],
+    "source_section": "Il.6 Phương pháp tiếp cận sử dụng nguổn lực địa phương trong các dự án thực hiện chính sách việc làm công",
+    "selection_section": "Il.6 Phương pháp tiếp cận sử dụng nguổn lực địa phương trong các dự án thực hiện chính sách việc làm công",
+    "construction_rationale": "Unanswerable probe with a dense lexical attractor on the target topic pages.",
+    "static_quality_pass": true,
+    "static_quality_rule": "author_full_text_adjudication_20261002_02",
+    "challenge_partition": "semantic_ambiguity",
+    "batch": 1,
+    "ambical_used_during_construction": false,
+    "qa_correctness_used_during_selection": false,
+    "context_gate_triggered": true,
+    "context_correction_executed": true,
+    "correction_mode": "topk_counterfactual_positive_v5",
+    "selected_counterfactual_phrase_count": 2,
+    "gate_diagnostic_run_id": "vn_infrastructure_semantic_gate_diagnostic_20261002_02",
+    "selection_status": null,
+    "dense_screening_status": null,
+    "diagnostic_success": true
+  },
+  {
+    "question_id": "vnlrb-sem-037",
+    "question": "What is the deadline for submitting the annual investment settlement report?",
+    "answer": "Not found in context",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "target_term_en": "Settlement follows Circular 349/2016 without a stated deadline.",
+    "intended_sense": "Settlement follows Circular 349/2016 without a stated deadline.",
+    "wrong_sense": "settlement deadline",
+    "ambiguity_type": "procedure_stage",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "wrong_sense_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "b5abd664d5fb28c8164366eb820e3c4797bbd06d5c8b4d8e623afd298520a812",
+      "3667a364a6fb26cf8589426dcd65d7517aac9ec071021f778951ec91f1907c32"
+    ],
+    "supporting_quote_id": null,
+    "wrong_sense_quote_id": null,
+    "absent_reason": "Settlement follows Circular 349/2016 without a stated deadline.",
+    "disambiguating_cues": [
+      "settlement deadline"
+    ],
+    "source_section": "Bước 10: Vận hành, duy tu, bảo dưỡng công trình",
+    "selection_section": "Bước 10: Vận hành, duy tu, bảo dưỡng công trình",
+    "construction_rationale": "Unanswerable probe with a dense lexical attractor on the target topic pages.",
+    "static_quality_pass": true,
+    "static_quality_rule": "author_full_text_adjudication_20261002_02",
+    "challenge_partition": "semantic_ambiguity",
+    "batch": 1,
+    "ambical_used_during_construction": false,
+    "qa_correctness_used_during_selection": false,
+    "context_gate_triggered": true,
+    "context_correction_executed": true,
+    "correction_mode": "topk_counterfactual_positive_v5",
+    "selected_counterfactual_phrase_count": 2,
+    "gate_diagnostic_run_id": "vn_infrastructure_semantic_gate_diagnostic_20261002_02",
+    "selection_status": null,
+    "dense_screening_status": null,
+    "diagnostic_success": true
+  },
+  {
+    "question_id": "vnlrb-sem-043",
+    "question": "Which official signs compensation for land recovered for public employment projects?",
+    "answer": "Not found in context",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "target_term_en": "Land recovery is only a priority category; compensation signing is absent.",
+    "intended_sense": "Land recovery is only a priority category; compensation signing is absent.",
+    "wrong_sense": "land compensation",
+    "ambiguity_type": "institution_responsibility",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "wrong_sense_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "e84d6a9ddd76763187b7485ba3010e6a08555e3ff3ef2cf0bb631c90cace080b",
+      "d3b22ffffb7c6e18b9dcee065f2b1e4e8c779631eedc05da503b5534cfc50b49"
+    ],
+    "supporting_quote_id": null,
+    "wrong_sense_quote_id": null,
+    "absent_reason": "Land recovery is only a priority category; compensation signing is absent.",
+    "disambiguating_cues": [
+      "land compensation"
+    ],
+    "source_section": "Il.1 Lựa chọn dựán, hoạt động thực hiện chính sách việc làm công",
+    "selection_section": "Il.1 Lựa chọn dựán, hoạt động thực hiện chính sách việc làm công",
+    "construction_rationale": "Unanswerable probe with a dense lexical attractor on the target topic pages.",
+    "static_quality_pass": true,
+    "static_quality_rule": "author_full_text_adjudication_20261002_02",
+    "challenge_partition": "semantic_ambiguity",
+    "batch": 1,
+    "ambical_used_during_construction": false,
+    "qa_correctness_used_during_selection": false,
+    "context_gate_triggered": true,
+    "context_correction_executed": true,
+    "correction_mode": "topk_counterfactual_positive_v5",
+    "selected_counterfactual_phrase_count": 2,
+    "gate_diagnostic_run_id": "vn_infrastructure_semantic_gate_diagnostic_20261002_02",
+    "selection_status": null,
+    "dense_screening_status": null,
+    "diagnostic_success": true
+  },
+  {
+    "question_id": "vnlrb-sem-044",
+    "question": "What certificate must a village head hold before mobilizing workers?",
+    "answer": "Not found in context",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "target_term_en": "No certificate requirement appears.",
+    "intended_sense": "No certificate requirement appears.",
+    "wrong_sense": "village-head certificate",
+    "ambiguity_type": "institution_responsibility",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "wrong_sense_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "0597d0735b2328cae814b46b086cc536a99baeb0cc8af5c17e47830c389da960",
+      "7053e10e236f144e3cd2bd4bb36c8965d82936304a40847070ed14098a286d27"
+    ],
+    "supporting_quote_id": null,
+    "wrong_sense_quote_id": null,
+    "absent_reason": "No certificate requirement appears.",
+    "disambiguating_cues": [
+      "village-head certificate"
+    ],
+    "source_section": "Công việc 4 Thẩm định, phê duyệt hổ sơ xây dựng công trình",
+    "selection_section": "Công việc 4 Thẩm định, phê duyệt hổ sơ xây dựng công trình",
+    "construction_rationale": "Unanswerable probe with a dense lexical attractor on the target topic pages.",
+    "static_quality_pass": true,
+    "static_quality_rule": "author_full_text_adjudication_20261002_02",
+    "challenge_partition": "semantic_ambiguity",
+    "batch": 1,
+    "ambical_used_during_construction": false,
+    "qa_correctness_used_during_selection": false,
+    "context_gate_triggered": true,
+    "context_correction_executed": true,
+    "correction_mode": "topk_counterfactual_positive_v5",
+    "selected_counterfactual_phrase_count": 2,
+    "gate_diagnostic_run_id": "vn_infrastructure_semantic_gate_diagnostic_20261002_02",
+    "selection_status": null,
+    "dense_screening_status": null,
+    "diagnostic_success": true
+  },
+  {
+    "question_id": "vnlrb-sem-045",
+    "question": "What is the application fee for registering a public employment project?",
+    "answer": "Not found in context",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "target_term_en": "Registration is free of any stated fee.",
+    "intended_sense": "Registration is free of any stated fee.",
+    "wrong_sense": "registration fee",
+    "ambiguity_type": "number_confusion",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "wrong_sense_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "25e20dc43210e34d7ac335564a047a24e78a03918830c4a18829e9c349d2aa7a",
+      "5972fd5a9c108965494548046da1847bc8a39fe04bd045ba1dea58382cb7e446"
+    ],
+    "supporting_quote_id": null,
+    "wrong_sense_quote_id": null,
+    "absent_reason": "Registration is free of any stated fee.",
+    "disambiguating_cues": [
+      "registration fee"
+    ],
+    "source_section": "THÔNG TIN CÁ NHÂN:",
+    "selection_section": "THÔNG TIN CÁ NHÂN:",
+    "construction_rationale": "Unanswerable probe with a dense lexical attractor on the target topic pages.",
+    "static_quality_pass": true,
+    "static_quality_rule": "author_full_text_adjudication_20261002_02",
+    "challenge_partition": "semantic_ambiguity",
+    "batch": 1,
+    "ambical_used_during_construction": false,
+    "qa_correctness_used_during_selection": false,
+    "context_gate_triggered": true,
+    "context_correction_executed": true,
+    "correction_mode": "topk_counterfactual_positive_v5",
+    "selected_counterfactual_phrase_count": 2,
+    "gate_diagnostic_run_id": "vn_infrastructure_semantic_gate_diagnostic_20261002_02",
+    "selection_status": null,
+    "dense_screening_status": null,
+    "diagnostic_success": true
+  },
+  {
+    "question_id": "vnlrb-sem-046",
+    "question": "What penalty applies to contractors who fail their local-labor commitment?",
+    "answer": "Not found in context",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "target_term_en": "Breaches are reported to the district; no penalty appears.",
+    "intended_sense": "Breaches are reported to the district; no penalty appears.",
+    "wrong_sense": "contractor penalty",
+    "ambiguity_type": "institution_responsibility",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "wrong_sense_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "171e1bf0bbc164afa57585ceb9644b70674869ce72fc0e2745cc97aee9bdf43d",
+      "8c249c21eb16f908dbd0f0b8b88b59bf5fcf9d5f9978c8c0b78f256baf36b8b3"
+    ],
+    "supporting_quote_id": null,
+    "wrong_sense_quote_id": null,
+    "absent_reason": "Breaches are reported to the district; no penalty appears.",
+    "disambiguating_cues": [
+      "contractor penalty"
+    ],
+    "source_section": "các cấp",
+    "selection_section": "các cấp",
+    "construction_rationale": "Unanswerable probe with a dense lexical attractor on the target topic pages.",
+    "static_quality_pass": true,
+    "static_quality_rule": "author_full_text_adjudication_20261002_02",
+    "challenge_partition": "semantic_ambiguity",
+    "batch": 1,
+    "ambical_used_during_construction": false,
+    "qa_correctness_used_during_selection": false,
+    "context_gate_triggered": true,
+    "context_correction_executed": true,
+    "correction_mode": "topk_counterfactual_positive_v5",
+    "selected_counterfactual_phrase_count": 2,
+    "gate_diagnostic_run_id": "vn_infrastructure_semantic_gate_diagnostic_20261002_02",
+    "selection_status": null,
+    "dense_screening_status": null,
+    "diagnostic_success": true
+  },
+  {
+    "question_id": "vnlrb-sem-047",
+    "question": "How many indicators does the final impact-evaluation template contain?",
+    "answer": "Not found in context",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "target_term_en": "Evaluation aspects are listed without a fixed indicator count.",
+    "intended_sense": "Evaluation aspects are listed without a fixed indicator count.",
+    "wrong_sense": "indicator count",
+    "ambiguity_type": "number_confusion",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "wrong_sense_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "28f0864b356ce1fc60d97e345bbe61a2663b3229380eac6d01fddea44bc58bba",
+      "2fda3522ceacff15e881086c980e4db5760e2ca4e84c268634cede2b36178dac"
+    ],
+    "supporting_quote_id": null,
+    "wrong_sense_quote_id": null,
+    "absent_reason": "Evaluation aspects are listed without a fixed indicator count.",
+    "disambiguating_cues": [
+      "indicator count"
+    ],
+    "source_section": "3. Đánh giá tác động",
+    "selection_section": "3. Đánh giá tác động",
+    "construction_rationale": "Unanswerable probe with a dense lexical attractor on the target topic pages.",
+    "static_quality_pass": true,
+    "static_quality_rule": "author_full_text_adjudication_20261002_02",
+    "challenge_partition": "semantic_ambiguity",
+    "batch": 1,
+    "ambical_used_during_construction": false,
+    "qa_correctness_used_during_selection": false,
+    "context_gate_triggered": true,
+    "context_correction_executed": true,
+    "correction_mode": "topk_counterfactual_positive_v5",
+    "selected_counterfactual_phrase_count": 2,
+    "gate_diagnostic_run_id": "vn_infrastructure_semantic_gate_diagnostic_20261002_02",
+    "selection_status": null,
+    "dense_screening_status": null,
+    "diagnostic_success": true
+  },
+  {
+    "question_id": "vnlrb-sem-051",
+    "question": "Does the Employment Law require workers to pass a health check before joining?",
+    "answer": "Not found in context",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "target_term_en": "Only residence and voluntariness conditions appear.",
+    "intended_sense": "Only residence and voluntariness conditions appear.",
+    "wrong_sense": "health check",
+    "ambiguity_type": "same_word_different_domain",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "wrong_sense_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "4e5ac09beaa211be7d214d5769a423263ccf38ba3e8854f8d939eee7099a9115",
+      "bb6f8b66c7f75db43e53027bdde6ce36b820b3f9742c9f5e4c5137162edf0fdc"
+    ],
+    "supporting_quote_id": null,
+    "wrong_sense_quote_id": null,
+    "absent_reason": "Only residence and voluntariness conditions appear.",
+    "disambiguating_cues": [
+      "health check"
+    ],
+    "source_section": "Phụ lục IV.11: Hướng dẫn vê đóng góp lao động của cộng đông",
+    "selection_section": "Phụ lục IV.11: Hướng dẫn vê đóng góp lao động của cộng đông",
+    "construction_rationale": "Unanswerable probe with a dense lexical attractor on the target topic pages.",
+    "static_quality_pass": true,
+    "static_quality_rule": "author_full_text_adjudication_20261002_02_b2",
+    "challenge_partition": "semantic_ambiguity",
+    "batch": 2,
+    "ambical_used_during_construction": false,
+    "qa_correctness_used_during_selection": false,
+    "context_gate_triggered": true,
+    "context_correction_executed": true,
+    "correction_mode": "topk_counterfactual_positive_v5",
+    "selected_counterfactual_phrase_count": 2,
+    "gate_diagnostic_run_id": "vn_infrastructure_semantic_gate_diagnostic_20261002_02_batch2",
+    "selection_status": null,
+    "dense_screening_status": null,
+    "diagnostic_success": true
+  },
+  {
+    "question_id": "vnlrb-sem-053",
+    "question": "How many signatures does the construction dossier require at submission?",
+    "answer": "Not found in context",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "target_term_en": "The dossier form has signature spaces without a count.",
+    "intended_sense": "The dossier form has signature spaces without a count.",
+    "wrong_sense": "dossier signatures",
+    "ambiguity_type": "table_field",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "wrong_sense_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "0975e828262b3da9db70ee6c3fe98ac494f1f5b85c4d44e3858deb05094a8988",
+      "ce68ef1335964b234ae830fe3a378add211813adfdfbad296bebb863b094efdb"
+    ],
+    "supporting_quote_id": null,
+    "wrong_sense_quote_id": null,
+    "absent_reason": "The dossier form has signature spaces without a count.",
+    "disambiguating_cues": [
+      "dossier signatures"
+    ],
+    "source_section": "QUYẾT ĐỊNH",
+    "selection_section": "QUYẾT ĐỊNH",
+    "construction_rationale": "Unanswerable probe with a dense lexical attractor on the target topic pages.",
+    "static_quality_pass": true,
+    "static_quality_rule": "author_full_text_adjudication_20261002_02_b2",
+    "challenge_partition": "semantic_ambiguity",
+    "batch": 2,
+    "ambical_used_during_construction": false,
+    "qa_correctness_used_during_selection": false,
+    "context_gate_triggered": true,
+    "context_correction_executed": true,
+    "correction_mode": "topk_counterfactual_positive_v5",
+    "selected_counterfactual_phrase_count": 2,
+    "gate_diagnostic_run_id": "vn_infrastructure_semantic_gate_diagnostic_20261002_02_batch2",
+    "selection_status": null,
+    "dense_screening_status": null,
+    "diagnostic_success": true
+  },
+  {
+    "question": "How many people nationwide were expected to receive public employment through the 2016-2020 program?",
+    "answer": "Not found in context",
+    "page": 5,
+    "question_id": "vnlrb-u-001",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "074da212a01a3b601a6a8acd0640fa980957e49e1f980dee78fcb5cf82b3d5eb",
+      "9d72a12850fe1abbf4f11ddc4d2c10f8012e253232280d1e0c9b40e161db3be5"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "No nationwide beneficiary projection for the 2016-2020 program appears in the corpus.",
+    "source_section": null,
+    "source_page_verified": null,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control",
+    "selection_basis": "legacy_100x100_plus_quote_mapping_20261002",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "absence_verified_by_full_document_review",
+      "manual_semantic_review_completed": true
+    }
+  },
+  {
+    "question": "What exact national budget was allocated to the infrastructure component of the poverty reduction program?",
+    "answer": "Not found in context",
+    "page": 5,
+    "question_id": "vnlrb-u-002",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "dabb8e5e48a7fc585afb81300a79297daf0224976e529ae272c791b49d018bdf",
+      "da9e76d9d110b7893546fb7f95496fbb2af818f5ba489747f9599cd8a4907cd4"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "The corpus contains no national budget figure for the program's infrastructure component.",
+    "source_section": null,
+    "source_page_verified": null,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control",
+    "selection_basis": "legacy_100x100_plus_quote_mapping_20261002",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "absence_verified_by_full_document_review",
+      "manual_semantic_review_completed": true
+    }
+  },
+  {
+    "question": "How many copies of the companion basic training guide were distributed to each commune?",
+    "answer": "Not found in context",
+    "page": 5,
+    "question_id": "vnlrb-u-003",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "5f91ab1e27a4e8d8acdcfefb45dd6464d386eda186ff9272873cb57f9fd8e67a",
+      "074da212a01a3b601a6a8acd0640fa980957e49e1f980dee78fcb5cf82b3d5eb"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "The companion training guide is mentioned without any distribution count.",
+    "source_section": null,
+    "source_page_verified": null,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control",
+    "selection_basis": "legacy_100x100_plus_quote_mapping_20261002",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "absence_verified_by_full_document_review",
+      "manual_semantic_review_completed": true
+    }
+  },
+  {
+    "question": "How many public employment projects had been completed in Vietnam before the handbook was published?",
+    "answer": "Not found in context",
+    "page": 6,
+    "question_id": "vnlrb-u-004",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "b49e0fb42d8dbcdb80b16bbbef6e62b1a7aac42ea5721ffdcbf354c5b6a32f38",
+      "074da212a01a3b601a6a8acd0640fa980957e49e1f980dee78fcb5cf82b3d5eb"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "No cumulative completed-project count is given.",
+    "source_section": null,
+    "source_page_verified": null,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control",
+    "selection_basis": "legacy_100x100_plus_quote_mapping_20261002",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "absence_verified_by_full_document_review",
+      "manual_semantic_review_completed": true
+    }
+  },
+  {
+    "question": "What monetary penalty applies when a project violates Decision No. 1722/QD-TTg?",
+    "answer": "Not found in context",
+    "page": 6,
+    "question_id": "vnlrb-u-005",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "57780c74df112e0dfd36f534c16e636a59ab71c56a2fef5ddedfbeef64bb3c8f",
+      "f0e6b93386ab8919539e17d5a6689b804282bd6fa753af6fb3da0ed4055dafb8"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "Decision 1722/QD-TTg is cited as legal basis without any penalty provision.",
+    "source_section": null,
+    "source_page_verified": null,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control",
+    "selection_basis": "legacy_100x100_plus_quote_mapping_20261002",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "absence_verified_by_full_document_review",
+      "manual_semantic_review_completed": true
+    }
+  },
+  {
+    "question": "What official English title is assigned to the handbook by the Ministry?",
+    "answer": "Not found in context",
+    "page": 6,
+    "question_id": "vnlrb-u-006",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "5f91ab1e27a4e8d8acdcfefb45dd6464d386eda186ff9272873cb57f9fd8e67a",
+      "074da212a01a3b601a6a8acd0640fa980957e49e1f980dee78fcb5cf82b3d5eb"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "No official English title is stated; the handbook title appears only in Vietnamese.",
+    "source_section": null,
+    "source_page_verified": null,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control",
+    "selection_basis": "legacy_100x100_plus_quote_mapping_20261002",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "absence_verified_by_full_document_review",
+      "manual_semantic_review_completed": true
+    }
+  },
+  {
+    "question": "What online portal must provincial agencies use to submit public employment reports?",
+    "answer": "Not found in context",
+    "page": 7,
+    "question_id": "vnlrb-u-007",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "5f65e6f197854e26b22c85571ed3b204ac0ccc720f4cb84a262aa931a1cec7f3",
+      "9d72a12850fe1abbf4f11ddc4d2c10f8012e253232280d1e0c9b40e161db3be5"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "No reporting portal is mentioned.",
+    "source_section": null,
+    "source_page_verified": null,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control",
+    "selection_basis": "legacy_100x100_plus_quote_mapping_20261002",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "absence_verified_by_full_document_review",
+      "manual_semantic_review_completed": true
+    }
+  },
+  {
+    "question": "What percentage of recurrent funding must be reserved for model-replication projects?",
+    "answer": "Not found in context",
+    "page": 8,
+    "question_id": "vnlrb-u-008",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "96ee249e3c8b9b349180c2673bd1c004505a887d2a00d8c0542345fe6f08c5ab",
+      "e8740f32fc71bb62b056928aac59f80e06a418725911ab189978d1e110b4fc87"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "No percentage reserved for model-replication projects is stated.",
+    "source_section": null,
+    "source_page_verified": null,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control",
+    "selection_basis": "legacy_100x100_plus_quote_mapping_20261002",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "absence_verified_by_full_document_review",
+      "manual_semantic_review_completed": true
+    }
+  },
+  {
+    "question": "How many provincial officials are required to attend each project planning meeting?",
+    "answer": "Not found in context",
+    "page": 8,
+    "question_id": "vnlrb-u-009",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "a7a39495289999dac37d442d9db402a437b4fe51006db307efc3ea6629d8477f",
+      "e84d6a9ddd76763187b7485ba3010e6a08555e3ff3ef2cf0bb631c90cace080b"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "No attendance requirement for planning meetings appears.",
+    "source_section": null,
+    "source_page_verified": null,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control",
+    "selection_basis": "legacy_100x100_plus_quote_mapping_20261002",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "absence_verified_by_full_document_review",
+      "manual_semantic_review_completed": true
+    }
+  },
+  {
+    "question": "What is the maximum distance a worker may live from a public employment project?",
+    "answer": "Not found in context",
+    "page": 9,
+    "question_id": "vnlrb-u-010",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "6230f49905e40ae3c2243001954447584602c57df4efc35d81b063272f1bf107",
+      "171e1bf0bbc164afa57585ceb9644b70674869ce72fc0e2745cc97aee9bdf43d"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "Participation requires lawful residence where the project is implemented; no distance limit exists.",
+    "source_section": null,
+    "source_page_verified": null,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control",
+    "selection_basis": "legacy_100x100_plus_quote_mapping_20261002",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "absence_verified_by_full_document_review",
+      "manual_semantic_review_completed": true
+    }
+  },
+  {
+    "question": "How many calendar days before construction must workers submit their participation applications?",
+    "answer": "Not found in context",
+    "page": 9,
+    "question_id": "vnlrb-u-011",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "b39e1ec30291275818fe3e01aba40cc3fc6ed8fc9a8499d55894f9ef49cbfb53",
+      "5972fd5a9c108965494548046da1847bc8a39fe04bd045ba1dea58382cb7e446"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "Registration timing is not specified; only the registration venue is stated.",
+    "source_section": null,
+    "source_page_verified": null,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control",
+    "selection_basis": "legacy_100x100_plus_quote_mapping_20261002",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "absence_verified_by_full_document_review",
+      "manual_semantic_review_completed": true
+    }
+  },
+  {
+    "question": "What numerical weight is assigned to each worker-priority category during selection?",
+    "answer": "Not found in context",
+    "page": 10,
+    "question_id": "vnlrb-u-012",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "07fc1ef19e5c0620cd2b6ebfd7c2ff222a50444abc901022f878cb374be075f1",
+      "28f0864b356ce1fc60d97e345bbe61a2663b3229380eac6d01fddea44bc58bba"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "Priority order is defined but no numerical weights are assigned; the sample form leaves coefficients blank.",
+    "source_section": null,
+    "source_page_verified": null,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control",
+    "selection_basis": "legacy_100x100_plus_quote_mapping_20261002",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "absence_verified_by_full_document_review",
+      "manual_semantic_review_completed": true
+    }
+  },
+  {
+    "question": "What mandatory minimum percentage of project workers must be women?",
+    "answer": "Not found in context",
+    "page": 11,
+    "question_id": "vnlrb-u-013",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "9ed252b8fbacce5dcf011ef10aa65d7791f74e38f5dd815c6f4e849ad6feffc3",
+      "a3997ccebe6501d9756800bc83c6f118222b5abcb757e24fa3b138e762709cd1"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "No mandatory women's participation percentage is stated.",
+    "source_section": null,
+    "source_page_verified": null,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control",
+    "selection_basis": "legacy_100x100_plus_quote_mapping_20261002",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "absence_verified_by_full_document_review",
+      "manual_semantic_review_completed": true
+    }
+  },
+  {
+    "question": "What childcare allowance is paid to women participating in public employment?",
+    "answer": "Not found in context",
+    "page": 11,
+    "question_id": "vnlrb-u-014",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "a3997ccebe6501d9756800bc83c6f118222b5abcb757e24fa3b138e762709cd1",
+      "e7eacff740f8864becd6d14e05d3f8d94a2be613b778b2a9e4ba2fb7b4643c34"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "No childcare allowance is mentioned.",
+    "source_section": null,
+    "source_page_verified": null,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control",
+    "selection_basis": "legacy_100x100_plus_quote_mapping_20261002",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "absence_verified_by_full_document_review",
+      "manual_semantic_review_completed": true
+    }
+  },
+  {
+    "question": "What monthly premium must a worker pay for voluntary occupational accident insurance?",
+    "answer": "Not found in context",
+    "page": 12,
+    "question_id": "vnlrb-u-018",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "4e5ac09beaa211be7d214d5769a423263ccf38ba3e8854f8d939eee7099a9115",
+      "1a92762e89015c638d670dc44a1feca1b4aebc1e6590a2f1c396ef276df2d2cd"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "Voluntary accident insurance is referenced without any premium amount.",
+    "source_section": null,
+    "source_page_verified": null,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control",
+    "selection_basis": "legacy_100x100_plus_quote_mapping_20261002",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "absence_verified_by_full_document_review",
+      "manual_semantic_review_completed": true
+    }
+  },
+  {
+    "question": "How many hours of safety training are mandatory before a community worker starts construction?",
+    "answer": "Not found in context",
+    "page": 12,
+    "question_id": "vnlrb-u-019",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "142c24d53028334725a31eb71b4ea65206f9b47516babe5931c426b3f979569a",
+      "f2d1926db27dc2e0da0c235b7ba3e4c194ebe7545466fa11d974387a47eaca83"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "Safety training is required without an hour count.",
+    "source_section": null,
+    "source_page_verified": null,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control",
+    "selection_basis": "legacy_100x100_plus_quote_mapping_20261002",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "absence_verified_by_full_document_review",
+      "manual_semantic_review_completed": true
+    }
+  },
+  {
+    "question": "What fine is imposed on a worker who fails to report an occupational accident?",
+    "answer": "Not found in context",
+    "page": 12,
+    "question_id": "vnlrb-u-020",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "4e5ac09beaa211be7d214d5769a423263ccf38ba3e8854f8d939eee7099a9115",
+      "478e7abbf101e62447312ed29ed876d42eca1a0f7794d00c1254c7011bafccbf"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "Accident reporting is required without any fine for failure to report.",
+    "source_section": null,
+    "source_page_verified": null,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control",
+    "selection_basis": "legacy_100x100_plus_quote_mapping_20261002",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "absence_verified_by_full_document_review",
+      "manual_semantic_review_completed": true
+    }
+  },
+  {
+    "question": "How frequently must ministries submit public employment results to the Ministry of Labor, Invalids and Social Affairs?",
+    "answer": "Not found in context",
+    "page": 13,
+    "question_id": "vnlrb-u-021",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "1659df5bdd7363e5993e130e4f547f66ae8e888d8b6acf61d8c617b41f874635",
+      "28f0864b356ce1fc60d97e345bbe61a2663b3229380eac6d01fddea44bc58bba"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "Ministries must report results to MOLISA without a stated frequency.",
+    "source_section": null,
+    "source_page_verified": null,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control",
+    "selection_basis": "legacy_100x100_plus_quote_mapping_20261002",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "absence_verified_by_full_document_review",
+      "manual_semantic_review_completed": true
+    }
+  },
+  {
+    "question": "How often must community monitoring teams inspect each active construction site?",
+    "answer": "Not found in context",
+    "page": 14,
+    "question_id": "vnlrb-u-022",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "f0ed5482a637f055bd3be4634fb8aba245f22e05f3066c0d1793bb2dde66c987",
+      "2cf6f14b748af5d0eeb649f870af53cf2360103cc4c4462f74398ce77ea43715"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "Community monitoring is mandated without inspection frequency.",
+    "source_section": null,
+    "source_page_verified": null,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control",
+    "selection_basis": "legacy_100x100_plus_quote_mapping_20261002",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "absence_verified_by_full_document_review",
+      "manual_semantic_review_completed": true
+    }
+  },
+  {
+    "question": "What exact percentage cost saving does the local resource-based approach achieve compared with equipment-based construction?",
+    "answer": "Not found in context",
+    "page": 14,
+    "question_id": "vnlrb-u-023",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "8db2380aac443fd180c1e8cd61436939203973c423534b0cec2ad39e4022e109",
+      "d715d79541de72e71143a095755765535b6d6f5d39af0d3629dbfc8b19598447"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "LRB advantages are listed qualitatively without a cost-saving percentage.",
+    "source_section": null,
+    "source_page_verified": null,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control",
+    "selection_basis": "legacy_100x100_plus_quote_mapping_20261002",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "absence_verified_by_full_document_review",
+      "manual_semantic_review_completed": true
+    }
+  },
+  {
+    "question": "How many permanent jobs is each local resource-based project expected to create?",
+    "answer": "Not found in context",
+    "page": 14,
+    "question_id": "vnlrb-u-024",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "1a3b880afd48b4561253cd10eed475434e398dd2b875455eda357901b4ed8e8e",
+      "39b9f1d50a6d0d15175648d48b1903be9e1dc1d59674d12c861fc1bdaeb2f1ac"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "LRB benefits concern temporary employment; no permanent-job figures appear.",
+    "source_section": null,
+    "source_page_verified": null,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control",
+    "selection_basis": "legacy_100x100_plus_quote_mapping_20261002",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "absence_verified_by_full_document_review",
+      "manual_semantic_review_completed": true
+    }
+  },
+  {
+    "question": "What is the maximum permitted duration for completing all ten steps of a small Group C project?",
+    "answer": "Not found in context",
+    "page": 15,
+    "question_id": "vnlrb-u-025",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "807b5d2e58d6b68da7d8efacfba46d163a7b7fee03af735e1a6057da53e390bd",
+      "526a939c2bb64ffd10f16d746aec298f33dee0a70886d3dd76baaea96aa9add0"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "No overall completion-duration limit for the ten steps is stated.",
+    "source_section": null,
+    "source_page_verified": null,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control",
+    "selection_basis": "legacy_100x100_plus_quote_mapping_20261002",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "absence_verified_by_full_document_review",
+      "manual_semantic_review_completed": true
+    }
+  },
+  {
+    "question": "What is the maximum number of workers that one village may employ on a labor-intensive infrastructure project?",
+    "answer": "Not found in context",
+    "page": 16,
+    "question_id": "vnlrb-u-026",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "263a5aa41979cce1e44d5bdc734c18c915bb2bcb05bfa8b33467d63b43887c0e",
+      "0cc3e0f9b5d98869f8816558b527b4aabca646034e69d7f54adb54e053ceea5c"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "No per-village worker cap exists.",
+    "source_section": null,
+    "source_page_verified": null,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control",
+    "selection_basis": "legacy_100x100_plus_quote_mapping_20261002",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "absence_verified_by_full_document_review",
+      "manual_semantic_review_completed": true
+    }
+  },
+  {
+    "question": "What standardized scoring weight must be given to each project-prioritization criterion?",
+    "answer": "Not found in context",
+    "page": 18,
+    "question_id": "vnlrb-u-027",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "bfaabfed372b85016c78bc658af78ebb63f0001306c29e3f61431f7d1fd38ade",
+      "30a06ac5840a6d7290048b49a45563925cb2abf234f363c28807cf37168e1d64"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "Prioritization criteria are listed without scoring weights.",
+    "source_section": null,
+    "source_page_verified": null,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control",
+    "selection_basis": "legacy_100x100_plus_quote_mapping_20261002",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "absence_verified_by_full_document_review",
+      "manual_semantic_review_completed": true
+    }
+  },
+  {
+    "question": "For how many days must the approved project notice remain posted at the village cultural house?",
+    "answer": "Not found in context",
+    "page": 19,
+    "question_id": "vnlrb-u-028",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "64bab52210e245a7360c38dc2372e51380faa71f7b7aa4a88bde28827984beaa",
+      "b5abd664d5fb28c8164366eb820e3c4797bbd06d5c8b4d8e623afd298520a812"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "The notice must be posted but no posting duration is stated.",
+    "source_section": null,
+    "source_page_verified": null,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control",
+    "selection_basis": "legacy_100x100_plus_quote_mapping_20261002",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "absence_verified_by_full_document_review",
+      "manual_semantic_review_completed": true
+    }
+  },
+  {
+    "question": "What percentage of votes is required for villagers to approve the proposed contribution level?",
+    "answer": "Not found in context",
+    "page": 20,
+    "question_id": "vnlrb-u-030",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "bd461d2e520f47b41da50976568f757d10d7ff6126dc1c374416c0d921c6d03a",
+      "d5d1f94cfa98fb7fe7b95a0a3289daa39b22cb6eddb5247d28225ea0ec4b0067"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "Contribution agreement is required without a vote threshold.",
+    "source_section": null,
+    "source_page_verified": null,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control",
+    "selection_basis": "legacy_100x100_plus_quote_mapping_20261002",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "absence_verified_by_full_document_review",
+      "manual_semantic_review_completed": true
+    }
+  },
+  {
+    "question": "Within how many working days must the village development board resolve a disagreement about community contributions?",
+    "answer": "Not found in context",
+    "page": 21,
+    "question_id": "vnlrb-u-031",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "b5abd664d5fb28c8164366eb820e3c4797bbd06d5c8b4d8e623afd298520a812",
+      "d5d1f94cfa98fb7fe7b95a0a3289daa39b22cb6eddb5247d28225ea0ec4b0067"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "Disagreement resolution is required promptly without a day count.",
+    "source_section": null,
+    "source_page_verified": null,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control",
+    "selection_basis": "legacy_100x100_plus_quote_mapping_20261002",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "absence_verified_by_full_document_review",
+      "manual_semantic_review_completed": true
+    }
+  },
+  {
+    "question": "What is the final application deadline stated in a commune public employment notice?",
+    "answer": "Not found in context",
+    "page": 22,
+    "question_id": "vnlrb-u-033",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "25e20dc43210e34d7ac335564a047a24e78a03918830c4a18829e9c349d2aa7a",
+      "b1a81807e0af2ecda9ee829ee3aee18f04c82ae731ca296dc23ddf5a82497c29"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "The notice content list has no application deadline element.",
+    "source_section": null,
+    "source_page_verified": null,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control",
+    "selection_basis": "legacy_100x100_plus_quote_mapping_20261002",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "absence_verified_by_full_document_review",
+      "manual_semantic_review_completed": true
+    }
+  },
+  {
+    "question": "What performance-guarantee percentage must the selected community worker group provide before signing the contract?",
+    "answer": "Not found in context",
+    "page": 23,
+    "question_id": "vnlrb-u-034",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "965fdd7a25a41a3737f8ff6bab83eb2a63ca922b467a1c1e550964216653b8bf",
+      "30a06ac5840a6d7290048b49a45563925cb2abf234f363c28807cf37168e1d64"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "No performance-guarantee requirement appears.",
+    "source_section": null,
+    "source_page_verified": null,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control",
+    "selection_basis": "legacy_100x100_plus_quote_mapping_20261002",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "absence_verified_by_full_document_review",
+      "manual_semantic_review_completed": true
+    }
+  },
+  {
+    "question": "What interest rate must be paid to workers when wage payments are late?",
+    "answer": "Not found in context",
+    "page": 25,
+    "question_id": "vnlrb-u-036",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "e7eacff740f8864becd6d14e05d3f8d94a2be613b778b2a9e4ba2fb7b4643c34",
+      "80b87a5908ea30a7cd2aa1d24bda9ebc3cd555e58f85c31937b41053a51076d6"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "Late-payment interest is not mentioned.",
+    "source_section": null,
+    "source_page_verified": null,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control",
+    "selection_basis": "legacy_100x100_plus_quote_mapping_20261002",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "absence_verified_by_full_document_review",
+      "manual_semantic_review_completed": true
+    }
+  },
+  {
+    "question": "What percentage of each payment must the State Treasury retain until final project acceptance?",
+    "answer": "Not found in context",
+    "page": 25,
+    "question_id": "vnlrb-u-037",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "ce68ef1335964b234ae830fe3a378add211813adfdfbad296bebb863b094efdb",
+      "923b3da8640505603581d547056c5e4a3288bfb20c306629d9ee87c65830bbd3"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "No Treasury retention percentage appears.",
+    "source_section": null,
+    "source_page_verified": null,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control",
+    "selection_basis": "legacy_100x100_plus_quote_mapping_20261002",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "absence_verified_by_full_document_review",
+      "manual_semantic_review_completed": true
+    }
+  },
+  {
+    "question": "What warranty period applies after a completed community infrastructure project is handed over?",
+    "answer": "Not found in context",
+    "page": 25,
+    "question_id": "vnlrb-u-038",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "3667a364a6fb26cf8589426dcd65d7517aac9ec071021f778951ec91f1907c32",
+      "1b48e3e16f53c70bfb6038823d19fcf7bbed8c1b36d4ea8f2fb7264f19ab5f22"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "Handover follows the companion handbook without warranty terms.",
+    "source_section": null,
+    "source_page_verified": null,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control",
+    "selection_basis": "legacy_100x100_plus_quote_mapping_20261002",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "absence_verified_by_full_document_review",
+      "manual_semantic_review_completed": true
+    }
+  },
+  {
+    "question": "For how long must the final financial disclosure remain publicly displayed after the village meeting?",
+    "answer": "Not found in context",
+    "page": 26,
+    "question_id": "vnlrb-u-039",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "b5abd664d5fb28c8164366eb820e3c4797bbd06d5c8b4d8e623afd298520a812",
+      "3667a364a6fb26cf8589426dcd65d7517aac9ec071021f778951ec91f1907c32"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "Disclosure is required at the village meeting without a display duration.",
+    "source_section": null,
+    "source_page_verified": null,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control",
+    "selection_basis": "legacy_100x100_plus_quote_mapping_20261002",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "absence_verified_by_full_document_review",
+      "manual_semantic_review_completed": true
+    }
+  },
+  {
+    "question": "What annual monetary ceiling applies to state support for maintaining one completed facility?",
+    "answer": "Not found in context",
+    "page": 26,
+    "question_id": "vnlrb-u-040",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "923b3da8640505603581d547056c5e4a3288bfb20c306629d9ee87c65830bbd3",
+      "bd461d2e520f47b41da50976568f757d10d7ff6126dc1c374416c0d921c6d03a"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "No per-facility maintenance ceiling appears.",
+    "source_section": null,
+    "source_page_verified": null,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control",
+    "selection_basis": "legacy_100x100_plus_quote_mapping_20261002",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "absence_verified_by_full_document_review",
+      "manual_semantic_review_completed": true
+    }
+  },
+  {
+    "question": "What minimum percentage of an outside contractor's workforce must be recruited locally?",
+    "answer": "Not found in context",
+    "page": 27,
+    "question_id": "vnlrb-u-041",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "5402912044d17d0c6aa702421c750a4457d4159ce23ce5a2c3f15062467ade89",
+      "0cc3e0f9b5d98869f8816558b527b4aabca646034e69d7f54adb54e053ceea5c"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "The contractor commits to local hiring numbers without a minimum percentage.",
+    "source_section": null,
+    "source_page_verified": null,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control",
+    "selection_basis": "legacy_100x100_plus_quote_mapping_20261002",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "absence_verified_by_full_document_review",
+      "manual_semantic_review_completed": true
+    }
+  },
+  {
+    "question": "What contractual penalty applies if a contractor fails to honor its local-labor commitment?",
+    "answer": "Not found in context",
+    "page": 28,
+    "question_id": "vnlrb-u-042",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "8c249c21eb16f908dbd0f0b8b88b59bf5fcf9d5f9978c8c0b78f256baf36b8b3",
+      "142c24d53028334725a31eb71b4ea65206f9b47516babe5931c426b3f979569a"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "Breaches are reported to district without a contractual penalty amount.",
+    "source_section": null,
+    "source_page_verified": null,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control",
+    "selection_basis": "legacy_100x100_plus_quote_mapping_20261002",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "absence_verified_by_full_document_review",
+      "manual_semantic_review_completed": true
+    }
+  },
+  {
+    "question": "How many provinces were targeted for the first round of replicated public employment model projects?",
+    "answer": "Not found in context",
+    "page": 28,
+    "question_id": "vnlrb-u-043",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "89d76408264a8ac2c195616b63c10134f56e8e8bf490316176e7f926dcce8a40",
+      "042abd13753b993bc60504437dfe29066040d6bac6d3d8400e130f468cd0aed3"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "No provincial pilot count appears.",
+    "source_section": null,
+    "source_page_verified": null,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control",
+    "selection_basis": "legacy_100x100_plus_quote_mapping_20261002",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "absence_verified_by_full_document_review",
+      "manual_semantic_review_completed": true
+    }
+  },
+  {
+    "question": "What completed sample budget amount is shown in the construction-dossier form?",
+    "answer": "Not found in context",
+    "page": 33,
+    "question_id": "vnlrb-u-044",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "2fda3522ceacff15e881086c980e4db5760e2ca4e84c268634cede2b36178dac",
+      "0975e828262b3da9db70ee6c3fe98ac494f1f5b85c4d44e3858deb05094a8988"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "The sample cost schedule is blank; no completed amount is shown.",
+    "source_section": null,
+    "source_page_verified": null,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control",
+    "selection_basis": "legacy_100x100_plus_quote_mapping_20261002",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "absence_verified_by_full_document_review",
+      "manual_semantic_review_completed": true
+    }
+  },
+  {
+    "question": "Must an applicant attach a passport photograph to the public employment registration form?",
+    "answer": "Not found in context",
+    "page": 35,
+    "question_id": "vnlrb-u-045",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "25e20dc43210e34d7ac335564a047a24e78a03918830c4a18829e9c349d2aa7a",
+      "9c74bf2eb9c593215d85232ed4dfea1a985044f1bcda8ca01877b6bb86a2f2d6"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "The application form requests no photograph.",
+    "source_section": null,
+    "source_page_verified": null,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control",
+    "selection_basis": "legacy_100x100_plus_quote_mapping_20261002",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "absence_verified_by_full_document_review",
+      "manual_semantic_review_completed": true
+    }
+  },
+  {
+    "question": "What exact priority coefficient is assigned to a poor ethnic-minority woman on the application form?",
+    "answer": "Not found in context",
+    "page": 35,
+    "question_id": "vnlrb-u-046",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "9c74bf2eb9c593215d85232ed4dfea1a985044f1bcda8ca01877b6bb86a2f2d6",
+      "07fc1ef19e5c0620cd2b6ebfd7c2ff222a50444abc901022f878cb374be075f1"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "The priority-coefficient column is left for the board to fill; no fixed values exist.",
+    "source_section": null,
+    "source_page_verified": null,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control",
+    "selection_basis": "legacy_100x100_plus_quote_mapping_20261002",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "absence_verified_by_full_document_review",
+      "manual_semantic_review_completed": true
+    }
+  },
+  {
+    "question": "What fixed minimum number of local workers is required by the sample supplementary contract clauses?",
+    "answer": "Not found in context",
+    "page": 36,
+    "question_id": "vnlrb-u-047",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "5402912044d17d0c6aa702421c750a4457d4159ce23ce5a2c3f15062467ade89",
+      "acbcc1d44c12aecb9dc63e326dcea596e10bc673475eb23f8505febb68a0a4fc"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "The sample clauses leave local-hiring numbers blank.",
+    "source_section": null,
+    "source_page_verified": null,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control",
+    "selection_basis": "legacy_100x100_plus_quote_mapping_20261002",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "absence_verified_by_full_document_review",
+      "manual_semantic_review_completed": true
+    }
+  },
+  {
+    "question": "Which insurance company must provide voluntary occupational accident coverage for project workers?",
+    "answer": "Not found in context",
+    "page": 37,
+    "question_id": "vnlrb-u-048",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "4e5ac09beaa211be7d214d5769a423263ccf38ba3e8854f8d939eee7099a9115",
+      "1a92762e89015c638d670dc44a1feca1b4aebc1e6590a2f1c396ef276df2d2cd"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "Insurance is referenced without naming any company.",
+    "source_section": null,
+    "source_page_verified": null,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control",
+    "selection_basis": "legacy_100x100_plus_quote_mapping_20261002",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "absence_verified_by_full_document_review",
+      "manual_semantic_review_completed": true
+    }
+  },
+  {
+    "question": "For how many years must a completed project time sheet be retained?",
+    "answer": "Not found in context",
+    "page": 38,
+    "question_id": "vnlrb-u-049",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "b5abd664d5fb28c8164366eb820e3c4797bbd06d5c8b4d8e623afd298520a812",
+      "3667a364a6fb26cf8589426dcd65d7517aac9ec071021f778951ec91f1907c32"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "No time-sheet retention period is stated.",
+    "source_section": null,
+    "source_page_verified": null,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control",
+    "selection_basis": "legacy_100x100_plus_quote_mapping_20261002",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "absence_verified_by_full_document_review",
+      "manual_semantic_review_completed": true
+    }
+  },
+  {
+    "question": "How many training hours are prescribed for each of the four target groups?",
+    "answer": "Not found in context",
+    "page": 39,
+    "question_id": "vnlrb-u-050",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "074da212a01a3b601a6a8acd0640fa980957e49e1f980dee78fcb5cf82b3d5eb",
+      "807b5d2e58d6b68da7d8efacfba46d163a7b7fee03af735e1a6057da53e390bd"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "Training topics are listed without hour prescriptions.",
+    "source_section": null,
+    "source_page_verified": null,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control",
+    "selection_basis": "legacy_100x100_plus_quote_mapping_20261002",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "absence_verified_by_full_document_review",
+      "manual_semantic_review_completed": true
+    }
+  },
+  {
+    "question": "What professional certificate must a trainer hold to deliver local resource-based construction training?",
+    "answer": "Not found in context",
+    "page": 40,
+    "question_id": "vnlrb-u-051",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "16f51f1882ea49dd766f4ab87fd3835419030eeb4133d2dc42bf27d20bcbc3d4",
+      "e6b3c291d358b917834e9c408a9febac01e6a43029eebe9c0500c5df95ba2e2f"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "No trainer certification requirement appears.",
+    "source_section": null,
+    "source_page_verified": null,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control",
+    "selection_basis": "legacy_100x100_plus_quote_mapping_20261002",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "absence_verified_by_full_document_review",
+      "manual_semantic_review_completed": true
+    }
+  },
+  {
+    "question": "What maximum class size is permitted for hands-on community training?",
+    "answer": "Not found in context",
+    "page": 40,
+    "question_id": "vnlrb-u-052",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "e6b3c291d358b917834e9c408a9febac01e6a43029eebe9c0500c5df95ba2e2f",
+      "1661366cb3bbccfee59563f54da60aa8505964e48e0f74ec6ebc0106457f133f"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "No class-size limit is stated.",
+    "source_section": null,
+    "source_page_verified": null,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control",
+    "selection_basis": "legacy_100x100_plus_quote_mapping_20261002",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "absence_verified_by_full_document_review",
+      "manual_semantic_review_completed": true
+    }
+  },
+  {
+    "question": "What fixed amount in Vietnamese dong must every project reserve for occupational safety and health?",
+    "answer": "Not found in context",
+    "page": 44,
+    "question_id": "vnlrb-u-053",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "642fd7d8dd7e5c5297761dc6bb9f148a11e4f633464aa2ef46225a14f39cf394",
+      "6230f49905e40ae3c2243001954447584602c57df4efc35d81b063272f1bf107"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "OSH funding is a percentage guideline without any fixed amount.",
+    "source_section": null,
+    "source_page_verified": null,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control",
+    "selection_basis": "legacy_100x100_plus_quote_mapping_20261002",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "absence_verified_by_full_document_review",
+      "manual_semantic_review_completed": true
+    }
+  },
+  {
+    "question": "What medical compensation schedule applies to each category of construction-site injury?",
+    "answer": "Not found in context",
+    "page": 45,
+    "question_id": "vnlrb-u-054",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "142c24d53028334725a31eb71b4ea65206f9b47516babe5931c426b3f979569a",
+      "131c21e5f66e750396b657a7bfa2b5bf8b6edc5d25fee26c8ac857e9e0a98916"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "No injury-compensation schedule appears.",
+    "source_section": null,
+    "source_page_verified": null,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control",
+    "selection_basis": "legacy_100x100_plus_quote_mapping_20261002",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "absence_verified_by_full_document_review",
+      "manual_semantic_review_completed": true
+    }
+  },
+  {
+    "question": "How many districts were selected to pilot the public employment policy before nationwide implementation?",
+    "answer": "Not found in context",
+    "page": 6,
+    "question_id": "vnlrb-u-055",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "0bd4eeffe1ed2a90f887edd27536d3ea1a2e5b8aa0ec4920c8a24a1b622a6c09",
+      "89d76408264a8ac2c195616b63c10134f56e8e8bf490316176e7f926dcce8a40"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "No pilot-district count appears.",
+    "source_section": null,
+    "source_page_verified": null,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control",
+    "selection_basis": "legacy_100x100_plus_quote_mapping_20261002",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "absence_verified_by_full_document_review",
+      "manual_semantic_review_completed": true
+    }
+  },
+  {
+    "question": "On what date does Decree No. 61/2015/ND-CP expire?",
+    "answer": "Not found in context",
+    "page": 6,
+    "question_id": "vnlrb-u-056",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "6e2641d6890759b17f8ea4c650fd2db7bc7a6371b388a47ae5c0f9ad3077729b",
+      "f0ed5482a637f055bd3be4634fb8aba245f22e05f3066c0d1793bb2dde66c987"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "The decree is cited without an expiry date.",
+    "source_section": null,
+    "source_page_verified": null,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control",
+    "selection_basis": "legacy_100x100_plus_quote_mapping_20261002",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "absence_verified_by_full_document_review",
+      "manual_semantic_review_completed": true
+    }
+  },
+  {
+    "question": "What annual provincial budget formula is prescribed for implementing Decision No. 41/2016/QD-TTg?",
+    "answer": "Not found in context",
+    "page": 7,
+    "question_id": "vnlrb-u-057",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "6e2641d6890759b17f8ea4c650fd2db7bc7a6371b388a47ae5c0f9ad3077729b",
+      "9d72a12850fe1abbf4f11ddc4d2c10f8012e253232280d1e0c9b40e161db3be5"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "Decision 41/2016 is cited without any budget formula.",
+    "source_section": null,
+    "source_page_verified": null,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control",
+    "selection_basis": "legacy_100x100_plus_quote_mapping_20261002",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "absence_verified_by_full_document_review",
+      "manual_semantic_review_completed": true
+    }
+  },
+  {
+    "question": "What percentage of program funding must be divided between investment capital and recurrent funding?",
+    "answer": "Not found in context",
+    "page": 8,
+    "question_id": "vnlrb-u-058",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "57780c74df112e0dfd36f534c16e636a59ab71c56a2fef5ddedfbeef64bb3c8f",
+      "6e2641d6890759b17f8ea4c650fd2db7bc7a6371b388a47ae5c0f9ad3077729b"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "The two funding categories are described without any split percentage.",
+    "source_section": null,
+    "source_page_verified": null,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control",
+    "selection_basis": "legacy_100x100_plus_quote_mapping_20261002",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "absence_verified_by_full_document_review",
+      "manual_semantic_review_completed": true
+    }
+  },
+  {
+    "question": "What household-income ceiling determines whether a worker may register for public employment?",
+    "answer": "Not found in context",
+    "page": 9,
+    "question_id": "vnlrb-u-059",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "a3997ccebe6501d9756800bc83c6f118222b5abcb757e24fa3b138e762709cd1",
+      "9ed252b8fbacce5dcf011ef10aa65d7791f74e38f5dd815c6f4e849ad6feffc3"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "Eligibility rests on residence and voluntariness without an income ceiling.",
+    "source_section": null,
+    "source_page_verified": null,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control",
+    "selection_basis": "legacy_100x100_plus_quote_mapping_20261002",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "absence_verified_by_full_document_review",
+      "manual_semantic_review_completed": true
+    }
+  },
+  {
+    "question": "What is the maximum age at which a resident may participate in a public employment project?",
+    "answer": "Not found in context",
+    "page": 10,
+    "question_id": "vnlrb-u-060",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "b39e1ec30291275818fe3e01aba40cc3fc6ed8fc9a8499d55894f9ef49cbfb53",
+      "25e20dc43210e34d7ac335564a047a24e78a03918830c4a18829e9c349d2aa7a"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "Only a minimum age (15) exists; no maximum age is stated.",
+    "source_section": null,
+    "source_page_verified": null,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control",
+    "selection_basis": "legacy_100x100_plus_quote_mapping_20261002",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "absence_verified_by_full_document_review",
+      "manual_semantic_review_completed": true
+    }
+  },
+  {
+    "question": "What fixed quota of all project jobs must be reserved for ethnic-minority workers?",
+    "answer": "Not found in context",
+    "page": 10,
+    "question_id": "vnlrb-u-061",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "9ed252b8fbacce5dcf011ef10aa65d7791f74e38f5dd815c6f4e849ad6feffc3",
+      "a7a39495289999dac37d442d9db402a437b4fe51006db307efc3ea6629d8477f"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "Priority is ordered without fixed quotas.",
+    "source_section": null,
+    "source_page_verified": null,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control",
+    "selection_basis": "legacy_100x100_plus_quote_mapping_20261002",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "absence_verified_by_full_document_review",
+      "manual_semantic_review_completed": true
+    }
+  },
+  {
+    "question": "What travel reimbursement rate is paid to workers who live outside the project village?",
+    "answer": "Not found in context",
+    "page": 11,
+    "question_id": "vnlrb-u-062",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "5da42162d292d65409fe25ab1a8834380cdc5aed5ba173a3b62290a83aba0128",
+      "0cc3e0f9b5d98869f8816558b527b4aabca646034e69d7f54adb54e053ceea5c"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "No travel reimbursement appears.",
+    "source_section": null,
+    "source_page_verified": null,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control",
+    "selection_basis": "legacy_100x100_plus_quote_mapping_20261002",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "absence_verified_by_full_document_review",
+      "manual_semantic_review_completed": true
+    }
+  },
+  {
+    "question": "How many days of paid annual leave must community-form workers receive?",
+    "answer": "Not found in context",
+    "page": 11,
+    "question_id": "vnlrb-u-063",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "3bf1848c503e03d5b0183fac805da14de5484946319859da6f4e3fb11aed2104",
+      "a3997ccebe6501d9756800bc83c6f118222b5abcb757e24fa3b138e762709cd1"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "Weekly/monthly rest is specified without annual-leave days.",
+    "source_section": null,
+    "source_page_verified": null,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control",
+    "selection_basis": "legacy_100x100_plus_quote_mapping_20261002",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "absence_verified_by_full_document_review",
+      "manual_semantic_review_completed": true
+    }
+  },
+  {
+    "question": "How much fuel cost does the local resource-based approach save per kilometer compared with equipment-based construction?",
+    "answer": "Not found in context",
+    "page": 14,
+    "question_id": "vnlrb-u-065",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "39b9f1d50a6d0d15175648d48b1903be9e1dc1d59674d12c861fc1bdaeb2f1ac",
+      "8db2380aac443fd180c1e8cd61436939203973c423534b0cec2ad39e4022e109"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "LRB advantages are qualitative without fuel-savings figures.",
+    "source_section": null,
+    "source_page_verified": null,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control",
+    "selection_basis": "legacy_100x100_plus_quote_mapping_20261002",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "absence_verified_by_full_document_review",
+      "manual_semantic_review_completed": true
+    }
+  },
+  {
+    "question": "What mandatory minimum percentage of all construction materials must be sourced locally under the LRB approach?",
+    "answer": "Not found in context",
+    "page": 14,
+    "question_id": "vnlrb-u-066",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "e893562219170d6631cd5296faab203cc530f1cfe08841fe75420779a7d693f3",
+      "16f51f1882ea49dd766f4ab87fd3835419030eeb4133d2dc42bf27d20bcbc3d4"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "Local materials are encouraged without a mandatory percentage.",
+    "source_section": null,
+    "source_page_verified": null,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control",
+    "selection_basis": "legacy_100x100_plus_quote_mapping_20261002",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "absence_verified_by_full_document_review",
+      "manual_semantic_review_completed": true
+    }
+  },
+  {
+    "question": "What minimum number of labor-days per VND 1 million automatically qualifies a project for priority?",
+    "answer": "Not found in context",
+    "page": 18,
+    "question_id": "vnlrb-u-067",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "845822a4d74956570dbe9e24fc1f2984722374647d9fa23b75ecafc3179916b4",
+      "bfaabfed372b85016c78bc658af78ebb63f0001306c29e3f61431f7d1fd38ade"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "Labor-days per million dong is a criterion without a qualifying minimum.",
+    "source_section": null,
+    "source_page_verified": null,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control",
+    "selection_basis": "legacy_100x100_plus_quote_mapping_20261002",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "absence_verified_by_full_document_review",
+      "manual_semantic_review_completed": true
+    }
+  },
+  {
+    "question": "How many separate village meetings are compulsory before a proposed project list may be approved?",
+    "answer": "Not found in context",
+    "page": 19,
+    "question_id": "vnlrb-u-068",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "dad74da7e0814b94db7b2ce8823e41704a94d44cb39ffbc6bef957d65f910886",
+      "64bab52210e245a7360c38dc2372e51380faa71f7b7aa4a88bde28827984beaa"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "No compulsory meeting count is stated.",
+    "source_section": null,
+    "source_page_verified": null,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control",
+    "selection_basis": "legacy_100x100_plus_quote_mapping_20261002",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "absence_verified_by_full_document_review",
+      "manual_semantic_review_completed": true
+    }
+  },
+  {
+    "question": "What administrative fee must a village pay when submitting a simplified construction dossier?",
+    "answer": "Not found in context",
+    "page": 20,
+    "question_id": "vnlrb-u-069",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "d5d1f94cfa98fb7fe7b95a0a3289daa39b22cb6eddb5247d28225ea0ec4b0067",
+      "2fda3522ceacff15e881086c980e4db5760e2ca4e84c268634cede2b36178dac"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "No submission fee appears.",
+    "source_section": null,
+    "source_page_verified": null,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control",
+    "selection_basis": "legacy_100x100_plus_quote_mapping_20261002",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "absence_verified_by_full_document_review",
+      "manual_semantic_review_completed": true
+    }
+  },
+  {
+    "question": "What professional qualifications must every member of the construction-dossier appraisal team hold?",
+    "answer": "Not found in context",
+    "page": 21,
+    "question_id": "vnlrb-u-070",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "131c21e5f66e750396b657a7bfa2b5bf8b6edc5d25fee26c8ac857e9e0a98916",
+      "039c4ea15a29ca6d9bd7944c2259b856cea896e63e61f2be1033412159fcb3a0"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "Appraisal-team content is listed without qualification requirements.",
+    "source_section": null,
+    "source_page_verified": null,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control",
+    "selection_basis": "legacy_100x100_plus_quote_mapping_20261002",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "absence_verified_by_full_document_review",
+      "manual_semantic_review_completed": true
+    }
+  },
+  {
+    "question": "What medical examination must a worker pass before submitting a public-employment application?",
+    "answer": "Not found in context",
+    "page": 22,
+    "question_id": "vnlrb-u-072",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "4e5ac09beaa211be7d214d5769a423263ccf38ba3e8854f8d939eee7099a9115",
+      "b39e1ec30291275818fe3e01aba40cc3fc6ed8fc9a8499d55894f9ef49cbfb53"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "No medical examination is mentioned.",
+    "source_section": null,
+    "source_page_verified": null,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control",
+    "selection_basis": "legacy_100x100_plus_quote_mapping_20261002",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "absence_verified_by_full_document_review",
+      "manual_semantic_review_completed": true
+    }
+  },
+  {
+    "question": "What contract-retention percentage must a community group provide under a lump-sum construction contract?",
+    "answer": "Not found in context",
+    "page": 23,
+    "question_id": "vnlrb-u-074",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "0cc3e0f9b5d98869f8816558b527b4aabca646034e69d7f54adb54e053ceea5c",
+      "e8740f32fc71bb62b056928aac59f80e06a418725911ab189978d1e110b4fc87"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "No contract-retention percentage appears.",
+    "source_section": null,
+    "source_page_verified": null,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control",
+    "selection_basis": "legacy_100x100_plus_quote_mapping_20261002",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "absence_verified_by_full_document_review",
+      "manual_semantic_review_completed": true
+    }
+  },
+  {
+    "question": "How many workers may one technical officer supervise at a construction site?",
+    "answer": "Not found in context",
+    "page": 24,
+    "question_id": "vnlrb-u-075",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "d3b22ffffb7c6e18b9dcee065f2b1e4e8c779631eedc05da503b5534cfc50b49",
+      "131c21e5f66e750396b657a7bfa2b5bf8b6edc5d25fee26c8ac857e9e0a98916"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "Technical support is assigned without supervision ratios.",
+    "source_section": null,
+    "source_page_verified": null,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control",
+    "selection_basis": "legacy_100x100_plus_quote_mapping_20261002",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "absence_verified_by_full_document_review",
+      "manual_semantic_review_completed": true
+    }
+  },
+  {
+    "question": "What is the maximum cash amount that may be paid directly to one worker at a time?",
+    "answer": "Not found in context",
+    "page": 25,
+    "question_id": "vnlrb-u-076",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "845822a4d74956570dbe9e24fc1f2984722374647d9fa23b75ecafc3179916b4",
+      "52da25cef9dd31ffbe03472cf668ad67360146acbfd3553dfc537330a84bdea9"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "Direct cash payment is the method without a per-worker cap.",
+    "source_section": null,
+    "source_page_verified": null,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control",
+    "selection_basis": "legacy_100x100_plus_quote_mapping_20261002",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "absence_verified_by_full_document_review",
+      "manual_semantic_review_completed": true
+    }
+  },
+  {
+    "question": "How often must an independent auditor review a village project's final financial disclosure?",
+    "answer": "Not found in context",
+    "page": 26,
+    "question_id": "vnlrb-u-077",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "b5abd664d5fb28c8164366eb820e3c4797bbd06d5c8b4d8e623afd298520a812",
+      "3667a364a6fb26cf8589426dcd65d7517aac9ec071021f778951ec91f1907c32"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "No independent-audit requirement appears.",
+    "source_section": null,
+    "source_page_verified": null,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control",
+    "selection_basis": "legacy_100x100_plus_quote_mapping_20261002",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "absence_verified_by_full_document_review",
+      "manual_semantic_review_completed": true
+    }
+  },
+  {
+    "question": "At what fixed monthly interval must every completed facility undergo routine maintenance?",
+    "answer": "Not found in context",
+    "page": 26,
+    "question_id": "vnlrb-u-078",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "923b3da8640505603581d547056c5e4a3288bfb20c306629d9ee87c65830bbd3",
+      "b5abd664d5fb28c8164366eb820e3c4797bbd06d5c8b4d8e623afd298520a812"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "Maintenance follows the companion handbook without a fixed interval.",
+    "source_section": null,
+    "source_page_verified": null,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control",
+    "selection_basis": "legacy_100x100_plus_quote_mapping_20261002",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "absence_verified_by_full_document_review",
+      "manual_semantic_review_completed": true
+    }
+  },
+  {
+    "question": "How many tender-evaluation points must be awarded for a contractor's local-labor proposal?",
+    "answer": "Not found in context",
+    "page": 27,
+    "question_id": "vnlrb-u-079",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "845822a4d74956570dbe9e24fc1f2984722374647d9fa23b75ecafc3179916b4",
+      "52da25cef9dd31ffbe03472cf668ad67360146acbfd3553dfc537330a84bdea9"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "Tender evaluation criteria are not numerically specified.",
+    "source_section": null,
+    "source_page_verified": null,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control",
+    "selection_basis": "legacy_100x100_plus_quote_mapping_20261002",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "absence_verified_by_full_document_review",
+      "manual_semantic_review_completed": true
+    }
+  },
+  {
+    "question": "What monetary performance bond secures an outside contractor's local-labor commitment?",
+    "answer": "Not found in context",
+    "page": 27,
+    "question_id": "vnlrb-u-080",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "142c24d53028334725a31eb71b4ea65206f9b47516babe5931c426b3f979569a",
+      "1a3b880afd48b4561253cd10eed475434e398dd2b875455eda357901b4ed8e8e"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "No performance bond appears.",
+    "source_section": null,
+    "source_page_verified": null,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control",
+    "selection_basis": "legacy_100x100_plus_quote_mapping_20261002",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "absence_verified_by_full_document_review",
+      "manual_semantic_review_completed": true
+    }
+  },
+  {
+    "question": "What maximum number of beneficiary households may join one replicated public-employment model project?",
+    "answer": "Not found in context",
+    "page": 28,
+    "question_id": "vnlrb-u-081",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "44b2d64a9548fbe65d3531ed7fb588af114d927e930c89509e1f00e306fe6fb4",
+      "5da42162d292d65409fe25ab1a8834380cdc5aed5ba173a3b62290a83aba0128"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "No beneficiary-household cap appears.",
+    "source_section": null,
+    "source_page_verified": null,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "dense_failure",
+    "selection_basis": "legacy_100x100_plus_quote_mapping_20261002",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "absence_verified_by_full_document_review",
+      "manual_semantic_review_completed": true
+    },
+    "dense_screening_tier": "B",
+    "dense_failure_count": 2,
+    "dense_correct_by_k": {
+      "1": false,
+      "3": true,
+      "5": false
+    },
+    "gold_best_rank": null,
+    "wrong_or_attractor_best_rank": 1,
+    "ambical_used_during_screening": false,
+    "dense_screening_status": "selected",
+    "dense_screening_source": "base_promoted"
+  },
+  {
+    "question": "How many photocopies of an identity card must accompany the worker application?",
+    "answer": "Not found in context",
+    "page": 35,
+    "question_id": "vnlrb-u-083",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "25e20dc43210e34d7ac335564a047a24e78a03918830c4a18829e9c349d2aa7a",
+      "9c74bf2eb9c593215d85232ed4dfea1a985044f1bcda8ca01877b6bb86a2f2d6"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "No photocopy requirement appears.",
+    "source_section": null,
+    "source_page_verified": null,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control",
+    "selection_basis": "legacy_100x100_plus_quote_mapping_20261002",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "absence_verified_by_full_document_review",
+      "manual_semantic_review_completed": true
+    }
+  },
+  {
+    "question": "What annual cutoff date is used to calculate an applicant's age on the registration form?",
+    "answer": "Not found in context",
+    "page": 35,
+    "question_id": "vnlrb-u-084",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "9c74bf2eb9c593215d85232ed4dfea1a985044f1bcda8ca01877b6bb86a2f2d6",
+      "a3997ccebe6501d9756800bc83c6f118222b5abcb757e24fa3b138e762709cd1"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "No age-cutoff date appears.",
+    "source_section": null,
+    "source_page_verified": null,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control",
+    "selection_basis": "legacy_100x100_plus_quote_mapping_20261002",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "absence_verified_by_full_document_review",
+      "manual_semantic_review_completed": true
+    }
+  },
+  {
+    "question": "Which trade-union representative must countersign the collective labor agreement for a simplified project?",
+    "answer": "Not found in context",
+    "page": 36,
+    "question_id": "vnlrb-u-085",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "8c249c21eb16f908dbd0f0b8b88b59bf5fcf9d5f9978c8c0b78f256baf36b8b3",
+      "acbcc1d44c12aecb9dc63e326dcea596e10bc673475eb23f8505febb68a0a4fc"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "No union countersignature appears.",
+    "source_section": null,
+    "source_page_verified": null,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control",
+    "selection_basis": "legacy_100x100_plus_quote_mapping_20261002",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "absence_verified_by_full_document_review",
+      "manual_semantic_review_completed": true
+    }
+  },
+  {
+    "question": "What fixed insurance premium must Party B pay for each community-form worker?",
+    "answer": "Not found in context",
+    "page": 36,
+    "question_id": "vnlrb-u-086",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "5402912044d17d0c6aa702421c750a4457d4159ce23ce5a2c3f15062467ade89",
+      "4e5ac09beaa211be7d214d5769a423263ccf38ba3e8854f8d939eee7099a9115"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "Insurance is voluntary/negotiated without fixed premiums.",
+    "source_section": null,
+    "source_page_verified": null,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control",
+    "selection_basis": "legacy_100x100_plus_quote_mapping_20261002",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "absence_verified_by_full_document_review",
+      "manual_semantic_review_completed": true
+    }
+  },
+  {
+    "question": "At what time each evening must the daily time sheet be submitted for approval?",
+    "answer": "Not found in context",
+    "page": 38,
+    "question_id": "vnlrb-u-087",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "b5abd664d5fb28c8164366eb820e3c4797bbd06d5c8b4d8e623afd298520a812",
+      "171e1bf0bbc164afa57585ceb9644b70674869ce72fc0e2745cc97aee9bdf43d"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "No daily submission time appears.",
+    "source_section": null,
+    "source_page_verified": null,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control",
+    "selection_basis": "legacy_100x100_plus_quote_mapping_20261002",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "absence_verified_by_full_document_review",
+      "manual_semantic_review_completed": true
+    }
+  },
+  {
+    "question": "Which electronic timekeeping system is approved as a substitute for the sample paper time sheet?",
+    "answer": "Not found in context",
+    "page": 38,
+    "question_id": "vnlrb-u-088",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "8ebcde34bb0dec3a9dcac4d619aa72af79e8ae8e0f8d1384c0574fc9294949fa",
+      "d715d79541de72e71143a095755765535b6d6f5d39af0d3629dbfc8b19598447"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "No electronic timekeeping system is mentioned.",
+    "source_section": null,
+    "source_page_verified": null,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control",
+    "selection_basis": "legacy_100x100_plus_quote_mapping_20261002",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "absence_verified_by_full_document_review",
+      "manual_semantic_review_completed": true
+    }
+  },
+  {
+    "question": "What mandatory trainer-to-participant ratio applies to training-of-trainers courses?",
+    "answer": "Not found in context",
+    "page": 39,
+    "question_id": "vnlrb-u-089",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "1ddefec93d234d411e7624c819b1ee8827f028949bb900eabe3c26c823b72000",
+      "4a23edadf12c87e5bce6a11647b873cc93c0f07e01fef0498ebb299e96ace0ac"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "No trainer-to-participant ratio appears.",
+    "source_section": null,
+    "source_page_verified": null,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control",
+    "selection_basis": "legacy_100x100_plus_quote_mapping_20261002",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "absence_verified_by_full_document_review",
+      "manual_semantic_review_completed": true
+    }
+  },
+  {
+    "question": "What examination score must a participant obtain to pass the local resource-based construction course?",
+    "answer": "Not found in context",
+    "page": 40,
+    "question_id": "vnlrb-u-090",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "ce68ef1335964b234ae830fe3a378add211813adfdfbad296bebb863b094efdb",
+      "16f51f1882ea49dd766f4ab87fd3835419030eeb4133d2dc42bf27d20bcbc3d4"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "No examination scoring appears.",
+    "source_section": null,
+    "source_page_verified": null,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control",
+    "selection_basis": "legacy_100x100_plus_quote_mapping_20261002",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "absence_verified_by_full_document_review",
+      "manual_semantic_review_completed": true
+    }
+  },
+  {
+    "question": "What single mandatory labor-cost percentage applies to every low-traffic road project?",
+    "answer": "Not found in context",
+    "page": 42,
+    "question_id": "vnlrb-u-091",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "96ee249e3c8b9b349180c2673bd1c004505a887d2a00d8c0542345fe6f08c5ab",
+      "0cc3e0f9b5d98869f8816558b527b4aabca646034e69d7f54adb54e053ceea5c"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "Labor-cost shares are ranges (20-50% for paved low-traffic roads), not a single mandatory figure.",
+    "source_section": null,
+    "source_page_verified": null,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "dense_failure",
+    "selection_basis": "legacy_100x100_plus_quote_mapping_20261002",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "absence_verified_by_full_document_review",
+      "manual_semantic_review_completed": true
+    },
+    "dense_screening_tier": "A",
+    "dense_failure_count": 3,
+    "dense_correct_by_k": {
+      "1": false,
+      "3": false,
+      "5": false
+    },
+    "gold_best_rank": null,
+    "wrong_or_attractor_best_rank": 1,
+    "ambical_used_during_screening": false,
+    "dense_screening_status": "selected",
+    "dense_screening_source": "base_promoted"
+  },
+  {
+    "question": "What compulsory minimum percentage of project cost must be spent on occupational safety and health?",
+    "answer": "Not found in context",
+    "page": 44,
+    "question_id": "vnlrb-u-092",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "642fd7d8dd7e5c5297761dc6bb9f148a11e4f633464aa2ef46225a14f39cf394",
+      "6230f49905e40ae3c2243001954447584602c57df4efc35d81b063272f1bf107"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "OSH funding is a 2-3% guideline maximum, not a compulsory minimum.",
+    "source_section": null,
+    "source_page_verified": null,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control",
+    "selection_basis": "legacy_100x100_plus_quote_mapping_20261002",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "absence_verified_by_full_document_review",
+      "manual_semantic_review_completed": true
+    }
+  },
+  {
+    "question": "What official exchange rate converts a household's cash contribution into equivalent labor-days?",
+    "answer": "Not found in context",
+    "page": 45,
+    "question_id": "vnlrb-u-094",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "1f2c3879d03dbf4b51e7e61cb0c7ff9999ddccd36964d2860e04da8397615dcf",
+      "0bd4eeffe1ed2a90f887edd27536d3ea1a2e5b8aa0ec4920c8a24a1b622a6c09"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "Cash-in-lieu conversion uses the wage stated in the estimate, not an official exchange rate.",
+    "source_section": null,
+    "source_page_verified": null,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control",
+    "selection_basis": "legacy_100x100_plus_quote_mapping_20261002",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "absence_verified_by_full_document_review",
+      "manual_semantic_review_completed": true
+    }
+  },
+  {
+    "question": "During which calendar months is local-worker recruitment prohibited because of agricultural seasonality?",
+    "answer": "Not found in context",
+    "page": 47,
+    "question_id": "vnlrb-u-095",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "7053e10e236f144e3cd2bd4bb36c8965d82936304a40847070ed14098a286d27",
+      "cca4d1f6f64dcd32a45e80cec243153d738248fbc23e204f6ec7d7045ff9cc70"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "Seasonality is a planning consideration without prohibited months.",
+    "source_section": null,
+    "source_page_verified": null,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control",
+    "selection_basis": "legacy_100x100_plus_quote_mapping_20261002",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "absence_verified_by_full_document_review",
+      "manual_semantic_review_completed": true
+    }
+  },
+  {
+    "question": "What numbered-ball or computer procedure must be used when workers are selected by lottery?",
+    "answer": "Not found in context",
+    "page": 47,
+    "question_id": "vnlrb-u-096",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "44b2d64a9548fbe65d3531ed7fb588af114d927e930c89509e1f00e306fe6fb4",
+      "52da25cef9dd31ffbe03472cf668ad67360146acbfd3553dfc537330a84bdea9"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "Random lottery rotation is recommended without a specified procedure.",
+    "source_section": null,
+    "source_page_verified": null,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "dense_failure",
+    "selection_basis": "legacy_100x100_plus_quote_mapping_20261002",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "absence_verified_by_full_document_review",
+      "manual_semantic_review_completed": true
+    },
+    "dense_screening_tier": "B",
+    "dense_failure_count": 2,
+    "dense_correct_by_k": {
+      "1": false,
+      "3": true,
+      "5": false
+    },
+    "gold_best_rank": null,
+    "wrong_or_attractor_best_rank": 1,
+    "ambical_used_during_screening": false,
+    "dense_screening_status": "selected",
+    "dense_screening_source": "base_promoted"
+  },
+  {
+    "question": "On which exact day of each month must workers receive their wages?",
+    "answer": "Not found in context",
+    "page": 48,
+    "question_id": "vnlrb-u-097",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "1f2c3879d03dbf4b51e7e61cb0c7ff9999ddccd36964d2860e04da8397615dcf",
+      "845822a4d74956570dbe9e24fc1f2984722374647d9fa23b75ecafc3179916b4"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "Wages must be paid regularly and on time, at least monthly, without a fixed payday.",
+    "source_section": null,
+    "source_page_verified": null,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control",
+    "selection_basis": "legacy_100x100_plus_quote_mapping_20261002",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "absence_verified_by_full_document_review",
+      "manual_semantic_review_completed": true
+    }
+  },
+  {
+    "question": "Within how many working days must a site complaint be resolved after it is entered in the monitoring record?",
+    "answer": "Not found in context",
+    "page": 50,
+    "question_id": "vnlrb-u-098",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "131c21e5f66e750396b657a7bfa2b5bf8b6edc5d25fee26c8ac857e9e0a98916",
+      "8ebcde34bb0dec3a9dcac4d619aa72af79e8ae8e0f8d1384c0574fc9294949fa"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "Complaint mechanisms must exist without a resolution deadline.",
+    "source_section": null,
+    "source_page_verified": null,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control",
+    "selection_basis": "legacy_100x100_plus_quote_mapping_20261002",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "absence_verified_by_full_document_review",
+      "manual_semantic_review_completed": true
+    }
+  },
+  {
+    "question": "Which procurement method must be used to hire an independent impact-evaluation consultant?",
+    "answer": "Not found in context",
+    "page": 51,
+    "question_id": "vnlrb-u-099",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "721ade35ad827db26d1a779281603f6b99de7a878e1ca0bd6243563b6c238e70",
+      "4e5ac09beaa211be7d214d5769a423263ccf38ba3e8854f8d939eee7099a9115"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "Independent consultants are recommended without a procurement method.",
+    "source_section": null,
+    "source_page_verified": null,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control",
+    "selection_basis": "legacy_100x100_plus_quote_mapping_20261002",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "absence_verified_by_full_document_review",
+      "manual_semantic_review_completed": true
+    }
+  },
+  {
+    "question": "What minimum sample size is required for the impact evaluation conducted six months after completion?",
+    "answer": "Not found in context",
+    "page": 51,
+    "question_id": "vnlrb-u-100",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "807b5d2e58d6b68da7d8efacfba46d163a7b7fee03af735e1a6057da53e390bd",
+      "6230f49905e40ae3c2243001954447584602c57df4efc35d81b063272f1bf107"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "Impact evaluation suggests follow-up timing without a sample size.",
+    "source_section": null,
+    "source_page_verified": null,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control",
+    "selection_basis": "legacy_100x100_plus_quote_mapping_20261002",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "absence_verified_by_full_document_review",
+      "manual_semantic_review_completed": true
+    }
+  }
+]

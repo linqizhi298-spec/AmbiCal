@@ -1,0 +1,502 @@
+[
+  {
+    "question": "What specific ministerial department oversaw Bank Indonesia prior to the formation of the OJK?",
+    "answer": "Not found in context",
+    "page": 8
+  },
+  {
+    "question": "What specific methods are used by the OJK to deliver preventative educational materials to the public?",
+    "answer": "Not found in context",
+    "page": 13
+  },
+  {
+    "question": "What precise legal criteria determine whether an investment scheme is classified as 'illegal' under Indonesian law?",
+    "answer": "Not found in context",
+    "page": 15
+  },
+  {
+    "question": "How many distinct types of Fintech lending platforms are officially recognized and regulated by the OJK?",
+    "answer": "Not found in context",
+    "page": 130
+  },
+  {
+    "question": "What is the typical timeframe for a consumer dispute resolution process initiated through the OJK’s consumer service system?",
+    "answer": "Not found in context",
+    "page": 18
+  },
+  {
+    "question": "What are the long-term economic consequences for Indonesian citizens who invest in unregulated peer-to-peer lending platforms?",
+    "answer": "Not found in context",
+    "page": 139
+  },
+  {
+    "question": "What is the precise legal definition of 'dana sosial' as it relates to personal financial planning in Indonesia?",
+    "answer": "Not found in context",
+    "page": 27
+  },
+  {
+    "question": "Does the handbook specify whether gross or net monthly expenses must be used to calculate the liquidity ratio?",
+    "answer": "Not found in context",
+    "page": 32
+  },
+  {
+    "question": "What interest-rate threshold distinguishes good debt from bad debt?",
+    "answer": "Not found in context",
+    "page": 29
+  },
+  {
+    "question": "For how many consecutive months must all five financial-health checks be satisfied before a family is classified as financially healthy?",
+    "answer": "Not found in context",
+    "page": 31
+  },
+  {
+    "question": "Should the suggested allocations for social funds, investment, debt instalments, and daily needs be calculated from gross income or net income?",
+    "answer": "Not found in context",
+    "page": 27
+  },
+  {
+    "question": "What numerical scoring scale should a family use to rank needs above wants?",
+    "answer": "Not found in context",
+    "page": 28
+  },
+  {
+    "question": "What is the precise legal definition of 'mobile banking' as used by Indonesian banks?",
+    "answer": "Not found in context",
+    "page": 52
+  },
+  {
+    "question": "Describe the exact sequence of events that occur when a customer initiates a transfer via the SKNI system, from the customer's perspective.",
+    "answer": "Not found in context",
+    "page": 47
+  },
+  {
+    "question": "Under what specific circumstances would a bank be legally obligated to offer a customer a higher interest rate on a deposito account?",
+    "answer": "Not found in context",
+    "page": 39
+  },
+  {
+    "question": "What is the precise formula used by banks to calculate the effective annual interest rate on a tabungan account, considering compounding frequency and fees?",
+    "answer": "Not found in context",
+    "page": 37
+  },
+  {
+    "question": "Assuming a customer wants to secure a 'Kredit Usaha' loan to expand their small business, what specific documents must they provide to demonstrate the business's long-term viability and profitability, beyond basic application forms?",
+    "answer": "Not found in context",
+    "page": 42
+  },
+  {
+    "question": "What are the specific, unquantifiable psychological factors that banks consider when assessing the risk profile of a potential borrower applying for a 'Kredit Multiguna'?",
+    "answer": "Not found in context",
+    "page": 44
+  },
+  {
+    "question": "What is the precise legal definition of 'securities' as used within the Indonesian capital markets framework?",
+    "answer": "Not found in context",
+    "page": 63
+  },
+  {
+    "question": "Describe the exact workflow for a newly registered investor to access and utilize the online trading platform, including all required approvals and system interactions.",
+    "answer": "Not found in context",
+    "page": 71
+  },
+  {
+    "question": "How does the regulatory oversight of Fintech Pendanaan Bersama differ when a lender and borrower are both foreign entities?",
+    "answer": "Not found in context",
+    "page": 130
+  },
+  {
+    "question": "What is the maximum allowable interest rate for a Gadai (pawnshop) loan, adjusted for inflation, according to current OJK regulations?",
+    "answer": "Not found in context",
+    "page": 128
+  },
+  {
+    "question": "Provide a detailed breakdown of the typical fees and commissions charged by a securities company when facilitating a cross-border securities crowdfunding investment for a retail investor.",
+    "answer": "Not found in context",
+    "page": 68
+  },
+  {
+    "question": "What are the potential long-term systemic risks to the Indonesian capital market arising from the increasing popularity of Securities Crowdfunding (SCF) platforms?",
+    "answer": "Not found in context",
+    "page": 62
+  },
+  {
+    "question": "What specific types of pre-existing medical conditions would automatically disqualify an applicant from obtaining a Whole Life insurance policy?",
+    "answer": "Not found in context",
+    "page": 82
+  },
+  {
+    "question": "What is the precise sequence of steps a claims adjuster takes when investigating a property damage claim, including internal communication protocols?",
+    "answer": "Not found in context",
+    "page": 88
+  },
+  {
+    "question": "Under what specific circumstances would a Property Insurance policy be suspended or cancelled mid-term, beyond simple non-payment of premiums?",
+    "answer": "Not found in context",
+    "page": 83
+  },
+  {
+    "question": "What is the minimum level of professional training (hours, curriculum) required for an insurance agent to initially obtain their certification?",
+    "answer": "Not found in context",
+    "page": 89
+  },
+  {
+    "question": "If a Term Life policyholder wants to increase their coverage amount after the initial policy is issued, what is the exact process and potential impact on premiums?",
+    "answer": "Not found in context",
+    "page": 82
+  },
+  {
+    "question": "What specific legal recourse does an insurance company have if a policyholder intentionally provides false information during the application process, and what is the maximum financial penalty?",
+    "answer": "Not found in context",
+    "page": 90
+  },
+  {
+    "question": "Beyond the general category of 'electronic goods,' what specific types of electronic devices are explicitly approved for financing, categorized by brand or model?",
+    "answer": "Not found in context",
+    "page": 94
+  },
+  {
+    "question": "What is the precise sequence of steps a consumer must take, including specific forms to complete and documents to submit, to initiate a financing application for a wedding package?",
+    "answer": "Not found in context",
+    "page": 94
+  },
+  {
+    "question": "How does the handbook compare the eligibility criteria for financing a vehicle purchased from a dealership versus a private seller, detailing any differences in required documentation or approval processes?",
+    "answer": "Not found in context",
+    "page": 94
+  },
+  {
+    "question": "What is the maximum allowable interest rate, expressed as a percentage, that can be charged on a financing agreement for a small business expansion?",
+    "answer": "Not found in context",
+    "page": 95
+  },
+  {
+    "question": "Describe a hypothetical scenario where a consumer successfully utilizes a Multifinance program to purchase a home, detailing the specific financial planning strategies and risk mitigation techniques employed.",
+    "answer": "Not found in context",
+    "page": 94
+  },
+  {
+    "question": "What maximum debt-to-income ratio must a consumer meet to qualify for a multifinance product?",
+    "answer": "Not found in context",
+    "page": 92
+  },
+  {
+    "question": "What specific age range qualifies an individual as 'tidak produktif' for pension planning purposes?",
+    "answer": "Not found in context",
+    "page": 101
+  },
+  {
+    "question": "What identity-verification method and verification deadline are required during online BPJS Ketenagakerjaan registration?",
+    "answer": "Not found in context",
+    "page": 115
+  },
+  {
+    "question": "Under what specific circumstances would a DPLK investment portfolio be considered 'tidak aman' by regulators, and what actions would be taken?",
+    "answer": "Not found in context",
+    "page": 113
+  },
+  {
+    "question": "What is the maximum permissible ratio of investments in foreign currency assets for a DPLK, and how is this ratio enforced?",
+    "answer": "Not found in context",
+    "page": 113
+  },
+  {
+    "question": "How does the tax treatment of pension benefits differ for individuals who retire before the age of 50 versus those who retire after 60, specifically concerning DPPK?",
+    "answer": "Not found in context",
+    "page": 112
+  },
+  {
+    "question": "What specific internal risk assessment metrics does ASABRI utilize to determine the maximum allowable investment exposure to volatile sectors like cryptocurrency?",
+    "answer": "Not found in context",
+    "page": 108
+  },
+  {
+    "question": "What specific criteria determine the 'good condition' required for a vehicle to be accepted as collateral at PT Pegadaian (Persero)?",
+    "answer": "Not found in context",
+    "page": 124
+  },
+  {
+    "question": "What is the precise sequence of steps a customer must follow to initiate a 'safe deposit box' rental online, including required documentation uploads?",
+    "answer": "Not found in context",
+    "page": 119
+  },
+  {
+    "question": "Under what specific circumstances would PT Pegadaian (Persero) offer a higher loan amount for a gold bracelet compared to a gold ring of equivalent total gold weight?",
+    "answer": "Not found in context",
+    "page": 123
+  },
+  {
+    "question": "What is the maximum age a person can be to be eligible for a pawn loan at PT Pegadaian (Persero)?",
+    "answer": "Not found in context",
+    "page": 117
+  },
+  {
+    "question": "If a customer's pawned item is damaged while in the custody of PT Pegadaian (Persero), what is the exact procedure for determining compensation and resolving disputes?",
+    "answer": "Not found in context",
+    "page": 119
+  },
+  {
+    "question": "What specific legal recourse does PT Pegadaian (Persero) have if a borrower intentionally falsifies the appraisal value of a pawned item to secure a larger loan?",
+    "answer": "Not found in context",
+    "page": 124
+  },
+  {
+    "question": "What mandatory maximum approval time must an OJK-licensed Fintech Peer-to-Peer Lending platform meet for a loan application?",
+    "answer": "Not found in context",
+    "page": 130
+  },
+  {
+    "question": "What is the standard sequence of events a borrower experiences from initial application to loan disbursement, including all internal system checks?",
+    "answer": "Not found in context",
+    "page": 138
+  },
+  {
+    "question": "How do Fintech Peer-to-Peer Lending platforms in Indonesia compare to traditional banks in terms of their customer service response times during loan disputes?",
+    "answer": "Not found in context",
+    "page": 139
+  },
+  {
+    "question": "What is the maximum allowable total interest rate, including all fees and charges, that a Fintech Peer-to-Peer Lending platform can legally impose on a borrower?",
+    "answer": "Not found in context",
+    "page": 132
+  },
+  {
+    "question": "Can you provide a detailed case study illustrating how a small business owner successfully utilized a Fintech Peer-to-Peer Lending platform to expand their operations, including specific financial metrics?",
+    "answer": "Not found in context",
+    "page": 133
+  },
+  {
+    "question": "What repayment grace period must a borrower receive before being classified as being in default by a Fintech Peer-to-Peer Lending platform?",
+    "answer": "Not found in context",
+    "page": 136
+  },
+  {
+    "question": "What was the exact publication and distribution budget for the financial-management handbook?",
+    "answer": "Not found in context",
+    "page": 3
+  },
+  {
+    "question": "What was the OJK's annual operating budget in the year the handbook was published?",
+    "answer": "Not found in context",
+    "page": 8
+  },
+  {
+    "question": "On what dates did each of the OJK implementing regulations listed under its regulatory authority take effect?",
+    "answer": "Not found in context",
+    "page": 9
+  },
+  {
+    "question": "How many consumer complaints did the OJK resolve successfully during 2021?",
+    "answer": "Not found in context",
+    "page": 11
+  },
+  {
+    "question": "What average compensation amount did consumers receive through the OJK's protection mandate?",
+    "answer": "Not found in context",
+    "page": 12
+  },
+  {
+    "question": "What meeting frequency and quorum rules govern the Investment Alert Task Force?",
+    "answer": "Not found in context",
+    "page": 15
+  },
+  {
+    "question": "Which encryption standard does APPK use to protect submitted consumer complaints?",
+    "answer": "Not found in context",
+    "page": 18
+  },
+  {
+    "question": "What exact rupiah amount should a newly married couple allocate to each life goal listed in the handbook?",
+    "answer": "Not found in context",
+    "page": 22
+  },
+  {
+    "question": "What inflation assumption should be applied when setting the handbook's short-, medium-, and long-term goals?",
+    "answer": "Not found in context",
+    "page": 24
+  },
+  {
+    "question": "Does the handbook require married couples to use a joint bank account rather than separate accounts?",
+    "answer": "Not found in context",
+    "page": 26
+  },
+  {
+    "question": "How should the suggested 10/20/30/40 budget allocation change with the number of children in a family?",
+    "answer": "Not found in context",
+    "page": 27
+  },
+  {
+    "question": "What minimum credit-score value does the handbook use to classify a family's finances as healthy?",
+    "answer": "Not found in context",
+    "page": 31
+  },
+  {
+    "question": "How many months of transaction data are required before the four financial-health ratios can be considered reliable?",
+    "answer": "Not found in context",
+    "page": 32
+  },
+  {
+    "question": "What minimum paid-up capital must a BPR or BPRS maintain nationwide?",
+    "answer": "Not found in context",
+    "page": 35
+  },
+  {
+    "question": "What exact monetary penalty applies when funds are withdrawn early from a planned-savings account?",
+    "answer": "Not found in context",
+    "page": 38
+  },
+  {
+    "question": "What was the exact LPS guaranteed interest-rate ceiling on the handbook's publication date?",
+    "answer": "Not found in context",
+    "page": 41
+  },
+  {
+    "question": "How many times may a bank extend a working-capital credit facility after maturity?",
+    "answer": "Not found in context",
+    "page": 42
+  },
+  {
+    "question": "What exact annual interest rate must every bank charge for consumer credit?",
+    "answer": "Not found in context",
+    "page": 43
+  },
+  {
+    "question": "What valuation formula must a bank use to determine the acceptable value of loan collateral?",
+    "answer": "Not found in context",
+    "page": 44
+  },
+  {
+    "question": "How are members of a Sharia bank's supervisory board selected and appointed?",
+    "answer": "Not found in context",
+    "page": 45
+  },
+  {
+    "question": "What advisory fee does a bank charge for recommending mutual funds or government securities?",
+    "answer": "Not found in context",
+    "page": 46
+  },
+  {
+    "question": "What are the exact daily cut-off times for each of the four SKNI transfer batches?",
+    "answer": "Not found in context",
+    "page": 47
+  },
+  {
+    "question": "What fixed compensation amount must a bank pay when it discloses a customer's confidential data?",
+    "answer": "Not found in context",
+    "page": 49
+  },
+  {
+    "question": "What PIN length and mandatory PIN-change interval are prescribed for bank customers?",
+    "answer": "Not found in context",
+    "page": 50
+  },
+  {
+    "question": "What minimum internet speed and mobile operating-system version are required for digital banking?",
+    "answer": "Not found in context",
+    "page": 51
+  },
+  {
+    "question": "What numerical scoring formula should consumers use to rank competing banks before choosing a product?",
+    "answer": "Not found in context",
+    "page": 53
+  },
+  {
+    "question": "Which named banks waive all mandatory savings-account fees?",
+    "answer": "Not found in context",
+    "page": 54
+  },
+  {
+    "question": "What annual inflation rate does the handbook forecast for Indonesia over the next ten years?",
+    "answer": "Not found in context",
+    "page": 56
+  },
+  {
+    "question": "What exact percentage of income should each age group invest?",
+    "answer": "Not found in context",
+    "page": 59
+  },
+  {
+    "question": "What formula does the handbook provide for forecasting the future capital gain of an investment?",
+    "answer": "Not found in context",
+    "page": 60
+  },
+  {
+    "question": "What expected annual return does the handbook assign to real assets compared with financial assets?",
+    "answer": "Not found in context",
+    "page": 61
+  },
+  {
+    "question": "What numerical probability does the handbook assign to each type of capital-market risk?",
+    "answer": "Not found in context",
+    "page": 62
+  },
+  {
+    "question": "What maximum percentage may each mutual-fund type invest in securities from a single issuer?",
+    "answer": "Not found in context",
+    "page": 66
+  },
+  {
+    "question": "What platform-fee schedule must every Indonesian Securities Crowdfunding operator charge?",
+    "answer": "Not found in context",
+    "page": 68
+  },
+  {
+    "question": "What specific fines apply to each prohibited capital-market transaction mentioned in the investor obligations?",
+    "answer": "Not found in context",
+    "page": 69
+  },
+  {
+    "question": "What exact minimum initial deposit must every securities company require before an investor may trade?",
+    "answer": "Not found in context",
+    "page": 71
+  },
+  {
+    "question": "How many working days must a selling agent take to approve a new mutual-fund account?",
+    "answer": "Not found in context",
+    "page": 72
+  },
+  {
+    "question": "What fixed fee rate may a custodian bank charge for calculating a mutual fund's net asset value?",
+    "answer": "Not found in context",
+    "page": 73
+  },
+  {
+    "question": "Which securities company offers the lowest share-trading broker fee?",
+    "answer": "Not found in context",
+    "page": 74
+  },
+  {
+    "question": "How does the electronic-bond custody fee differ among individual Indonesian banks and securities firms?",
+    "answer": "Not found in context",
+    "page": 76
+  },
+  {
+    "question": "What exact percentage of a Sharia insurance premium must be assigned to the tabarru' fund?",
+    "answer": "Not found in context",
+    "page": 81
+  },
+  {
+    "question": "What is the maximum entry age for purchasing a whole-life insurance policy?",
+    "answer": "Not found in context",
+    "page": 82
+  },
+  {
+    "question": "What annual claim limits apply to dental care, glasses, and childbirth under health insurance?",
+    "answer": "Not found in context",
+    "page": 84
+  },
+  {
+    "question": "Which organisation issues insurance-agent certification, and how often must the certification be renewed?",
+    "answer": "Not found in context",
+    "page": 89
+  },
+  {
+    "question": "What minimum paid-up capital is required to establish a conventional or Sharia pawn company?",
+    "answer": "Not found in context",
+    "page": 120
+  },
+  {
+    "question": "What interest or profit-margin rates apply to instalment-based pawn loans and fiduciary financing?",
+    "answer": "Not found in context",
+    "page": 123
+  }
+]

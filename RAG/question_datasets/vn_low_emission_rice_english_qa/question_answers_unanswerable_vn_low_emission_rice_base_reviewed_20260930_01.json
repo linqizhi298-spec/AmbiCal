@@ -1,0 +1,3173 @@
+[
+  {
+    "question": "How much government funding was set aside each year for the one-million-hectare project?",
+    "answer": "Not found in context",
+    "page": 6,
+    "question_id": "vnle-u-001",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "af81f88234dc1ffc862f78cc03b001800e014ce5018ee3d9d5b2cafd967e48f3",
+      "0fca24d609ff2633eb8fd7422768449d3ba1d4d7c2b637f24c33f465e7f5be83"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "The referenced handbook page contains a related topic, but the requested fact is not stated in the frozen corpus.",
+    "source_section": "LỜI TỰA",
+    "source_page_verified": 6,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control_candidate",
+    "selection_basis": "original_100x100_plus_docling_page_provenance",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "page_provenance_mapped",
+      "mapping_method": "docling_page_to_frozen_chroma_chunk",
+      "manual_semantic_review_required_before_final_selection": true
+    },
+    "semantic_review": {
+      "status": "pass",
+      "verified_against": "full_text_only_corpus_read_20260930"
+    }
+  },
+  {
+    "question": "How many individual farm households were officially enrolled in the project in 2024?",
+    "answer": "Not found in context",
+    "page": 6,
+    "question_id": "vnle-u-002",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "af81f88234dc1ffc862f78cc03b001800e014ce5018ee3d9d5b2cafd967e48f3",
+      "0fca24d609ff2633eb8fd7422768449d3ba1d4d7c2b637f24c33f465e7f5be83"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "The referenced handbook page contains a related topic, but the requested fact is not stated in the frozen corpus.",
+    "source_section": "LỜI TỰA",
+    "source_page_verified": 6,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control_candidate",
+    "selection_basis": "original_100x100_plus_docling_page_provenance",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "page_provenance_mapped",
+      "mapping_method": "docling_page_to_frozen_chroma_chunk",
+      "manual_semantic_review_required_before_final_selection": true
+    },
+    "semantic_review": {
+      "status": "pass",
+      "verified_against": "full_text_only_corpus_read_20260930"
+    }
+  },
+  {
+    "question": "Does the project guarantee farmers a payment for each tonne of carbon dioxide avoided, and if so, how much?",
+    "answer": "Not found in context",
+    "page": 6,
+    "question_id": "vnle-u-003",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "af81f88234dc1ffc862f78cc03b001800e014ce5018ee3d9d5b2cafd967e48f3",
+      "0fca24d609ff2633eb8fd7422768449d3ba1d4d7c2b637f24c33f465e7f5be83"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "The referenced handbook page contains a related topic, but the requested fact is not stated in the frozen corpus.",
+    "source_section": "LỜI TỰA",
+    "source_page_verified": 6,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control_candidate",
+    "selection_basis": "original_100x100_plus_docling_page_provenance",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "page_provenance_mapped",
+      "mapping_method": "docling_page_to_frozen_chroma_chunk",
+      "manual_semantic_review_required_before_final_selection": true
+    },
+    "semantic_review": {
+      "status": "pass",
+      "verified_against": "full_text_only_corpus_read_20260930"
+    }
+  },
+  {
+    "question": "Which specific provinces were assigned mandatory hectare quotas under the project?",
+    "answer": "Not found in context",
+    "page": 7,
+    "question_id": "vnle-u-004",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "3c4c09a8e070fc855a74fbc6a13020444249725932d48d580ef9c2d787ffaa30",
+      "fa07678d33dc5806da58a0eaba182cd1a8584c21596681f34d64d27118debd90"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "The referenced handbook page contains a related topic, but the requested fact is not stated in the frozen corpus.",
+    "source_section": "Trần Thanh Nam",
+    "source_page_verified": 7,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control_candidate",
+    "selection_basis": "original_100x100_plus_docling_page_provenance",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "page_provenance_mapped",
+      "mapping_method": "docling_page_to_frozen_chroma_chunk",
+      "manual_semantic_review_required_before_final_selection": true
+    },
+    "semantic_review": {
+      "status": "pass",
+      "verified_against": "full_text_only_corpus_read_20260930"
+    }
+  },
+  {
+    "question": "What telephone number should farmers call for technical support on the handbook?",
+    "answer": "Not found in context",
+    "page": 7,
+    "question_id": "vnle-u-005",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "3c4c09a8e070fc855a74fbc6a13020444249725932d48d580ef9c2d787ffaa30",
+      "fa07678d33dc5806da58a0eaba182cd1a8584c21596681f34d64d27118debd90"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "The referenced handbook page contains a related topic, but the requested fact is not stated in the frozen corpus.",
+    "source_section": "Trần Thanh Nam",
+    "source_page_verified": 7,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control_candidate",
+    "selection_basis": "original_100x100_plus_docling_page_provenance",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "page_provenance_mapped",
+      "mapping_method": "docling_page_to_frozen_chroma_chunk",
+      "manual_semantic_review_required_before_final_selection": true
+    },
+    "semantic_review": {
+      "status": "pass",
+      "verified_against": "full_text_only_corpus_read_20260930"
+    }
+  },
+  {
+    "question": "What was the average net income per hectare for Mekong Delta rice farmers before the project began?",
+    "answer": "Not found in context",
+    "page": 5,
+    "question_id": "vnle-u-006",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "2da50d37577f2d6eb6a7bce4f1d5f2eccb7a31498453886a334fb476c8ae411c",
+      "4cff552f4ad8088feab6a947dad55bfb25ad3acde6ed7245819195bf845cde65"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "The referenced handbook page contains a related topic, but the requested fact is not stated in the frozen corpus.",
+    "source_section": "LỜI TỰA",
+    "source_page_verified": 5,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control_candidate",
+    "selection_basis": "original_100x100_plus_docling_page_provenance",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "page_provenance_mapped",
+      "mapping_method": "docling_page_to_frozen_chroma_chunk",
+      "manual_semantic_review_required_before_final_selection": true
+    },
+    "semantic_review": {
+      "status": "pass",
+      "verified_against": "full_text_only_corpus_read_20260930"
+    }
+  },
+  {
+    "question": "Which export market paid the highest average price for Vietnamese rice in 2023?",
+    "answer": "Not found in context",
+    "page": 5,
+    "question_id": "vnle-u-007",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "2da50d37577f2d6eb6a7bce4f1d5f2eccb7a31498453886a334fb476c8ae411c",
+      "4cff552f4ad8088feab6a947dad55bfb25ad3acde6ed7245819195bf845cde65"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "The referenced handbook page contains a related topic, but the requested fact is not stated in the frozen corpus.",
+    "source_section": "LỜI TỰA",
+    "source_page_verified": 5,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control_candidate",
+    "selection_basis": "original_100x100_plus_docling_page_provenance",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "page_provenance_mapped",
+      "mapping_method": "docling_page_to_frozen_chroma_chunk",
+      "manual_semantic_review_required_before_final_selection": true
+    },
+    "semantic_review": {
+      "status": "pass",
+      "verified_against": "full_text_only_corpus_read_20260930"
+    }
+  },
+  {
+    "question": "Which named rice varieties qualify as high-quality varieties under this process?",
+    "answer": "Not found in context",
+    "page": 10,
+    "question_id": "vnle-u-008",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "60b7c24e732a9b3df3bd793a09b687d65894285a9281565786ad1e61308963ce",
+      "920e5cb3b807b98bfeef4a61bc9c88da6d5c728e97c95d3117136797dceba63a"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "The referenced handbook page contains a related topic, but the requested fact is not stated in the frozen corpus.",
+    "source_section": "I. Mục đích và phạm vi sử dụng / 1. Mục đích",
+    "source_page_verified": 10,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control_candidate",
+    "selection_basis": "original_100x100_plus_docling_page_provenance",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "page_provenance_mapped",
+      "mapping_method": "docling_page_to_frozen_chroma_chunk",
+      "manual_semantic_review_required_before_final_selection": true
+    },
+    "semantic_review": {
+      "status": "pass",
+      "verified_against": "full_text_only_corpus_read_20260930"
+    }
+  },
+  {
+    "question": "Is there a minimum audit score for a farm to be certified under the project?",
+    "answer": "Not found in context",
+    "page": 10,
+    "question_id": "vnle-u-009",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "60b7c24e732a9b3df3bd793a09b687d65894285a9281565786ad1e61308963ce",
+      "920e5cb3b807b98bfeef4a61bc9c88da6d5c728e97c95d3117136797dceba63a"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "The referenced handbook page contains a related topic, but the requested fact is not stated in the frozen corpus.",
+    "source_section": "I. Mục đích và phạm vi sử dụng / 1. Mục đích",
+    "source_page_verified": 10,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control_candidate",
+    "selection_basis": "original_100x100_plus_docling_page_provenance",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "page_provenance_mapped",
+      "mapping_method": "docling_page_to_frozen_chroma_chunk",
+      "manual_semantic_review_required_before_final_selection": true
+    },
+    "semantic_review": {
+      "status": "pass",
+      "verified_against": "full_text_only_corpus_read_20260930"
+    }
+  },
+  {
+    "question": "What is the purchase price of the laser transmitter and receiver package?",
+    "answer": "Not found in context",
+    "page": 14,
+    "question_id": "vnle-u-010",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "65fa231449bd1797667d6a4d86a06d60c36f5808e78bf65d2dd194aca11422b5",
+      "401677c1d3089f3e80656bb70dbf07a6b81fbab05223159a84a11917222b73c4"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "The referenced handbook page contains a related topic, but the requested fact is not stated in the frozen corpus.",
+    "source_section": "Hệ thống san phẳng laser / Một hệ thống san phẳng laser bao gổm:",
+    "source_page_verified": 14,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control_candidate",
+    "selection_basis": "original_100x100_plus_docling_page_provenance",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "page_provenance_mapped",
+      "mapping_method": "docling_page_to_frozen_chroma_chunk",
+      "manual_semantic_review_required_before_final_selection": true
+    },
+    "semantic_review": {
+      "status": "pass",
+      "verified_against": "full_text_only_corpus_read_20260930"
+    }
+  },
+  {
+    "question": "How often must the laser receiver be professionally calibrated?",
+    "answer": "Not found in context",
+    "page": 14,
+    "question_id": "vnle-u-011",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "65fa231449bd1797667d6a4d86a06d60c36f5808e78bf65d2dd194aca11422b5",
+      "401677c1d3089f3e80656bb70dbf07a6b81fbab05223159a84a11917222b73c4"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "The referenced handbook page contains a related topic, but the requested fact is not stated in the frozen corpus.",
+    "source_section": "Hệ thống san phẳng laser / Một hệ thống san phẳng laser bao gổm:",
+    "source_page_verified": 14,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control_candidate",
+    "selection_basis": "original_100x100_plus_docling_page_provenance",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "page_provenance_mapped",
+      "mapping_method": "docling_page_to_frozen_chroma_chunk",
+      "manual_semantic_review_required_before_final_selection": true
+    },
+    "semantic_review": {
+      "status": "pass",
+      "verified_against": "full_text_only_corpus_read_20260930"
+    }
+  },
+  {
+    "question": "How fast may the tractor travel while laser leveling is under way?",
+    "answer": "Not found in context",
+    "page": 15,
+    "question_id": "vnle-u-012",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "644af92862b4e1cec98ce25cce49525cd1b9a830e365ecef11cee2a75d9826ee",
+      "78a9fcc48ac219aa62a1aeed3c10d55bfe80aac51a2ceb6c58db1361270a379e"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "The referenced handbook page contains a related topic, but the requested fact is not stated in the frozen corpus.",
+    "source_section": "SAN PHẲNG LASER / Các yêu cẩu kỹ thuật chính cho áp dụng san laser:",
+    "source_page_verified": 15,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control_candidate",
+    "selection_basis": "original_100x100_plus_docling_page_provenance",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "page_provenance_mapped",
+      "mapping_method": "docling_page_to_frozen_chroma_chunk",
+      "manual_semantic_review_required_before_final_selection": true
+    },
+    "semantic_review": {
+      "status": "pass",
+      "verified_against": "full_text_only_corpus_read_20260930"
+    }
+  },
+  {
+    "question": "How many litres of diesel per hectare does laser leveling normally consume?",
+    "answer": "Not found in context",
+    "page": 15,
+    "question_id": "vnle-u-013",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "644af92862b4e1cec98ce25cce49525cd1b9a830e365ecef11cee2a75d9826ee",
+      "78a9fcc48ac219aa62a1aeed3c10d55bfe80aac51a2ceb6c58db1361270a379e"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "The referenced handbook page contains a related topic, but the requested fact is not stated in the frozen corpus.",
+    "source_section": "SAN PHẲNG LASER / Các yêu cẩu kỹ thuật chính cho áp dụng san laser:",
+    "source_page_verified": 15,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control_candidate",
+    "selection_basis": "original_100x100_plus_docling_page_provenance",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "page_provenance_mapped",
+      "mapping_method": "docling_page_to_frozen_chroma_chunk",
+      "manual_semantic_review_required_before_final_selection": true
+    },
+    "semantic_review": {
+      "status": "pass",
+      "verified_against": "full_text_only_corpus_read_20260930"
+    }
+  },
+  {
+    "question": "How long would it take a cooperative to recover the cost of buying a laser leveler?",
+    "answer": "Not found in context",
+    "page": 15,
+    "question_id": "vnle-u-014",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "644af92862b4e1cec98ce25cce49525cd1b9a830e365ecef11cee2a75d9826ee",
+      "78a9fcc48ac219aa62a1aeed3c10d55bfe80aac51a2ceb6c58db1361270a379e"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "The referenced handbook page contains a related topic, but the requested fact is not stated in the frozen corpus.",
+    "source_section": "SAN PHẲNG LASER / Các yêu cẩu kỹ thuật chính cho áp dụng san laser:",
+    "source_page_verified": 15,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control_candidate",
+    "selection_basis": "original_100x100_plus_docling_page_provenance",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "page_provenance_mapped",
+      "mapping_method": "docling_page_to_frozen_chroma_chunk",
+      "manual_semantic_review_required_before_final_selection": true
+    },
+    "semantic_review": {
+      "status": "pass",
+      "verified_against": "full_text_only_corpus_read_20260930"
+    }
+  },
+  {
+    "question": "What soil organic-carbon threshold determines whether disc plowing is necessary?",
+    "answer": "Not found in context",
+    "page": 17,
+    "question_id": "vnle-u-015",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "4c2e453fec6ea4cd63f6aca6e7121894b38e07f0c751ba7484b6d91edd57f393"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "The referenced handbook page contains a related topic, but the requested fact is not stated in the frozen corpus.",
+    "source_section": "CÁC HOẠT ĐỘNG/KHÂU TRONG LÀM ĐẤT TRỔNG LÚA Ở ĐBSCL",
+    "source_page_verified": 17,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control_candidate",
+    "selection_basis": "original_100x100_plus_docling_page_provenance",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "page_provenance_mapped",
+      "mapping_method": "docling_page_to_frozen_chroma_chunk",
+      "manual_semantic_review_required_before_final_selection": true
+    },
+    "semantic_review": {
+      "status": "pass",
+      "verified_against": "full_text_only_corpus_read_20260930"
+    }
+  },
+  {
+    "question": "At what forward speed should disc plowing be performed?",
+    "answer": "Not found in context",
+    "page": 17,
+    "question_id": "vnle-u-016",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "4c2e453fec6ea4cd63f6aca6e7121894b38e07f0c751ba7484b6d91edd57f393"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "The referenced handbook page contains a related topic, but the requested fact is not stated in the frozen corpus.",
+    "source_section": "CÁC HOẠT ĐỘNG/KHÂU TRONG LÀM ĐẤT TRỔNG LÚA Ở ĐBSCL",
+    "source_page_verified": 17,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control_candidate",
+    "selection_basis": "original_100x100_plus_docling_page_provenance",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "page_provenance_mapped",
+      "mapping_method": "docling_page_to_frozen_chroma_chunk",
+      "manual_semantic_review_required_before_final_selection": true
+    },
+    "semantic_review": {
+      "status": "pass",
+      "verified_against": "full_text_only_corpus_read_20260930"
+    }
+  },
+  {
+    "question": "What rotary-tiller PTO speed is prescribed for wet tillage?",
+    "answer": "Not found in context",
+    "page": 18,
+    "question_id": "vnle-u-017",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "4c2e453fec6ea4cd63f6aca6e7121894b38e07f0c751ba7484b6d91edd57f393"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "The referenced handbook page contains a related topic, but the requested fact is not stated in the frozen corpus.",
+    "source_section": "CÁC HOẠT ĐỘNG/KHÂU TRONG LÀM ĐẤT TRỔNG LÚA Ở ĐBSCL",
+    "source_page_verified": 18,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control_candidate",
+    "selection_basis": "original_100x100_plus_docling_page_provenance",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "page_provenance_mapped",
+      "mapping_method": "docling_page_to_frozen_chroma_chunk",
+      "manual_semantic_review_required_before_final_selection": true
+    },
+    "semantic_review": {
+      "status": "pass",
+      "verified_against": "full_text_only_corpus_read_20260930"
+    }
+  },
+  {
+    "question": "How many cubic metres of water per hectare are needed to soften the field before puddling?",
+    "answer": "Not found in context",
+    "page": 19,
+    "question_id": "vnle-u-018",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "8f4104106dcf470a565be57018d680ac21e19ec99ff81e770c4be38d6d44c378"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "The referenced handbook page contains a related topic, but the requested fact is not stated in the frozen corpus.",
+    "source_section": "Trang phẳng mặt ruộng / 6-9m",
+    "source_page_verified": 19,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control_candidate",
+    "selection_basis": "original_100x100_plus_docling_page_provenance",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "page_provenance_mapped",
+      "mapping_method": "docling_page_to_frozen_chroma_chunk",
+      "manual_semantic_review_required_before_final_selection": true
+    },
+    "semantic_review": {
+      "status": "pass",
+      "verified_against": "full_text_only_corpus_read_20260930"
+    }
+  },
+  {
+    "question": "What longitudinal slope must each drainage furrow maintain?",
+    "answer": "Not found in context",
+    "page": 20,
+    "question_id": "vnle-u-019",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "8f4104106dcf470a565be57018d680ac21e19ec99ff81e770c4be38d6d44c378"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "The referenced handbook page contains a related topic, but the requested fact is not stated in the frozen corpus.",
+    "source_section": "Trang phẳng mặt ruộng / 6-9m",
+    "source_page_verified": 20,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control_candidate",
+    "selection_basis": "original_100x100_plus_docling_page_provenance",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "page_provenance_mapped",
+      "mapping_method": "docling_page_to_frozen_chroma_chunk",
+      "manual_semantic_review_required_before_final_selection": true
+    },
+    "semantic_review": {
+      "status": "pass",
+      "verified_against": "full_text_only_corpus_read_20260930"
+    }
+  },
+  {
+    "question": "What maximum pumping rate is recommended when draining the field before seeding?",
+    "answer": "Not found in context",
+    "page": 20,
+    "question_id": "vnle-u-020",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "8f4104106dcf470a565be57018d680ac21e19ec99ff81e770c4be38d6d44c378"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "The referenced handbook page contains a related topic, but the requested fact is not stated in the frozen corpus.",
+    "source_section": "Trang phẳng mặt ruộng / 6-9m",
+    "source_page_verified": 20,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control_candidate",
+    "selection_basis": "original_100x100_plus_docling_page_provenance",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "page_provenance_mapped",
+      "mapping_method": "docling_page_to_frozen_chroma_chunk",
+      "manual_semantic_review_required_before_final_selection": true
+    },
+    "semantic_review": {
+      "status": "pass",
+      "verified_against": "full_text_only_corpus_read_20260930"
+    }
+  },
+  {
+    "question": "What minimum certified-seed class or generation is required?",
+    "answer": "Not found in context",
+    "page": 21,
+    "question_id": "vnle-u-021",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "40820aaeb5496166beb0b1b314889843c0c8f06e1504bf84481d65e8057b5875",
+      "db26f130dd198797f90a01b6efd68c1d73e700109b31722238841e8b9d3bcb29"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "The referenced handbook page contains a related topic, but the requested fact is not stated in the frozen corpus.",
+    "source_section": "c. Xử lý hạt giống cho áp dụng gieo sạ hàng hoặc sạ cụm / d. Ngâm ủ hạt giống",
+    "source_page_verified": 21,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control_candidate",
+    "selection_basis": "original_100x100_plus_docling_page_provenance",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "page_provenance_mapped",
+      "mapping_method": "docling_page_to_frozen_chroma_chunk",
+      "manual_semantic_review_required_before_final_selection": true
+    },
+    "semantic_review": {
+      "status": "pass",
+      "verified_against": "full_text_only_corpus_read_20260930"
+    }
+  },
+  {
+    "question": "What germination percentage causes a seed lot to be rejected rather than adjusted?",
+    "answer": "Not found in context",
+    "page": 21,
+    "question_id": "vnle-u-022",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "40820aaeb5496166beb0b1b314889843c0c8f06e1504bf84481d65e8057b5875",
+      "db26f130dd198797f90a01b6efd68c1d73e700109b31722238841e8b9d3bcb29"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "The referenced handbook page contains a related topic, but the requested fact is not stated in the frozen corpus.",
+    "source_section": "c. Xử lý hạt giống cho áp dụng gieo sạ hàng hoặc sạ cụm / d. Ngâm ủ hạt giống",
+    "source_page_verified": 21,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control_candidate",
+    "selection_basis": "original_100x100_plus_docling_page_provenance",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "page_provenance_mapped",
+      "mapping_method": "docling_page_to_frozen_chroma_chunk",
+      "manual_semantic_review_required_before_final_selection": true
+    },
+    "semantic_review": {
+      "status": "pass",
+      "verified_against": "full_text_only_corpus_read_20260930"
+    }
+  },
+  {
+    "question": "What water temperature should be maintained during seed soaking?",
+    "answer": "Not found in context",
+    "page": 21,
+    "question_id": "vnle-u-023",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "40820aaeb5496166beb0b1b314889843c0c8f06e1504bf84481d65e8057b5875",
+      "db26f130dd198797f90a01b6efd68c1d73e700109b31722238841e8b9d3bcb29"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "The referenced handbook page contains a related topic, but the requested fact is not stated in the frozen corpus.",
+    "source_section": "c. Xử lý hạt giống cho áp dụng gieo sạ hàng hoặc sạ cụm / d. Ngâm ủ hạt giống",
+    "source_page_verified": 21,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control_candidate",
+    "selection_basis": "original_100x100_plus_docling_page_provenance",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "page_provenance_mapped",
+      "mapping_method": "docling_page_to_frozen_chroma_chunk",
+      "manual_semantic_review_required_before_final_selection": true
+    },
+    "semantic_review": {
+      "status": "pass",
+      "verified_against": "full_text_only_corpus_read_20260930"
+    }
+  },
+  {
+    "question": "Which disinfectant and concentration should be used for seed treatment?",
+    "answer": "Not found in context",
+    "page": 21,
+    "question_id": "vnle-u-024",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "40820aaeb5496166beb0b1b314889843c0c8f06e1504bf84481d65e8057b5875",
+      "db26f130dd198797f90a01b6efd68c1d73e700109b31722238841e8b9d3bcb29"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "The referenced handbook page contains a related topic, but the requested fact is not stated in the frozen corpus.",
+    "source_section": "c. Xử lý hạt giống cho áp dụng gieo sạ hàng hoặc sạ cụm / d. Ngâm ủ hạt giống",
+    "source_page_verified": 21,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control_candidate",
+    "selection_basis": "original_100x100_plus_docling_page_provenance",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "page_provenance_mapped",
+      "mapping_method": "docling_page_to_frozen_chroma_chunk",
+      "manual_semantic_review_required_before_final_selection": true
+    },
+    "semantic_review": {
+      "status": "pass",
+      "verified_against": "full_text_only_corpus_read_20260930"
+    }
+  },
+  {
+    "question": "What maximum root length is allowed before sprouted seed must be discarded?",
+    "answer": "Not found in context",
+    "page": 21,
+    "question_id": "vnle-u-025",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "40820aaeb5496166beb0b1b314889843c0c8f06e1504bf84481d65e8057b5875",
+      "db26f130dd198797f90a01b6efd68c1d73e700109b31722238841e8b9d3bcb29"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "The referenced handbook page contains a related topic, but the requested fact is not stated in the frozen corpus.",
+    "source_section": "c. Xử lý hạt giống cho áp dụng gieo sạ hàng hoặc sạ cụm / d. Ngâm ủ hạt giống",
+    "source_page_verified": 21,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control_candidate",
+    "selection_basis": "original_100x100_plus_docling_page_provenance",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "page_provenance_mapped",
+      "mapping_method": "docling_page_to_frozen_chroma_chunk",
+      "manual_semantic_review_required_before_final_selection": true
+    },
+    "semantic_review": {
+      "status": "pass",
+      "verified_against": "full_text_only_corpus_read_20260930"
+    }
+  },
+  {
+    "question": "How many kilograms of seed are required in the worked example for a 3.7-hectare field?",
+    "answer": "Not found in context",
+    "page": 24,
+    "question_id": "vnle-u-026",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "c68172912cbb6d66cc75b3d4ac4140687a06ae32a918792f04cdbda400c7f45b"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "The referenced handbook page contains a related topic, but the requested fact is not stated in the frozen corpus.",
+    "source_section": "CHUẨN BỊ GIỐNG / Tính lượng giống Iúa",
+    "source_page_verified": 24,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control_candidate",
+    "selection_basis": "original_100x100_plus_docling_page_provenance",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "page_provenance_mapped",
+      "mapping_method": "docling_page_to_frozen_chroma_chunk",
+      "manual_semantic_review_required_before_final_selection": true
+    },
+    "semantic_review": {
+      "status": "pass",
+      "verified_against": "full_text_only_corpus_read_20260930"
+    }
+  },
+  {
+    "question": "At what forecast chance of rain should sowing be postponed?",
+    "answer": "Not found in context",
+    "page": 27,
+    "question_id": "vnle-u-027",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "d1fba7eeba4c4a4bb90a7a55032d89a79e15fb9e2231ea60709bc4ddcc313c38",
+      "6079234d7d6ff48d400f5a10b037827c1cb832884181fc2ee92836d16cd6f1e8"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "The referenced handbook page contains a related topic, but the requested fact is not stated in the frozen corpus.",
+    "source_section": "3.2. Phương pháp gieo sạ / 3.3. Máy sạ hàng và sạ cụm",
+    "source_page_verified": 27,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control_candidate",
+    "selection_basis": "original_100x100_plus_docling_page_provenance",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "page_provenance_mapped",
+      "mapping_method": "docling_page_to_frozen_chroma_chunk",
+      "manual_semantic_review_required_before_final_selection": true
+    },
+    "semantic_review": {
+      "status": "pass",
+      "verified_against": "full_text_only_corpus_read_20260930"
+    }
+  },
+  {
+    "question": "What salinity threshold in grams per litre makes sowing unsafe?",
+    "answer": "Not found in context",
+    "page": 27,
+    "question_id": "vnle-u-028",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "d1fba7eeba4c4a4bb90a7a55032d89a79e15fb9e2231ea60709bc4ddcc313c38",
+      "6079234d7d6ff48d400f5a10b037827c1cb832884181fc2ee92836d16cd6f1e8"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "The referenced handbook page contains a related topic, but the requested fact is not stated in the frozen corpus.",
+    "source_section": "3.2. Phương pháp gieo sạ / 3.3. Máy sạ hàng và sạ cụm",
+    "source_page_verified": 27,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control_candidate",
+    "selection_basis": "original_100x100_plus_docling_page_provenance",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "page_provenance_mapped",
+      "mapping_method": "docling_page_to_frozen_chroma_chunk",
+      "manual_semantic_review_required_before_final_selection": true
+    },
+    "semantic_review": {
+      "status": "pass",
+      "verified_against": "full_text_only_corpus_read_20260930"
+    }
+  },
+  {
+    "question": "What is the manufacturer and model number of the six-row pneumatic seeder shown?",
+    "answer": "Not found in context",
+    "page": 28,
+    "question_id": "vnle-u-029",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "ade0d69da211d3b03692037493b9160df2056ffa6b68a2020b16dc2fa6b72674"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "The referenced handbook page contains a related topic, but the requested fact is not stated in the frozen corpus.",
+    "source_section": "a. Máy sạ hàng khí động",
+    "source_page_verified": 28,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control_candidate",
+    "selection_basis": "original_100x100_plus_docling_page_provenance",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "page_provenance_mapped",
+      "mapping_method": "docling_page_to_frozen_chroma_chunk",
+      "manual_semantic_review_required_before_final_selection": true
+    },
+    "semantic_review": {
+      "status": "pass",
+      "verified_against": "full_text_only_corpus_read_20260930"
+    }
+  },
+  {
+    "question": "After how many operating hours must the pneumatic fan be serviced?",
+    "answer": "Not found in context",
+    "page": 28,
+    "question_id": "vnle-u-030",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "ade0d69da211d3b03692037493b9160df2056ffa6b68a2020b16dc2fa6b72674"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "The referenced handbook page contains a related topic, but the requested fact is not stated in the frozen corpus.",
+    "source_section": "a. Máy sạ hàng khí động",
+    "source_page_verified": 28,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control_candidate",
+    "selection_basis": "original_100x100_plus_docling_page_provenance",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "page_provenance_mapped",
+      "mapping_method": "docling_page_to_frozen_chroma_chunk",
+      "manual_semantic_review_required_before_final_selection": true
+    },
+    "semantic_review": {
+      "status": "pass",
+      "verified_against": "full_text_only_corpus_read_20260930"
+    }
+  },
+  {
+    "question": "What is the hourly diesel consumption of the sixteen-row pneumatic seeder combination?",
+    "answer": "Not found in context",
+    "page": 29,
+    "question_id": "vnle-u-031",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "bfd6056bff2c889dc01b1c50dec653ce8863b51dd7513dbbb1bcf598a65a6d42"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "The referenced handbook page contains a related topic, but the requested fact is not stated in the frozen corpus.",
+    "source_section": "a. Máy sạ hàng khí động",
+    "source_page_verified": 29,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control_candidate",
+    "selection_basis": "original_100x100_plus_docling_page_provenance",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "page_provenance_mapped",
+      "mapping_method": "docling_page_to_frozen_chroma_chunk",
+      "manual_semantic_review_required_before_final_selection": true
+    },
+    "semantic_review": {
+      "status": "pass",
+      "verified_against": "full_text_only_corpus_read_20260930"
+    }
+  },
+  {
+    "question": "How much variation in seed delivery is acceptable among the sixteen rows?",
+    "answer": "Not found in context",
+    "page": 29,
+    "question_id": "vnle-u-032",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "bfd6056bff2c889dc01b1c50dec653ce8863b51dd7513dbbb1bcf598a65a6d42"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "The referenced handbook page contains a related topic, but the requested fact is not stated in the frozen corpus.",
+    "source_section": "a. Máy sạ hàng khí động",
+    "source_page_verified": 29,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control_candidate",
+    "selection_basis": "original_100x100_plus_docling_page_provenance",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "page_provenance_mapped",
+      "mapping_method": "docling_page_to_frozen_chroma_chunk",
+      "manual_semantic_review_required_before_final_selection": true
+    },
+    "semantic_review": {
+      "status": "pass",
+      "verified_against": "full_text_only_corpus_read_20260930"
+    }
+  },
+  {
+    "question": "What is the empty weight of the cluster seeder?",
+    "answer": "Not found in context",
+    "page": 30,
+    "question_id": "vnle-u-033",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "0a1fbca4f0d8be4bd820e686736840d3ce81d251ab7bbc391189ed043fc246bf"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "The referenced handbook page contains a related topic, but the requested fact is not stated in the frozen corpus.",
+    "source_section": "b. Máy sạ cụm: có thông số kỹ thuật như sau: (Hình 6)",
+    "source_page_verified": 30,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control_candidate",
+    "selection_basis": "original_100x100_plus_docling_page_provenance",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "page_provenance_mapped",
+      "mapping_method": "docling_page_to_frozen_chroma_chunk",
+      "manual_semantic_review_required_before_final_selection": true
+    },
+    "semantic_review": {
+      "status": "pass",
+      "verified_against": "full_text_only_corpus_read_20260930"
+    }
+  },
+  {
+    "question": "What hydraulic flow rate must the tractor provide for the cluster seeder?",
+    "answer": "Not found in context",
+    "page": 30,
+    "question_id": "vnle-u-034",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "0a1fbca4f0d8be4bd820e686736840d3ce81d251ab7bbc391189ed043fc246bf"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "The referenced handbook page contains a related topic, but the requested fact is not stated in the frozen corpus.",
+    "source_section": "b. Máy sạ cụm: có thông số kỹ thuật như sau: (Hình 6)",
+    "source_page_verified": 30,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control_candidate",
+    "selection_basis": "original_100x100_plus_docling_page_provenance",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "page_provenance_mapped",
+      "mapping_method": "docling_page_to_frozen_chroma_chunk",
+      "manual_semantic_review_required_before_final_selection": true
+    },
+    "semantic_review": {
+      "status": "pass",
+      "verified_against": "full_text_only_corpus_read_20260930"
+    }
+  },
+  {
+    "question": "What is the contractor's recommended fee per hectare for cluster seeding?",
+    "answer": "Not found in context",
+    "page": 30,
+    "question_id": "vnle-u-035",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "0a1fbca4f0d8be4bd820e686736840d3ce81d251ab7bbc391189ed043fc246bf"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "The referenced handbook page contains a related topic, but the requested fact is not stated in the frozen corpus.",
+    "source_section": "b. Máy sạ cụm: có thông số kỹ thuật như sau: (Hình 6)",
+    "source_page_verified": 30,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control_candidate",
+    "selection_basis": "original_100x100_plus_docling_page_provenance",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "page_provenance_mapped",
+      "mapping_method": "docling_page_to_frozen_chroma_chunk",
+      "manual_semantic_review_required_before_final_selection": true
+    },
+    "semantic_review": {
+      "status": "pass",
+      "verified_against": "full_text_only_corpus_read_20260930"
+    }
+  },
+  {
+    "question": "What metering-wheel setting corresponds to 60 kg of seed per hectare?",
+    "answer": "Not found in context",
+    "page": 31,
+    "question_id": "vnle-u-036",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "69f7c793c0f9419dcb5f1e07d914706e7048503b1e9246052bb148d6bab0a308",
+      "ed4e6f2295ed14c7bb7d13aecc472c30aa43184b94caeeb8a07e267fc1ebc573"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "The referenced handbook page contains a related topic, but the requested fact is not stated in the frozen corpus.",
+    "source_section": "c. Máy sạ hàng khí động kết hợp vùi phân",
+    "source_page_verified": 31,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control_candidate",
+    "selection_basis": "original_100x100_plus_docling_page_provenance",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "page_provenance_mapped",
+      "mapping_method": "docling_page_to_frozen_chroma_chunk",
+      "manual_semantic_review_required_before_final_selection": true
+    },
+    "semantic_review": {
+      "status": "pass",
+      "verified_against": "full_text_only_corpus_read_20260930"
+    }
+  },
+  {
+    "question": "By what percentage does fertilizer burial reduce nitrogen loss through volatilization?",
+    "answer": "Not found in context",
+    "page": 31,
+    "question_id": "vnle-u-037",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "69f7c793c0f9419dcb5f1e07d914706e7048503b1e9246052bb148d6bab0a308",
+      "ed4e6f2295ed14c7bb7d13aecc472c30aa43184b94caeeb8a07e267fc1ebc573"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "The referenced handbook page contains a related topic, but the requested fact is not stated in the frozen corpus.",
+    "source_section": "c. Máy sạ hàng khí động kết hợp vùi phân",
+    "source_page_verified": 31,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control_candidate",
+    "selection_basis": "original_100x100_plus_docling_page_provenance",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "page_provenance_mapped",
+      "mapping_method": "docling_page_to_frozen_chroma_chunk",
+      "manual_semantic_review_required_before_final_selection": true
+    },
+    "semantic_review": {
+      "status": "pass",
+      "verified_against": "full_text_only_corpus_read_20260930"
+    }
+  },
+  {
+    "question": "What lateral tolerance is allowed for fertilizer placement beside the seed row?",
+    "answer": "Not found in context",
+    "page": 31,
+    "question_id": "vnle-u-038",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "69f7c793c0f9419dcb5f1e07d914706e7048503b1e9246052bb148d6bab0a308",
+      "ed4e6f2295ed14c7bb7d13aecc472c30aa43184b94caeeb8a07e267fc1ebc573"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "The referenced handbook page contains a related topic, but the requested fact is not stated in the frozen corpus.",
+    "source_section": "c. Máy sạ hàng khí động kết hợp vùi phân",
+    "source_page_verified": 31,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control_candidate",
+    "selection_basis": "original_100x100_plus_docling_page_provenance",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "page_provenance_mapped",
+      "mapping_method": "docling_page_to_frozen_chroma_chunk",
+      "manual_semantic_review_required_before_final_selection": true
+    },
+    "semantic_review": {
+      "status": "pass",
+      "verified_against": "full_text_only_corpus_read_20260930"
+    }
+  },
+  {
+    "question": "Which rice variety performs best under the wide-row/narrow-row pattern?",
+    "answer": "Not found in context",
+    "page": 32,
+    "question_id": "vnle-u-039",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "7a79df9c8448a8146511c874e2c971d452f60015d1582be025e5cd42034dfb1b",
+      "97dc3ca7d4a67b1d89863c1b8585f9e3b2c99e518a2f35faa912137f67843821"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "The referenced handbook page contains a related topic, but the requested fact is not stated in the frozen corpus.",
+    "source_section": "d. Máy sạ hàng rộng - hàng hẹp kết hợp vùi phân",
+    "source_page_verified": 32,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control_candidate",
+    "selection_basis": "original_100x100_plus_docling_page_provenance",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "page_provenance_mapped",
+      "mapping_method": "docling_page_to_frozen_chroma_chunk",
+      "manual_semantic_review_required_before_final_selection": true
+    },
+    "semantic_review": {
+      "status": "pass",
+      "verified_against": "full_text_only_corpus_read_20260930"
+    }
+  },
+  {
+    "question": "How much additional yield did the border-effect row pattern produce in field trials?",
+    "answer": "Not found in context",
+    "page": 32,
+    "question_id": "vnle-u-040",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "7a79df9c8448a8146511c874e2c971d452f60015d1582be025e5cd42034dfb1b",
+      "97dc3ca7d4a67b1d89863c1b8585f9e3b2c99e518a2f35faa912137f67843821"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "The referenced handbook page contains a related topic, but the requested fact is not stated in the frozen corpus.",
+    "source_section": "d. Máy sạ hàng rộng - hàng hẹp kết hợp vùi phân",
+    "source_page_verified": 32,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control_candidate",
+    "selection_basis": "original_100x100_plus_docling_page_provenance",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "page_provenance_mapped",
+      "mapping_method": "docling_page_to_frozen_chroma_chunk",
+      "manual_semantic_review_required_before_final_selection": true
+    },
+    "semantic_review": {
+      "status": "pass",
+      "verified_against": "full_text_only_corpus_read_20260930"
+    }
+  },
+  {
+    "question": "What GNSS positioning accuracy is required for automatic straight-line steering?",
+    "answer": "Not found in context",
+    "page": 33,
+    "question_id": "vnle-u-041",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "daf081d574341717cc2d96e62bc9e94f484ba0def6a6fbbbfc9d482267c83ea1",
+      "e35e3f0f81cfb428b18fa1ed2565ec2896543ca6ed99877e52c84104d69ea609"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "The referenced handbook page contains a related topic, but the requested fact is not stated in the frozen corpus.",
+    "source_section": "e. Máy sạ cụm kết hợp vùi phân / Máy sạ cụm kết hợp vùi phân kiểu khí động",
+    "source_page_verified": 33,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control_candidate",
+    "selection_basis": "original_100x100_plus_docling_page_provenance",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "page_provenance_mapped",
+      "mapping_method": "docling_page_to_frozen_chroma_chunk",
+      "manual_semantic_review_required_before_final_selection": true
+    },
+    "semantic_review": {
+      "status": "pass",
+      "verified_against": "full_text_only_corpus_read_20260930"
+    }
+  },
+  {
+    "question": "How many irrigation cycles should a complete AWD season contain?",
+    "answer": "Not found in context",
+    "page": 35,
+    "question_id": "vnle-u-042",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "89f30d40ea0b60ccfae3e92dbe2601ed04616ad252ddc51f26cca5a4af05c9bf",
+      "21b725dda750e9ec06ec9a5ccd5c178d7b827218a1354bd2bb7b1ef2d0527421"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "The referenced handbook page contains a related topic, but the requested fact is not stated in the frozen corpus.",
+    "source_section": "b) Áp dụng rút nước theo nguyên tắc ướt khô xen kẽ (AWD): / c) Trường hợp rút nước 1 lần giữa vụ:",
+    "source_page_verified": 35,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control_candidate",
+    "selection_basis": "original_100x100_plus_docling_page_provenance",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "page_provenance_mapped",
+      "mapping_method": "docling_page_to_frozen_chroma_chunk",
+      "manual_semantic_review_required_before_final_selection": true
+    },
+    "semantic_review": {
+      "status": "pass",
+      "verified_against": "full_text_only_corpus_read_20260930"
+    }
+  },
+  {
+    "question": "What total seasonal irrigation volume is expected under AWD?",
+    "answer": "Not found in context",
+    "page": 35,
+    "question_id": "vnle-u-043",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "89f30d40ea0b60ccfae3e92dbe2601ed04616ad252ddc51f26cca5a4af05c9bf",
+      "21b725dda750e9ec06ec9a5ccd5c178d7b827218a1354bd2bb7b1ef2d0527421"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "The referenced handbook page contains a related topic, but the requested fact is not stated in the frozen corpus.",
+    "source_section": "b) Áp dụng rút nước theo nguyên tắc ướt khô xen kẽ (AWD): / c) Trường hợp rút nước 1 lần giữa vụ:",
+    "source_page_verified": 35,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control_candidate",
+    "selection_basis": "original_100x100_plus_docling_page_provenance",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "page_provenance_mapped",
+      "mapping_method": "docling_page_to_frozen_chroma_chunk",
+      "manual_semantic_review_required_before_final_selection": true
+    },
+    "semantic_review": {
+      "status": "pass",
+      "verified_against": "full_text_only_corpus_read_20260930"
+    }
+  },
+  {
+    "question": "What soil type requires the 15 cm AWD trigger to be changed?",
+    "answer": "Not found in context",
+    "page": 35,
+    "question_id": "vnle-u-044",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "89f30d40ea0b60ccfae3e92dbe2601ed04616ad252ddc51f26cca5a4af05c9bf",
+      "21b725dda750e9ec06ec9a5ccd5c178d7b827218a1354bd2bb7b1ef2d0527421"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "The referenced handbook page contains a related topic, but the requested fact is not stated in the frozen corpus.",
+    "source_section": "b) Áp dụng rút nước theo nguyên tắc ướt khô xen kẽ (AWD): / c) Trường hợp rút nước 1 lần giữa vụ:",
+    "source_page_verified": 35,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control_candidate",
+    "selection_basis": "original_100x100_plus_docling_page_provenance",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "page_provenance_mapped",
+      "mapping_method": "docling_page_to_frozen_chroma_chunk",
+      "manual_semantic_review_required_before_final_selection": true
+    },
+    "semantic_review": {
+      "status": "pass",
+      "verified_against": "full_text_only_corpus_read_20260930"
+    }
+  },
+  {
+    "question": "At what salinity must AWD irrigation water be rejected?",
+    "answer": "Not found in context",
+    "page": 35,
+    "question_id": "vnle-u-045",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "89f30d40ea0b60ccfae3e92dbe2601ed04616ad252ddc51f26cca5a4af05c9bf",
+      "21b725dda750e9ec06ec9a5ccd5c178d7b827218a1354bd2bb7b1ef2d0527421"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "The referenced handbook page contains a related topic, but the requested fact is not stated in the frozen corpus.",
+    "source_section": "b) Áp dụng rút nước theo nguyên tắc ướt khô xen kẽ (AWD): / c) Trường hợp rút nước 1 lần giữa vụ:",
+    "source_page_verified": 35,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control_candidate",
+    "selection_basis": "original_100x100_plus_docling_page_provenance",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "page_provenance_mapped",
+      "mapping_method": "docling_page_to_frozen_chroma_chunk",
+      "manual_semantic_review_required_before_final_selection": true
+    },
+    "semantic_review": {
+      "status": "pass",
+      "verified_against": "full_text_only_corpus_read_20260930"
+    }
+  },
+  {
+    "question": "What methane-reduction factor does the handbook assign to one AWD drainage cycle?",
+    "answer": "Not found in context",
+    "page": 35,
+    "question_id": "vnle-u-046",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "89f30d40ea0b60ccfae3e92dbe2601ed04616ad252ddc51f26cca5a4af05c9bf",
+      "21b725dda750e9ec06ec9a5ccd5c178d7b827218a1354bd2bb7b1ef2d0527421"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "The referenced handbook page contains a related topic, but the requested fact is not stated in the frozen corpus.",
+    "source_section": "b) Áp dụng rút nước theo nguyên tắc ướt khô xen kẽ (AWD): / c) Trường hợp rút nước 1 lần giữa vụ:",
+    "source_page_verified": 35,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control_candidate",
+    "selection_basis": "original_100x100_plus_docling_page_provenance",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "page_provenance_mapped",
+      "mapping_method": "docling_page_to_frozen_chroma_chunk",
+      "manual_semantic_review_required_before_final_selection": true
+    },
+    "semantic_review": {
+      "status": "pass",
+      "verified_against": "full_text_only_corpus_read_20260930"
+    }
+  },
+  {
+    "question": "Which laboratory extraction method must be used for the five-year soil analysis?",
+    "answer": "Not found in context",
+    "page": 36,
+    "question_id": "vnle-u-047",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "eeb70e08d6d7176c604d1db3dc2569de8c3f7e3db55a4e9afc2dfd19e4b4ee9b",
+      "9dd17cd5a2462cc9ecd2695804161d43e5acdcc860ea52a13a336efa5d662ea4"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "The referenced handbook page contains a related topic, but the requested fact is not stated in the frozen corpus.",
+    "source_section": "b) Lượng phân bón cho 01 ha đối với lúa gieo sạ / Vụ Hè Thu và Thu Đông:",
+    "source_page_verified": 36,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control_candidate",
+    "selection_basis": "original_100x100_plus_docling_page_provenance",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "page_provenance_mapped",
+      "mapping_method": "docling_page_to_frozen_chroma_chunk",
+      "manual_semantic_review_required_before_final_selection": true
+    },
+    "semantic_review": {
+      "status": "pass",
+      "verified_against": "full_text_only_corpus_read_20260930"
+    }
+  },
+  {
+    "question": "What soil-test phosphorus value separates low and adequate fertility?",
+    "answer": "Not found in context",
+    "page": 36,
+    "question_id": "vnle-u-048",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "eeb70e08d6d7176c604d1db3dc2569de8c3f7e3db55a4e9afc2dfd19e4b4ee9b",
+      "9dd17cd5a2462cc9ecd2695804161d43e5acdcc860ea52a13a336efa5d662ea4"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "The referenced handbook page contains a related topic, but the requested fact is not stated in the frozen corpus.",
+    "source_section": "b) Lượng phân bón cho 01 ha đối với lúa gieo sạ / Vụ Hè Thu và Thu Đông:",
+    "source_page_verified": 36,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control_candidate",
+    "selection_basis": "original_100x100_plus_docling_page_provenance",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "page_provenance_mapped",
+      "mapping_method": "docling_page_to_frozen_chroma_chunk",
+      "manual_semantic_review_required_before_final_selection": true
+    },
+    "semantic_review": {
+      "status": "pass",
+      "verified_against": "full_text_only_corpus_read_20260930"
+    }
+  },
+  {
+    "question": "Which commercial organic-fertilizer brands are approved for the program?",
+    "answer": "Not found in context",
+    "page": 36,
+    "question_id": "vnle-u-049",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "eeb70e08d6d7176c604d1db3dc2569de8c3f7e3db55a4e9afc2dfd19e4b4ee9b",
+      "9dd17cd5a2462cc9ecd2695804161d43e5acdcc860ea52a13a336efa5d662ea4"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "The referenced handbook page contains a related topic, but the requested fact is not stated in the frozen corpus.",
+    "source_section": "b) Lượng phân bón cho 01 ha đối với lúa gieo sạ / Vụ Hè Thu và Thu Đông:",
+    "source_page_verified": 36,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control_candidate",
+    "selection_basis": "original_100x100_plus_docling_page_provenance",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "page_provenance_mapped",
+      "mapping_method": "docling_page_to_frozen_chroma_chunk",
+      "manual_semantic_review_required_before_final_selection": true
+    },
+    "semantic_review": {
+      "status": "pass",
+      "verified_against": "full_text_only_corpus_read_20260930"
+    }
+  },
+  {
+    "question": "What liming rate is specified for soil above pH KCl 5.0?",
+    "answer": "Not found in context",
+    "page": 36,
+    "question_id": "vnle-u-050",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "eeb70e08d6d7176c604d1db3dc2569de8c3f7e3db55a4e9afc2dfd19e4b4ee9b",
+      "9dd17cd5a2462cc9ecd2695804161d43e5acdcc860ea52a13a336efa5d662ea4"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "The referenced handbook page contains a related topic, but the requested fact is not stated in the frozen corpus.",
+    "source_section": "b) Lượng phân bón cho 01 ha đối với lúa gieo sạ / Vụ Hè Thu và Thu Đông:",
+    "source_page_verified": 36,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control_candidate",
+    "selection_basis": "original_100x100_plus_docling_page_provenance",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "page_provenance_mapped",
+      "mapping_method": "docling_page_to_frozen_chroma_chunk",
+      "manual_semantic_review_required_before_final_selection": true
+    },
+    "semantic_review": {
+      "status": "pass",
+      "verified_against": "full_text_only_corpus_read_20260930"
+    }
+  },
+  {
+    "question": "What sulfur and micronutrient rates are recommended for alluvial soil?",
+    "answer": "Not found in context",
+    "page": 36,
+    "question_id": "vnle-u-051",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "eeb70e08d6d7176c604d1db3dc2569de8c3f7e3db55a4e9afc2dfd19e4b4ee9b",
+      "9dd17cd5a2462cc9ecd2695804161d43e5acdcc860ea52a13a336efa5d662ea4"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "The referenced handbook page contains a related topic, but the requested fact is not stated in the frozen corpus.",
+    "source_section": "b) Lượng phân bón cho 01 ha đối với lúa gieo sạ / Vụ Hè Thu và Thu Đông:",
+    "source_page_verified": 36,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control_candidate",
+    "selection_basis": "original_100x100_plus_docling_page_provenance",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "page_provenance_mapped",
+      "mapping_method": "docling_page_to_frozen_chroma_chunk",
+      "manual_semantic_review_required_before_final_selection": true
+    },
+    "semantic_review": {
+      "status": "pass",
+      "verified_against": "full_text_only_corpus_read_20260930"
+    }
+  },
+  {
+    "question": "What leaf-color-chart reading triggers an additional nitrogen application?",
+    "answer": "Not found in context",
+    "page": 37,
+    "question_id": "vnle-u-052",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "66ef4e9b7a2f2f9e5a4bf3a65bc9a23d27250d8125721c221665d52ab2732abe",
+      "5be92392803ce75815e737828665123e4513e0d1d45d95b233f3fad116198b11"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "The referenced handbook page contains a related topic, but the requested fact is not stated in the frozen corpus.",
+    "source_section": "d) Áp dụng cơ giới hoá sạ hàng hoặc sạ cụm kết hợp vùi phân",
+    "source_page_verified": 37,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control_candidate",
+    "selection_basis": "original_100x100_plus_docling_page_provenance",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "page_provenance_mapped",
+      "mapping_method": "docling_page_to_frozen_chroma_chunk",
+      "manual_semantic_review_required_before_final_selection": true
+    },
+    "semantic_review": {
+      "status": "pass",
+      "verified_against": "full_text_only_corpus_read_20260930"
+    }
+  },
+  {
+    "question": "What fertilizer bulk-density range is required by the metering mechanism?",
+    "answer": "Not found in context",
+    "page": 37,
+    "question_id": "vnle-u-053",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "66ef4e9b7a2f2f9e5a4bf3a65bc9a23d27250d8125721c221665d52ab2732abe",
+      "5be92392803ce75815e737828665123e4513e0d1d45d95b233f3fad116198b11"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "The referenced handbook page contains a related topic, but the requested fact is not stated in the frozen corpus.",
+    "source_section": "d) Áp dụng cơ giới hoá sạ hàng hoặc sạ cụm kết hợp vùi phân",
+    "source_page_verified": 37,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control_candidate",
+    "selection_basis": "original_100x100_plus_docling_page_provenance",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "page_provenance_mapped",
+      "mapping_method": "docling_page_to_frozen_chroma_chunk",
+      "manual_semantic_review_required_before_final_selection": true
+    },
+    "semantic_review": {
+      "status": "pass",
+      "verified_against": "full_text_only_corpus_read_20260930"
+    }
+  },
+  {
+    "question": "How many field-scouting points per hectare are required for pest forecasting?",
+    "answer": "Not found in context",
+    "page": 38,
+    "question_id": "vnle-u-054",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "3b80fe3a53be5d0b38f8210e31860dc1908d954b1a20f4a24eb9dba80d0838d0",
+      "66ef4e9b7a2f2f9e5a4bf3a65bc9a23d27250d8125721c221665d52ab2732abe"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "The referenced handbook page contains a related topic, but the requested fact is not stated in the frozen corpus.",
+    "source_section": "6.2 Phòng trừ dịch hại chính / trừ bệnh hại chính: Phòng",
+    "source_page_verified": 38,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control_candidate",
+    "selection_basis": "original_100x100_plus_docling_page_provenance",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "page_provenance_mapped",
+      "mapping_method": "docling_page_to_frozen_chroma_chunk",
+      "manual_semantic_review_required_before_final_selection": true
+    },
+    "semantic_review": {
+      "status": "pass",
+      "verified_against": "full_text_only_corpus_read_20260930"
+    }
+  },
+  {
+    "question": "What spray-water volume per hectare is required for pesticide application?",
+    "answer": "Not found in context",
+    "page": 38,
+    "question_id": "vnle-u-055",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "3b80fe3a53be5d0b38f8210e31860dc1908d954b1a20f4a24eb9dba80d0838d0",
+      "66ef4e9b7a2f2f9e5a4bf3a65bc9a23d27250d8125721c221665d52ab2732abe"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "The referenced handbook page contains a related topic, but the requested fact is not stated in the frozen corpus.",
+    "source_section": "6.2 Phòng trừ dịch hại chính / trừ bệnh hại chính: Phòng",
+    "source_page_verified": 38,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control_candidate",
+    "selection_basis": "original_100x100_plus_docling_page_provenance",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "page_provenance_mapped",
+      "mapping_method": "docling_page_to_frozen_chroma_chunk",
+      "manual_semantic_review_required_before_final_selection": true
+    },
+    "semantic_review": {
+      "status": "pass",
+      "verified_against": "full_text_only_corpus_read_20260930"
+    }
+  },
+  {
+    "question": "What wind-speed limit applies to drone pesticide spraying?",
+    "answer": "Not found in context",
+    "page": 38,
+    "question_id": "vnle-u-056",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "3b80fe3a53be5d0b38f8210e31860dc1908d954b1a20f4a24eb9dba80d0838d0",
+      "66ef4e9b7a2f2f9e5a4bf3a65bc9a23d27250d8125721c221665d52ab2732abe"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "The referenced handbook page contains a related topic, but the requested fact is not stated in the frozen corpus.",
+    "source_section": "6.2 Phòng trừ dịch hại chính / trừ bệnh hại chính: Phòng",
+    "source_page_verified": 38,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control_candidate",
+    "selection_basis": "original_100x100_plus_docling_page_provenance",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "page_provenance_mapped",
+      "mapping_method": "docling_page_to_frozen_chroma_chunk",
+      "manual_semantic_review_required_before_final_selection": true
+    },
+    "semantic_review": {
+      "status": "pass",
+      "verified_against": "full_text_only_corpus_read_20260930"
+    }
+  },
+  {
+    "question": "How long is the pre-harvest interval for each pesticide named in the handbook?",
+    "answer": "Not found in context",
+    "page": 38,
+    "question_id": "vnle-u-057",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "3b80fe3a53be5d0b38f8210e31860dc1908d954b1a20f4a24eb9dba80d0838d0",
+      "66ef4e9b7a2f2f9e5a4bf3a65bc9a23d27250d8125721c221665d52ab2732abe"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "The referenced handbook page contains a related topic, but the requested fact is not stated in the frozen corpus.",
+    "source_section": "6.2 Phòng trừ dịch hại chính / trừ bệnh hại chính: Phòng",
+    "source_page_verified": 38,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control_candidate",
+    "selection_basis": "original_100x100_plus_docling_page_provenance",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "page_provenance_mapped",
+      "mapping_method": "docling_page_to_frozen_chroma_chunk",
+      "manual_semantic_review_required_before_final_selection": true
+    },
+    "semantic_review": {
+      "status": "pass",
+      "verified_against": "full_text_only_corpus_read_20260930"
+    }
+  },
+  {
+    "question": "What product dose per hectare is prescribed for chlorfluazuron?",
+    "answer": "Not found in context",
+    "page": 39,
+    "question_id": "vnle-u-058",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "3b80fe3a53be5d0b38f8210e31860dc1908d954b1a20f4a24eb9dba80d0838d0",
+      "08535d833f8ee69bd6f01556a6f3ee6577f34127b2ebf93ef4a0796ecead34cd"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "The referenced handbook page contains a related topic, but the requested fact is not stated in the frozen corpus.",
+    "source_section": "6.2 Phòng trừ dịch hại chính / trừ bệnh hại chính: Phòng",
+    "source_page_verified": 39,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control_candidate",
+    "selection_basis": "original_100x100_plus_docling_page_provenance",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "page_provenance_mapped",
+      "mapping_method": "docling_page_to_frozen_chroma_chunk",
+      "manual_semantic_review_required_before_final_selection": true
+    },
+    "semantic_review": {
+      "status": "pass",
+      "verified_against": "full_text_only_corpus_read_20260930"
+    }
+  },
+  {
+    "question": "What percentage of damaged leaves defines the economic threshold for leaf folders?",
+    "answer": "Not found in context",
+    "page": 39,
+    "question_id": "vnle-u-059",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "3b80fe3a53be5d0b38f8210e31860dc1908d954b1a20f4a24eb9dba80d0838d0",
+      "08535d833f8ee69bd6f01556a6f3ee6577f34127b2ebf93ef4a0796ecead34cd"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "The referenced handbook page contains a related topic, but the requested fact is not stated in the frozen corpus.",
+    "source_section": "6.2 Phòng trừ dịch hại chính / trừ bệnh hại chính: Phòng",
+    "source_page_verified": 39,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control_candidate",
+    "selection_basis": "original_100x100_plus_docling_page_provenance",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "page_provenance_mapped",
+      "mapping_method": "docling_page_to_frozen_chroma_chunk",
+      "manual_semantic_review_required_before_final_selection": true
+    },
+    "semantic_review": {
+      "status": "pass",
+      "verified_against": "full_text_only_corpus_read_20260930"
+    }
+  },
+  {
+    "question": "Which fungicide application volume is recommended for blast disease?",
+    "answer": "Not found in context",
+    "page": 39,
+    "question_id": "vnle-u-060",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "3b80fe3a53be5d0b38f8210e31860dc1908d954b1a20f4a24eb9dba80d0838d0",
+      "08535d833f8ee69bd6f01556a6f3ee6577f34127b2ebf93ef4a0796ecead34cd"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "The referenced handbook page contains a related topic, but the requested fact is not stated in the frozen corpus.",
+    "source_section": "6.2 Phòng trừ dịch hại chính / trừ bệnh hại chính: Phòng",
+    "source_page_verified": 39,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control_candidate",
+    "selection_basis": "original_100x100_plus_docling_page_provenance",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "page_provenance_mapped",
+      "mapping_method": "docling_page_to_frozen_chroma_chunk",
+      "manual_semantic_review_required_before_final_selection": true
+    },
+    "semantic_review": {
+      "status": "pass",
+      "verified_against": "full_text_only_corpus_read_20260930"
+    }
+  },
+  {
+    "question": "How many taro-leaf bait bundles should be placed per hectare for golden apple snails?",
+    "answer": "Not found in context",
+    "page": 40,
+    "question_id": "vnle-u-061",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "3ea34dfd569cb6ea688f127adc7d760e2870543e420aaa72ebd15db492b23e28",
+      "101141566523932aa1eeddc7e5fbf0c4ca8f5809cea12ea736c67f3a4df4ac68"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "The referenced handbook page contains a related topic, but the requested fact is not stated in the frozen corpus.",
+    "source_section": "Phòng trừ ốc bươu vàng: / Phòng trừ chuột hại lúa:",
+    "source_page_verified": 40,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control_candidate",
+    "selection_basis": "original_100x100_plus_docling_page_provenance",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "page_provenance_mapped",
+      "mapping_method": "docling_page_to_frozen_chroma_chunk",
+      "manual_semantic_review_required_before_final_selection": true
+    },
+    "semantic_review": {
+      "status": "pass",
+      "verified_against": "full_text_only_corpus_read_20260930"
+    }
+  },
+  {
+    "question": "What mesh size is required for screens at irrigation-water inlets?",
+    "answer": "Not found in context",
+    "page": 40,
+    "question_id": "vnle-u-062",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "3ea34dfd569cb6ea688f127adc7d760e2870543e420aaa72ebd15db492b23e28",
+      "101141566523932aa1eeddc7e5fbf0c4ca8f5809cea12ea736c67f3a4df4ac68"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "The referenced handbook page contains a related topic, but the requested fact is not stated in the frozen corpus.",
+    "source_section": "Phòng trừ ốc bươu vàng: / Phòng trừ chuột hại lúa:",
+    "source_page_verified": 40,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control_candidate",
+    "selection_basis": "original_100x100_plus_docling_page_provenance",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "page_provenance_mapped",
+      "mapping_method": "docling_page_to_frozen_chroma_chunk",
+      "manual_semantic_review_required_before_final_selection": true
+    },
+    "semantic_review": {
+      "status": "pass",
+      "verified_against": "full_text_only_corpus_read_20260930"
+    }
+  },
+  {
+    "question": "What rodenticide dose is considered safe around field margins?",
+    "answer": "Not found in context",
+    "page": 40,
+    "question_id": "vnle-u-063",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "3ea34dfd569cb6ea688f127adc7d760e2870543e420aaa72ebd15db492b23e28",
+      "101141566523932aa1eeddc7e5fbf0c4ca8f5809cea12ea736c67f3a4df4ac68"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "The referenced handbook page contains a related topic, but the requested fact is not stated in the frozen corpus.",
+    "source_section": "Phòng trừ ốc bươu vàng: / Phòng trừ chuột hại lúa:",
+    "source_page_verified": 40,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control_candidate",
+    "selection_basis": "original_100x100_plus_docling_page_provenance",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "page_provenance_mapped",
+      "mapping_method": "docling_page_to_frozen_chroma_chunk",
+      "manual_semantic_review_required_before_final_selection": true
+    },
+    "semantic_review": {
+      "status": "pass",
+      "verified_against": "full_text_only_corpus_read_20260930"
+    }
+  },
+  {
+    "question": "What application rates are prescribed for pretilachlor and butachlor?",
+    "answer": "Not found in context",
+    "page": 41,
+    "question_id": "vnle-u-064",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "05b2f7582aef9d085ab78bb6715593287f4975795b5f08e3692f742aa3679021"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "The referenced handbook page contains a related topic, but the requested fact is not stated in the frozen corpus.",
+    "source_section": "Quản lý cỏ dại / Quản lý lúa cỏ:",
+    "source_page_verified": 41,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control_candidate",
+    "selection_basis": "original_100x100_plus_docling_page_provenance",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "page_provenance_mapped",
+      "mapping_method": "docling_page_to_frozen_chroma_chunk",
+      "manual_semantic_review_required_before_final_selection": true
+    },
+    "semantic_review": {
+      "status": "pass",
+      "verified_against": "full_text_only_corpus_read_20260930"
+    }
+  },
+  {
+    "question": "How many consecutive seasons may the same herbicide mode of action be used?",
+    "answer": "Not found in context",
+    "page": 41,
+    "question_id": "vnle-u-065",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "05b2f7582aef9d085ab78bb6715593287f4975795b5f08e3692f742aa3679021"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "The referenced handbook page contains a related topic, but the requested fact is not stated in the frozen corpus.",
+    "source_section": "Quản lý cỏ dại / Quản lý lúa cỏ:",
+    "source_page_verified": 41,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control_candidate",
+    "selection_basis": "original_100x100_plus_docling_page_provenance",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "page_provenance_mapped",
+      "mapping_method": "docling_page_to_frozen_chroma_chunk",
+      "manual_semantic_review_required_before_final_selection": true
+    },
+    "semantic_review": {
+      "status": "pass",
+      "verified_against": "full_text_only_corpus_read_20260930"
+    }
+  },
+  {
+    "question": "What grain-moisture percentage corresponds to the stated 85-90% harvest maturity?",
+    "answer": "Not found in context",
+    "page": 42,
+    "question_id": "vnle-u-066",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "9817918c8904380c68fec58d4aa8070f08971b01ff344dba4505ec3be84c2d99"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "The referenced handbook page contains a related topic, but the requested fact is not stated in the frozen corpus.",
+    "source_section": "III. Quản lý thu hoạch và xử lý sau thu hoạch / 1. Thu hoạch",
+    "source_page_verified": 42,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control_candidate",
+    "selection_basis": "original_100x100_plus_docling_page_provenance",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "page_provenance_mapped",
+      "mapping_method": "docling_page_to_frozen_chroma_chunk",
+      "manual_semantic_review_required_before_final_selection": true
+    },
+    "semantic_review": {
+      "status": "pass",
+      "verified_against": "full_text_only_corpus_read_20260930"
+    }
+  },
+  {
+    "question": "What maximum combine-harvester ground loss is acceptable?",
+    "answer": "Not found in context",
+    "page": 43,
+    "question_id": "vnle-u-067",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "d196bca3761c17bee017c7d36cd2c6eeb544b1b93075820e4b4eac8464a62093"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "The referenced handbook page contains a related topic, but the requested fact is not stated in the frozen corpus.",
+    "source_section": "Quản lý thu hoạch / Thời điểm thu hoạch:",
+    "source_page_verified": 43,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control_candidate",
+    "selection_basis": "original_100x100_plus_docling_page_provenance",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "page_provenance_mapped",
+      "mapping_method": "docling_page_to_frozen_chroma_chunk",
+      "manual_semantic_review_required_before_final_selection": true
+    },
+    "semantic_review": {
+      "status": "pass",
+      "verified_against": "full_text_only_corpus_read_20260930"
+    }
+  },
+  {
+    "question": "What header cutting height should be used when straw will be baled?",
+    "answer": "Not found in context",
+    "page": 43,
+    "question_id": "vnle-u-068",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "d196bca3761c17bee017c7d36cd2c6eeb544b1b93075820e4b4eac8464a62093"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "The referenced handbook page contains a related topic, but the requested fact is not stated in the frozen corpus.",
+    "source_section": "Quản lý thu hoạch / Thời điểm thu hoạch:",
+    "source_page_verified": 43,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control_candidate",
+    "selection_basis": "original_100x100_plus_docling_page_provenance",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "page_provenance_mapped",
+      "mapping_method": "docling_page_to_frozen_chroma_chunk",
+      "manual_semantic_review_required_before_final_selection": true
+    },
+    "semantic_review": {
+      "status": "pass",
+      "verified_against": "full_text_only_corpus_read_20260930"
+    }
+  },
+  {
+    "question": "What drying-air temperature is specified for commercial rice?",
+    "answer": "Not found in context",
+    "page": 44,
+    "question_id": "vnle-u-069",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "f889c5913ef49283e12a1f9836a99347d1543cfdebe7eb7b9c852a412df2b739"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "The referenced handbook page contains a related topic, but the requested fact is not stated in the frozen corpus.",
+    "source_section": "2. Sấy lúa",
+    "source_page_verified": 44,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control_candidate",
+    "selection_basis": "original_100x100_plus_docling_page_provenance",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "page_provenance_mapped",
+      "mapping_method": "docling_page_to_frozen_chroma_chunk",
+      "manual_semantic_review_required_before_final_selection": true
+    },
+    "semantic_review": {
+      "status": "pass",
+      "verified_against": "full_text_only_corpus_read_20260930"
+    }
+  },
+  {
+    "question": "What is the maximum hourly moisture-removal rate allowed for seed rice?",
+    "answer": "Not found in context",
+    "page": 44,
+    "question_id": "vnle-u-070",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "f889c5913ef49283e12a1f9836a99347d1543cfdebe7eb7b9c852a412df2b739"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "The referenced handbook page contains a related topic, but the requested fact is not stated in the frozen corpus.",
+    "source_section": "2. Sấy lúa",
+    "source_page_verified": 44,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control_candidate",
+    "selection_basis": "original_100x100_plus_docling_page_provenance",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "page_provenance_mapped",
+      "mapping_method": "docling_page_to_frozen_chroma_chunk",
+      "manual_semantic_review_required_before_final_selection": true
+    },
+    "semantic_review": {
+      "status": "pass",
+      "verified_against": "full_text_only_corpus_read_20260930"
+    }
+  },
+  {
+    "question": "How much rice-husk fuel is consumed per tonne in a flatbed dryer?",
+    "answer": "Not found in context",
+    "page": 44,
+    "question_id": "vnle-u-071",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "f889c5913ef49283e12a1f9836a99347d1543cfdebe7eb7b9c852a412df2b739"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "The referenced handbook page contains a related topic, but the requested fact is not stated in the frozen corpus.",
+    "source_section": "2. Sấy lúa",
+    "source_page_verified": 44,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control_candidate",
+    "selection_basis": "original_100x100_plus_docling_page_provenance",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "page_provenance_mapped",
+      "mapping_method": "docling_page_to_frozen_chroma_chunk",
+      "manual_semantic_review_required_before_final_selection": true
+    },
+    "semantic_review": {
+      "status": "pass",
+      "verified_against": "full_text_only_corpus_read_20260930"
+    }
+  },
+  {
+    "question": "What warehouse temperature and relative humidity should be maintained during storage?",
+    "answer": "Not found in context",
+    "page": 45,
+    "question_id": "vnle-u-072",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "726219a8ed795453b9fc12bc81c2fc3bbb6f936d586956c84bdba3c6a64d89ec",
+      "ce3cc7f3fc30a9867b9d27166a162ef7a1de2a14fdfbdff7ccccd41d3af2970a"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "The referenced handbook page contains a related topic, but the requested fact is not stated in the frozen corpus.",
+    "source_section": "3. Bảo quản lúa / Bảo quản lúa",
+    "source_page_verified": 45,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control_candidate",
+    "selection_basis": "original_100x100_plus_docling_page_provenance",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "page_provenance_mapped",
+      "mapping_method": "docling_page_to_frozen_chroma_chunk",
+      "manual_semantic_review_required_before_final_selection": true
+    },
+    "semantic_review": {
+      "status": "pass",
+      "verified_against": "full_text_only_corpus_read_20260930"
+    }
+  },
+  {
+    "question": "How long may commercial rice remain in storage before quality testing is repeated?",
+    "answer": "Not found in context",
+    "page": 45,
+    "question_id": "vnle-u-073",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "726219a8ed795453b9fc12bc81c2fc3bbb6f936d586956c84bdba3c6a64d89ec",
+      "ce3cc7f3fc30a9867b9d27166a162ef7a1de2a14fdfbdff7ccccd41d3af2970a"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "The referenced handbook page contains a related topic, but the requested fact is not stated in the frozen corpus.",
+    "source_section": "3. Bảo quản lúa / Bảo quản lúa",
+    "source_page_verified": 45,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control_candidate",
+    "selection_basis": "original_100x100_plus_docling_page_provenance",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "page_provenance_mapped",
+      "mapping_method": "docling_page_to_frozen_chroma_chunk",
+      "manual_semantic_review_required_before_final_selection": true
+    },
+    "semantic_review": {
+      "status": "pass",
+      "verified_against": "full_text_only_corpus_read_20260930"
+    }
+  },
+  {
+    "question": "Which fumigant and dosage are authorized for emergency insect control?",
+    "answer": "Not found in context",
+    "page": 45,
+    "question_id": "vnle-u-074",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "726219a8ed795453b9fc12bc81c2fc3bbb6f936d586956c84bdba3c6a64d89ec",
+      "ce3cc7f3fc30a9867b9d27166a162ef7a1de2a14fdfbdff7ccccd41d3af2970a"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "The referenced handbook page contains a related topic, but the requested fact is not stated in the frozen corpus.",
+    "source_section": "3. Bảo quản lúa / Bảo quản lúa",
+    "source_page_verified": 45,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control_candidate",
+    "selection_basis": "original_100x100_plus_docling_page_provenance",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "page_provenance_mapped",
+      "mapping_method": "docling_page_to_frozen_chroma_chunk",
+      "manual_semantic_review_required_before_final_selection": true
+    },
+    "semantic_review": {
+      "status": "pass",
+      "verified_against": "full_text_only_corpus_read_20260930"
+    }
+  },
+  {
+    "question": "How many kilograms of CO2-equivalent are avoided per tonne of straw removed from a flooded field?",
+    "answer": "Not found in context",
+    "page": 46,
+    "question_id": "vnle-u-075",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "a0d1a0f353882e5db0d207950c4de3dc93c26f07b2b28471252c01582f9d643e",
+      "5047441fe3031ee0ae9cc11dff2e18012d53dee2e541658d7036e4a9ad589bb1"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "The referenced handbook page contains a related topic, but the requested fact is not stated in the frozen corpus.",
+    "source_section": "IV. Quản lý rơm rạ",
+    "source_page_verified": 46,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control_candidate",
+    "selection_basis": "original_100x100_plus_docling_page_provenance",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "page_provenance_mapped",
+      "mapping_method": "docling_page_to_frozen_chroma_chunk",
+      "manual_semantic_review_required_before_final_selection": true
+    },
+    "semantic_review": {
+      "status": "pass",
+      "verified_against": "full_text_only_corpus_read_20260930"
+    }
+  },
+  {
+    "question": "What maximum straw moisture is allowed before dry-field baling?",
+    "answer": "Not found in context",
+    "page": 48,
+    "question_id": "vnle-u-076",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "43c8d4af2d10e86518d29574aef9528e0c1bca73f8e84e364afdb14b3dbf4c32",
+      "fe820a43f680b38c2b0d57f1095368344a37c8ecaa37515f4bfc424ebc8ba242"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "The referenced handbook page contains a related topic, but the requested fact is not stated in the frozen corpus.",
+    "source_section": "1. Thu gom rơm",
+    "source_page_verified": 48,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control_candidate",
+    "selection_basis": "original_100x100_plus_docling_page_provenance",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "page_provenance_mapped",
+      "mapping_method": "docling_page_to_frozen_chroma_chunk",
+      "manual_semantic_review_required_before_final_selection": true
+    },
+    "semantic_review": {
+      "status": "pass",
+      "verified_against": "full_text_only_corpus_read_20260930"
+    }
+  },
+  {
+    "question": "What bale-density setting should be used for a 50 x 70 cm bale?",
+    "answer": "Not found in context",
+    "page": 50,
+    "question_id": "vnle-u-077",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "118953422180ac5280c7c3164276c8289a3fe398f6441d4f3a0cd12429a0681e",
+      "423e27ea3b0576f4782ee33f66d507bc6fd210c8c0723c315c521d85dcc73535"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "The referenced handbook page contains a related topic, but the requested fact is not stated in the frozen corpus.",
+    "source_section": "Máy cuốn rơm tự hành, công suất 2 70 HP / Ghi chú:",
+    "source_page_verified": 50,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control_candidate",
+    "selection_basis": "original_100x100_plus_docling_page_provenance",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "page_provenance_mapped",
+      "mapping_method": "docling_page_to_frozen_chroma_chunk",
+      "manual_semantic_review_required_before_final_selection": true
+    },
+    "semantic_review": {
+      "status": "pass",
+      "verified_against": "full_text_only_corpus_read_20260930"
+    }
+  },
+  {
+    "question": "What is the purchase price of the self-propelled tracked baler?",
+    "answer": "Not found in context",
+    "page": 50,
+    "question_id": "vnle-u-078",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "118953422180ac5280c7c3164276c8289a3fe398f6441d4f3a0cd12429a0681e",
+      "423e27ea3b0576f4782ee33f66d507bc6fd210c8c0723c315c521d85dcc73535"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "The referenced handbook page contains a related topic, but the requested fact is not stated in the frozen corpus.",
+    "source_section": "Máy cuốn rơm tự hành, công suất 2 70 HP / Ghi chú:",
+    "source_page_verified": 50,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control_candidate",
+    "selection_basis": "original_100x100_plus_docling_page_provenance",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "page_provenance_mapped",
+      "mapping_method": "docling_page_to_frozen_chroma_chunk",
+      "manual_semantic_review_required_before_final_selection": true
+    },
+    "semantic_review": {
+      "status": "pass",
+      "verified_against": "full_text_only_corpus_read_20260930"
+    }
+  },
+  {
+    "question": "How often must the baler's pickup teeth be replaced?",
+    "answer": "Not found in context",
+    "page": 50,
+    "question_id": "vnle-u-079",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "118953422180ac5280c7c3164276c8289a3fe398f6441d4f3a0cd12429a0681e",
+      "423e27ea3b0576f4782ee33f66d507bc6fd210c8c0723c315c521d85dcc73535"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "The referenced handbook page contains a related topic, but the requested fact is not stated in the frozen corpus.",
+    "source_section": "Máy cuốn rơm tự hành, công suất 2 70 HP / Ghi chú:",
+    "source_page_verified": 50,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control_candidate",
+    "selection_basis": "original_100x100_plus_docling_page_provenance",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "page_provenance_mapped",
+      "mapping_method": "docling_page_to_frozen_chroma_chunk",
+      "manual_semantic_review_required_before_final_selection": true
+    },
+    "semantic_review": {
+      "status": "pass",
+      "verified_against": "full_text_only_corpus_read_20260930"
+    }
+  },
+  {
+    "question": "What percentage of incorporated stubble must be visibly decomposed after three weeks?",
+    "answer": "Not found in context",
+    "page": 51,
+    "question_id": "vnle-u-080",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "948e5950a5c9bfc08a81aec34e35ea23876ab04fbb8c88d73c38ee1b68dd3c9f",
+      "118953422180ac5280c7c3164276c8289a3fe398f6441d4f3a0cd12429a0681e"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "The referenced handbook page contains a related topic, but the requested fact is not stated in the frozen corpus.",
+    "source_section": "Vụ Đông Xuân / Vụ Hè Thu và Thu Đông",
+    "source_page_verified": 51,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control_candidate",
+    "selection_basis": "original_100x100_plus_docling_page_provenance",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "page_provenance_mapped",
+      "mapping_method": "docling_page_to_frozen_chroma_chunk",
+      "manual_semantic_review_required_before_final_selection": true
+    },
+    "semantic_review": {
+      "status": "pass",
+      "verified_against": "full_text_only_corpus_read_20260930"
+    }
+  },
+  {
+    "question": "Which Trichoderma strain is required for rapid straw decomposition?",
+    "answer": "Not found in context",
+    "page": 54,
+    "question_id": "vnle-u-081",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "ec3de985d6856ed1fc801ea3117aa2a6cd208e7c2ec90902dd3b0c71969f5e49",
+      "35d4b7182862afbc13d18332c4573fb93c4491816d5be3834c2172beb2670e9f"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "The referenced handbook page contains a related topic, but the requested fact is not stated in the frozen corpus.",
+    "source_section": "VỤ HÈ THU VÀ THU ĐÔNG",
+    "source_page_verified": 54,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control_candidate",
+    "selection_basis": "original_100x100_plus_docling_page_provenance",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "page_provenance_mapped",
+      "mapping_method": "docling_page_to_frozen_chroma_chunk",
+      "manual_semantic_review_required_before_final_selection": true
+    },
+    "semantic_review": {
+      "status": "pass",
+      "verified_against": "full_text_only_corpus_read_20260930"
+    }
+  },
+  {
+    "question": "What water volume should carry the biological decomposer per hectare?",
+    "answer": "Not found in context",
+    "page": 54,
+    "question_id": "vnle-u-082",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "ec3de985d6856ed1fc801ea3117aa2a6cd208e7c2ec90902dd3b0c71969f5e49",
+      "35d4b7182862afbc13d18332c4573fb93c4491816d5be3834c2172beb2670e9f"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "The referenced handbook page contains a related topic, but the requested fact is not stated in the frozen corpus.",
+    "source_section": "VỤ HÈ THU VÀ THU ĐÔNG",
+    "source_page_verified": 54,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control_candidate",
+    "selection_basis": "original_100x100_plus_docling_page_provenance",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "page_provenance_mapped",
+      "mapping_method": "docling_page_to_frozen_chroma_chunk",
+      "manual_semantic_review_required_before_final_selection": true
+    },
+    "semantic_review": {
+      "status": "pass",
+      "verified_against": "full_text_only_corpus_read_20260930"
+    }
+  },
+  {
+    "question": "What mulch thickness is recommended for suppressing weeds in vegetable beds?",
+    "answer": "Not found in context",
+    "page": 57,
+    "question_id": "vnle-u-083",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "e1d54040e0f6acbc963838c2d667528dcdc5af56d551358e297e93e93acd97fc",
+      "0441f5ba94a680295916498140b657fd44e753f274e8cd5198995bda7aa8c042"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "The referenced handbook page contains a related topic, but the requested fact is not stated in the frozen corpus.",
+    "source_section": "3. Sử dụng rơm đã được thu gom / 3.1. Phủ cho cây trồng",
+    "source_page_verified": 57,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control_candidate",
+    "selection_basis": "original_100x100_plus_docling_page_provenance",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "page_provenance_mapped",
+      "mapping_method": "docling_page_to_frozen_chroma_chunk",
+      "manual_semantic_review_required_before_final_selection": true
+    },
+    "semantic_review": {
+      "status": "pass",
+      "verified_against": "full_text_only_corpus_read_20260930"
+    }
+  },
+  {
+    "question": "How many kilograms of straw are required per square metre of vegetable bed?",
+    "answer": "Not found in context",
+    "page": 59,
+    "question_id": "vnle-u-084",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "4012e968fa0d1af1c9993a96b5d48e4d39f8a7085ca5d4cb5ec1b8789d64df00"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "The referenced handbook page contains a related topic, but the requested fact is not stated in the frozen corpus.",
+    "source_section": "Trải rơm đểu trên mặt luống rau, màu và tưới ẩm",
+    "source_page_verified": 59,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control_candidate",
+    "selection_basis": "original_100x100_plus_docling_page_provenance",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "page_provenance_mapped",
+      "mapping_method": "docling_page_to_frozen_chroma_chunk",
+      "manual_semantic_review_required_before_final_selection": true
+    },
+    "semantic_review": {
+      "status": "pass",
+      "verified_against": "full_text_only_corpus_read_20260930"
+    }
+  },
+  {
+    "question": "What minimum clearance must be left between fruit-tree trunks and straw mulch?",
+    "answer": "Not found in context",
+    "page": 60,
+    "question_id": "vnle-u-085",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "21ca806ffb612b1a55ff654864940a3302b3635df6ee40f77523af7ce29d3c75"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "The referenced handbook page contains a related topic, but the requested fact is not stated in the frozen corpus.",
+    "source_section": "PHỦ RƠM TRÊN CÂY ĂN TRÁl",
+    "source_page_verified": 60,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control_candidate",
+    "selection_basis": "original_100x100_plus_docling_page_provenance",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "page_provenance_mapped",
+      "mapping_method": "docling_page_to_frozen_chroma_chunk",
+      "manual_semantic_review_required_before_final_selection": true
+    },
+    "semantic_review": {
+      "status": "pass",
+      "verified_against": "full_text_only_corpus_read_20260930"
+    }
+  },
+  {
+    "question": "Which commercial spawn brand is recommended for outdoor straw mushrooms?",
+    "answer": "Not found in context",
+    "page": 61,
+    "question_id": "vnle-u-086",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "db490c7b2cbe9e0cbf6c751e8267c92d7fc0ecfd6c1b764c491f3099d269b81c",
+      "21ca806ffb612b1a55ff654864940a3302b3635df6ee40f77523af7ce29d3c75"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "The referenced handbook page contains a related topic, but the requested fact is not stated in the frozen corpus.",
+    "source_section": "Chuẩn bị rơm sạch / Ngâm rơm",
+    "source_page_verified": 61,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control_candidate",
+    "selection_basis": "original_100x100_plus_docling_page_provenance",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "page_provenance_mapped",
+      "mapping_method": "docling_page_to_frozen_chroma_chunk",
+      "manual_semantic_review_required_before_final_selection": true
+    },
+    "semantic_review": {
+      "status": "pass",
+      "verified_against": "full_text_only_corpus_read_20260930"
+    }
+  },
+  {
+    "question": "How many kilograms of mushrooms should 100 kg of dry straw produce?",
+    "answer": "Not found in context",
+    "page": 61,
+    "question_id": "vnle-u-087",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "db490c7b2cbe9e0cbf6c751e8267c92d7fc0ecfd6c1b764c491f3099d269b81c",
+      "21ca806ffb612b1a55ff654864940a3302b3635df6ee40f77523af7ce29d3c75"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "The referenced handbook page contains a related topic, but the requested fact is not stated in the frozen corpus.",
+    "source_section": "Chuẩn bị rơm sạch / Ngâm rơm",
+    "source_page_verified": 61,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control_candidate",
+    "selection_basis": "original_100x100_plus_docling_page_provenance",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "page_provenance_mapped",
+      "mapping_method": "docling_page_to_frozen_chroma_chunk",
+      "manual_semantic_review_required_before_final_selection": true
+    },
+    "semantic_review": {
+      "status": "pass",
+      "verified_against": "full_text_only_corpus_read_20260930"
+    }
+  },
+  {
+    "question": "What target pH should the lime soaking solution reach?",
+    "answer": "Not found in context",
+    "page": 62,
+    "question_id": "vnle-u-088",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "db490c7b2cbe9e0cbf6c751e8267c92d7fc0ecfd6c1b764c491f3099d269b81c"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "The referenced handbook page contains a related topic, but the requested fact is not stated in the frozen corpus.",
+    "source_section": "Chuẩn bị rơm sạch / Ngâm rơm",
+    "source_page_verified": 62,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control_candidate",
+    "selection_basis": "original_100x100_plus_docling_page_provenance",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "page_provenance_mapped",
+      "mapping_method": "docling_page_to_frozen_chroma_chunk",
+      "manual_semantic_review_required_before_final_selection": true
+    },
+    "semantic_review": {
+      "status": "pass",
+      "verified_against": "full_text_only_corpus_read_20260930"
+    }
+  },
+  {
+    "question": "What exact moisture percentage should the outdoor compost pile maintain?",
+    "answer": "Not found in context",
+    "page": 63,
+    "question_id": "vnle-u-089",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "caa1bdde1ff87d2b8a7696d94e9df245c56751e6cb2e3af5659b9e040ed3d6b7",
+      "d1ff0746ce48cbde86c40a8d7d6bdf67e38d5555f077f004aa2b133746e48259"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "The referenced handbook page contains a related topic, but the requested fact is not stated in the frozen corpus.",
+    "source_section": "Chuẩn bị meo giống / Đóng mô",
+    "source_page_verified": 63,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control_candidate",
+    "selection_basis": "original_100x100_plus_docling_page_provenance",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "page_provenance_mapped",
+      "mapping_method": "docling_page_to_frozen_chroma_chunk",
+      "manual_semantic_review_required_before_final_selection": true
+    },
+    "semantic_review": {
+      "status": "pass",
+      "verified_against": "full_text_only_corpus_read_20260930"
+    }
+  },
+  {
+    "question": "What mushroom selling price does the enterprise example assume?",
+    "answer": "Not found in context",
+    "page": 64,
+    "question_id": "vnle-u-090",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "caa1bdde1ff87d2b8a7696d94e9df245c56751e6cb2e3af5659b9e040ed3d6b7",
+      "d1ff0746ce48cbde86c40a8d7d6bdf67e38d5555f077f004aa2b133746e48259"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "The referenced handbook page contains a related topic, but the requested fact is not stated in the frozen corpus.",
+    "source_section": "Chuẩn bị meo giống / Đóng mô",
+    "source_page_verified": 64,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control_candidate",
+    "selection_basis": "original_100x100_plus_docling_page_provenance",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "page_provenance_mapped",
+      "mapping_method": "docling_page_to_frozen_chroma_chunk",
+      "manual_semantic_review_required_before_final_selection": true
+    },
+    "semantic_review": {
+      "status": "pass",
+      "verified_against": "full_text_only_corpus_read_20260930"
+    }
+  },
+  {
+    "question": "What crude-protein content does the treated straw feed provide?",
+    "answer": "Not found in context",
+    "page": 69,
+    "question_id": "vnle-u-091",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "6f0007434d98d664271712262bcc29399775f5bc3050ab09e8758c2df72a72f4"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "The referenced handbook page contains a related topic, but the requested fact is not stated in the frozen corpus.",
+    "source_section": "RƠM LÀM THỨC ĂN TRÂU BÒ",
+    "source_page_verified": 69,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control_candidate",
+    "selection_basis": "original_100x100_plus_docling_page_provenance",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "page_provenance_mapped",
+      "mapping_method": "docling_page_to_frozen_chroma_chunk",
+      "manual_semantic_review_required_before_final_selection": true
+    },
+    "semantic_review": {
+      "status": "pass",
+      "verified_against": "full_text_only_corpus_read_20260930"
+    }
+  },
+  {
+    "question": "How much treated straw should a lactating cow receive specifically?",
+    "answer": "Not found in context",
+    "page": 69,
+    "question_id": "vnle-u-092",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "6f0007434d98d664271712262bcc29399775f5bc3050ab09e8758c2df72a72f4"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "The referenced handbook page contains a related topic, but the requested fact is not stated in the frozen corpus.",
+    "source_section": "RƠM LÀM THỨC ĂN TRÂU BÒ",
+    "source_page_verified": 69,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control_candidate",
+    "selection_basis": "original_100x100_plus_docling_page_provenance",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "page_provenance_mapped",
+      "mapping_method": "docling_page_to_frozen_chroma_chunk",
+      "manual_semantic_review_required_before_final_selection": true
+    },
+    "semantic_review": {
+      "status": "pass",
+      "verified_against": "full_text_only_corpus_read_20260930"
+    }
+  },
+  {
+    "question": "How many days can the biological bedding remain in a cattle pen before replacement?",
+    "answer": "Not found in context",
+    "page": 70,
+    "question_id": "vnle-u-093",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "6f0007434d98d664271712262bcc29399775f5bc3050ab09e8758c2df72a72f4",
+      "9af30f45acdc1adedb95550976bf34988332afb3c075f70d3f4485d2779f2123"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "The referenced handbook page contains a related topic, but the requested fact is not stated in the frozen corpus.",
+    "source_section": "RƠM LÀM THỨC ĂN TRÂU BÒ",
+    "source_page_verified": 70,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control_candidate",
+    "selection_basis": "original_100x100_plus_docling_page_provenance",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "page_provenance_mapped",
+      "mapping_method": "docling_page_to_frozen_chroma_chunk",
+      "manual_semantic_review_required_before_final_selection": true
+    },
+    "semantic_review": {
+      "status": "pass",
+      "verified_against": "full_text_only_corpus_read_20260930"
+    }
+  },
+  {
+    "question": "Which microbial species and inoculation rate are required for mechanized composting?",
+    "answer": "Not found in context",
+    "page": 71,
+    "question_id": "vnle-u-094",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "9af30f45acdc1adedb95550976bf34988332afb3c075f70d3f4485d2779f2123"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "The referenced handbook page contains a related topic, but the requested fact is not stated in the frozen corpus.",
+    "source_section": "3.5. Phân hữu cơ / QUY TRÌNH SẢN XUẤT Phân hữu cơ từ rơm",
+    "source_page_verified": 71,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control_candidate",
+    "selection_basis": "original_100x100_plus_docling_page_provenance",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "page_provenance_mapped",
+      "mapping_method": "docling_page_to_frozen_chroma_chunk",
+      "manual_semantic_review_required_before_final_selection": true
+    },
+    "semantic_review": {
+      "status": "pass",
+      "verified_against": "full_text_only_corpus_read_20260930"
+    }
+  },
+  {
+    "question": "What windrow length is recommended for a 50-tonne compost batch?",
+    "answer": "Not found in context",
+    "page": 72,
+    "question_id": "vnle-u-095",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "3b36ade325400661da13b7001b8e5381669495bc72dc57090b201bab85356877",
+      "740211747a63735f18753fd0f63950825290ba53efcd8a16a6915df9a5d5c88e"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "The referenced handbook page contains a related topic, but the requested fact is not stated in the frozen corpus.",
+    "source_section": "Chuẩn bị luống ủ / Dùng máy đảo trộn luống ủ lẩn đẩu",
+    "source_page_verified": 72,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control_candidate",
+    "selection_basis": "original_100x100_plus_docling_page_provenance",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "page_provenance_mapped",
+      "mapping_method": "docling_page_to_frozen_chroma_chunk",
+      "manual_semantic_review_required_before_final_selection": true
+    },
+    "semantic_review": {
+      "status": "pass",
+      "verified_against": "full_text_only_corpus_read_20260930"
+    }
+  },
+  {
+    "question": "What oxygen concentration must be maintained inside the compost windrow?",
+    "answer": "Not found in context",
+    "page": 73,
+    "question_id": "vnle-u-096",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "f96461b95ab15f3ebc0414f5a767aad3b41f9d44e37661882c92098409856885",
+      "b5d0f9dc41706b5a2cc9dc733d7b230c4b81b9d7954f8e8bf31dc22a83c9dc4e"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "The referenced handbook page contains a related topic, but the requested fact is not stated in the frozen corpus.",
+    "source_section": "Giai đoạn ủ tạo môi trường phân huỷ (nhiệt, ẩm và pH) / Giai đoạn thông thoáng và làm mát",
+    "source_page_verified": 73,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control_candidate",
+    "selection_basis": "original_100x100_plus_docling_page_provenance",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "page_provenance_mapped",
+      "mapping_method": "docling_page_to_frozen_chroma_chunk",
+      "manual_semantic_review_required_before_final_selection": true
+    },
+    "semantic_review": {
+      "status": "pass",
+      "verified_against": "full_text_only_corpus_read_20260930"
+    }
+  },
+  {
+    "question": "What laboratory maturity index must the finished compost meet?",
+    "answer": "Not found in context",
+    "page": 74,
+    "question_id": "vnle-u-097",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "5405a5830dffdbdd2c9d445a5ae95afed8105e7ac0d549b2401339aba44071b7"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "The referenced handbook page contains a related topic, but the requested fact is not stated in the frozen corpus.",
+    "source_section": "Giai đoạn thành phẩm phân hữu cơ",
+    "source_page_verified": 74,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control_candidate",
+    "selection_basis": "original_100x100_plus_docling_page_provenance",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "page_provenance_mapped",
+      "mapping_method": "docling_page_to_frozen_chroma_chunk",
+      "manual_semantic_review_required_before_final_selection": true
+    },
+    "semantic_review": {
+      "status": "pass",
+      "verified_against": "full_text_only_corpus_read_20260930"
+    }
+  },
+  {
+    "question": "Do farmers have to pay a subscription to use the digital tools in the handbook?",
+    "answer": "Not found in context",
+    "page": 75,
+    "question_id": "vnle-u-098",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "76cb6dc7be50ef95c2ff95c2f6ea12df844a3a22b04361f3643ff31774e6a49a",
+      "aa8fe1a2bda22541cac58a37a12cead344a7629f7a020fea4454dfbae902a3e8"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "The referenced handbook page contains a related topic, but the requested fact is not stated in the frozen corpus.",
+    "source_section": "V. Xu hướng phát triển và áp dụng công nghệ số trong nông nghiệp",
+    "source_page_verified": 75,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control_candidate",
+    "selection_basis": "original_100x100_plus_docling_page_provenance",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "page_provenance_mapped",
+      "mapping_method": "docling_page_to_frozen_chroma_chunk",
+      "manual_semantic_review_required_before_final_selection": true
+    },
+    "semantic_review": {
+      "status": "pass",
+      "verified_against": "full_text_only_corpus_read_20260930"
+    }
+  },
+  {
+    "question": "What GPS accuracy does the MRV mobile application require?",
+    "answer": "Not found in context",
+    "page": 76,
+    "question_id": "vnle-u-099",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "c8877da8514e381716a71a979ba58138f8fcc34ee54f2d50681f78910a86f0bc",
+      "d20ab0a695a08e0e897294233400b3aa0bf24636992929583d17e15c4b0d5877"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "The referenced handbook page contains a related topic, but the requested fact is not stated in the frozen corpus.",
+    "source_section": "V. Xu hướng phát triển và áp dụng công nghệ số trong nông nghiệp",
+    "source_page_verified": 76,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control_candidate",
+    "selection_basis": "original_100x100_plus_docling_page_provenance",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "page_provenance_mapped",
+      "mapping_method": "docling_page_to_frozen_chroma_chunk",
+      "manual_semantic_review_required_before_final_selection": true
+    },
+    "semantic_review": {
+      "status": "pass",
+      "verified_against": "full_text_only_corpus_read_20260930"
+    }
+  },
+  {
+    "question": "How often must farmers upload field data to the MRV system?",
+    "answer": "Not found in context",
+    "page": 76,
+    "question_id": "vnle-u-100",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "c8877da8514e381716a71a979ba58138f8fcc34ee54f2d50681f78910a86f0bc",
+      "d20ab0a695a08e0e897294233400b3aa0bf24636992929583d17e15c4b0d5877"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "The referenced handbook page contains a related topic, but the requested fact is not stated in the frozen corpus.",
+    "source_section": "V. Xu hướng phát triển và áp dụng công nghệ số trong nông nghiệp",
+    "source_page_verified": 76,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "ordinary_control_candidate",
+    "selection_basis": "original_100x100_plus_docling_page_provenance",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "page_provenance_mapped",
+      "mapping_method": "docling_page_to_frozen_chroma_chunk",
+      "manual_semantic_review_required_before_final_selection": true
+    },
+    "semantic_review": {
+      "status": "pass",
+      "verified_against": "full_text_only_corpus_read_20260930"
+    }
+  }
+]

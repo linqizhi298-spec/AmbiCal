@@ -1,0 +1,502 @@
+[
+  {
+    "question": "What is the Mekong Delta's annual rice output according to the handbook?",
+    "answer": "About 24-25 million tonnes per year.",
+    "page": 5
+  },
+  {
+    "question": "What shares of Vietnam's rice production and rice exports come from the Mekong Delta?",
+    "answer": "The region accounts for over 50% of national rice production and 90% of the country's rice exports.",
+    "page": 5
+  },
+  {
+    "question": "What annual rice export volume had Vietnam maintained at the time the handbook was written?",
+    "answer": "About 6-8 million tonnes per year.",
+    "page": 5
+  },
+  {
+    "question": "Why does the handbook say rice farmers' income has not kept pace with the value of the grain?",
+    "answer": "Production is small-scale, costs are high, the rice value chain is fragmented, and links between farmers, cooperatives, and businesses remain weak.",
+    "page": 5
+  },
+  {
+    "question": "Which decision approved the one-million-hectare high-quality, low-emission rice project, and when was it issued?",
+    "answer": "Decision No. 1490/QD-TTg, issued on November 27, 2023.",
+    "page": 6
+  },
+  {
+    "question": "What three broad parts of the rice value chain does the handbook address?",
+    "answer": "Cultivation, harvest and post-harvest management, and circular straw management.",
+    "page": 6
+  },
+  {
+    "question": "Who is the handbook intended to support in implementing the one-million-hectare project?",
+    "answer": "Farmers, extension workers, cooperatives, farms, businesses, and government managers.",
+    "page": 7
+  },
+  {
+    "question": "What is the main purpose of the handbook?",
+    "answer": "To provide an integrated technical guide covering cultivation, harvest and post-harvest handling, and straw management for high-quality, low-emission rice production in the Mekong Delta.",
+    "page": 10
+  },
+  {
+    "question": "Where can the handbook's practices be applied outside the designated one-million-hectare production area?",
+    "answer": "They may be applied in other areas when local conditions are suitable.",
+    "page": 11
+  },
+  {
+    "question": "Which field operations does the recommended cultivation process cover?",
+    "answer": "Land preparation, sowing, water management, fertilization, and integrated pest management.",
+    "page": 12
+  },
+  {
+    "question": "What four measurable targets should a field team take from the cultivation-process diagram?",
+    "answer": "A seeding rate below 70 kg/ha, harvest at 85-90% grain maturity, a field elevation difference no greater than 5 cm, and soil analysis every five years.",
+    "page": 12
+  },
+  {
+    "question": "When should annual plowing and dry fallowing normally be done?",
+    "answer": "After the Winter-Spring crop is harvested.",
+    "page": 13
+  },
+  {
+    "question": "How deep should the soil be tilled during field preparation?",
+    "answer": "About 7-15 cm.",
+    "page": 13
+  },
+  {
+    "question": "How long before operating a seeding machine should water be drained from the field?",
+    "answer": "Six to twelve hours beforehand, preferably overnight.",
+    "page": 13
+  },
+  {
+    "question": "What agronomic and operational benefits does annual plowing provide?",
+    "answer": "It controls weeds and carry-over pests and diseases, forms a good rooting and plow-pan layer, reduces lodging, supports harvesting, and makes mechanized field operations easier.",
+    "page": 13
+  },
+  {
+    "question": "What equipment makes up the laser land-leveling system?",
+    "answer": "A leveling bucket attached to a four-wheel tractor, a stationary laser transmitter, a laser receiver on the bucket, and electronic and hydraulic controls.",
+    "page": 14
+  },
+  {
+    "question": "How does the laser system move soil from high areas to low areas?",
+    "answer": "The receiver measures the bucket's height relative to the laser plane, and the control system raises or lowers the bucket so it cuts high spots and releases soil in low spots.",
+    "page": 14
+  },
+  {
+    "question": "How often is laser leveling recommended, and what elevation accuracy should it achieve?",
+    "answer": "About once every five years, with no more than 3 cm of elevation difference across the field.",
+    "page": 15
+  },
+  {
+    "question": "Why should the laser-leveling unit be pulled by a wheeled tractor rather than a tracked tractor?",
+    "answer": "To avoid damaging the leveled field surface.",
+    "page": 15
+  },
+  {
+    "question": "What should be done if a field's elevation difference or slope exceeds the depth of the plow layer?",
+    "answer": "Divide it into terraces at different elevations, or remove the topsoil before leveling and replace it afterward so the plow layer is not lost.",
+    "page": 15
+  },
+  {
+    "question": "Before tillage begins, what field-cleaning work needs to be completed?",
+    "answer": "Excess straw and stubble, plants, stakes, and plastic film should be removed; dikes should be reinforced; weeds and golden apple snails should be controlled; and remaining straw can be treated with Trichoderma.",
+    "page": 17
+  },
+  {
+    "question": "What working depth is specified for disc plowing?",
+    "answer": "About 15-20 cm.",
+    "page": 17
+  },
+  {
+    "question": "What tillage depth is recommended for both wet rotary tillage and dry rotary tillage?",
+    "answer": "Both are recommended at a depth of 7-15 cm.",
+    "page": 18
+  },
+  {
+    "question": "How long should the field be left to dry-fallow?",
+    "answer": "About 15-30 days.",
+    "page": 19
+  },
+  {
+    "question": "After water is supplied to the field, how long should it be held before puddling and leveling?",
+    "answer": "Two to three days to soften the soil.",
+    "page": 19
+  },
+  {
+    "question": "How wide, deep, and far apart should field drainage furrows be?",
+    "answer": "They should be about 20-30 cm wide, 15-20 cm deep, and spaced roughly 6-9 m apart.",
+    "page": 20
+  },
+  {
+    "question": "What are drainage furrows intended to do before seeding?",
+    "answer": "They help remove acidity and salinity, improve soil aeration, and allow the field to drain before mechanized seeding.",
+    "page": 20
+  },
+  {
+    "question": "What type of rice seed should be used?",
+    "answer": "Certified seed that is legally approved for circulation.",
+    "page": 21
+  },
+  {
+    "question": "What is the maximum recommended mechanized seeding rate?",
+    "answer": "No more than 70 kg of seed per hectare.",
+    "page": 21
+  },
+  {
+    "question": "What should be done to seed before soaking begins?",
+    "answer": "Dry it in the sun for about 2-3 hours, test germination, and apply an appropriate seed treatment according to the manufacturer's instructions.",
+    "page": 21
+  },
+  {
+    "question": "How should rice seed be soaked and rinsed before incubation?",
+    "answer": "Soak it in clean water for 24-48 hours, change the water after the first 12 hours, and rinse away sour water and empty or partially filled grains.",
+    "page": 21
+  },
+  {
+    "question": "When is incubated seed ready for machine sowing?",
+    "answer": "After roughly 12-24 hours of incubation, when the seed has cracked and the sprout is about 0.5-1.0 mm long.",
+    "page": 21
+  },
+  {
+    "question": "What should be done if properly sprouted seed cannot be sown immediately?",
+    "answer": "Spread it in a cool, well-ventilated place to slow root and shoot growth and prevent breakage or machine blockage.",
+    "page": 21
+  },
+  {
+    "question": "How do the spacing requirements differ between row seeding and cluster seeding?",
+    "answer": "Both use 20-30 cm between rows, while cluster seeding also uses 12-20 cm between clusters in the same row.",
+    "page": 23
+  },
+  {
+    "question": "At what depths should seed and buried fertilizer be placed during mechanized sowing?",
+    "answer": "Seed should be 1-3 mm below the soil surface, while fertilizer should be buried about 3-4 cm deep.",
+    "page": 23
+  },
+  {
+    "question": "In the handbook's 90% germination example, what percentage of the base seed quantity is actually prepared after allowances for germination and reserve seed?",
+    "answer": "A total of 115% of the base quantity: 10% extra for germination and about 5% as reserve for the machine and gap filling.",
+    "page": 24
+  },
+  {
+    "question": "Before settling on a sowing date, which local information sources should a farmer check?",
+    "answer": "The local technical authority's sowing calendar, the CS-MAP climate-risk and adaptation map, and agricultural weather bulletins.",
+    "page": 27
+  },
+  {
+    "question": "How can row or cluster seeding reduce post-harvest losses?",
+    "answer": "More accurate and lower-density sowing improves fertilizer use and crop health, reduces pests, disease, and lodging, and therefore limits later quantity and quality losses.",
+    "page": 27
+  },
+  {
+    "question": "Which seeding machines does the handbook present as practical options for Mekong Delta farms?",
+    "answer": "Pneumatic row seeders, cluster seeders, and cluster seeders combined with fertilizer burial.",
+    "page": 27
+  },
+  {
+    "question": "What can the six-row pneumatic seeder be adjusted to do, and what tractor and daily capacity does it require?",
+    "answer": "It has adjustable 20 or 25 cm row spacing, applies 20-80 kg seed/ha, works with a tractor of at least 18 HP, and can seed about 3 ha/day.",
+    "page": 28
+  },
+  {
+    "question": "What seeding rate and field capacity are given for the sixteen-row pneumatic seeder?",
+    "answer": "A seeding rate of 30-80 kg/ha and a field capacity of about 0.6-1.6 ha/hour.",
+    "page": 29
+  },
+  {
+    "question": "How does the sixteen-row pneumatic seeder maintain the chosen seed rate as travel speed changes?",
+    "answer": "Its intelligent pneumatic metering system automatically adjusts seed delivery according to machine speed.",
+    "page": 29
+  },
+  {
+    "question": "How can the cluster seeder be configured for row count and seeds per cluster?",
+    "answer": "It can be configured for 10, 14, or 16 rows and adjusted from 0 to 20 seeds per cluster.",
+    "page": 30
+  },
+  {
+    "question": "What tractor power and work rate are specified for the cluster seeder?",
+    "answer": "At least 25 HP and about 0.3-1 ha/hour, depending on the number of rows.",
+    "page": 30
+  },
+  {
+    "question": "How much can a pneumatic row seeder with fertilizer burial reduce seed use compared with broadcast seeding?",
+    "answer": "About 30-50%.",
+    "page": 31
+  },
+  {
+    "question": "Why does burying fertilizer improve nitrogen-use efficiency?",
+    "answer": "It places nutrients where rice roots can reach them, reducing ammonia volatilization, runoff, access by weeds, and the number of separate fertilizer applications.",
+    "page": 31
+  },
+  {
+    "question": "Where is fertilizer placed relative to the rice row by the combined row-seeding and burial machine?",
+    "answer": "It is placed about 3-5 cm to the side of the rice row and 3-5 cm below the soil surface.",
+    "page": 31
+  },
+  {
+    "question": "What row pattern and maximum seed rate are used in the wide-row/narrow-row border-effect method?",
+    "answer": "Rows alternate at approximately 35 cm and 15 cm, with no more than 60 kg seed/ha.",
+    "page": 32
+  },
+  {
+    "question": "What is the intended crop benefit of the border-effect wide-row/narrow-row pattern?",
+    "answer": "It exposes more of the plant base, stems, and leaves to direct light, supporting stronger growth, less disease pressure, and higher yield.",
+    "page": 32
+  },
+  {
+    "question": "How many seeding units and rows can the pneumatic cluster seeder with fertilizer burial carry?",
+    "answer": "It uses 5-7 seeding units, corresponding to 10-14 rows.",
+    "page": 33
+  },
+  {
+    "question": "Why are cluster spacing and seeds per cluster independent of the machine's travel speed on this seeder?",
+    "answer": "The metering mechanism is driven by a ground-contact drive wheel, so its rate follows ground movement rather than engine speed.",
+    "page": 33
+  },
+  {
+    "question": "When should an AWD field be irrigated again, and what is the maximum refill depth?",
+    "answer": "Irrigate when the water level falls 15 cm below the soil surface or the soil develops fine cracks, and refill to no more than 5 cm of standing water.",
+    "page": 35
+  },
+  {
+    "question": "What water regime is recommended during the first 40 days after sowing?",
+    "answer": "Keep the field moist during days 1-7, drain during days 12-22, and drain again during days 28-40 as part of alternate wetting and drying.",
+    "page": 35
+  },
+  {
+    "question": "How long before harvest should the field be drained?",
+    "answer": "About 7-15 days before harvest.",
+    "page": 35
+  },
+  {
+    "question": "How does the single mid-season drainage option differ from repeated AWD?",
+    "answer": "It drains the field once during days 28-40 after sowing and only refloods when water is 15 cm below the surface or fine cracks appear, rather than repeating several wet-dry cycles.",
+    "page": 35
+  },
+  {
+    "question": "How often should soil be analyzed for site-specific nutrient management?",
+    "answer": "Every five years.",
+    "page": 36
+  },
+  {
+    "question": "How much organic fertilizer and lime are recommended per hectare?",
+    "answer": "Use about 1.5-3.0 tonnes of organic fertilizer; apply 200-300 kg lime on moderately acidic soil with pH KCl 4.0-5.0, or 400-500 kg on strongly acidic or acid-sulfate soil below pH KCl 4.0.",
+    "page": 36
+  },
+  {
+    "question": "How do the recommended Winter-Spring N-P2O5-K2O rates differ among alluvial, slightly acid-sulfate, and moderately acid-sulfate soils?",
+    "answer": "Alluvial soil: 90-100, 30-40, and 30-40 kg/ha; slightly acid-sulfate soil: 80-100, 40-50, and 25-30 kg/ha; moderately acid-sulfate soil: 68-80, 50-60, and 25-30 kg/ha.",
+    "page": 36
+  },
+  {
+    "question": "How should nitrogen rates in the Summer-Autumn and Autumn-Winter crops compare with the Winter-Spring crop?",
+    "answer": "They should be reduced by about 15-20%.",
+    "page": 36
+  },
+  {
+    "question": "How much should nitrogen be reduced when mechanized seeding is combined with fertilizer burial?",
+    "answer": "About 10-15% compared with seeding without fertilizer burial.",
+    "page": 37
+  },
+  {
+    "question": "How are nitrogen and potassium split among the three conventional topdressings?",
+    "answer": "At 7-10 days after sowing, apply 40% of N; at 18-22 days, 40% of N plus 40% of K2O; and at 38-42 days, 20% of N plus 60% of K2O.",
+    "page": 37
+  },
+  {
+    "question": "How is fertilizer split when it is mechanically buried at sowing?",
+    "answer": "Apply 70-80% of the total fertilizer during sowing, then broadcast the remainder at panicle initiation around 38-42 days after sowing.",
+    "page": 37
+  },
+  {
+    "question": "What physical properties should fertilizer granules have for a seeder with fertilizer burial?",
+    "answer": "They should be 2-4 mm in diameter and break down slowly when moist to reduce blockage in the metering unit.",
+    "page": 37
+  },
+  {
+    "question": "What are the four 'right' principles for pesticide use?",
+    "answer": "Use the right pesticide, at the right dose and concentration, at the right time, and with the right application method.",
+    "page": 38
+  },
+  {
+    "question": "What disease incidence and brown-planthopper density trigger chemical control in the general IPM guidance?",
+    "answer": "Disease treatment is considered at about 5-10% incidence, while brown planthoppers are treated at an average density of roughly 1,000-1,500 insects per square metre.",
+    "page": 38
+  },
+  {
+    "question": "Why should pesticide active-ingredient groups be rotated?",
+    "answer": "To slow the development of pesticide resistance.",
+    "page": 38
+  },
+  {
+    "question": "At what crop stages does the handbook emphasize control of the main insect pests?",
+    "answer": "Around 35, 40, and 65 days after sowing.",
+    "page": 39
+  },
+  {
+    "question": "What nonchemical measures are suggested for controlling golden apple snails?",
+    "answer": "Collect adults and egg masses, use taro leaves as bait, provide stakes that attract egg laying, place screens at water inlets, and drain snails into collection furrows.",
+    "page": 40
+  },
+  {
+    "question": "If rat control is organized across a community, which measures should be combined?",
+    "answer": "Coordinate planting and control across the community, use barriers and trap crops, clear hiding places, trap or net rats, use smoke or calcium-carbide fumes where appropriate, and combine biological or chemical baits when needed.",
+    "page": 40
+  },
+  {
+    "question": "How should weedy rice be managed before and during the crop?",
+    "answer": "Destroy it before sowing, prepare and level the field carefully, use certified seed, remove plants before seed shed, use pre-emergence herbicides such as pretilachlor or butachlor and post-emergence products such as bispyribac-sodium or pyrazosulfuron-ethyl, and rotate modes of action.",
+    "page": 41
+  },
+  {
+    "question": "At what maturity should rice be harvested, and what machine is recommended?",
+    "answer": "Harvest when about 85-90% of the grains are mature or straw-yellow, using a combine harvester.",
+    "page": 42
+  },
+  {
+    "question": "What losses can a combine harvester reduce compared with manual harvesting?",
+    "answer": "It avoids delays and losses during cutting, transport, threshing, cleaning, and bagging while also easing labor shortages.",
+    "page": 43
+  },
+  {
+    "question": "How soon must freshly harvested rice be dried, and to what moisture levels?",
+    "answer": "Dry it within 24 hours of harvest to 14% moisture for commercial grain or 13.5% for seed grain.",
+    "page": 44
+  },
+  {
+    "question": "How do the capacities of reversible flatbed drying and two-stage industrial drying compare?",
+    "answer": "Reversible flatbed dryers handle about 4-50 tonnes per batch, while two-stage fluidized-bed and recirculating-tower systems commonly handle 200-1,000 tonnes per day.",
+    "page": 44
+  },
+  {
+    "question": "What conditions must rice meet before it is placed in storage?",
+    "answer": "Commercial rice must be below 14% moisture and seed rice at 13.5%, and the grain must be cleaned before storage.",
+    "page": 45
+  },
+  {
+    "question": "How should rice be stored, and how cautiously should fumigation be used?",
+    "answer": "Use ventilated silos or hermetic bag storage, limit fumigation, and comply with pesticide-residue regulations whenever fumigation is used.",
+    "page": 45
+  },
+  {
+    "question": "How should bagged rice be stacked to avoid moisture and mold?",
+    "answer": "Place bags on ventilated wooden platforms, keep them away from warehouse walls, maintain airflow, prevent condensation, and normally keep stacks no higher than about 2.5 m.",
+    "page": 45
+  },
+  {
+    "question": "Why does removing straw for productive reuse support circular, low-emission rice production?",
+    "answer": "It turns a residue into inputs or useful products, reduces waste and emissions from flooded lowland fields, supports sustainable-rice standards, and can return biological fertilizer to farming.",
+    "page": 46
+  },
+  {
+    "question": "What should farmers do—and avoid doing—to manage straw and stubble in a circular system?",
+    "answer": "Do not burn straw or stubble, do not bury raw straw under flooded conditions, remove straw for products such as mushrooms, feed, or organic fertilizer, and incorporate stubble under nonflooded conditions, optionally with biological decomposers.",
+    "page": 47
+  },
+  {
+    "question": "How should straw collection differ between dry and wet fields?",
+    "answer": "On a dry field it may be sun-dried but should be collected within five days; wet straw should be collected immediately to prevent decomposition, quality loss, and added greenhouse-gas emissions.",
+    "page": 48
+  },
+  {
+    "question": "How does a self-propelled tracked straw baler differ from a tractor-mounted round baler?",
+    "answer": "The tracked machine can work in wet or dry fields, carries bales to a collection point, and avoids bogging, while the tractor-mounted baler works only on dry ground and leaves bales that require separate collection.",
+    "page": 48
+  },
+  {
+    "question": "What bale size, bale weights, and hourly output are given for straw balers?",
+    "answer": "Compressed bales are about 50 x 70 cm; dry bales weigh roughly 12-18 kg, wet bales 20-30 kg, and output is about 70-150 bales per hour.",
+    "page": 50
+  },
+  {
+    "question": "How does in-field stubble treatment differ between the Winter-Spring crop and the other two seasons?",
+    "answer": "After Winter-Spring harvest, incorporate stubble promptly and keep the field dry for at least three weeks; after Summer-Autumn or Autumn-Winter harvest, till immediately and preferably apply a biological product such as Trichoderma before tillage.",
+    "page": 51
+  },
+  {
+    "question": "What nutrients does one tonne of straw contain, and what proportions are lost when it is burned?",
+    "answer": "One tonne contains about 5-8 kg N, 1.6-2.7 kg P, and 14-20 kg K; burning loses all of the nitrogen, about 25% of the phosphorus, and about 20% of the potassium.",
+    "page": 54
+  },
+  {
+    "question": "Once clean straw has been collected from a well-managed field, what can it be reused for?",
+    "answer": "Mulch, mushroom substrate, cattle or buffalo feed, biological bedding, organic fertilizer, and other forms of on-farm recycling.",
+    "page": 56
+  },
+  {
+    "question": "What soil and labor benefits are attributed to straw mulch?",
+    "answer": "It retains soil moisture, suppresses weeds, saves labor, maintains soil looseness, adds organic matter, and supports diverse soil microorganisms.",
+    "page": 57
+  },
+  {
+    "question": "When should straw mulch be applied to directly seeded vegetables versus transplanted crops?",
+    "answer": "Apply a thin layer after sowing directly seeded vegetables, but place a thicker layer before transplanting seedling crops.",
+    "page": 59
+  },
+  {
+    "question": "How should straw mulch be placed around fruit trees at different growth stages?",
+    "answer": "During establishment, cover the whole planting mound with a thick layer; after the canopy forms, mulch beneath and around the canopy but keep it away from the trunk, especially in the rainy season.",
+    "page": 60
+  },
+  {
+    "question": "What are the main timing points in the outdoor straw-mushroom process?",
+    "answer": "Soak straw for 5-10 minutes, turn the compost piles on days 7 and 17, form beds after about 16-18 days, and expect the first harvest roughly 12 days after spawning.",
+    "page": 61
+  },
+  {
+    "question": "What moisture, storage, treatment, and feeding guidance is given for straw used as cattle feed?",
+    "answer": "Dry straw below 18% moisture can be stored for six months; wetter straw should be treated immediately, softened with microbial inoculant, lime, or urea, ensiled for at least seven days, and fed at about 2-7 kg per animal per day depending on age.",
+    "page": 69
+  },
+  {
+    "question": "How is a biological livestock bedding layer made from straw?",
+    "answer": "Use dry straw below 18% moisture, mix it with about 50 g of microbial inoculant and other material such as rice husk, and form a layer about 20-30 cm thick; afterward it can be composted.",
+    "page": 70
+  },
+  {
+    "question": "What operating conditions and processing time are given for mechanized organic fertilizer production from straw?",
+    "answer": "Prepare straw at about 50-60% moisture, maintain pH around 6.5-7, use biological inputs and materials such as cattle manure and water, and allow about 45 days for market-quality compost.",
+    "page": 71
+  },
+  {
+    "question": "What carbon-to-nitrogen ratio and initial moisture should be maintained in a straw-compost windrow?",
+    "answer": "A C:N ratio of about 25-30 and an initial wet-basis moisture content of 50-60%.",
+    "page": 72
+  },
+  {
+    "question": "When is a compost windrow turned for aeration and cooling, and what moisture range is then maintained?",
+    "answer": "It is generally turned again after 10-15 days, with moisture maintained at about 40-50% during the aeration and cooling stage.",
+    "page": 73
+  },
+  {
+    "question": "When is the organic fertilizer normally ready for use after the first mixing?",
+    "answer": "About 30-45 days later, depending on the starting materials.",
+    "page": 74
+  },
+  {
+    "question": "What does the EasyHarvest application coordinate and predict?",
+    "answer": "It links farmers with combine-harvester service providers, matches harvesting demand with service availability, predicts field conditions and harvest time, and supports wet-rice logistics and post-harvest management.",
+    "page": 76
+  },
+  {
+    "question": "How is SSNM expected to reduce greenhouse-gas emissions per kilogram of rice?",
+    "answer": "By combining locally tailored nutrient management with tools such as RCM, CS-MAP, AWD maps, and soil maps to reduce fertilizer overuse, with an estimated 5-10% emissions reduction per kilogram of rice.",
+    "page": 76
+  },
+  {
+    "question": "What does the CF-Rice tool calculate and label?",
+    "answer": "It calculates a rice product's carbon footprint using life-cycle assessment and provides digital carbon labeling.",
+    "page": 76
+  },
+  {
+    "question": "What would the rice MRV platform record, and what would those records be used to report?",
+    "answer": "It georeferences rice-production progress and adoption of low-emission practices, then uses the collected data to measure and report greenhouse-gas mitigation results.",
+    "page": 76
+  },
+  {
+    "question": "What documented outcome does the handbook attribute to CS-MAP in Vietnam?",
+    "answer": "It contributed to reducing rice-yield losses across about 600,000 hectares while also lowering carbon emissions.",
+    "page": 76
+  }
+]

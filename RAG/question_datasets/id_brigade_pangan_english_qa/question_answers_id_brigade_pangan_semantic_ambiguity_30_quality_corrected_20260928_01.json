@@ -1,0 +1,1942 @@
+[
+  {
+    "question_id": "idbp-sem-002",
+    "question": "What does the term 'Inpara' refer to in the context of rice varieties, and what is the average yield of Inpara 3?",
+    "answer": "Inpara3",
+    "reference_answer": "Inpara3",
+    "answerability": "answerable",
+    "target_term_en": "Inpara3",
+    "target_term_id": "Inpara3",
+    "intended_sense": "rice variety",
+    "wrong_sense": "institution",
+    "ambiguity_type": "abbreviation_collision",
+    "gold_chunk_ids": [
+      "c6bbb149cbfb5f94254aef3880689e48e204429c0d7517707100fbc65296216a"
+    ],
+    "equivalent_gold_chunk_ids": [],
+    "wrong_sense_chunk_ids": [
+      "c13fa501644d7226af6e4cba1667a68aaf739452806273ec8dc25c45ee759683"
+    ],
+    "attractor_chunk_ids": [],
+    "supporting_quote_id": "Inpara3",
+    "wrong_sense_quote_id": "VARIETAS",
+    "disambiguating_cues": [
+      "rice variety",
+      "average yield"
+    ],
+    "source_section": "VARIETAS UNGGUL UNTUK LAHAN RAWA PASANG SURUT",
+    "source_page": 58,
+    "construction_rationale": "The question is crafted to differentiate between the rice variety 'Inpara3' and the institution 'VARIETAS' by focusing on the specific term 'Inpara3' and its associated average yield.",
+    "quality_scores": {
+      "natural_language": 1,
+      "answer_uniqueness": 1,
+      "gold_support_complete": 1,
+      "wrong_sense_plausible": 1,
+      "context_disambiguation_present": 1,
+      "no_ocr_dependency": 1,
+      "no_existing_question_overlap": 1,
+      "chunk_ids_valid": 1,
+      "human_explainable": 1
+    },
+    "dense_screening_status": "not_run",
+    "ambical_used_during_construction": true,
+    "ambical_usage_scope": "gate_and_counterfactual_execution_diagnostics_only",
+    "context_gate_triggered": true,
+    "context_correction_executed": true,
+    "correction_mode": "topk_counterfactual_positive_v5",
+    "selected_counterfactual_phrase_count": 2,
+    "gate_diagnostic_run_id": "id_brigade_pangan_semantic_gate_diagnostic_20260928_01",
+    "qa_correctness_used_during_selection": false,
+    "challenge_partition": "semantic_context_challenge_candidate",
+    "selection_status": "pending_gate_diagnostic",
+    "static_quality_pass": true,
+    "static_quality_audit": {
+      "model": "gemma3:12b",
+      "natural_question": true,
+      "target_sense_clear": true,
+      "answer_supported": true,
+      "wrong_sense_plausible": true,
+      "failure_reasons": [
+        "The wrong-sense excerpt mentions 'Inpara' in a list of rice varieties, which could distract from the intended sense of a formal institution."
+      ]
+    },
+    "static_quality_rule": "answerable_requires_supported_answer",
+    "diagnostic_success": true
+  },
+  {
+    "question_id": "idbp-sem-005",
+    "question": "What does the term 'Nozzle Tersumbat' refer to in the context of fuel system issues, and what is the method to clean it?",
+    "answer": "Nozzle Tersumbat",
+    "reference_answer": "Nozzle Tersumbat",
+    "answerability": "answerable",
+    "target_term_en": "Nozzle Tersumbat",
+    "target_term_id": "Nozzle Tersumbat",
+    "intended_sense": "fuel system issue",
+    "wrong_sense": "oil system issue",
+    "ambiguity_type": "numerical_context_collision",
+    "gold_chunk_ids": [
+      "294181ab1138454dd6c959b4fb82007dceac9e29d1d1232ec5d3c432b83d9fbc"
+    ],
+    "equivalent_gold_chunk_ids": [],
+    "wrong_sense_chunk_ids": [
+      "58f76e3e3718f95735715ead4a09c05a7e7ac0cd9409b9a4475e4ee4b3182928"
+    ],
+    "attractor_chunk_ids": [],
+    "supporting_quote_id": "Nozzle Tersumbat",
+    "wrong_sense_quote_id": "Oli Traktor",
+    "disambiguating_cues": [
+      "fuel system issue",
+      "cleaning method"
+    ],
+    "source_section": "PENGOPERASIAN POMPA AIR / IDENTIFIKASI PERMASALAHAN DAN CARA MENGATASINYA",
+    "source_page": 153,
+    "construction_rationale": "The question is crafted to distinguish between the fuel system issue 'Nozzle Tersumbat' and the oil system issue by focusing on the specific term 'Nozzle Tersumbat' and its associated cleaning method.",
+    "quality_scores": {
+      "natural_language": 1,
+      "answer_uniqueness": 1,
+      "gold_support_complete": 1,
+      "wrong_sense_plausible": 1,
+      "context_disambiguation_present": 1,
+      "no_ocr_dependency": 1,
+      "no_existing_question_overlap": 1,
+      "chunk_ids_valid": 1,
+      "human_explainable": 1
+    },
+    "dense_screening_status": "not_run",
+    "ambical_used_during_construction": true,
+    "ambical_usage_scope": "gate_and_counterfactual_execution_diagnostics_only",
+    "context_gate_triggered": true,
+    "context_correction_executed": true,
+    "correction_mode": "topk_counterfactual_positive_v5",
+    "selected_counterfactual_phrase_count": 2,
+    "gate_diagnostic_run_id": "id_brigade_pangan_semantic_gate_diagnostic_20260928_01",
+    "qa_correctness_used_during_selection": false,
+    "challenge_partition": "semantic_context_challenge_candidate",
+    "selection_status": "pending_gate_diagnostic",
+    "static_quality_pass": true,
+    "static_quality_audit": {
+      "model": "gemma3:12b",
+      "natural_question": true,
+      "target_sense_clear": true,
+      "answer_supported": true,
+      "wrong_sense_plausible": true,
+      "failure_reasons": []
+    },
+    "static_quality_rule": "answerable_requires_supported_answer",
+    "diagnostic_success": true
+  },
+  {
+    "question_id": "idbp-sem-007",
+    "question": "What is the correct sequence of operations for operating a rice transplanter, starting from the initial setup?",
+    "answer": "Prepare the seedlings, check the machine, start the engine, and then operate the controls.",
+    "reference_answer": "Prepare the seedlings, check the machine, start the engine, and then operate the controls.",
+    "answerability": "answerable",
+    "target_term_en": "operating sequence",
+    "target_term_id": "PENGOPERASIAN TRANSPLANTER",
+    "intended_sense": "operational procedure",
+    "wrong_sense": "maneuvering the machine",
+    "ambiguity_type": "actor_object_mismatch",
+    "gold_chunk_ids": [
+      "b857e66d58fa830308b50f164078eeb11928d7872f41de9fe6d6b69c3bdf2d42"
+    ],
+    "equivalent_gold_chunk_ids": [],
+    "wrong_sense_chunk_ids": [
+      "cd8c7113604bfc29ad86d626b1bdb659f6feb19f91ca4b1e209701e39da201ad"
+    ],
+    "attractor_chunk_ids": [],
+    "supporting_quote_id": "4",
+    "wrong_sense_quote_id": "Starter mesin dengan menarik tali starter",
+    "disambiguating_cues": [
+      "pengoperasian",
+      "peralatan lainnya"
+    ],
+    "source_section": "MENANAM MENGGUNAKAN MESIN TANAM BIBIT PADI / Penanaman",
+    "source_page": 139,
+    "construction_rationale": "The question aims to test the understanding of the operational sequence, while the distractor excerpt focuses on maneuvering the machine.",
+    "quality_scores": {
+      "natural_language": 1,
+      "answer_uniqueness": 1,
+      "gold_support_complete": 1,
+      "wrong_sense_plausible": 1,
+      "context_disambiguation_present": 1,
+      "no_ocr_dependency": 1,
+      "no_existing_question_overlap": 1,
+      "chunk_ids_valid": 1,
+      "human_explainable": 1
+    },
+    "dense_screening_status": "not_run",
+    "ambical_used_during_construction": true,
+    "ambical_usage_scope": "gate_and_counterfactual_execution_diagnostics_only",
+    "context_gate_triggered": true,
+    "context_correction_executed": true,
+    "correction_mode": "topk_counterfactual_positive_v5",
+    "selected_counterfactual_phrase_count": 2,
+    "gate_diagnostic_run_id": "id_brigade_pangan_semantic_gate_diagnostic_20260928_01",
+    "qa_correctness_used_during_selection": false,
+    "challenge_partition": "semantic_context_challenge_candidate",
+    "selection_status": "pending_gate_diagnostic",
+    "static_quality_pass": true,
+    "static_quality_audit": {
+      "model": "gemma3:12b",
+      "natural_question": true,
+      "target_sense_clear": true,
+      "answer_supported": true,
+      "wrong_sense_plausible": true,
+      "failure_reasons": [
+        "The answer is a summary of steps, not a direct quote from the excerpt."
+      ]
+    },
+    "static_quality_rule": "answerable_requires_supported_answer",
+    "diagnostic_success": true
+  },
+  {
+    "question_id": "idbp-sem-008",
+    "question": "What are the steps to ensure the proper operation of a rice transplanter before use?",
+    "answer": "Prepare the seeds and check the machine's condition, including fuel, oil, and other accessories.",
+    "reference_answer": "Prepare the seeds and check the machine's condition, including fuel, oil, and other accessories.",
+    "answerability": "answerable",
+    "target_term_en": "operation",
+    "target_term_id": "PENGOPERASIAN",
+    "intended_sense": "preparation and maintenance",
+    "wrong_sense": "maneuvering",
+    "ambiguity_type": "table_field_collision",
+    "gold_chunk_ids": [
+      "abb8a0336a3c10ed6b02321dffdfb47f5c7645dd4c803aff021c4f5686f952bb"
+    ],
+    "equivalent_gold_chunk_ids": [],
+    "wrong_sense_chunk_ids": [
+      "9e8680da41a7ca0e9c4269bc7d394f634de416f5e116466b3300660b0af4beb7"
+    ],
+    "attractor_chunk_ids": [],
+    "supporting_quote_id": "## PENGOPERASIAN TRANSPLANTER",
+    "wrong_sense_quote_id": "## 03 Membelokan Jalannya Mesin Penanam Padi",
+    "disambiguating_cues": [
+      "machine's condition",
+      "fuel",
+      "oil"
+    ],
+    "source_section": "PENGOPERASIAN TRANSPLANTER",
+    "source_page": 136,
+    "construction_rationale": "The question is designed to focus on the preparation and maintenance steps before operating the machine, which are explicitly mentioned in the target excerpt. The distractor excerpt discusses maneuvering the machine, which is a plausible but incorrect sense of the term 'operation'.",
+    "quality_scores": {
+      "natural_language": 1,
+      "answer_uniqueness": 1,
+      "gold_support_complete": 1,
+      "wrong_sense_plausible": 1,
+      "context_disambiguation_present": 1,
+      "no_ocr_dependency": 1,
+      "no_existing_question_overlap": 1,
+      "chunk_ids_valid": 1,
+      "human_explainable": 1
+    },
+    "dense_screening_status": "not_run",
+    "ambical_used_during_construction": true,
+    "ambical_usage_scope": "gate_and_counterfactual_execution_diagnostics_only",
+    "context_gate_triggered": true,
+    "context_correction_executed": true,
+    "correction_mode": "topk_counterfactual_positive_v5",
+    "selected_counterfactual_phrase_count": 2,
+    "gate_diagnostic_run_id": "id_brigade_pangan_semantic_gate_diagnostic_20260928_01",
+    "qa_correctness_used_during_selection": false,
+    "challenge_partition": "semantic_context_challenge_candidate",
+    "selection_status": "pending_gate_diagnostic",
+    "static_quality_pass": true,
+    "static_quality_audit": {
+      "model": "gemma3:12b",
+      "natural_question": true,
+      "target_sense_clear": true,
+      "answer_supported": true,
+      "wrong_sense_plausible": true,
+      "failure_reasons": [
+        "The answer is a summary of steps, not a direct quote from the excerpt."
+      ]
+    },
+    "static_quality_rule": "answerable_requires_supported_answer",
+    "diagnostic_success": true
+  },
+  {
+    "question_id": "idbp-sem-010",
+    "question": "What is the primary purpose of soil preparation in rice farming, according to the document?",
+    "answer": "To improve soil fertility and manage water effectively.",
+    "reference_answer": "To improve soil fertility and manage water effectively.",
+    "answerability": "answerable",
+    "target_term_en": "primary purpose",
+    "target_term_id": "Meningkatkan Kesuburan Tanah, Mengelola Air Secara Efektif",
+    "intended_sense": "soil preparation goals",
+    "wrong_sense": "soil preparation activities",
+    "ambiguity_type": "same_term_different_process",
+    "gold_chunk_ids": [
+      "abd92f4748a442f124cb48fa04bba1f8293744bfc447d7e718bfae5dc90de6f9"
+    ],
+    "equivalent_gold_chunk_ids": [],
+    "wrong_sense_chunk_ids": [
+      "7f4347ed15f1b9e218ada3e90e3373f29bd09ecddaed28c777896b4226fdab03"
+    ],
+    "attractor_chunk_ids": [],
+    "supporting_quote_id": "## TUJUAN PERSIAPAN LAHAN",
+    "wrong_sense_quote_id": "AKTIVITAS PERSIAPAN LAHAN",
+    "disambiguating_cues": [
+      "PERSIAPAN LAHAN",
+      "Meningkatkan Kesuburan Tanah"
+    ],
+    "source_section": "3. Mengendalikan Hama dan Gulma / 4. Mengurangi Keasaman Tanah",
+    "source_page": 50,
+    "construction_rationale": "The question is designed to focus on the primary goals of soil preparation, while the distractor excerpt contains detailed activities related to soil preparation.",
+    "quality_scores": {
+      "natural_language": 1,
+      "answer_uniqueness": 1,
+      "gold_support_complete": 1,
+      "wrong_sense_plausible": 1,
+      "context_disambiguation_present": 1,
+      "no_ocr_dependency": 1,
+      "no_existing_question_overlap": 1,
+      "chunk_ids_valid": 1,
+      "human_explainable": 1
+    },
+    "dense_screening_status": "not_run",
+    "ambical_used_during_construction": true,
+    "ambical_usage_scope": "gate_and_counterfactual_execution_diagnostics_only",
+    "context_gate_triggered": true,
+    "context_correction_executed": true,
+    "correction_mode": "topk_counterfactual_positive_v5",
+    "selected_counterfactual_phrase_count": 2,
+    "gate_diagnostic_run_id": "id_brigade_pangan_semantic_gate_diagnostic_20260928_01",
+    "qa_correctness_used_during_selection": false,
+    "challenge_partition": "semantic_context_challenge_candidate",
+    "selection_status": "pending_gate_diagnostic",
+    "static_quality_pass": true,
+    "static_quality_audit": {
+      "model": "gemma3:12b",
+      "natural_question": true,
+      "target_sense_clear": true,
+      "answer_supported": true,
+      "wrong_sense_plausible": true,
+      "failure_reasons": [
+        "The wrong-sense excerpt provides a definition of land preparation, which could be confused with the goals of land preparation."
+      ]
+    },
+    "static_quality_rule": "answerable_requires_supported_answer",
+    "diagnostic_success": true
+  },
+  {
+    "question_id": "idbp-sem-014",
+    "question": "What are the steps to prepare a compost pile?",
+    "answer": "Cut large and long materials, place them on a dry surface, layer with crop residue, wood chips, animal manure, and other materials, and ensure proper aeration.",
+    "reference_answer": "Cut large and long materials, place them on a dry surface, layer with crop residue, wood chips, animal manure, and other materials, and ensure proper aeration.",
+    "answerability": "answerable",
+    "target_term_en": "compost pile",
+    "target_term_id": "tumpukan kompos",
+    "intended_sense": "",
+    "wrong_sense": "",
+    "ambiguity_type": "numerical_context_collision",
+    "gold_chunk_ids": [
+      "77830c86e6e4b456d7a5e57449bda4af1306139b68360014353e8a1fcbd92751"
+    ],
+    "equivalent_gold_chunk_ids": [],
+    "wrong_sense_chunk_ids": [
+      "b425989d9df2b326620e5fc00c9b3aeb5f796f4e5686c5ca5df39c558e634ba5"
+    ],
+    "attractor_chunk_ids": [],
+    "supporting_quote_id": "- Semua bahan yang berukuran besar dan panjang di potong/dicincang",
+    "wrong_sense_quote_id": "## PENGGUNAAN PUPUK ORGANIK",
+    "disambiguating_cues": [
+      "compost pile"
+    ],
+    "source_section": "Pembuatan : / PEMUPUKAN",
+    "source_page": 84,
+    "construction_rationale": "",
+    "quality_scores": {
+      "natural_language": 1,
+      "answer_uniqueness": 1,
+      "gold_support_complete": 1,
+      "wrong_sense_plausible": 1,
+      "context_disambiguation_present": 1,
+      "no_ocr_dependency": 1,
+      "no_existing_question_overlap": 1,
+      "chunk_ids_valid": 1,
+      "human_explainable": 1
+    },
+    "dense_screening_status": "not_run",
+    "ambical_used_during_construction": true,
+    "ambical_usage_scope": "gate_and_counterfactual_execution_diagnostics_only",
+    "context_gate_triggered": true,
+    "context_correction_executed": true,
+    "correction_mode": "topk_counterfactual_positive_v5",
+    "selected_counterfactual_phrase_count": 2,
+    "gate_diagnostic_run_id": "id_brigade_pangan_semantic_gate_diagnostic_20260928_01",
+    "qa_correctness_used_during_selection": false,
+    "challenge_partition": "semantic_context_challenge_candidate",
+    "selection_status": "pending_gate_diagnostic",
+    "static_quality_pass": true,
+    "static_quality_audit": {
+      "model": "gemma3:12b",
+      "natural_question": true,
+      "target_sense_clear": true,
+      "answer_supported": true,
+      "wrong_sense_plausible": true,
+      "failure_reasons": []
+    },
+    "static_quality_rule": "answerable_requires_supported_answer",
+    "diagnostic_success": true
+  },
+  {
+    "question_id": "idbp-sem-016",
+    "question": "What is the correct sequence of steps to start the mini combine harvester engine according to the provided excerpt?",
+    "answer": "1. Check the coolant level in the radiator\n2. Ensure the gear and thresher control levers are in neutral\n3. Turn the electrical switch to ON\n4. Set the throttle to mid position\n5. Insert the key and turn it to start the engine\n6. Adjust the throttle to idle speed",
+    "reference_answer": "1. Check the coolant level in the radiator\n2. Ensure the gear and thresher control levers are in neutral\n3. Turn the electrical switch to ON\n4. Set the throttle to mid position\n5. Insert the key and turn it to start the engine\n6. Adjust the throttle to idle speed",
+    "answerability": "answerable",
+    "target_term_en": "mini combine harvester",
+    "target_term_id": "8d797a7294b1d948eaca28ef0365bb8caeea0d171cfb78263090f939a6765ced",
+    "intended_sense": "mini combine harvester",
+    "wrong_sense": "large combine harvester",
+    "ambiguity_type": "actor_object_mismatch",
+    "gold_chunk_ids": [
+      "8d797a7294b1d948eaca28ef0365bb8caeea0d171cfb78263090f939a6765ced"
+    ],
+    "equivalent_gold_chunk_ids": [],
+    "wrong_sense_chunk_ids": [
+      "c2d26a37390a40ec1d4263b317814ea81bddf1894b8664825c395912df2426ad"
+    ],
+    "attractor_chunk_ids": [],
+    "supporting_quote_id": "01 Menyalakan mesin",
+    "wrong_sense_quote_id": "6.Air pendingin radiator dan filter udara",
+    "disambiguating_cues": [
+      "radiator",
+      "netral",
+      "threser"
+    ],
+    "source_section": "01 Menyalakan mesin / 02 Mematikan mesin",
+    "source_page": 143,
+    "construction_rationale": "The question is designed to test the correct sequence of starting a mini combine harvester, which is explicitly detailed in the target excerpt. The distractor excerpt discusses a large combine harvester, making it plausible but incorrect.",
+    "quality_scores": {
+      "natural_language": 1,
+      "answer_uniqueness": 1,
+      "gold_support_complete": 1,
+      "wrong_sense_plausible": 1,
+      "context_disambiguation_present": 1,
+      "no_ocr_dependency": 1,
+      "no_existing_question_overlap": 1,
+      "chunk_ids_valid": 1,
+      "human_explainable": 1
+    },
+    "dense_screening_status": "not_run",
+    "ambical_used_during_construction": true,
+    "ambical_usage_scope": "gate_and_counterfactual_execution_diagnostics_only",
+    "context_gate_triggered": true,
+    "context_correction_executed": true,
+    "correction_mode": "topk_counterfactual_positive_v5",
+    "selected_counterfactual_phrase_count": 2,
+    "gate_diagnostic_run_id": "id_brigade_pangan_semantic_gate_diagnostic_20260928_01",
+    "qa_correctness_used_during_selection": false,
+    "challenge_partition": "semantic_context_challenge_candidate",
+    "selection_status": "pending_gate_diagnostic",
+    "static_quality_pass": true,
+    "static_quality_audit": {
+      "model": "gemma3:12b",
+      "natural_question": true,
+      "target_sense_clear": true,
+      "answer_supported": true,
+      "wrong_sense_plausible": true,
+      "failure_reasons": [
+        "The excerpt uses informal language and abbreviations, making it slightly challenging to follow precisely.",
+        "The numbering in the excerpt is not perfectly consistent with the answer."
+      ]
+    },
+    "static_quality_rule": "answerable_requires_supported_answer",
+    "diagnostic_success": true
+  },
+  {
+    "question_id": "idbp-sem-017",
+    "question": "What are the steps to start and stop the rice transplanter engine according to the provided excerpt?",
+    "answer": "To start: 1. Ensure all levers are in neutral\n2. Set the throttle to low\n3. Press the key to start the engine\nTo stop: 1. Set the throttle to low\n2. Move the main clutch lever to off",
+    "reference_answer": "To start: 1. Ensure all levers are in neutral\n2. Set the throttle to low\n3. Press the key to start the engine\nTo stop: 1. Set the throttle to low\n2. Move the main clutch lever to off",
+    "answerability": "answerable",
+    "target_term_en": "rice transplanter",
+    "target_term_id": "3401f88d7c29abed16268046fc30e8e9d1bcb4d40ab12efb36c7b2973478d92d",
+    "intended_sense": "rice transplanter",
+    "wrong_sense": "combine harvester",
+    "ambiguity_type": "table_field_collision",
+    "gold_chunk_ids": [
+      "c2f9557530601f9539e63a3119f00e41b7785c07a0b924855233229c0fc19134"
+    ],
+    "equivalent_gold_chunk_ids": [],
+    "wrong_sense_chunk_ids": [
+      "872af0e0a8ae42c841dd55dc7a3c1811740d48dd919c33fb04a955854910587c"
+    ],
+    "attractor_chunk_ids": [],
+    "supporting_quote_id": "## PENGOPERASIAN TRANSPLANTER",
+    "wrong_sense_quote_id": "## PENGOPERASIAN TRANSPLANTER",
+    "disambiguating_cues": [
+      "key",
+      "throttle",
+      "clutch"
+    ],
+    "source_section": "02 Menjalankan dan menghentikan Mesin Tanam Padi / 03 Membelokan Jalannya Mesin Penanam Padi",
+    "source_page": 135,
+    "construction_rationale": "The question is designed to test the correct sequence of starting and stopping a rice transplanter, which is explicitly detailed in the target excerpt. The distractor excerpt discusses financial calculations, making it plausible but incorrect.",
+    "quality_scores": {
+      "natural_language": 1,
+      "answer_uniqueness": 1,
+      "gold_support_complete": 1,
+      "wrong_sense_plausible": 1,
+      "context_disambiguation_present": 1,
+      "no_ocr_dependency": 1,
+      "no_existing_question_overlap": 1,
+      "chunk_ids_valid": 1,
+      "human_explainable": 1
+    },
+    "dense_screening_status": "not_run",
+    "ambical_used_during_construction": true,
+    "ambical_usage_scope": "gate_and_counterfactual_execution_diagnostics_only",
+    "context_gate_triggered": true,
+    "context_correction_executed": true,
+    "correction_mode": "topk_counterfactual_positive_v5",
+    "selected_counterfactual_phrase_count": 2,
+    "gate_diagnostic_run_id": "id_brigade_pangan_semantic_gate_diagnostic_20260928_01",
+    "qa_correctness_used_during_selection": false,
+    "challenge_partition": "semantic_context_challenge_candidate",
+    "selection_status": "pending_gate_diagnostic",
+    "static_quality_pass": true,
+    "static_quality_audit": {
+      "model": "gemma3:12b",
+      "natural_question": true,
+      "target_sense_clear": true,
+      "answer_supported": true,
+      "wrong_sense_plausible": true,
+      "failure_reasons": [
+        "The excerpt uses informal language and abbreviations, making it slightly challenging to follow precisely.",
+        "The excerpt's phrasing is somewhat ambiguous, requiring interpretation to extract the steps."
+      ]
+    },
+    "static_quality_rule": "answerable_requires_supported_answer",
+    "diagnostic_success": true
+  },
+  {
+    "question_id": "idbp-sem-018",
+    "question": "What should you do after starting the engine to control the speed of the combine harvester according to the correct excerpt?",
+    "answer": "Set the gas to the middle position so that the engine runs slowly.",
+    "reference_answer": "Set the gas to the middle position so that the engine runs slowly.",
+    "answerability": "answerable",
+    "target_term_en": "gas",
+    "target_term_id": "posisi tengah",
+    "intended_sense": "engine speed control",
+    "wrong_sense": "acceleration control",
+    "ambiguity_type": "multi_evidence_context_collision",
+    "gold_chunk_ids": [
+      "72dcc73cf30828ac0c73f4dd50c87d01579ba2c560d1aa194f6d2e66a6cba822"
+    ],
+    "equivalent_gold_chunk_ids": [],
+    "wrong_sense_chunk_ids": [
+      "2d5a1fea948c25f34e5039c7611724d495f64656a076e7ad4de45945d067d083"
+    ],
+    "attractor_chunk_ids": [],
+    "supporting_quote_id": "Setelah menyalakan mesin, atur gas pada posisi tengah sehingga engine berputar langsam",
+    "wrong_sense_quote_id": "Setelah  menyalakan  mesin,  atur  gas  aselerasi  dengan melihat speedometer naikikan sampai greenzone",
+    "disambiguating_cues": [
+      "engine speed",
+      "middle position"
+    ],
+    "source_section": "03 / Cara Menjalankan",
+    "source_page": 144,
+    "construction_rationale": "The question is designed to test the understanding of the correct method to control the engine speed after starting the engine, which is explicitly stated in the target excerpt. The distractor excerpt mentions setting the gas for acceleration, which is a plausible but incorrect action.",
+    "quality_scores": {
+      "natural_language": 1,
+      "answer_uniqueness": 1,
+      "gold_support_complete": 1,
+      "wrong_sense_plausible": 1,
+      "context_disambiguation_present": 1,
+      "no_ocr_dependency": 1,
+      "no_existing_question_overlap": 1,
+      "chunk_ids_valid": 1,
+      "human_explainable": 1
+    },
+    "dense_screening_status": "not_run",
+    "ambical_used_during_construction": true,
+    "ambical_usage_scope": "gate_and_counterfactual_execution_diagnostics_only",
+    "context_gate_triggered": true,
+    "context_correction_executed": true,
+    "correction_mode": "topk_counterfactual_positive_v5",
+    "selected_counterfactual_phrase_count": 2,
+    "gate_diagnostic_run_id": "id_brigade_pangan_semantic_gate_diagnostic_20260928_01",
+    "qa_correctness_used_during_selection": false,
+    "challenge_partition": "semantic_context_challenge_candidate",
+    "selection_status": "pending_gate_diagnostic",
+    "static_quality_pass": true,
+    "static_quality_audit": {
+      "model": "gemma3:12b",
+      "natural_question": true,
+      "target_sense_clear": true,
+      "answer_supported": true,
+      "wrong_sense_plausible": true,
+      "failure_reasons": [
+        "The excerpt uses informal language and abbreviations, making it slightly challenging to follow precisely.",
+        "The excerpt's phrasing is somewhat ambiguous, requiring interpretation to extract the steps."
+      ]
+    },
+    "static_quality_rule": "answerable_requires_supported_answer",
+    "diagnostic_success": true
+  },
+  {
+    "question_id": "idbp-sem-019",
+    "question": "What is the difference between R/C ratio and BEP in the context of agricultural business according to the provided excerpt?",
+    "answer": "R/C ratio is the ratio of revenue to cost, indicating profitability. BEP is the volume of production or price at which the business breaks even.",
+    "reference_answer": "R/C ratio is the ratio of revenue to cost, indicating profitability. BEP is the volume of production or price at which the business breaks even.",
+    "answerability": "answerable",
+    "target_term_en": "R/C ratio and BEP",
+    "target_term_id": "3401f88d7c29abed16268046fc30e8e9d1bcb4d40ab12efb36c7b2973478d92d",
+    "intended_sense": "R/C ratio and BEP",
+    "wrong_sense": "financial calculations",
+    "ambiguity_type": "same_term_different_process",
+    "gold_chunk_ids": [
+      "3401f88d7c29abed16268046fc30e8e9d1bcb4d40ab12efb36c7b2973478d92d"
+    ],
+    "equivalent_gold_chunk_ids": [],
+    "wrong_sense_chunk_ids": [
+      "81cc410bea50d64c1de2326b8bce16102c2da18751f220489ad0774e23ab6dc6"
+    ],
+    "attractor_chunk_ids": [],
+    "supporting_quote_id": "2. BEP Harga Jual",
+    "wrong_sense_quote_id": "B = Rp 3.000.000 - (12%/4 x Rp 9000.000 + Rp 0)",
+    "disambiguating_cues": [
+      "revenue",
+      "cost",
+      "production"
+    ],
+    "source_section": "2. B / C Rasio / Artinya :",
+    "source_page": 173,
+    "construction_rationale": "The question is designed to test the understanding of R/C ratio and BEP in agricultural business, which are explicitly detailed in the target excerpt. The distractor excerpt discusses financial calculations, making it plausible but incorrect.",
+    "quality_scores": {
+      "natural_language": 1,
+      "answer_uniqueness": 1,
+      "gold_support_complete": 1,
+      "wrong_sense_plausible": 1,
+      "context_disambiguation_present": 1,
+      "no_ocr_dependency": 1,
+      "no_existing_question_overlap": 1,
+      "chunk_ids_valid": 1,
+      "human_explainable": 1
+    },
+    "dense_screening_status": "not_run",
+    "ambical_used_during_construction": true,
+    "ambical_usage_scope": "gate_and_counterfactual_execution_diagnostics_only",
+    "context_gate_triggered": true,
+    "context_correction_executed": true,
+    "correction_mode": "topk_counterfactual_positive_v5",
+    "selected_counterfactual_phrase_count": 2,
+    "gate_diagnostic_run_id": "id_brigade_pangan_semantic_gate_diagnostic_20260928_01",
+    "qa_correctness_used_during_selection": false,
+    "challenge_partition": "semantic_context_challenge_candidate",
+    "selection_status": "pending_gate_diagnostic",
+    "static_quality_pass": true,
+    "static_quality_audit": {
+      "model": "gemma3:12b",
+      "natural_question": true,
+      "target_sense_clear": true,
+      "answer_supported": true,
+      "wrong_sense_plausible": true,
+      "failure_reasons": [
+        "Target excerpt is fragmented and difficult to understand."
+      ]
+    },
+    "static_quality_rule": "answerable_requires_supported_answer",
+    "diagnostic_success": true
+  },
+  {
+    "question_id": "idbp-sem-020",
+    "question": "What are the main purposes of preparing the land for rice cultivation according to the provided excerpt?",
+    "answer": "1. To ensure uniform growth of rice seedlings\n2. To improve planting efficiency\n3. To support better harvest\n4. To facilitate land management with mechanization",
+    "reference_answer": "1. To ensure uniform growth of rice seedlings\n2. To improve planting efficiency\n3. To support better harvest\n4. To facilitate land management with mechanization",
+    "answerability": "answerable",
+    "target_term_en": "land preparation",
+    "target_term_id": "e5222016a9e83c417f7ae206b354355d635ae17edc01b142e94f14b21a29a912",
+    "intended_sense": "land preparation",
+    "wrong_sense": "soil pH adjustment",
+    "ambiguity_type": "abbreviation_collision",
+    "gold_chunk_ids": [
+      "e5222016a9e83c417f7ae206b354355d635ae17edc01b142e94f14b21a29a912"
+    ],
+    "equivalent_gold_chunk_ids": [],
+    "wrong_sense_chunk_ids": [
+      "75b2f6e30ff4e959a235d8467f2c7e8d751fcc9d6760286a272a04d8f32b3533"
+    ],
+    "attractor_chunk_ids": [],
+    "supporting_quote_id": "## TUJUAN PERSIAPAN LAHAN",
+    "wrong_sense_quote_id": "Penyesuaian pH dengan kapur pertanian (dolomit) atau amelioran",
+    "disambiguating_cues": [
+      "uniform growth",
+      "planting efficiency",
+      "harvest"
+    ],
+    "source_section": "7. Mendukung Panen yang Lebih Baik / 8. Mempermudah proses pengelolaan lahan dengan mekanisasi",
+    "source_page": 51,
+    "construction_rationale": "The question is designed to test the main purposes of land preparation for rice cultivation, which are explicitly detailed in the target excerpt. The distractor excerpt discusses soil pH adjustment, making it plausible but incorrect.",
+    "quality_scores": {
+      "natural_language": 1,
+      "answer_uniqueness": 1,
+      "gold_support_complete": 1,
+      "wrong_sense_plausible": 1,
+      "context_disambiguation_present": 1,
+      "no_ocr_dependency": 1,
+      "no_existing_question_overlap": 1,
+      "chunk_ids_valid": 1,
+      "human_explainable": 1
+    },
+    "dense_screening_status": "not_run",
+    "ambical_used_during_construction": true,
+    "ambical_usage_scope": "gate_and_counterfactual_execution_diagnostics_only",
+    "context_gate_triggered": true,
+    "context_correction_executed": true,
+    "correction_mode": "topk_counterfactual_positive_v5",
+    "selected_counterfactual_phrase_count": 2,
+    "gate_diagnostic_run_id": "id_brigade_pangan_semantic_gate_diagnostic_20260928_01",
+    "qa_correctness_used_during_selection": false,
+    "challenge_partition": "semantic_context_challenge_candidate",
+    "selection_status": "pending_gate_diagnostic",
+    "static_quality_pass": true,
+    "static_quality_audit": {
+      "model": "gemma3:12b",
+      "natural_question": true,
+      "target_sense_clear": true,
+      "answer_supported": true,
+      "wrong_sense_plausible": true,
+      "failure_reasons": []
+    },
+    "static_quality_rule": "answerable_requires_supported_answer",
+    "diagnostic_success": true
+  },
+  {
+    "question_id": "idbp-sem-023",
+    "question": "What is the primary function of a farmers' group in the context of agricultural development?",
+    "answer": "To form a group of farmers with common interests, resources, social and economic ties, and mutual trust for the sustainability of group living, ensuring each member feels ownership and benefits from group activities.",
+    "reference_answer": "To form a group of farmers with common interests, resources, social and economic ties, and mutual trust for the sustainability of group living, ensuring each member feels ownership and benefits from group activities.",
+    "answerability": "answerable",
+    "target_term_en": "Farmers' group",
+    "target_term_id": "Kelompoktani",
+    "intended_sense": "A group of farmers working together for mutual benefit and sustainability",
+    "wrong_sense": "A corporate entity formed by farmers",
+    "ambiguity_type": "numerical_context_collision",
+    "gold_chunk_ids": [
+      "48952c719f2a5fa738d0d87070bd775073b1fef87857b29b6683e090c857b6dd"
+    ],
+    "equivalent_gold_chunk_ids": [],
+    "wrong_sense_chunk_ids": [
+      "e81f93b5ba5903249b4bb506bf5d4edd1238b5daa4314bffcddba04b4ae1a9c0"
+    ],
+    "attractor_chunk_ids": [],
+    "supporting_quote_id": "Konsolidasi petani ke dalam suatu kelembagaan korporasi",
+    "wrong_sense_quote_id": "Korporasi petani dibentuk dari kelompok tani, gabungan kelompok tani, Pemuda tani hingga terbentuk kelompok petani besar atau korporasi petani.",
+    "disambiguating_cues": [
+      "farmers' group",
+      "corporate entity"
+    ],
+    "source_section": "Demokrasi Kooperatif / Manajemen Demokrasi",
+    "source_page": 28,
+    "construction_rationale": "The question is designed to test the understanding of the specific function of farmers' groups, which is explicitly mentioned in the target excerpt. The distractor focuses on corporate entities, which are discussed in a different context.",
+    "quality_scores": {
+      "natural_language": 1,
+      "answer_uniqueness": 1,
+      "gold_support_complete": 1,
+      "wrong_sense_plausible": 1,
+      "context_disambiguation_present": 1,
+      "no_ocr_dependency": 1,
+      "no_existing_question_overlap": 1,
+      "chunk_ids_valid": 1,
+      "human_explainable": 1
+    },
+    "dense_screening_status": "not_run",
+    "ambical_used_during_construction": true,
+    "ambical_usage_scope": "gate_and_counterfactual_execution_diagnostics_only",
+    "context_gate_triggered": true,
+    "context_correction_executed": true,
+    "correction_mode": "topk_counterfactual_positive_v5",
+    "selected_counterfactual_phrase_count": 2,
+    "gate_diagnostic_run_id": "id_brigade_pangan_semantic_gate_diagnostic_20260928_01",
+    "qa_correctness_used_during_selection": false,
+    "challenge_partition": "semantic_context_challenge_candidate",
+    "selection_status": "pending_gate_diagnostic",
+    "static_quality_pass": true,
+    "static_quality_audit": {
+      "model": "gemma3:12b",
+      "natural_question": true,
+      "target_sense_clear": true,
+      "answer_supported": true,
+      "wrong_sense_plausible": true,
+      "failure_reasons": []
+    },
+    "static_quality_rule": "answerable_requires_supported_answer",
+    "diagnostic_success": true
+  },
+  {
+    "question_id": "idbp-sem-024",
+    "question": "What is the recommended duration for the macak-macak phase in paddy field management?",
+    "answer": "1 week",
+    "reference_answer": "1 week",
+    "answerability": "answerable",
+    "target_term_en": "Macak-macak phase",
+    "target_term_id": "Macak-macak",
+    "intended_sense": "The initial flooding phase of paddy field management",
+    "wrong_sense": "The final drying phase",
+    "ambiguity_type": "temporal_condition_collision",
+    "gold_chunk_ids": [
+      "2541fd3221bd415f5582ea5acc1533b696bfa84b6145395d0a636d651ca5afc5"
+    ],
+    "equivalent_gold_chunk_ids": [],
+    "wrong_sense_chunk_ids": [
+      "81c7b7471f6fc11cb5f5864f8bb6fb68c052e9d70c32146ce436cb01c41b0475"
+    ],
+    "attractor_chunk_ids": [],
+    "supporting_quote_id": "Macak-macak 1 minggu, genang 1-2 minggu",
+    "wrong_sense_quote_id": "Irigasi berselang dan hindari penggenangan secara terus menerus",
+    "disambiguating_cues": [
+      "flooding",
+      "drying"
+    ],
+    "source_section": "FASE PERTUMBUHAN PADI",
+    "source_page": 72,
+    "construction_rationale": "The question is designed to test the understanding of the specific phase of paddy field management, which is explicitly mentioned in the target excerpt. The distractor focuses on the drying phase, which is discussed in a different context.",
+    "quality_scores": {
+      "natural_language": 1,
+      "answer_uniqueness": 1,
+      "gold_support_complete": 1,
+      "wrong_sense_plausible": 1,
+      "context_disambiguation_present": 1,
+      "no_ocr_dependency": 1,
+      "no_existing_question_overlap": 1,
+      "chunk_ids_valid": 1,
+      "human_explainable": 1
+    },
+    "dense_screening_status": "not_run",
+    "ambical_used_during_construction": true,
+    "ambical_usage_scope": "gate_and_counterfactual_execution_diagnostics_only",
+    "context_gate_triggered": true,
+    "context_correction_executed": true,
+    "correction_mode": "topk_counterfactual_positive_v5",
+    "selected_counterfactual_phrase_count": 2,
+    "gate_diagnostic_run_id": "id_brigade_pangan_semantic_gate_diagnostic_20260928_01",
+    "qa_correctness_used_during_selection": false,
+    "challenge_partition": "semantic_context_challenge_candidate",
+    "selection_status": "pending_gate_diagnostic",
+    "static_quality_pass": true,
+    "static_quality_audit": {
+      "model": "gemma3:12b",
+      "natural_question": true,
+      "target_sense_clear": true,
+      "answer_supported": true,
+      "wrong_sense_plausible": true,
+      "failure_reasons": []
+    },
+    "static_quality_rule": "answerable_requires_supported_answer",
+    "diagnostic_success": true
+  },
+  {
+    "question_id": "idbp-sem-026",
+    "question": "What is the impact of harvesting too early on the quality of rice produced?",
+    "answer": "It increases the percentage of broken grains, leading to lower milling yield.",
+    "reference_answer": "It increases the percentage of broken grains, leading to lower milling yield.",
+    "answerability": "answerable",
+    "target_term_en": "broken grains",
+    "target_term_id": "persentase butir patah",
+    "intended_sense": "percentage of broken grains",
+    "wrong_sense": "percentage of broken kernels",
+    "ambiguity_type": "table_field_collision",
+    "gold_chunk_ids": [
+      "3ff37a3ede213cb3eacb25457d5f7fcea9a9a4f1b5c2507c18b58de348ab3ac1"
+    ],
+    "equivalent_gold_chunk_ids": [],
+    "wrong_sense_chunk_ids": [
+      "15c3cc611ade18892c69c305a69e589fbbf3e7f4a479d482fec96d5c00bd136f"
+    ],
+    "attractor_chunk_ids": [],
+    "supporting_quote_id": "Tingkat kehilangan saat panen rendah dan kualitas beras yang dihasilkan tinggi.",
+    "wrong_sense_quote_id": "Pemanenan yang terlalu dini akan meningkatkan persentase butir mudah yang berakibat pada rendahnya rendemen giling.",
+    "disambiguating_cues": [
+      "percentage",
+      "broken grains"
+    ],
+    "source_section": "KAIDAH PERONTOKAN / CARA MENGURANGI KEHILANGAN SAAT PERONTOKAN",
+    "source_page": 118,
+    "construction_rationale": "The question is designed to test the understanding of the impact of early harvesting on the quality of rice, specifically focusing on the percentage of broken grains. The target excerpt clearly states that early harvesting increases the percentage of broken grains, which is directly supported by the quote. The distractor excerpt discusses milling yield, which is related but not the primary focus of the question.",
+    "quality_scores": {
+      "natural_language": 1,
+      "answer_uniqueness": 1,
+      "gold_support_complete": 1,
+      "wrong_sense_plausible": 1,
+      "context_disambiguation_present": 1,
+      "no_ocr_dependency": 1,
+      "no_existing_question_overlap": 1,
+      "chunk_ids_valid": 1,
+      "human_explainable": 1
+    },
+    "dense_screening_status": "not_run",
+    "ambical_used_during_construction": true,
+    "ambical_usage_scope": "gate_and_counterfactual_execution_diagnostics_only",
+    "context_gate_triggered": true,
+    "context_correction_executed": true,
+    "correction_mode": "topk_counterfactual_positive_v5",
+    "selected_counterfactual_phrase_count": 2,
+    "gate_diagnostic_run_id": "id_brigade_pangan_semantic_gate_diagnostic_20260928_01",
+    "qa_correctness_used_during_selection": false,
+    "challenge_partition": "semantic_context_challenge_candidate",
+    "selection_status": "pending_gate_diagnostic",
+    "static_quality_pass": true,
+    "static_quality_audit": {
+      "model": "gemma3:12b",
+      "natural_question": true,
+      "target_sense_clear": true,
+      "answer_supported": true,
+      "wrong_sense_plausible": true,
+      "failure_reasons": [
+        "The wrong-sense excerpt uses the term 'butir' which could be confused with 'butir' in the target excerpt."
+      ]
+    },
+    "static_quality_rule": "answerable_requires_supported_answer",
+    "diagnostic_success": true
+  },
+  {
+    "question_id": "idbp-sem-028",
+    "question": "What is the function of the radiator in the combine harvester's engine cooling system?",
+    "answer": "to control the engine temperature",
+    "reference_answer": "to control the engine temperature",
+    "answerability": "answerable",
+    "target_term_en": "control the engine temperature",
+    "target_term_id": "pengontrol suhu pada mesin",
+    "intended_sense": "to regulate the engine's temperature",
+    "wrong_sense": "to cool the engine",
+    "ambiguity_type": "same_term_different_process",
+    "gold_chunk_ids": [
+      "c2d26a37390a40ec1d4263b317814ea81bddf1894b8664825c395912df2426ad"
+    ],
+    "equivalent_gold_chunk_ids": [],
+    "wrong_sense_chunk_ids": [
+      "8d797a7294b1d948eaca28ef0365bb8caeea0d171cfb78263090f939a6765ced"
+    ],
+    "attractor_chunk_ids": [],
+    "supporting_quote_id": "## PENGOPERASIAN COMBINE HARVESTER BESAR",
+    "wrong_sense_quote_id": "## PENGOPERASIAN MINI COMBINE HARVESTER",
+    "disambiguating_cues": [
+      "engine cooling",
+      "temperature regulation"
+    ],
+    "source_section": "Menyalakan mesin / Mematikan Mesin",
+    "source_page": 150,
+    "construction_rationale": "The question is designed to focus on the function of the radiator in controlling the engine's temperature, which is explicitly stated in the target excerpt. The distractor excerpt mentions checking the radiator's fluid, which is a related but different process.",
+    "quality_scores": {
+      "natural_language": 1,
+      "answer_uniqueness": 1,
+      "gold_support_complete": 1,
+      "wrong_sense_plausible": 1,
+      "context_disambiguation_present": 1,
+      "no_ocr_dependency": 1,
+      "no_existing_question_overlap": 1,
+      "chunk_ids_valid": 1,
+      "human_explainable": 1
+    },
+    "dense_screening_status": "not_run",
+    "ambical_used_during_construction": true,
+    "ambical_usage_scope": "gate_and_counterfactual_execution_diagnostics_only",
+    "context_gate_triggered": true,
+    "context_correction_executed": true,
+    "correction_mode": "topk_counterfactual_positive_v5",
+    "selected_counterfactual_phrase_count": 2,
+    "gate_diagnostic_run_id": "id_brigade_pangan_semantic_gate_diagnostic_20260928_01",
+    "qa_correctness_used_during_selection": false,
+    "challenge_partition": "semantic_context_challenge_candidate",
+    "selection_status": "pending_gate_diagnostic",
+    "static_quality_pass": true,
+    "static_quality_audit": {
+      "model": "gemma3:12b",
+      "natural_question": true,
+      "target_sense_clear": true,
+      "answer_supported": true,
+      "wrong_sense_plausible": true,
+      "failure_reasons": [
+        "The wrong sense excerpt is irrelevant to the question."
+      ]
+    },
+    "static_quality_rule": "answerable_requires_supported_answer",
+    "diagnostic_success": true
+  },
+  {
+    "question_id": "idbp-sem-030",
+    "question": "What should be checked before starting the combine harvester according to the given instructions?",
+    "answer": "The position of the throttle, the battery voltage, and the position of the key switch.",
+    "reference_answer": "The position of the throttle, the battery voltage, and the position of the key switch.",
+    "answerability": "answerable",
+    "target_term_en": "key switch",
+    "target_term_id": "Tuas pemutus arus accu",
+    "intended_sense": "key switch position",
+    "wrong_sense": "engine start position",
+    "ambiguity_type": "institution_role_confusion",
+    "gold_chunk_ids": [
+      "a194971e9bda7c99d7cfd94c0d44ff74a5b879e81511a0b470255730a6c8b82a"
+    ],
+    "equivalent_gold_chunk_ids": [],
+    "wrong_sense_chunk_ids": [
+      "6ff5c588d10052f1c62a8dd73dfee88097172e2fac72ba18f0ccf588bb570c22"
+    ],
+    "attractor_chunk_ids": [],
+    "supporting_quote_id": "- 1.Sebelum mesin dihidupkan cek semua bagian mesin, utamanya yaitu:",
+    "wrong_sense_quote_id": "## PEMBUATAN BIBIT PADI DAPOG",
+    "disambiguating_cues": [
+      "key switch",
+      "position"
+    ],
+    "source_section": "PENGOPERASIAN INDO COMBINE HARVESTER (SEDANG) / 01 Cara menghidupkan dan mematikan mesin",
+    "source_page": 145,
+    "construction_rationale": "The question is designed to test the understanding of the initial checks before starting the combine harvester. The target excerpt clearly lists the checks, including the position of the key switch. The distractor excerpt discusses the position of the throttle, which is related but not the primary focus of the question.",
+    "quality_scores": {
+      "natural_language": 1,
+      "answer_uniqueness": 1,
+      "gold_support_complete": 1,
+      "wrong_sense_plausible": 1,
+      "context_disambiguation_present": 1,
+      "no_ocr_dependency": 1,
+      "no_existing_question_overlap": 1,
+      "chunk_ids_valid": 1,
+      "human_explainable": 1
+    },
+    "dense_screening_status": "not_run",
+    "ambical_used_during_construction": true,
+    "ambical_usage_scope": "gate_and_counterfactual_execution_diagnostics_only",
+    "context_gate_triggered": true,
+    "context_correction_executed": true,
+    "correction_mode": "topk_counterfactual_positive_v5",
+    "selected_counterfactual_phrase_count": 2,
+    "gate_diagnostic_run_id": "id_brigade_pangan_semantic_gate_diagnostic_20260928_01",
+    "qa_correctness_used_during_selection": false,
+    "challenge_partition": "semantic_context_challenge_candidate",
+    "selection_status": "pending_gate_diagnostic",
+    "static_quality_pass": true,
+    "static_quality_audit": {
+      "model": "gemma3:12b",
+      "natural_question": true,
+      "target_sense_clear": true,
+      "answer_supported": true,
+      "wrong_sense_plausible": true,
+      "failure_reasons": [
+        "The wrong sense excerpt is irrelevant to the question."
+      ]
+    },
+    "static_quality_rule": "answerable_requires_supported_answer",
+    "diagnostic_success": true
+  },
+  {
+    "question_id": "idbp-sem-031",
+    "question": "What are the steps to start a 4-wheel tractor according to the manual?",
+    "answer": "Start the engine by turning the ignition key clockwise and allow it to run for 3 minutes.",
+    "reference_answer": "Start the engine by turning the ignition key clockwise and allow it to run for 3 minutes.",
+    "answerability": "answerable",
+    "target_term_en": "start the engine",
+    "target_term_id": "Penghidupan Mesin",
+    "intended_sense": "Starting the engine",
+    "wrong_sense": "Turning on the lights",
+    "ambiguity_type": "procedure_stage_confusion",
+    "gold_chunk_ids": [
+      "c265f70ee9bf2a71f8988a1948b7840fe6442c2befb7dbbb526151eda4265a26"
+    ],
+    "equivalent_gold_chunk_ids": [],
+    "wrong_sense_chunk_ids": [
+      "c30dcc2da0de55214fd1048e876ab50bca958cb71afd3ff3c69a20e8870559ea"
+    ],
+    "attractor_chunk_ids": [],
+    "supporting_quote_id": "## PENGOPERASIAN TRAKTOR RODA 4",
+    "wrong_sense_quote_id": "## PENGOPERASIAN TRAKTOR PADA PADI LAHAN RAWA",
+    "disambiguating_cues": [
+      "engine",
+      "ignition key",
+      "run for 3 minutes"
+    ],
+    "source_section": "PENGOPERASIAN TRAKTOR RODA 4",
+    "source_page": 128,
+    "construction_rationale": "The question is designed to test the understanding of the starting procedure for a 4-wheel tractor, which is explicitly supported by the target excerpt. The distractor excerpt introduces a different context (operating on paddy fields) and a different action (turning on the lights), making it plausible but incorrect.",
+    "quality_scores": {
+      "natural_language": 1,
+      "answer_uniqueness": 1,
+      "gold_support_complete": 1,
+      "wrong_sense_plausible": 1,
+      "context_disambiguation_present": 1,
+      "no_ocr_dependency": 1,
+      "no_existing_question_overlap": 1,
+      "chunk_ids_valid": 1,
+      "human_explainable": 1
+    },
+    "dense_screening_status": "not_run",
+    "ambical_used_during_construction": true,
+    "ambical_usage_scope": "gate_and_counterfactual_execution_diagnostics_only",
+    "context_gate_triggered": true,
+    "context_correction_executed": true,
+    "correction_mode": "topk_counterfactual_positive_v5",
+    "selected_counterfactual_phrase_count": 2,
+    "gate_diagnostic_run_id": "id_brigade_pangan_semantic_gate_diagnostic_20260928_01",
+    "qa_correctness_used_during_selection": false,
+    "challenge_partition": "semantic_context_challenge_candidate",
+    "selection_status": "pending_gate_diagnostic",
+    "static_quality_pass": true,
+    "static_quality_audit": {
+      "model": "gemma3:12b",
+      "natural_question": true,
+      "target_sense_clear": true,
+      "answer_supported": true,
+      "wrong_sense_plausible": true,
+      "failure_reasons": [
+        "The wrong-sense excerpt is unrelated to the question."
+      ]
+    },
+    "static_quality_rule": "answerable_requires_supported_answer",
+    "diagnostic_success": true
+  },
+  {
+    "question_id": "idbp-sem-032",
+    "question": "What is the correct procedure to start a tractor according to the manual?",
+    "answer": "Turn the diesel engine starter in the clockwise direction and allow the engine to run for 3 minutes.",
+    "reference_answer": "Turn the diesel engine starter in the clockwise direction and allow the engine to run for 3 minutes.",
+    "answerability": "answerable",
+    "target_term_en": "start the engine",
+    "target_term_id": "Cara Menghidupkan Traktor",
+    "intended_sense": "Starting the engine",
+    "wrong_sense": "Adjusting the throttle",
+    "ambiguity_type": "numerical_context_collision",
+    "gold_chunk_ids": [
+      "db094c331946d56449fa4a54a96c793329defbbe5579e9789d5b3e437fe8439c"
+    ],
+    "equivalent_gold_chunk_ids": [],
+    "wrong_sense_chunk_ids": [
+      "514454fe852266a03f4d68792c3ca0f8105326f39a90ae839c642b7cd128a185"
+    ],
+    "attractor_chunk_ids": [],
+    "supporting_quote_id": "Cara  Menghidupkan  Traktor:  Langkah  pertama  yang dilakukan  yaitu  menghidupkan  traktor,  pastikan  V-Belt dalam posisi kendor atau tidak bekerja sehingga tidak meneruskan tenaga dan putaran, selanjutnya hidupkan diesel dengan memutar Engkol Starter yang tersedia.",
+    "wrong_sense_quote_id": "Posisi V-Belt: Pastikan V-Belt tidak dalam posisi miring atau dalam posisi lurus.",
+    "disambiguating_cues": [
+      "engine",
+      "clockwise",
+      "3 minutes"
+    ],
+    "source_section": "PENGOPERASIAN TRAKTOR RODA DUA",
+    "source_page": 123,
+    "construction_rationale": "The question focuses on the starting procedure, which is clearly described in the target excerpt. The distractor introduces a different context (adjusting the throttle) and a different action, making it plausible but incorrect.",
+    "quality_scores": {
+      "natural_language": 1,
+      "answer_uniqueness": 1,
+      "gold_support_complete": 1,
+      "wrong_sense_plausible": 1,
+      "context_disambiguation_present": 1,
+      "no_ocr_dependency": 1,
+      "no_existing_question_overlap": 1,
+      "chunk_ids_valid": 1,
+      "human_explainable": 1
+    },
+    "dense_screening_status": "not_run",
+    "ambical_used_during_construction": true,
+    "ambical_usage_scope": "gate_and_counterfactual_execution_diagnostics_only",
+    "context_gate_triggered": true,
+    "context_correction_executed": true,
+    "correction_mode": "topk_counterfactual_positive_v5",
+    "selected_counterfactual_phrase_count": 2,
+    "gate_diagnostic_run_id": "id_brigade_pangan_semantic_gate_diagnostic_20260928_01",
+    "qa_correctness_used_during_selection": false,
+    "challenge_partition": "semantic_context_challenge_candidate",
+    "selection_status": "pending_gate_diagnostic",
+    "static_quality_pass": true,
+    "static_quality_audit": {
+      "model": "gemma3:12b",
+      "natural_question": true,
+      "target_sense_clear": true,
+      "answer_supported": true,
+      "wrong_sense_plausible": true,
+      "failure_reasons": [
+        "The wrong-sense excerpt is unrelated to the question."
+      ]
+    },
+    "static_quality_rule": "answerable_requires_supported_answer",
+    "diagnostic_success": true
+  },
+  {
+    "question_id": "idbp-sem-039",
+    "question": "What is the correct sequence of steps for preparing paddy seeds as described in the passage?",
+    "answer": "Rendam dalam air, tiriskan, diperam, disemaikan",
+    "reference_answer": "Rendam dalam air, tiriskan, diperam, disemaikan",
+    "answerability": "answerable",
+    "target_term_en": "sequence of steps",
+    "target_term_id": "Benih diperam selama 2  x 24 jam, Benih siap disemaikan",
+    "intended_sense": "Rendam dalam air, tiriskan, diperam, disemaikan",
+    "wrong_sense": "Seleksi benih, perendaman, pelaksanaan",
+    "ambiguity_type": "institution_role_confusion",
+    "gold_chunk_ids": [
+      "28eb8ea5595f63eeeb7433d2d95828fd69898f6ab3995e2cea0532fc5f9a907c"
+    ],
+    "equivalent_gold_chunk_ids": [],
+    "wrong_sense_chunk_ids": [
+      "50c01bda97da9066e4d4ee2839b7e265b80c3edfb7b3d6b2fcabe7b75ed4b18d"
+    ],
+    "attractor_chunk_ids": [],
+    "supporting_quote_id": "Masukkan  benih  kedalam  karung  atau wadah lain yang tembus air",
+    "wrong_sense_quote_id": "Benih Bernas dan Bemutu",
+    "disambiguating_cues": [
+      "sequence",
+      "steps",
+      "semenyiakan"
+    ],
+    "source_section": "Tahap Penyemaian benih : / Metode Semai",
+    "source_page": 65,
+    "construction_rationale": "The question is designed to test the reader's understanding of the correct sequence of steps for preparing paddy seeds, which is explicitly outlined in the target excerpt. The distractor excerpt discusses a different aspect of seed preparation, focusing on selection and labeling.",
+    "quality_scores": {
+      "natural_language": 1,
+      "answer_uniqueness": 1,
+      "gold_support_complete": 1,
+      "wrong_sense_plausible": 1,
+      "context_disambiguation_present": 1,
+      "no_ocr_dependency": 1,
+      "no_existing_question_overlap": 1,
+      "chunk_ids_valid": 1,
+      "human_explainable": 1
+    },
+    "dense_screening_status": "not_run",
+    "ambical_used_during_construction": true,
+    "ambical_usage_scope": "gate_and_counterfactual_execution_diagnostics_only",
+    "context_gate_triggered": true,
+    "context_correction_executed": true,
+    "correction_mode": "topk_counterfactual_positive_v5",
+    "selected_counterfactual_phrase_count": 2,
+    "gate_diagnostic_run_id": "id_brigade_pangan_semantic_gate_diagnostic_20260928_01",
+    "qa_correctness_used_during_selection": false,
+    "challenge_partition": "semantic_context_challenge_candidate",
+    "selection_status": "pending_gate_diagnostic",
+    "static_quality_pass": true,
+    "static_quality_audit": {
+      "model": "gemma3:12b",
+      "natural_question": true,
+      "target_sense_clear": true,
+      "answer_supported": true,
+      "wrong_sense_plausible": true,
+      "failure_reasons": [
+        "The wrong sense excerpt uses 'perendaman' (soaking) and 'pelaksanaan' (execution) which are vague and don't represent the specific sequence of steps."
+      ]
+    },
+    "static_quality_rule": "answerable_requires_supported_answer",
+    "diagnostic_success": true
+  },
+  {
+    "question_id": "idbp-sem-052",
+    "question": "What should be checked before operating a 4-wheel tractor?",
+    "answer": "Checking the tire pressure, adjusting the controls, checking the battery, and ensuring all dashboard indicators are functioning properly.",
+    "reference_answer": "Checking the tire pressure, adjusting the controls, checking the battery, and ensuring all dashboard indicators are functioning properly.",
+    "answerability": "answerable",
+    "target_term_en": "checking",
+    "target_term_id": "Pastikan tekanan angin sesuai dengan yang dianjurkan pada buku petunjuk, Gerakkan seluruh tuas pengendali, apakah masih berjalan dengan baik, apabila tidak. Injaklah semua pedal, apabila tidak standar lagi, maka perlu penyetelan. Pastikan jumlah air accu sesuai standar, Periksa amper/arus yang keluar dari accu, Pastikan semua indikator dan saklar-saklar pada dashboard menunjukan hal yang normal dan berfungsi dengan baik",
+    "intended_sense": "pre-operational checks",
+    "wrong_sense": "post-operational checks",
+    "ambiguity_type": "actor_object_mismatch",
+    "gold_chunk_ids": [
+      "497a49cb7273ca1139b626245baeb9c63cb67340a24dc6004cbe80a7c8b2076d"
+    ],
+    "equivalent_gold_chunk_ids": [],
+    "wrong_sense_chunk_ids": [
+      "b017a5633e6898107974a9551bdd9e0614309a904a71f298cc33b8150dd98b47"
+    ],
+    "attractor_chunk_ids": [],
+    "supporting_quote_id": "## Angin Ban, Tuas dan Accu",
+    "wrong_sense_quote_id": "Tuas    dan    Pedal    Pengendali:    Gerakkan    seluruh    tuas pengendali,  apakah  masih  berjalan  dengan  baik,  apabila tidak.",
+    "disambiguating_cues": [
+      "operating a 4-wheel tractor",
+      "preparation"
+    ],
+    "source_section": "Angin Ban, Tuas dan Accu / PENGOPERASIAN TRAKTOR RODA 4",
+    "source_page": 126,
+    "construction_rationale": "The question is about pre-operational checks, which are explicitly mentioned in the target excerpt. The distractor excerpt discusses post-operational checks, making it a plausible alternative.",
+    "quality_scores": {
+      "natural_language": 1,
+      "answer_uniqueness": 1,
+      "gold_support_complete": 1,
+      "wrong_sense_plausible": 1,
+      "context_disambiguation_present": 1,
+      "no_ocr_dependency": 1,
+      "no_existing_question_overlap": 1,
+      "chunk_ids_valid": 1,
+      "human_explainable": 1
+    },
+    "dense_screening_status": "not_run",
+    "ambical_used_during_construction": true,
+    "ambical_usage_scope": "gate_and_counterfactual_execution_diagnostics_only",
+    "context_gate_triggered": true,
+    "context_correction_executed": true,
+    "correction_mode": "topk_counterfactual_positive_v5",
+    "selected_counterfactual_phrase_count": 2,
+    "gate_diagnostic_run_id": "id_brigade_pangan_semantic_gate_diagnostic_20260928_01",
+    "qa_correctness_used_during_selection": false,
+    "challenge_partition": "semantic_context_challenge_candidate",
+    "selection_status": "selected_quality_correction_before_dataset_freeze",
+    "static_quality_pass": true,
+    "static_quality_audit": {
+      "model": "gemma3:12b",
+      "natural_question": true,
+      "target_sense_clear": true,
+      "answer_supported": true,
+      "wrong_sense_plausible": true,
+      "failure_reasons": [
+        "The wrong-sense excerpt discusses tractor operation, which could be confused with pre-operational checks."
+      ]
+    },
+    "static_quality_rule": "answerable_requires_supported_answer",
+    "diagnostic_success": true
+  },
+  {
+    "question_id": "idbp-sem-063",
+    "question": "What is the specific type of landform associated with tidal inundation in coastal areas according to the provided context?",
+    "answer": "Not found in context",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "target_term_en": "specific type of landform",
+    "target_term_id": "specific_landform",
+    "intended_sense": "A particular kind of landform related to tidal inundation",
+    "wrong_sense": "General landform types",
+    "ambiguity_type": "multi_evidence_context_collision",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "wrong_sense_chunk_ids": [
+      "627e1ebdf46de020e344bcbee9a58c9a091e19f04d8a26e673a8a601bdb2e73c"
+    ],
+    "attractor_chunk_ids": [
+      "627e1ebdf46de020e344bcbee9a58c9a091e19f04d8a26e673a8a601bdb2e73c"
+    ],
+    "supporting_quote_id": null,
+    "wrong_sense_quote_id": "## KARAKTERISTIK DAN PENGELOLAAN LAHAN RAWA",
+    "disambiguating_cues": [
+      "tidal inundation",
+      "coastal areas"
+    ],
+    "source_section": "KARAKTERISTIK LAHAN LEBAK",
+    "source_page": 46,
+    "construction_rationale": "The question seeks a specific type of landform related to tidal inundation, which is not explicitly mentioned in the context. The distractor provides a general term for landforms in coastal areas.",
+    "quality_scores": {
+      "natural_language": 1,
+      "answer_uniqueness": 1,
+      "gold_support_complete": null,
+      "wrong_sense_plausible": 1,
+      "context_disambiguation_present": 1,
+      "no_ocr_dependency": 1,
+      "no_existing_question_overlap": 1,
+      "chunk_ids_valid": 1,
+      "human_explainable": 1
+    },
+    "dense_screening_status": "not_run",
+    "ambical_used_during_construction": true,
+    "ambical_usage_scope": "gate_and_counterfactual_execution_diagnostics_only",
+    "context_gate_triggered": true,
+    "context_correction_executed": true,
+    "correction_mode": "topk_counterfactual_positive_v5",
+    "selected_counterfactual_phrase_count": 2,
+    "gate_diagnostic_run_id": "id_brigade_pangan_semantic_gate_diagnostic_20260928_01",
+    "qa_correctness_used_during_selection": false,
+    "challenge_partition": "semantic_context_challenge_candidate",
+    "selection_status": "pending_gate_diagnostic",
+    "static_quality_pass": true,
+    "static_quality_audit": {
+      "model": "gemma3:12b",
+      "natural_question": true,
+      "target_sense_clear": true,
+      "answer_supported": false,
+      "wrong_sense_plausible": true,
+      "failure_reasons": [
+        "The excerpt describes tidal inundation areas but does not specify a particular landform type.",
+        "The excerpt mentions 'endapan marine dan fluvio-marin' and 'gambut', which are general terms and not specific landforms."
+      ],
+      "absence_confirmed": true
+    },
+    "static_quality_rule": "unanswerable_requires_confirmed_absence",
+    "diagnostic_success": true
+  },
+  {
+    "question_id": "idbp-sem-073",
+    "question": "What is the optimal height for cutting paddy during manual harvesting?",
+    "answer": "Not found in context",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "target_term_en": "optimal height",
+    "target_term_id": "height",
+    "intended_sense": "specific measurement for cutting",
+    "wrong_sense": "general harvesting techniques",
+    "ambiguity_type": "same_term_different_process",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "wrong_sense_chunk_ids": [
+      "15c3cc611ade18892c69c305a69e589fbbf3e7f4a479d482fec96d5c00bd136f"
+    ],
+    "attractor_chunk_ids": [
+      "15c3cc611ade18892c69c305a69e589fbbf3e7f4a479d482fec96d5c00bd136f"
+    ],
+    "supporting_quote_id": null,
+    "wrong_sense_quote_id": "Apabila perontokan dilakukan dengan cara manual atau dengan menggunakan mesin perontok tapi dengan batang dipegang, maka pemotongan batang lebih dekat ke tanah.",
+    "disambiguating_cues": [
+      "optimal",
+      "cutting height"
+    ],
+    "source_section": "PEMANENAN / TINGGI PEMOTONGAN :",
+    "source_page": 116,
+    "construction_rationale": "The target excerpt discusses the stages of paddy maturation but does not provide the optimal cutting height for manual harvesting. The distractor excerpt discusses the maturation stages and does not contain the term 'height'.",
+    "quality_scores": {
+      "natural_language": 1,
+      "answer_uniqueness": 1,
+      "gold_support_complete": null,
+      "wrong_sense_plausible": 1,
+      "context_disambiguation_present": 1,
+      "no_ocr_dependency": 1,
+      "no_existing_question_overlap": 1,
+      "chunk_ids_valid": 1,
+      "human_explainable": 1
+    },
+    "dense_screening_status": "not_run",
+    "ambical_used_during_construction": true,
+    "ambical_usage_scope": "gate_and_counterfactual_execution_diagnostics_only",
+    "context_gate_triggered": true,
+    "context_correction_executed": true,
+    "correction_mode": "topk_counterfactual_positive_v5",
+    "selected_counterfactual_phrase_count": 2,
+    "gate_diagnostic_run_id": "id_brigade_pangan_semantic_gate_diagnostic_20260928_01",
+    "qa_correctness_used_during_selection": false,
+    "challenge_partition": "semantic_context_challenge_candidate",
+    "selection_status": "pending_gate_diagnostic",
+    "static_quality_pass": true,
+    "static_quality_audit": {
+      "model": "gemma3:12b",
+      "natural_question": true,
+      "target_sense_clear": true,
+      "answer_supported": false,
+      "wrong_sense_plausible": true,
+      "failure_reasons": [
+        "Answer not found in context",
+        "Excerpt discusses cutting height based on harvesting method, not optimal height"
+      ],
+      "absence_confirmed": true
+    },
+    "static_quality_rule": "unanswerable_requires_confirmed_absence",
+    "diagnostic_success": true
+  },
+  {
+    "question_id": "idbp-sem-074",
+    "question": "What is the first step in the post-harvest process according to the book?",
+    "answer": "Not found in context",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "target_term_en": "first step",
+    "target_term_id": "step",
+    "intended_sense": "initial activity in the post-harvest process",
+    "wrong_sense": "general post-harvest activities",
+    "ambiguity_type": "abbreviation_collision",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "wrong_sense_chunk_ids": [
+      "7469a66b3256147deee9cf9e2fe924198a0b946881ad55f633804c72b8b0d231"
+    ],
+    "attractor_chunk_ids": [
+      "7469a66b3256147deee9cf9e2fe924198a0b946881ad55f633804c72b8b0d231"
+    ],
+    "supporting_quote_id": null,
+    "wrong_sense_quote_id": "Waktu panen yang optimum adalah saat kadar air biji mencapai 20% (musim kering) atau 24% (musim hujan); atau setelah 80-85% dari biji padi sudah matang.",
+    "disambiguating_cues": [
+      "first",
+      "initial"
+    ],
+    "source_section": "PEMANENAN / Waktu Panen :",
+    "source_page": 109,
+    "construction_rationale": "The target excerpt lists the steps of the post-harvest process but does not specify the first step. The distractor excerpt discusses soil conditions and does not contain the term 'step'.",
+    "quality_scores": {
+      "natural_language": 1,
+      "answer_uniqueness": 1,
+      "gold_support_complete": null,
+      "wrong_sense_plausible": 1,
+      "context_disambiguation_present": 1,
+      "no_ocr_dependency": 1,
+      "no_existing_question_overlap": 1,
+      "chunk_ids_valid": 1,
+      "human_explainable": 1
+    },
+    "dense_screening_status": "not_run",
+    "ambical_used_during_construction": true,
+    "ambical_usage_scope": "gate_and_counterfactual_execution_diagnostics_only",
+    "context_gate_triggered": true,
+    "context_correction_executed": true,
+    "correction_mode": "topk_counterfactual_positive_v5",
+    "selected_counterfactual_phrase_count": 2,
+    "gate_diagnostic_run_id": "id_brigade_pangan_semantic_gate_diagnostic_20260928_01",
+    "qa_correctness_used_during_selection": false,
+    "challenge_partition": "semantic_context_challenge_candidate",
+    "selection_status": "pending_gate_diagnostic",
+    "static_quality_pass": true,
+    "static_quality_audit": {
+      "model": "gemma3:12b",
+      "natural_question": true,
+      "target_sense_clear": true,
+      "answer_supported": false,
+      "wrong_sense_plausible": true,
+      "failure_reasons": [
+        "Answer not found in context",
+        "Excerpt describes stages of rice growth, not the post-harvest process"
+      ],
+      "absence_confirmed": true
+    },
+    "static_quality_rule": "unanswerable_requires_confirmed_absence",
+    "diagnostic_success": true
+  },
+  {
+    "question_id": "idbp-sem-086",
+    "question": "What is the recommended type of oil for the hydraulic system of a tractor?",
+    "answer": "Not found in context",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "target_term_en": "hydraulic oil",
+    "target_term_id": "872af0e0a8ae42c841dd55dc7a3c1811740d48dd919c33fb04a955854910587c",
+    "intended_sense": "oil for hydraulic system",
+    "wrong_sense": "oil for other systems",
+    "ambiguity_type": "numerical_context_collision",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "wrong_sense_chunk_ids": [
+      "4846601b7153d29cb6c4004700e10d5b232e6415d866fa0fd3bfb3527ec6deed"
+    ],
+    "attractor_chunk_ids": [
+      "4846601b7153d29cb6c4004700e10d5b232e6415d866fa0fd3bfb3527ec6deed"
+    ],
+    "supporting_quote_id": null,
+    "wrong_sense_quote_id": "## PENGOPERASIAN TRAKTOR RODA 4",
+    "disambiguating_cues": [
+      "hydraulic",
+      "oil"
+    ],
+    "source_section": "PENGOPERASIAN TRAKTOR PADA PADI LAHAN RAWA / Bahan Bakar dan Oli",
+    "source_page": 130,
+    "construction_rationale": "The target term is about hydraulic oil, which is not mentioned in the distractor excerpt. The distractor excerpt discusses oil for other systems, making it plausible for the question to be about hydraulic oil.",
+    "quality_scores": {
+      "natural_language": 1,
+      "answer_uniqueness": 1,
+      "gold_support_complete": null,
+      "wrong_sense_plausible": 1,
+      "context_disambiguation_present": 1,
+      "no_ocr_dependency": 1,
+      "no_existing_question_overlap": 1,
+      "chunk_ids_valid": 1,
+      "human_explainable": 1
+    },
+    "dense_screening_status": "not_run",
+    "ambical_used_during_construction": true,
+    "ambical_usage_scope": "gate_and_counterfactual_execution_diagnostics_only",
+    "context_gate_triggered": true,
+    "context_correction_executed": true,
+    "correction_mode": "topk_counterfactual_positive_v5",
+    "selected_counterfactual_phrase_count": 2,
+    "gate_diagnostic_run_id": "id_brigade_pangan_semantic_gate_diagnostic_20260928_01",
+    "qa_correctness_used_during_selection": false,
+    "challenge_partition": "semantic_context_challenge_candidate",
+    "selection_status": "pending_gate_diagnostic",
+    "static_quality_pass": true,
+    "static_quality_audit": {
+      "model": "gemma3:12b",
+      "natural_question": true,
+      "target_sense_clear": true,
+      "answer_supported": false,
+      "wrong_sense_plausible": true,
+      "failure_reasons": [
+        "The excerpt does not specify the recommended oil type for the hydraulic system."
+      ],
+      "absence_confirmed": true
+    },
+    "static_quality_rule": "unanswerable_requires_confirmed_absence",
+    "diagnostic_success": true
+  },
+  {
+    "question_id": "idbp-sem-088",
+    "question": "What should be done if the rice transplanter's planting mechanism fails to operate?",
+    "answer": "Not found in context",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "target_term_en": "planting mechanism",
+    "target_term_id": "872af0e0a8ae42c841dd55dc7a3c1811740d48dd919c33fb04a955854910587c",
+    "intended_sense": "planting mechanism failure",
+    "wrong_sense": "operating the planting mechanism",
+    "ambiguity_type": "actor_object_mismatch",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "wrong_sense_chunk_ids": [
+      "c2f9557530601f9539e63a3119f00e41b7785c07a0b924855233229c0fc19134"
+    ],
+    "attractor_chunk_ids": [
+      "c2f9557530601f9539e63a3119f00e41b7785c07a0b924855233229c0fc19134"
+    ],
+    "supporting_quote_id": null,
+    "wrong_sense_quote_id": "## PENGOPERASIAN TRANSPLANTER",
+    "disambiguating_cues": [
+      "planting",
+      "mechanism",
+      "fails"
+    ],
+    "source_section": "PENGOPERASIAN TRANSPLANTER / 01 Menghidupkan dan mematikan mesin",
+    "source_page": 134,
+    "construction_rationale": "The question is about what to do if the planting mechanism fails, which is not covered in the distractor excerpt. The distractor focuses on general preparation and operation, making it plausible for the question to be about a mechanism failure.",
+    "quality_scores": {
+      "natural_language": 1,
+      "answer_uniqueness": 1,
+      "gold_support_complete": null,
+      "wrong_sense_plausible": 1,
+      "context_disambiguation_present": 1,
+      "no_ocr_dependency": 1,
+      "no_existing_question_overlap": 1,
+      "chunk_ids_valid": 1,
+      "human_explainable": 1
+    },
+    "dense_screening_status": "not_run",
+    "ambical_used_during_construction": true,
+    "ambical_usage_scope": "gate_and_counterfactual_execution_diagnostics_only",
+    "context_gate_triggered": true,
+    "context_correction_executed": true,
+    "correction_mode": "topk_counterfactual_positive_v5",
+    "selected_counterfactual_phrase_count": 2,
+    "gate_diagnostic_run_id": "id_brigade_pangan_semantic_gate_diagnostic_20260928_01",
+    "qa_correctness_used_during_selection": false,
+    "challenge_partition": "semantic_context_challenge_candidate",
+    "selection_status": "pending_gate_diagnostic",
+    "static_quality_pass": true,
+    "static_quality_audit": {
+      "model": "gemma3:12b",
+      "natural_question": true,
+      "target_sense_clear": true,
+      "answer_supported": false,
+      "wrong_sense_plausible": true,
+      "failure_reasons": [
+        "Answer not found in context."
+      ],
+      "absence_confirmed": true
+    },
+    "static_quality_rule": "unanswerable_requires_confirmed_absence",
+    "diagnostic_success": true
+  },
+  {
+    "question_id": "idbp-sem-089",
+    "question": "What is the recommended air pressure for the tractor's tires?",
+    "answer": "Not found in context",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "target_term_en": "air pressure",
+    "target_term_id": "62ff98fd0a4d3a23c612011c911a711a9bc74a323050ee897be1276dda14ca01",
+    "intended_sense": "air pressure for tires",
+    "wrong_sense": "air pressure for other parts",
+    "ambiguity_type": "table_field_collision",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "wrong_sense_chunk_ids": [
+      "497a49cb7273ca1139b626245baeb9c63cb67340a24dc6004cbe80a7c8b2076d"
+    ],
+    "attractor_chunk_ids": [
+      "497a49cb7273ca1139b626245baeb9c63cb67340a24dc6004cbe80a7c8b2076d"
+    ],
+    "supporting_quote_id": null,
+    "wrong_sense_quote_id": "## Angin Ban, Tuas dan Accu",
+    "disambiguating_cues": [
+      "air",
+      "pressure",
+      "tires"
+    ],
+    "source_section": "PERSIAPAN : / Angin Ban, Tuas dan Accu",
+    "source_page": 127,
+    "construction_rationale": "The question is about the air pressure for the tires, which is not mentioned in the distractor excerpt. The distractor focuses on other parts of the tractor, making it plausible for the question to be about tire air pressure.",
+    "quality_scores": {
+      "natural_language": 1,
+      "answer_uniqueness": 1,
+      "gold_support_complete": null,
+      "wrong_sense_plausible": 1,
+      "context_disambiguation_present": 1,
+      "no_ocr_dependency": 1,
+      "no_existing_question_overlap": 1,
+      "chunk_ids_valid": 1,
+      "human_explainable": 1
+    },
+    "dense_screening_status": "not_run",
+    "ambical_used_during_construction": true,
+    "ambical_usage_scope": "gate_and_counterfactual_execution_diagnostics_only",
+    "context_gate_triggered": true,
+    "context_correction_executed": true,
+    "correction_mode": "topk_counterfactual_positive_v5",
+    "selected_counterfactual_phrase_count": 2,
+    "gate_diagnostic_run_id": "id_brigade_pangan_semantic_gate_diagnostic_20260928_01",
+    "qa_correctness_used_during_selection": false,
+    "challenge_partition": "semantic_context_challenge_candidate",
+    "selection_status": "pending_gate_diagnostic",
+    "static_quality_pass": true,
+    "static_quality_audit": {
+      "model": "gemma3:12b",
+      "natural_question": true,
+      "target_sense_clear": true,
+      "answer_supported": false,
+      "wrong_sense_plausible": true,
+      "failure_reasons": [
+        "Answer not found in context."
+      ],
+      "absence_confirmed": true
+    },
+    "static_quality_rule": "unanswerable_requires_confirmed_absence",
+    "diagnostic_success": true
+  },
+  {
+    "question_id": "idbp-sem2-u-005",
+    "question": "How many days after electing its officers must a Brigade Pangan submit its registration documents?",
+    "answer": "Not found in context",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "target_term_en": "registration deadline",
+    "target_term_id": "batas waktu pendaftaran",
+    "intended_sense": "post-election filing deadline",
+    "wrong_sense": "officer election procedure",
+    "ambiguity_type": "numerical_context_collision",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "wrong_sense_chunk_ids": [
+      "ebdc9e2d8a61d0b7f831bf97d2b20d49f4443ba252b91308ce52b889f05a5d38"
+    ],
+    "attractor_chunk_ids": [
+      "1679430e84568dbb15ba4c3ba681bb3dc568c193f3521b2dc46389bcb478c197",
+      "ebdc9e2d8a61d0b7f831bf97d2b20d49f4443ba252b91308ce52b889f05a5d38"
+    ],
+    "supporting_quote_id": null,
+    "wrong_sense_quote_id": "Ucapan terima kasih kami sampaikan kepada tim penyusun dan semua pihak yang terlibat. Semoga buku saku ini dapat memberikan manfaat bagi Brigade Pangan dan pemangku kepentingan.\n\nJakarta, Desember 2024 Kepala Pusat Pelatihan Pertanian\n\n\nDr. Inneke Kusumawaty, S.TP., MP.\n\n\n## SELAYANG PANDANG\n\n\nDalam",
+    "disambiguating_cues": [
+      "registration deadline",
+      "post-election filing deadline"
+    ],
+    "source_section": "KATA PENGANTAR",
+    "source_page": 2,
+    "absent_reason": "The handbook discusses the named topic but does not state the requested qualified fact.",
+    "construction_rationale": "Hand-authored absent-detail hard negative anchored to two related handbook chunks.",
+    "quality_scores": {
+      "natural_language": 1,
+      "answer_uniqueness": 1,
+      "wrong_sense_plausible": 1,
+      "context_disambiguation_present": 1,
+      "no_ocr_dependency": 1,
+      "no_existing_question_overlap": 1,
+      "chunk_ids_valid": 1,
+      "human_explainable": 1
+    },
+    "dense_screening_status": "not_run",
+    "ambical_used_during_construction": true,
+    "ambical_usage_scope": "gate_and_counterfactual_execution_diagnostics_only",
+    "context_gate_triggered": true,
+    "context_correction_executed": true,
+    "correction_mode": "topk_counterfactual_positive_v5",
+    "selected_counterfactual_phrase_count": 2,
+    "gate_diagnostic_run_id": "id_brigade_pangan_semantic_gate_diagnostic_20260928_01",
+    "qa_correctness_used_during_selection": false,
+    "challenge_partition": "semantic_context_challenge_candidate",
+    "selection_status": "pending_static_quality_audit",
+    "static_quality_pass": true,
+    "static_quality_audit": {
+      "model": "gemma3:12b",
+      "natural_question": true,
+      "target_sense_clear": true,
+      "answer_supported": false,
+      "wrong_sense_plausible": true,
+      "failure_reasons": [
+        "The excerpt does not mention the filing deadline after electing officers."
+      ],
+      "absence_confirmed": true
+    },
+    "static_quality_rule": "unanswerable_requires_confirmed_absence",
+    "diagnostic_success": true
+  },
+  {
+    "question_id": "idbp-sem2-u-010",
+    "question": "What is the maximum permitted distance between a member's field and the Brigade Pangan machinery shed?",
+    "answer": "Not found in context",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "target_term_en": "maximum field distance",
+    "target_term_id": "jarak maksimum lahan",
+    "intended_sense": "site-distance rule",
+    "wrong_sense": "machinery allocation",
+    "ambiguity_type": "same_term_different_process",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "wrong_sense_chunk_ids": [
+      "ebdc9e2d8a61d0b7f831bf97d2b20d49f4443ba252b91308ce52b889f05a5d38"
+    ],
+    "attractor_chunk_ids": [
+      "1679430e84568dbb15ba4c3ba681bb3dc568c193f3521b2dc46389bcb478c197",
+      "ebdc9e2d8a61d0b7f831bf97d2b20d49f4443ba252b91308ce52b889f05a5d38"
+    ],
+    "supporting_quote_id": null,
+    "wrong_sense_quote_id": "Ucapan terima kasih kami sampaikan kepada tim penyusun dan semua pihak yang terlibat. Semoga buku saku ini dapat memberikan manfaat bagi Brigade Pangan dan pemangku kepentingan.\n\nJakarta, Desember 2024 Kepala Pusat Pelatihan Pertanian\n\n\nDr. Inneke Kusumawaty, S.TP., MP.\n\n\n## SELAYANG PANDANG\n\n\nDalam",
+    "disambiguating_cues": [
+      "maximum field distance",
+      "site-distance rule"
+    ],
+    "source_section": "KATA PENGANTAR",
+    "source_page": 2,
+    "absent_reason": "The handbook discusses the named topic but does not state the requested qualified fact.",
+    "construction_rationale": "Hand-authored absent-detail hard negative anchored to two related handbook chunks.",
+    "quality_scores": {
+      "natural_language": 1,
+      "answer_uniqueness": 1,
+      "wrong_sense_plausible": 1,
+      "context_disambiguation_present": 1,
+      "no_ocr_dependency": 1,
+      "no_existing_question_overlap": 1,
+      "chunk_ids_valid": 1,
+      "human_explainable": 1
+    },
+    "dense_screening_status": "not_run",
+    "ambical_used_during_construction": true,
+    "ambical_usage_scope": "gate_and_counterfactual_execution_diagnostics_only",
+    "context_gate_triggered": true,
+    "context_correction_executed": true,
+    "correction_mode": "topk_counterfactual_positive_v5",
+    "selected_counterfactual_phrase_count": 2,
+    "gate_diagnostic_run_id": "id_brigade_pangan_semantic_gate_diagnostic_20260928_01",
+    "qa_correctness_used_during_selection": false,
+    "challenge_partition": "semantic_context_challenge_candidate",
+    "selection_status": "pending_static_quality_audit",
+    "static_quality_pass": true,
+    "static_quality_audit": {
+      "model": "gemma3:12b",
+      "natural_question": true,
+      "target_sense_clear": true,
+      "answer_supported": false,
+      "wrong_sense_plausible": true,
+      "failure_reasons": [
+        "Answer not found in context."
+      ],
+      "absence_confirmed": true
+    },
+    "static_quality_rule": "unanswerable_requires_confirmed_absence",
+    "diagnostic_success": true
+  },
+  {
+    "question_id": "idbp-sem2-u-014",
+    "question": "How many days before transplanting must rice seedling trays be prepared?",
+    "answer": "Not found in context",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "target_term_en": "tray preparation interval",
+    "target_term_id": "waktu persiapan tray",
+    "intended_sense": "pre-transplant timing",
+    "wrong_sense": "seedling procedure",
+    "ambiguity_type": "numerical_context_collision",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "wrong_sense_chunk_ids": [
+      "1679430e84568dbb15ba4c3ba681bb3dc568c193f3521b2dc46389bcb478c197"
+    ],
+    "attractor_chunk_ids": [
+      "348cb49704802a8916b25e924fdd8857ce7f4a1d837fc883c928c31eb23016bb",
+      "1679430e84568dbb15ba4c3ba681bb3dc568c193f3521b2dc46389bcb478c197"
+    ],
+    "supporting_quote_id": null,
+    "wrong_sense_quote_id": "2/19/2025\n\n\n1\n\n\n## KATA PENGANTAR\n\nPuji syukur kami panjatkan ke hadirat Tuhan Yang Maha Esa, atas segala rahmat dan karunia-Nya, sehingga Buku Saku Brigade Pangan ini selesai disusun. Buku saku ini memuat organisasi Brigade Pangan,  Kelembagaan  Petani,  Pengetahuan  Pengelolaan  Lahan  Rawa  hingg",
+    "disambiguating_cues": [
+      "tray preparation interval",
+      "pre-transplant timing"
+    ],
+    "source_section": "PENGOPERASIAN TRANSPLANTER",
+    "source_page": 137,
+    "absent_reason": "The handbook discusses the named topic but does not state the requested qualified fact.",
+    "construction_rationale": "Hand-authored absent-detail hard negative anchored to two related handbook chunks.",
+    "quality_scores": {
+      "natural_language": 1,
+      "answer_uniqueness": 1,
+      "wrong_sense_plausible": 1,
+      "context_disambiguation_present": 1,
+      "no_ocr_dependency": 1,
+      "no_existing_question_overlap": 1,
+      "chunk_ids_valid": 1,
+      "human_explainable": 1
+    },
+    "dense_screening_status": "not_run",
+    "ambical_used_during_construction": true,
+    "ambical_usage_scope": "gate_and_counterfactual_execution_diagnostics_only",
+    "context_gate_triggered": true,
+    "context_correction_executed": true,
+    "correction_mode": "topk_counterfactual_positive_v5",
+    "selected_counterfactual_phrase_count": 2,
+    "gate_diagnostic_run_id": "id_brigade_pangan_semantic_gate_diagnostic_20260928_01",
+    "qa_correctness_used_during_selection": false,
+    "challenge_partition": "semantic_context_challenge_candidate",
+    "selection_status": "pending_static_quality_audit",
+    "static_quality_pass": true,
+    "static_quality_audit": {
+      "model": "gemma3:12b",
+      "natural_question": true,
+      "target_sense_clear": true,
+      "answer_supported": false,
+      "wrong_sense_plausible": true,
+      "failure_reasons": [
+        "The excerpt does not mention the preparation of rice seedling trays or their timing."
+      ],
+      "absence_confirmed": true
+    },
+    "static_quality_rule": "unanswerable_requires_confirmed_absence",
+    "diagnostic_success": true
+  },
+  {
+    "question_id": "idbp-sem2-u-016",
+    "question": "What tyre pressure does the handbook prescribe for a four-wheel tractor used on swamp rice fields?",
+    "answer": "Not found in context",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "target_term_en": "tyre pressure",
+    "target_term_id": "tekanan ban",
+    "intended_sense": "machine specification",
+    "wrong_sense": "tyre inspection",
+    "ambiguity_type": "actor_object_mismatch",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "wrong_sense_chunk_ids": [
+      "c53e897936af92275fc3a651c30b6d82cd035c98b25c56c63bcbe45d6ddb4e3d"
+    ],
+    "attractor_chunk_ids": [
+      "f8a21e62c143841976c3fcace26279bef0d7ffb02180e67991e4ac254317dbd5",
+      "c53e897936af92275fc3a651c30b6d82cd035c98b25c56c63bcbe45d6ddb4e3d"
+    ],
+    "supporting_quote_id": null,
+    "wrong_sense_quote_id": "## PENGOPERASIAN TRAKTOR PADA PADI LAHAN RAWA\n\n## PENAMBAHAN RODA SIRIP PADA TRAKTOR RODA 4\n\nLangkah    Pemasangan    roda    sirip tambahan pada traktor roda 4\n\n1.  Posisi      ban      sirip      disesuaikan dengan  lubang  baut  yang  ada  di ban karet.\n2.  Sanggalah penyangga roda kayu karet den",
+    "disambiguating_cues": [
+      "tyre pressure",
+      "machine specification"
+    ],
+    "source_section": "DENGAN MEKANISASI / TEKNIK PERSIAPAN LAHAN",
+    "source_page": 53,
+    "absent_reason": "The handbook discusses the named topic but does not state the requested qualified fact.",
+    "construction_rationale": "Hand-authored absent-detail hard negative anchored to two related handbook chunks.",
+    "quality_scores": {
+      "natural_language": 1,
+      "answer_uniqueness": 1,
+      "wrong_sense_plausible": 1,
+      "context_disambiguation_present": 1,
+      "no_ocr_dependency": 1,
+      "no_existing_question_overlap": 1,
+      "chunk_ids_valid": 1,
+      "human_explainable": 1
+    },
+    "dense_screening_status": "not_run",
+    "ambical_used_during_construction": true,
+    "ambical_usage_scope": "gate_and_counterfactual_execution_diagnostics_only",
+    "context_gate_triggered": true,
+    "context_correction_executed": true,
+    "correction_mode": "topk_counterfactual_positive_v5",
+    "selected_counterfactual_phrase_count": 2,
+    "gate_diagnostic_run_id": "id_brigade_pangan_semantic_gate_diagnostic_20260928_01",
+    "qa_correctness_used_during_selection": false,
+    "challenge_partition": "semantic_context_challenge_candidate",
+    "selection_status": "pending_static_quality_audit",
+    "static_quality_pass": true,
+    "static_quality_audit": {
+      "model": "gemma3:12b",
+      "natural_question": true,
+      "target_sense_clear": true,
+      "answer_supported": false,
+      "wrong_sense_plausible": true,
+      "failure_reasons": [
+        "The excerpt does not mention tyre pressure.",
+        "The excerpt mentions a 'hand tractor/traktor roda empat' but not a 'four-wheel tractor used on swamp rice fields'."
+      ],
+      "absence_confirmed": true
+    },
+    "static_quality_rule": "unanswerable_requires_confirmed_absence",
+    "diagnostic_success": true
+  }
+]

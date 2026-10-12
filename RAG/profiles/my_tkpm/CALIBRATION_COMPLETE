@@ -1,0 +1,9 @@
+{
+  "completed_at_utc": "2026-10-02T08:17:56.701779+00:00",
+  "manifest_filename": "ambical_calibration_manifest.json",
+  "manifest_sha256": "02c153083034279c48533baebd40373dfadfdd969a4a7ee63c688feb91a42952",
+  "manifest_sha256_sidecar": "ambical_calibration_manifest.json.sha256",
+  "profile_filename": "ambical_profile.json",
+  "profile_sha256": "98f51efafa695c3b27276b1599a6f8a7bb86489ce1416387b4fa7ba4928a72b1",
+  "status": "complete"
+}

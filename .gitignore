@@ -1,0 +1,106 @@
+# Python
+**/__pycache__/
+*.py[cod]
+*.pyd
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.ipynb_checkpoints/
+
+# Environments
+.venv/
+venv/
+env/
+*.venv/
+
+# IDE and OS
+.idea/
+.vscode/*
+!.vscode/extensions.json
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# Secrets
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+credentials*.json
+secrets*.json
+
+# Models and caches
+.runtime/
+models/
+hf_cache/
+**/.cache/huggingface/
+*.safetensors
+*.gguf
+*.onnx
+*.onnx_data
+*.pt
+*.pth
+*.bin
+
+# ChromaDB and databases
+**/chroma_db*/
+*.sqlite3
+*.sqlite3-shm
+*.sqlite3-wal
+*.db
+*.db-shm
+*.db-wal
+
+# Experiment outputs
+**/user_runs/
+**/server_exports/
+my_result/
+ZeroShot/user_runs/
+**/results/input_prompts/
+
+# Runtime caches
+RAG/cache/
+**/.cache/
+
+# Large document intermediates
+**/source_pdf/
+RAG/cross_domain_data/**/docling_output/
+RAG/cross_domain_data/**/docling_markdown/
+RAG/cross_domain_data/**/backup*/
+RAG/backups/
+**/converted_documents/
+
+# Converted images
+manuals/**/*.png
+manuals/**/*.jpg
+manuals/**/*.jpeg
+manuals/**/*.webp
+manuals/**/*.tif
+manuals/**/*.tiff
+
+# Binary documents and archives
+*.pdf
+*.docx
+*.tar
+*.tar.gz
+*.tgz
+*.zip
+*.7z
+*.rar
+
+# Logs and temporary files
+*.log
+*.tmp
+*.temp
+tmp/
+temp/
+trash/
+
+# Backup files
+*_backup.py
+*.bak
+
+# Generated result directories
+**/results/
+

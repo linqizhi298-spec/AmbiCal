@@ -1,0 +1,214 @@
+{
+  "artifact_type": "ambical_offline_calibration",
+  "collection": {
+    "count": 313,
+    "name": "my_tkpm_malay_bge_m3_cs200_os100",
+    "opened_disposable_working_copy_only": true,
+    "persist_dir": "D:\\Analysis code\\ambical\\RAG\\chroma_db_my_tkpm_bge_m3_fp16",
+    "persist_directory_manifest": {
+      "file_count": 5,
+      "root": "D:\\Analysis code\\ambical\\RAG\\chroma_db_my_tkpm_bge_m3_fp16",
+      "scheme": "sorted-file-manifest-sha256-v1:relative_path+size+sha256",
+      "sha256": "e4ccde5f76ef10ef466ffcf52894a77d8043eec5faf58adb78697c082df6b054",
+      "total_bytes": 4429988
+    },
+    "persist_directory_unchanged_after_calibration": true,
+    "scheme": "sorted-record-sha256-v1:id+document+embedding+metadata",
+    "sha256": "dd507965da13281b2d8246d9802f2515e4c527f38e39c108197f5743a62a64ed",
+    "unchanged_after_calibration": true,
+    "working_copy_removed_before_publication": true
+  },
+  "command": {
+    "argv": [
+      "D:\\Anaconda\\anaconda3\\envs\\ambical\\python.exe",
+      "build_ambical_profile.py",
+      "--config",
+      "config_ambical_my_tkpm_v51_full_calibration_20261002_01.json"
+    ],
+    "windows_command_line": "D:\\Anaconda\\anaconda3\\envs\\ambical\\python.exe build_ambical_profile.py --config config_ambical_my_tkpm_v51_full_calibration_20261002_01.json",
+    "working_directory": "D:\\Analysis code\\ambical\\RAG"
+  },
+  "config_snapshot": {
+    "sha256": "c6ff2953a8c6da04f88826dd9f57ab091a4478fd1027d4002b4f1ed431fd1135",
+    "snapshot_path": "D:\\Analysis code\\ambical\\RAG\\user_runs\\ambical\\calibration\\my_tkpm_v51_full_calibration_20261002_01\\active_calibration_config.snapshot.json",
+    "source_path": "D:\\Analysis code\\ambical\\RAG\\config_ambical_my_tkpm_v51_full_calibration_20261002_01.json"
+  },
+  "duration_seconds": 35.52165120000063,
+  "embedding_model": {
+    "file_count": 43,
+    "root": "D:\\Analysis code\\models\\bge-m3",
+    "scheme": "sorted-file-manifest-sha256-v1:relative_path+size+sha256",
+    "sha256": "2535146e75af8fffd27d21fc056c8269a5eb13344bf615e8e79633c296cd0a71",
+    "total_bytes": 5190916615
+  },
+  "empirical_null_resolution": {
+    "empirical_probability_step": 0.03225806451612903,
+    "minimum_empirical_right_tail_probability": 0.03225806451612903,
+    "null_sample_count": 30
+  },
+  "ended_at_utc": "2026-10-02T08:17:56.701779+00:00",
+  "evaluator_run": false,
+  "execution_contract": {
+    "platform": "Windows",
+    "required_gpu_label": "RTX 5070 Ti",
+    "required_python_executable": "D:\\Anaconda\\anaconda3\\envs\\ambical\\python.exe",
+    "tier": "formal_windows"
+  },
+  "formal_test_questions_retrieved": false,
+  "manual": {
+    "absolute_path": "D:\\Analysis code\\ambical\\RAG\\cross_domain_data\\my_tkpm_food_production_agriculture\\retrieval_text\\Garis_Panduan_Pembangunan_Projek_TKPM_2024_text_only.md",
+    "sha256": "79a056658e97ac1552487d5ab9435708f8c70d85dc49ccb8fedcdfb537646e27"
+  },
+  "method": "AmbiCal",
+  "method_version": "ambical-online-v5",
+  "outputs": {
+    "profile": {
+      "absolute_path": "D:\\Analysis code\\ambical\\RAG\\profiles\\my_tkpm\\ambical_profile.json",
+      "sha256": "98f51efafa695c3b27276b1599a6f8a7bb86489ce1416387b4fa7ba4928a72b1"
+    },
+    "profile_sha256_sidecar": "D:\\Analysis code\\ambical\\RAG\\profiles\\my_tkpm\\ambical_profile.json.sha256",
+    "trace": {
+      "absolute_path": "D:\\Analysis code\\ambical\\RAG\\user_runs\\ambical\\calibration\\my_tkpm_v51_full_calibration_20261002_01\\ambical_calibration_trace.json",
+      "sha256": "05d259224a70615207e2369fff54b856bcc71af4be5794344a9e0880701b5774"
+    }
+  },
+  "qa_generation_run": false,
+  "question_artifacts": {
+    "false_positive": {
+      "absolute_path": "D:\\Analysis code\\ambical\\RAG\\question_datasets\\my_tkpm_english_qa\\question_answers_my_tkpm_false_positive_calibration_enriched_20261002_01.json",
+      "count": 30,
+      "sha256": "10324698ed7508f3496c29b219528f4ff747d35fe74e95ad2e16b91b665293d8"
+    },
+    "formal_test_sets_used_only_for_overlap_check": [
+      {
+        "absolute_path": "D:\\Analysis code\\ambical\\RAG\\question_datasets\\my_tkpm_english_qa\\question_answers_pairs_my_tkpm_v51_independent_100_20261002_01.json",
+        "count": 100,
+        "sha256": "62703944d3f780a2328451afab7537b2912bc07a30746f42b25035059998709b"
+      },
+      {
+        "absolute_path": "D:\\Analysis code\\ambical\\RAG\\question_datasets\\my_tkpm_english_qa\\question_answers_unanswerable_my_tkpm_v51_independent_100_20261002_01.json",
+        "count": 100,
+        "sha256": "7d22b0e1bca71d8d34a2539b9564a4bbe0376670d6143b11e52ccc339e5c9e52"
+      }
+    ],
+    "null": {
+      "absolute_path": "D:\\Analysis code\\ambical\\RAG\\question_datasets\\my_tkpm_english_qa\\question_answers_my_tkpm_null_calibration_enriched_20261002_01.json",
+      "count": 30,
+      "sha256": "2b0158613560de317db33cf9e019d8797e3b55b40b743287a2ab62deefabe6d4"
+    },
+    "overlap_counts": {
+      "false_positive_null_overlap_count": 0,
+      "false_positive_test_overlap_count": 0,
+      "null_test_overlap_count": 0
+    }
+  },
+  "resolved_method_config": {
+    "adaptive_temperature": 0.15,
+    "branch_temperature": 0.1,
+    "candidate_top_n": 40,
+    "collection_norm_tolerance": 0.02,
+    "consistency_floor_eta": 0.5,
+    "context_gate_threshold": 0.2,
+    "counterfactual_promotion_top_k": 3,
+    "epsilon": 1e-08,
+    "fixed_k": null,
+    "gate_temperature": 0.1,
+    "gate_top_m": 40,
+    "gate_v2_bias": 21.184121910951706,
+    "gate_v2_weight_bimodality": 5.057255528512238,
+    "gate_v2_weight_branch_disagreement": 1.187770156716317,
+    "gate_v2_weight_competition": -15.955296177287568,
+    "gate_v2_weight_distance": -36.16388877879448,
+    "gate_v2_weight_path_conflict": 5.509167554885126,
+    "gate_v2_weight_strength": -5.053002933411203,
+    "iqr_normal_consistency": 1.349,
+    "lambda_context": null,
+    "lambda_false_positive": 0.2,
+    "lambda_positive": 0.2,
+    "lambda_redundancy": 0.15,
+    "max_counterfactual_phrases": 2,
+    "max_k": 40,
+    "method_version": "ambical-online-v5",
+    "minimum_counterfactual_content_tokens": 1,
+    "null_high_threshold": 0.8064516129032258,
+    "null_low_threshold": 0.22580645161290322,
+    "require_normalized_collection_embeddings": true,
+    "switches": {
+      "adaptive_k": true,
+      "branch_confidence": true,
+      "consistency_entropy": true,
+      "context_correction": true,
+      "context_gate": true,
+      "dynamic_branch_weights": true,
+      "entropy_candidate": true,
+      "false_positive_prior": true,
+      "maximum_gap": true,
+      "merge_structured_evidence": true,
+      "null_gate": true,
+      "ranking_overlap": true,
+      "robust_normalization": true,
+      "soft_redundancy": true,
+      "translation_branch": true,
+      "translation_consistency": true
+    },
+    "z_max": 8.0
+  },
+  "runtime_environment": {
+    "cuda_available": true,
+    "cuda_version": "12.8",
+    "gpus": [
+      "NVIDIA GeForce RTX 5070 Ti"
+    ],
+    "machine": "AMD64",
+    "packages": {
+      "chromadb": "1.5.9",
+      "langchain-ollama": "1.1.0",
+      "ollama": "0.6.2",
+      "sentence-transformers": "5.6.0",
+      "torch": "2.11.0+cu128",
+      "transformers": "4.49.0"
+    },
+    "platform": "Windows-10-10.0.22621-SP0",
+    "processor": "Intel64 Family 6 Model 198 Stepping 2, GenuineIntel",
+    "python_executable": "D:\\Anaconda\\anaconda3\\envs\\ambical\\python.exe",
+    "python_version": "3.10.20"
+  },
+  "started_at_utc": "2026-10-02T08:17:21.180227+00:00",
+  "translation": {
+    "cache_final_sha256": "f413b732553e4ed7d1ef10fe551c48007ded260532b0c4f282abd3f647887a8f",
+    "cache_initial_sha256": null,
+    "cache_mode": "read_write",
+    "cache_path": "D:\\Analysis code\\ambical\\RAG\\cache\\query_translations\\ambical_my_tkpm_v51_full_calibration_20261002_01.sqlite3",
+    "prompt_path": "D:\\Analysis code\\ambical\\RAG\\prompt_templates\\query_translation_prompt.txt",
+    "source_language": "English",
+    "target_language": "Malay",
+    "token_usage": {
+      "calls": 72,
+      "input_tokens": 11501,
+      "output_tokens": 1994,
+      "total_tokens": 13495,
+      "unreported_calls": 0
+    },
+    "translation_parser_version": "ambical-translation-v1",
+    "translation_prompt_file_sha256": "a76f90eff14677f231327f2af0e5cd55dfe97114353c99bbb48085b418ae9168",
+    "translation_prompt_sha256": "a76f90eff14677f231327f2af0e5cd55dfe97114353c99bbb48085b418ae9168",
+    "translator_actual_model": "qwen2.5:7b",
+    "translator_alias": "qwen2.5_7B-translator",
+    "translator_model_parameters": {
+      "model_binary_sha256": "845dbda0ea48ed749caafd9e6037047aa19acfcfd82e704d7ca97d631a0b697e",
+      "name": "qwen2.5:7b",
+      "num_predict": 256,
+      "temperature": 0
+    },
+    "translator_ollama_sha256": "845dbda0ea48ed749caafd9e6037047aa19acfcfd82e704d7ca97d631a0b697e"
+  },
+  "utility_signature": "efd31b1515662a5e94a22f69b58b9f430cd43e5578421f5f2b0a170dd3298614",
+  "ambical_migration": {
+    "migrated_at": "2026-10-12",
+    "reason": "AmbiCal -> AmbiCal repository rename for paper submission",
+    "source_calibration_run": "RAG/user_runs/ambical/calibration/my_tkpm_v51_full_calibration_20261002_01",
+    "source_profile_sha256": "ada72fc0174f92dc38cfdbe115ec3906bef8bceab25e79cfaf47efdaabd1c00e",
+    "source_utility_signature": "7d2e252d1827fdcec0b3a201bbaedd3dde694b84b415a263fab662d5200f1c10",
+    "numeric_profile_content_unchanged": true
+  }
+}

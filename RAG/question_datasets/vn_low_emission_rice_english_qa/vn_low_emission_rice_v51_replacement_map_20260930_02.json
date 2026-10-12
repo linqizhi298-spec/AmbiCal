@@ -1,0 +1,289 @@
+[
+  {
+    "answerability": "answerable",
+    "replacement_question_id": "vnle-sem-003",
+    "removed_question_id": "vnle-a-030",
+    "token_jaccard": 0.1,
+    "reason": "challenge replacement; ordinary retention did not use model correctness"
+  },
+  {
+    "answerability": "answerable",
+    "replacement_question_id": "vnle-sem-004",
+    "removed_question_id": "vnle-a-031",
+    "token_jaccard": 0.13636363636363635,
+    "reason": "challenge replacement; ordinary retention did not use model correctness"
+  },
+  {
+    "answerability": "answerable",
+    "replacement_question_id": "vnle-sem-006",
+    "removed_question_id": "vnle-a-025",
+    "token_jaccard": 0.15384615384615385,
+    "reason": "challenge replacement; ordinary retention did not use model correctness"
+  },
+  {
+    "answerability": "answerable",
+    "replacement_question_id": "vnle-sem-010",
+    "removed_question_id": "vnle-a-005",
+    "token_jaccard": 0.20833333333333334,
+    "reason": "challenge replacement; ordinary retention did not use model correctness"
+  },
+  {
+    "answerability": "answerable",
+    "replacement_question_id": "vnle-sem-011",
+    "removed_question_id": "vnle-a-010",
+    "token_jaccard": 0.15789473684210525,
+    "reason": "challenge replacement; ordinary retention did not use model correctness"
+  },
+  {
+    "answerability": "answerable",
+    "replacement_question_id": "vnle-sem-012",
+    "removed_question_id": "vnle-a-029",
+    "token_jaccard": 0.13636363636363635,
+    "reason": "challenge replacement; ordinary retention did not use model correctness"
+  },
+  {
+    "answerability": "answerable",
+    "replacement_question_id": "vnle-sem-013",
+    "removed_question_id": "vnle-a-089",
+    "token_jaccard": 0.13043478260869565,
+    "reason": "challenge replacement; ordinary retention did not use model correctness"
+  },
+  {
+    "answerability": "answerable",
+    "replacement_question_id": "vnle-sem-014",
+    "removed_question_id": "vnle-a-086",
+    "token_jaccard": 0.12,
+    "reason": "challenge replacement; ordinary retention did not use model correctness"
+  },
+  {
+    "answerability": "answerable",
+    "replacement_question_id": "vnle-sem-015",
+    "removed_question_id": "vnle-a-001",
+    "token_jaccard": 0.15,
+    "reason": "challenge replacement; ordinary retention did not use model correctness"
+  },
+  {
+    "answerability": "answerable",
+    "replacement_question_id": "vnle-sem-016",
+    "removed_question_id": "vnle-a-091",
+    "token_jaccard": 0.10526315789473684,
+    "reason": "challenge replacement; ordinary retention did not use model correctness"
+  },
+  {
+    "answerability": "answerable",
+    "replacement_question_id": "vnle-sem-017",
+    "removed_question_id": "vnle-a-090",
+    "token_jaccard": 0.20833333333333334,
+    "reason": "challenge replacement; ordinary retention did not use model correctness"
+  },
+  {
+    "answerability": "answerable",
+    "replacement_question_id": "vnle-sem-018",
+    "removed_question_id": "vnle-a-055",
+    "token_jaccard": 0.2857142857142857,
+    "reason": "challenge replacement; ordinary retention did not use model correctness"
+  },
+  {
+    "answerability": "answerable",
+    "replacement_question_id": "vnle-sem-021",
+    "removed_question_id": "vnle-a-057",
+    "token_jaccard": 0.05555555555555555,
+    "reason": "challenge replacement; ordinary retention did not use model correctness"
+  },
+  {
+    "answerability": "answerable",
+    "replacement_question_id": "vnle-sem-024",
+    "removed_question_id": "vnle-a-024",
+    "token_jaccard": 0.0625,
+    "reason": "challenge replacement; ordinary retention did not use model correctness"
+  },
+  {
+    "answerability": "answerable",
+    "replacement_question_id": "vnle-sem-025",
+    "removed_question_id": "vnle-a-098",
+    "token_jaccard": 0.17647058823529413,
+    "reason": "challenge replacement; ordinary retention did not use model correctness"
+  },
+  {
+    "answerability": "answerable",
+    "replacement_question_id": "vnle-sem-027",
+    "removed_question_id": "vnle-a-011",
+    "token_jaccard": 0.06896551724137931,
+    "reason": "challenge replacement; ordinary retention did not use model correctness"
+  },
+  {
+    "answerability": "answerable",
+    "replacement_question_id": "vnle-sem-028",
+    "removed_question_id": "vnle-a-096",
+    "token_jaccard": 0.14285714285714285,
+    "reason": "challenge replacement; ordinary retention did not use model correctness"
+  },
+  {
+    "answerability": "answerable",
+    "replacement_question_id": "vnle-sem-029",
+    "removed_question_id": "vnle-a-065",
+    "token_jaccard": 0.125,
+    "reason": "challenge replacement; ordinary retention did not use model correctness"
+  },
+  {
+    "answerability": "answerable",
+    "replacement_question_id": "vnle-sem-030",
+    "removed_question_id": "vnle-a-061",
+    "token_jaccard": 0.0,
+    "reason": "challenge replacement; ordinary retention did not use model correctness"
+  },
+  {
+    "answerability": "answerable",
+    "replacement_question_id": "vnle-sem-031",
+    "removed_question_id": "vnle-a-026",
+    "token_jaccard": 0.041666666666666664,
+    "reason": "challenge replacement; ordinary retention did not use model correctness"
+  },
+  {
+    "answerability": "unanswerable",
+    "replacement_question_id": "vnle-df-u2-001",
+    "removed_question_id": "vnle-u-031",
+    "token_jaccard": 0.25,
+    "reason": "challenge replacement; ordinary retention did not use model correctness"
+  },
+  {
+    "answerability": "unanswerable",
+    "replacement_question_id": "vnle-df-u2-002",
+    "removed_question_id": "vnle-u-099",
+    "token_jaccard": 0.26666666666666666,
+    "reason": "challenge replacement; ordinary retention did not use model correctness"
+  },
+  {
+    "answerability": "unanswerable",
+    "replacement_question_id": "vnle-df-u2-012",
+    "removed_question_id": "vnle-u-050",
+    "token_jaccard": 0.22727272727272727,
+    "reason": "challenge replacement; ordinary retention did not use model correctness"
+  },
+  {
+    "answerability": "unanswerable",
+    "replacement_question_id": "vnle-df-u3-001",
+    "removed_question_id": "vnle-u-035",
+    "token_jaccard": 0.3125,
+    "reason": "challenge replacement; ordinary retention did not use model correctness"
+  },
+  {
+    "answerability": "unanswerable",
+    "replacement_question_id": "vnle-df-u3-002",
+    "removed_question_id": "vnle-u-020",
+    "token_jaccard": 0.23529411764705882,
+    "reason": "challenge replacement; ordinary retention did not use model correctness"
+  },
+  {
+    "answerability": "unanswerable",
+    "replacement_question_id": "vnle-df-u3-003",
+    "removed_question_id": "vnle-u-058",
+    "token_jaccard": 0.1111111111111111,
+    "reason": "challenge replacement; ordinary retention did not use model correctness"
+  },
+  {
+    "answerability": "unanswerable",
+    "replacement_question_id": "vnle-df-u3-005",
+    "removed_question_id": "vnle-u-030",
+    "token_jaccard": 0.07692307692307693,
+    "reason": "challenge replacement; ordinary retention did not use model correctness"
+  },
+  {
+    "answerability": "unanswerable",
+    "replacement_question_id": "vnle-df-u3-010",
+    "removed_question_id": "vnle-u-055",
+    "token_jaccard": 0.09523809523809523,
+    "reason": "challenge replacement; ordinary retention did not use model correctness"
+  },
+  {
+    "answerability": "unanswerable",
+    "replacement_question_id": "vnle-df-u4-003",
+    "removed_question_id": "vnle-u-013",
+    "token_jaccard": 0.13636363636363635,
+    "reason": "challenge replacement; ordinary retention did not use model correctness"
+  },
+  {
+    "answerability": "unanswerable",
+    "replacement_question_id": "vnle-df-u4-008",
+    "removed_question_id": "vnle-u-023",
+    "token_jaccard": 0.2727272727272727,
+    "reason": "challenge replacement; ordinary retention did not use model correctness"
+  },
+  {
+    "answerability": "unanswerable",
+    "replacement_question_id": "vnle-df-u4-010",
+    "removed_question_id": "vnle-u-044",
+    "token_jaccard": 0.13636363636363635,
+    "reason": "challenge replacement; ordinary retention did not use model correctness"
+  },
+  {
+    "answerability": "unanswerable",
+    "replacement_question_id": "vnle-sem-048",
+    "removed_question_id": "vnle-u-002",
+    "token_jaccard": 0.15789473684210525,
+    "reason": "challenge replacement; ordinary retention did not use model correctness"
+  },
+  {
+    "answerability": "unanswerable",
+    "replacement_question_id": "vnle-sem-049",
+    "removed_question_id": "vnle-u-060",
+    "token_jaccard": 0.09523809523809523,
+    "reason": "challenge replacement; ordinary retention did not use model correctness"
+  },
+  {
+    "answerability": "unanswerable",
+    "replacement_question_id": "vnle-sem-051",
+    "removed_question_id": "vnle-u-042",
+    "token_jaccard": 0.6153846153846154,
+    "reason": "challenge replacement; ordinary retention did not use model correctness"
+  },
+  {
+    "answerability": "unanswerable",
+    "replacement_question_id": "vnle-sem-054",
+    "removed_question_id": "vnle-u-046",
+    "token_jaccard": 0.2631578947368421,
+    "reason": "challenge replacement; ordinary retention did not use model correctness"
+  },
+  {
+    "answerability": "unanswerable",
+    "replacement_question_id": "vnle-sem-055",
+    "removed_question_id": "vnle-u-007",
+    "token_jaccard": 0.18181818181818182,
+    "reason": "challenge replacement; ordinary retention did not use model correctness"
+  },
+  {
+    "answerability": "unanswerable",
+    "replacement_question_id": "vnle-sem-058",
+    "removed_question_id": "vnle-u-049",
+    "token_jaccard": 0.05555555555555555,
+    "reason": "challenge replacement; ordinary retention did not use model correctness"
+  },
+  {
+    "answerability": "unanswerable",
+    "replacement_question_id": "vnle-sem-b2-002",
+    "removed_question_id": "vnle-u-024",
+    "token_jaccard": 0.09523809523809523,
+    "reason": "challenge replacement; ordinary retention did not use model correctness"
+  },
+  {
+    "answerability": "unanswerable",
+    "replacement_question_id": "vnle-sem-b2-003",
+    "removed_question_id": "vnle-u-025",
+    "token_jaccard": 0.09090909090909091,
+    "reason": "challenge replacement; ordinary retention did not use model correctness"
+  },
+  {
+    "answerability": "unanswerable",
+    "replacement_question_id": "vnle-sem-b2-006",
+    "removed_question_id": "vnle-u-054",
+    "token_jaccard": 0.2631578947368421,
+    "reason": "challenge replacement; ordinary retention did not use model correctness"
+  },
+  {
+    "answerability": "unanswerable",
+    "replacement_question_id": "vnle-sem-b2-011",
+    "removed_question_id": "vnle-u-047",
+    "token_jaccard": 0.19047619047619047,
+    "reason": "challenge replacement; ordinary retention did not use model correctness"
+  }
+]

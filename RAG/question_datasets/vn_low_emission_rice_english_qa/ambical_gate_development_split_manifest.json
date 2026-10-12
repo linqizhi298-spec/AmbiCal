@@ -1,0 +1,51 @@
+{
+  "schema_version": 1,
+  "artifact_type": "ambical_context_gate_development_split",
+  "source": {
+    "path": "question_datasets\\vn_low_emission_rice_english_qa\\question_answers_ambical_development.json",
+    "sha256": "41de0209e4383c3a078958f7c9289e7bea842cbba49fca1e33d535eda43baeca",
+    "count": 60
+  },
+  "split_policy": {
+    "kind": "deterministic_stratified_pre_run_split",
+    "tuning_count": 30,
+    "held_out_validation_count": 30,
+    "formal_200_used": false,
+    "calibration_60_used": false,
+    "mechanism_stress_30_used": false,
+    "threshold_selection_reads_only_tuning_partition": true,
+    "held_out_validation_used_for_parameter_selection": false
+  },
+  "tuning": {
+    "path": "question_datasets\\vn_low_emission_rice_english_qa\\question_answers_ambical_gate_tuning.json",
+    "sha256": "c32a0b4028daed4a11e7924115c7064f37ce891aecbdaac689d2d4b1bdda6acb",
+    "count": 30,
+    "categories": {
+      "ambiguous_term_answerable": 5,
+      "ambiguous_term_hard_negative": 5,
+      "multi_evidence_answerable": 5,
+      "ordinary_answerable": 8,
+      "ordinary_unanswerable": 7
+    },
+    "gate_labels": {
+      "not_required": 20,
+      "required": 10
+    }
+  },
+  "held_out_validation": {
+    "path": "question_datasets\\vn_low_emission_rice_english_qa\\question_answers_ambical_gate_validation.json",
+    "sha256": "84f28a6aee3f66db4328282e72719c9f5b8c66535a9bd735904268145d3480ba",
+    "count": 30,
+    "categories": {
+      "ambiguous_term_answerable": 5,
+      "ambiguous_term_hard_negative": 5,
+      "multi_evidence_answerable": 5,
+      "ordinary_answerable": 7,
+      "ordinary_unanswerable": 8
+    },
+    "gate_labels": {
+      "not_required": 20,
+      "required": 10
+    }
+  }
+}

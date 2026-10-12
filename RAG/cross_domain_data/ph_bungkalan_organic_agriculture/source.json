@@ -1,0 +1,45 @@
+{
+    "document_id":  "ph_bungkalan_organic_agriculture",
+    "title":  "Bungkalan: Manwal sa Organikong Pagsasaka",
+    "authors":  [
+                    "Nora A. Garde",
+                    "Joanne V. Manzano"
+                ],
+    "year":  2017,
+    "language":  "Filipino",
+    "domain":  "Organic agriculture",
+    "publisher":  "Sentro ng Wikang Filipino, UP Diliman",
+    "landing_page":  "https://sentrofilipino.upd.edu.ph/download/bungkalan-manwal-sa-organikong-pagsasaka/",
+    "download_url":  null,
+    "manual_download_required":  true,
+    "expected_pages":  153,
+    "expected_size_mb":  110.95,
+    "access_date":  "2026-09-09",
+    "sha256":  "C90A1913F3DC039BFBA38490C52C3202E9FD4F302C54F834286963ED089955CB",
+    "actual_size_mb":  110.95,
+    "verified_at":  "2026-09-09 15:29:54",
+    "actual_pages":  170,
+    "conversion":  {
+                       "status":  "verified",
+                       "converter":  "Docling",
+                       "output_format":  [
+                                             "markdown",
+                                             "docling_json"
+                                         ],
+                       "ocr_engine":  "EasyOCR",
+                       "ocr_languages":  [
+                                             "tl",
+                                             "en"
+                                         ],
+                       "image_export_mode":  "placeholder",
+                       "actual_pages":  170,
+                       "markdown_file":  "Bungkalan_Manwal_sa_Organikong_Pagsasaka.md",
+                       "markdown_characters":  245779,
+                       "markdown_sha256":  "33055B330CE44B891E72A36EF34FF23479E6060DB7FF789189C4E4E632E0FDF3",
+                       "docling_json_file":  "Bungkalan_Manwal_sa_Organikong_Pagsasaka.json",
+                       "docling_json_sha256":  "ACC9A54360CBB4BE07B2FB3028C31EC2A7E7D50F53C1499917620734643E75B4",
+                       "verified_at":  "2026-09-09 16:04:08",
+                       "temporary_pdf_deleted":  true,
+                       "temporary_pdf_deleted_at":  "2026-09-09 16:04:08"
+                   }
+}

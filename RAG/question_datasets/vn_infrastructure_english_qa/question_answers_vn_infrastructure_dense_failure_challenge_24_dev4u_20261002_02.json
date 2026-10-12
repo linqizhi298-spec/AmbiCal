@@ -1,0 +1,496 @@
+[
+  {
+    "question_id": "vnlrb-dfa-001",
+    "question": "Which page does the foreword (Lời nói đầu) start on in the table of contents?",
+    "answer": "Page 5.",
+    "reference_answer": "Page 5.",
+    "answerability": "answerable",
+    "gold_chunk_ids": [
+      "980d96d793853178cc99d3ffcbf1dc979f8cb6665aeea1ded808101aeefdbf6e"
+    ],
+    "equivalent_gold_chunk_ids": [],
+    "wrong_sense_chunk_ids": [],
+    "attractor_chunk_ids": [],
+    "supporting_quote_id": "LỜl NÓI ĐẨU | 5",
+    "source_section": "MỤC LỤC",
+    "static_quality_pass": true,
+    "static_quality_rule": "author_full_text_adjudication_20261002_dense_b3",
+    "challenge_partition": "dense_failure",
+    "batch": 3,
+    "ambical_used_during_construction": false,
+    "dense_screening_status": "selected",
+    "dense_screening_tier": "A",
+    "dense_failure_count": 3,
+    "dense_correct_by_k": {
+      "1": false,
+      "3": false,
+      "5": false
+    },
+    "gold_best_rank": 60,
+    "wrong_or_attractor_best_rank": null,
+    "ambical_used_during_screening": false
+  },
+  {
+    "question_id": "vnlrb-dfa-007",
+    "question": "Which decree prescribes OSH technical inspection, training, and monitoring activities?",
+    "answer": "Decree No. 44/2016/ND-CP, dated May 15, 2016.",
+    "reference_answer": "Decree No. 44/2016/ND-CP, dated May 15, 2016.",
+    "answerability": "answerable",
+    "gold_chunk_ids": [
+      "bb6f8b66c7f75db43e53027bdde6ce36b820b3f9742c9f5e4c5137162edf0fdc"
+    ],
+    "equivalent_gold_chunk_ids": [],
+    "wrong_sense_chunk_ids": [],
+    "attractor_chunk_ids": [],
+    "supporting_quote_id": "Điểu 32 Nghị định số 44/2016/NĐ-CP ngày 15 tháng 5 năm 2016",
+    "source_section": "II.3 Chế độ",
+    "static_quality_pass": true,
+    "static_quality_rule": "author_full_text_adjudication_20261002_dense_b2",
+    "challenge_partition": "dense_failure",
+    "batch": 2,
+    "ambical_used_during_construction": false,
+    "dense_screening_status": "selected",
+    "dense_screening_tier": "A",
+    "dense_failure_count": 3,
+    "dense_correct_by_k": {
+      "1": false,
+      "3": false,
+      "5": false
+    },
+    "gold_best_rank": 25,
+    "wrong_or_attractor_best_rank": null,
+    "ambical_used_during_screening": false
+  },
+  {
+    "question_id": "vnlrb-dfa-016",
+    "question": "On what page does Part II (General Information) start in the table of contents?",
+    "answer": "Page 8.",
+    "reference_answer": "Page 8.",
+    "answerability": "answerable",
+    "gold_chunk_ids": [
+      "980d96d793853178cc99d3ffcbf1dc979f8cb6665aeea1ded808101aeefdbf6e"
+    ],
+    "equivalent_gold_chunk_ids": [],
+    "wrong_sense_chunk_ids": [],
+    "attractor_chunk_ids": [],
+    "supporting_quote_id": "II. CÁC THÔNG TIN CHUNG | 8",
+    "source_section": "MỤC LỤC",
+    "static_quality_pass": true,
+    "static_quality_rule": "author_full_text_adjudication_20261002_dense_b2",
+    "challenge_partition": "dense_failure",
+    "batch": 2,
+    "ambical_used_during_construction": false,
+    "dense_screening_status": "selected",
+    "dense_screening_tier": "A",
+    "dense_failure_count": 3,
+    "dense_correct_by_k": {
+      "1": false,
+      "3": false,
+      "5": false
+    },
+    "gold_best_rank": 24,
+    "wrong_or_attractor_best_rank": null,
+    "ambical_used_during_screening": false
+  },
+  {
+    "question_id": "vnlrb-dfa-009",
+    "question": "Which article of Decree 61/2015 lists project types eligible for public employment?",
+    "answer": "Article 3 (Điều 3).",
+    "reference_answer": "Article 3 (Điều 3).",
+    "answerability": "answerable",
+    "gold_chunk_ids": [
+      "dd3a2f70fd3a06a890d5a328b7e0d9ee70daa303aece8658ac9ada64ed9b5b9d"
+    ],
+    "equivalent_gold_chunk_ids": [],
+    "wrong_sense_chunk_ids": [],
+    "attractor_chunk_ids": [],
+    "supporting_quote_id": "Điểu 3 Nghị định số 61/2015/NĐ-CP:",
+    "source_section": "II.1",
+    "static_quality_pass": true,
+    "static_quality_rule": "author_full_text_adjudication_20261002_dense_b3",
+    "challenge_partition": "dense_failure",
+    "batch": 3,
+    "ambical_used_during_construction": false,
+    "dense_screening_status": "selected",
+    "dense_screening_tier": "A",
+    "dense_failure_count": 3,
+    "dense_correct_by_k": {
+      "1": false,
+      "3": false,
+      "5": false
+    },
+    "gold_best_rank": 15,
+    "wrong_or_attractor_best_rank": null,
+    "ambical_used_during_screening": false
+  },
+  {
+    "question_id": "vnlrb-dfa-010",
+    "question": "In which city and month/year was the handbook issued?",
+    "answer": "Ha Noi, December 2017.",
+    "reference_answer": "Ha Noi, December 2017.",
+    "answerability": "answerable",
+    "gold_chunk_ids": [
+      "1947f8bdff0d356cf917af7f2612b18bf7257a9a5a8eb201ac7f0744e23c0046"
+    ],
+    "equivalent_gold_chunk_ids": [],
+    "wrong_sense_chunk_ids": [],
+    "attractor_chunk_ids": [],
+    "supporting_quote_id": "HÀ NỘl - 12/2017",
+    "source_section": "front_matter",
+    "static_quality_pass": true,
+    "static_quality_rule": "author_full_text_adjudication_20261002_dense_b3",
+    "challenge_partition": "dense_failure",
+    "batch": 3,
+    "ambical_used_during_construction": false,
+    "dense_screening_status": "selected",
+    "dense_screening_tier": "A",
+    "dense_failure_count": 3,
+    "dense_correct_by_k": {
+      "1": false,
+      "3": false,
+      "5": false
+    },
+    "gold_best_rank": 13,
+    "wrong_or_attractor_best_rank": null,
+    "ambical_used_during_screening": false
+  },
+  {
+    "question_id": "vnlrb-dfa-017",
+    "question": "What page does Part III (the integration process) start on in the table of contents?",
+    "answer": "Page 15.",
+    "reference_answer": "Page 15.",
+    "answerability": "answerable",
+    "gold_chunk_ids": [
+      "980d96d793853178cc99d3ffcbf1dc979f8cb6665aeea1ded808101aeefdbf6e"
+    ],
+    "equivalent_gold_chunk_ids": [],
+    "wrong_sense_chunk_ids": [],
+    "attractor_chunk_ids": [],
+    "supporting_quote_id": "QUY TRÌNH LỔNG GHÉP CHÍNH SÁCH VIỆC LÀM CÔNG VÀO VIỆC THỰC HIỆN HỢP PHẨN CƠ SỞ HẠ TẨNG | 15",
+    "source_section": "MỤC LỤC",
+    "static_quality_pass": true,
+    "static_quality_rule": "author_full_text_adjudication_20261002_dense_b2",
+    "challenge_partition": "dense_failure",
+    "batch": 1,
+    "ambical_used_during_construction": false,
+    "dense_screening_status": "selected",
+    "dense_screening_tier": "A",
+    "dense_failure_count": 3,
+    "dense_correct_by_k": {
+      "1": false,
+      "3": false,
+      "5": false
+    },
+    "gold_best_rank": 11,
+    "wrong_or_attractor_best_rank": null,
+    "ambical_used_during_screening": false
+  },
+  {
+    "question_id": "vnlrb-dfa-005",
+    "question": "Which circular governs budgeting for repair, maintenance, and upgrading of facilities?",
+    "answer": "Circular No. 92/2017/TT-BTC, dated September 18, 2017.",
+    "reference_answer": "Circular No. 92/2017/TT-BTC, dated September 18, 2017.",
+    "answerability": "answerable",
+    "gold_chunk_ids": [
+      "dabb8e5e48a7fc585afb81300a79297daf0224976e529ae272c791b49d018bdf"
+    ],
+    "equivalent_gold_chunk_ids": [],
+    "wrong_sense_chunk_ids": [],
+    "attractor_chunk_ids": [],
+    "supporting_quote_id": "Thông tư số 92/2017/TT-BTC ngày 18 tháng 9 năm 2017",
+    "source_section": "1.1 Căn cứ pháp lý",
+    "static_quality_pass": true,
+    "static_quality_rule": "author_full_text_adjudication_20261002_dense_b2",
+    "challenge_partition": "dense_failure",
+    "batch": 2,
+    "ambical_used_during_construction": false,
+    "dense_screening_status": "selected",
+    "dense_screening_tier": "A",
+    "dense_failure_count": 3,
+    "dense_correct_by_k": {
+      "1": false,
+      "3": false,
+      "5": false
+    },
+    "gold_best_rank": 6,
+    "wrong_or_attractor_best_rank": null,
+    "ambical_used_during_screening": false
+  },
+  {
+    "question_id": "vnlrb-dfa-015",
+    "question": "In which month and year was the handbook issued in Ha Noi?",
+    "answer": "December 2017.",
+    "reference_answer": "December 2017.",
+    "answerability": "answerable",
+    "gold_chunk_ids": [
+      "1947f8bdff0d356cf917af7f2612b18bf7257a9a5a8eb201ac7f0744e23c0046"
+    ],
+    "equivalent_gold_chunk_ids": [],
+    "wrong_sense_chunk_ids": [],
+    "attractor_chunk_ids": [],
+    "supporting_quote_id": "HÀ NỘl - 12/2017",
+    "source_section": "front_matter",
+    "static_quality_pass": true,
+    "static_quality_rule": "author_full_text_adjudication_20261002_dense_b2",
+    "challenge_partition": "dense_failure",
+    "batch": 1,
+    "ambical_used_during_construction": false,
+    "dense_screening_status": "selected",
+    "dense_screening_tier": "A",
+    "dense_failure_count": 3,
+    "dense_correct_by_k": {
+      "1": false,
+      "3": false,
+      "5": false
+    },
+    "gold_best_rank": 6,
+    "wrong_or_attractor_best_rank": null,
+    "ambical_used_during_screening": false
+  },
+  {
+    "question_id": "vnlrb-dfax2-017",
+    "question": "On what page does Part IV (Annexes) start in the table of contents?",
+    "answer": "Page 29.",
+    "reference_answer": "Page 29.",
+    "answerability": "answerable",
+    "gold_chunk_ids": [
+      "9c956a1ad99ccc4b29a3e41d60773234917bb7e9568529c3d13ec880bf6811b2"
+    ],
+    "equivalent_gold_chunk_ids": [],
+    "wrong_sense_chunk_ids": [],
+    "attractor_chunk_ids": [],
+    "supporting_quote_id": "IV. PHỤ LỤC 29",
+    "source_section": "MỤC LỤC",
+    "static_quality_pass": true,
+    "static_quality_rule": "author_full_text_adjudication_20261002_dense_b2",
+    "challenge_partition": "dense_failure",
+    "batch": 2,
+    "ambical_used_during_construction": false,
+    "dense_screening_status": "selected",
+    "dense_screening_tier": "A",
+    "dense_failure_count": 3,
+    "dense_correct_by_k": {
+      "1": false,
+      "3": false,
+      "5": false
+    },
+    "gold_best_rank": 6,
+    "wrong_or_attractor_best_rank": null,
+    "ambical_used_during_screening": false
+  },
+  {
+    "question_id": "vnlrb-dfa-002",
+    "question": "Which article of the Employment Law defines public employment?",
+    "answer": "Article 3 (Khoản 5 Điều 3).",
+    "reference_answer": "Article 3 (Khoản 5 Điều 3).",
+    "answerability": "answerable",
+    "gold_chunk_ids": [
+      "7053e10e236f144e3cd2bd4bb36c8965d82936304a40847070ed14098a286d27",
+      "82ac1a142deec311d7ce861d09e577f5e455eed16ddb105f9fc7252863c37338"
+    ],
+    "equivalent_gold_chunk_ids": [],
+    "wrong_sense_chunk_ids": [],
+    "attractor_chunk_ids": [],
+    "supporting_quote_id": "Khoản 5 Điểu 3 Luật Việc làm",
+    "source_section": "1.1 Căn cứ pháp lý",
+    "static_quality_pass": true,
+    "static_quality_rule": "author_full_text_adjudication_20261002_dense_b2",
+    "challenge_partition": "dense_failure",
+    "batch": 1,
+    "ambical_used_during_construction": false,
+    "dense_screening_status": "selected",
+    "dense_screening_tier": "A",
+    "dense_failure_count": 3,
+    "dense_correct_by_k": {
+      "1": false,
+      "3": false,
+      "5": false
+    },
+    "gold_best_rank": 3,
+    "wrong_or_attractor_best_rank": null,
+    "ambical_used_during_screening": false
+  },
+  {
+    "question_id": "vnlrb-dfa-003",
+    "question": "Which circular governs recurrent funding for the Sustainable Poverty Reduction Program?",
+    "answer": "Circular No. 15/2017/TT-BTC, dated February 15, 2017.",
+    "reference_answer": "Circular No. 15/2017/TT-BTC, dated February 15, 2017.",
+    "answerability": "answerable",
+    "gold_chunk_ids": [
+      "da9e76d9d110b7893546fb7f95496fbb2af818f5ba489747f9599cd8a4907cd4"
+    ],
+    "equivalent_gold_chunk_ids": [],
+    "wrong_sense_chunk_ids": [],
+    "attractor_chunk_ids": [],
+    "supporting_quote_id": "Thông tư số 15/2017/TT-BTC ngày 15 tháng 2 năm 2017",
+    "source_section": "1.1 Căn cứ pháp lý",
+    "static_quality_pass": true,
+    "static_quality_rule": "author_full_text_adjudication_20261002_dense_b2",
+    "challenge_partition": "dense_failure",
+    "batch": 2,
+    "ambical_used_during_construction": false,
+    "dense_screening_status": "selected",
+    "dense_screening_tier": "A",
+    "dense_failure_count": 3,
+    "dense_correct_by_k": {
+      "1": false,
+      "3": false,
+      "5": false
+    },
+    "gold_best_rank": 1,
+    "wrong_or_attractor_best_rank": null,
+    "ambical_used_during_screening": false
+  },
+  {
+    "question_id": "vnlrb-dfu-014",
+    "question": "What is the standard duration of Giai đoạn II?",
+    "answer": "Not found in context",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "wrong_sense_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "3bf1848c503e03d5b0183fac805da14de5484946319859da6f4e3fb11aed2104",
+      "e8740f32fc71bb62b056928aac59f80e06a418725911ab189978d1e110b4fc87"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "Phase content is listed without durations.",
+    "topical_anchor": "phase duration",
+    "source_section": "Điêu 6. An toàn, vệ sinh lao động của người lao động làm việc theo hình thức cộng đông",
+    "static_quality_pass": true,
+    "static_quality_rule": "author_full_text_adjudication_20261002_dense_b3",
+    "challenge_partition": "dense_failure",
+    "batch": 3,
+    "ambical_used_during_construction": false,
+    "dense_screening_status": "selected",
+    "dense_screening_tier": "B",
+    "dense_failure_count": 2,
+    "dense_correct_by_k": {
+      "1": true,
+      "3": false,
+      "5": false
+    },
+    "gold_best_rank": null,
+    "wrong_or_attractor_best_rank": 1,
+    "ambical_used_during_screening": false,
+    "dense_screening_source": "batch3"
+  },
+  {
+    "question": "What maximum number of beneficiary households may join one replicated public-employment model project?",
+    "answer": "Not found in context",
+    "page": 28,
+    "question_id": "vnlrb-u-081",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "44b2d64a9548fbe65d3531ed7fb588af114d927e930c89509e1f00e306fe6fb4",
+      "5da42162d292d65409fe25ab1a8834380cdc5aed5ba173a3b62290a83aba0128"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "No beneficiary-household cap appears.",
+    "source_section": null,
+    "source_page_verified": null,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "dense_failure",
+    "selection_basis": "legacy_100x100_plus_quote_mapping_20261002",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "absence_verified_by_full_document_review",
+      "manual_semantic_review_completed": true
+    },
+    "dense_screening_tier": "B",
+    "dense_failure_count": 2,
+    "dense_correct_by_k": {
+      "1": false,
+      "3": true,
+      "5": false
+    },
+    "gold_best_rank": null,
+    "wrong_or_attractor_best_rank": 1,
+    "ambical_used_during_screening": false,
+    "dense_screening_status": "selected",
+    "dense_screening_source": "base_promoted"
+  },
+  {
+    "question": "What single mandatory labor-cost percentage applies to every low-traffic road project?",
+    "answer": "Not found in context",
+    "page": 42,
+    "question_id": "vnlrb-u-091",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "96ee249e3c8b9b349180c2673bd1c004505a887d2a00d8c0542345fe6f08c5ab",
+      "0cc3e0f9b5d98869f8816558b527b4aabca646034e69d7f54adb54e053ceea5c"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "Labor-cost shares are ranges (20-50% for paved low-traffic roads), not a single mandatory figure.",
+    "source_section": null,
+    "source_page_verified": null,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "dense_failure",
+    "selection_basis": "legacy_100x100_plus_quote_mapping_20261002",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "absence_verified_by_full_document_review",
+      "manual_semantic_review_completed": true
+    },
+    "dense_screening_tier": "A",
+    "dense_failure_count": 3,
+    "dense_correct_by_k": {
+      "1": false,
+      "3": false,
+      "5": false
+    },
+    "gold_best_rank": null,
+    "wrong_or_attractor_best_rank": 1,
+    "ambical_used_during_screening": false,
+    "dense_screening_status": "selected",
+    "dense_screening_source": "base_promoted"
+  },
+  {
+    "question": "What numbered-ball or computer procedure must be used when workers are selected by lottery?",
+    "answer": "Not found in context",
+    "page": 47,
+    "question_id": "vnlrb-u-096",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "44b2d64a9548fbe65d3531ed7fb588af114d927e930c89509e1f00e306fe6fb4",
+      "52da25cef9dd31ffbe03472cf668ad67360146acbfd3553dfc537330a84bdea9"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "Random lottery rotation is recommended without a specified procedure.",
+    "source_section": null,
+    "source_page_verified": null,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "dense_failure",
+    "selection_basis": "legacy_100x100_plus_quote_mapping_20261002",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "absence_verified_by_full_document_review",
+      "manual_semantic_review_completed": true
+    },
+    "dense_screening_tier": "B",
+    "dense_failure_count": 2,
+    "dense_correct_by_k": {
+      "1": false,
+      "3": true,
+      "5": false
+    },
+    "gold_best_rank": null,
+    "wrong_or_attractor_best_rank": 1,
+    "ambical_used_during_screening": false,
+    "dense_screening_status": "selected",
+    "dense_screening_source": "base_promoted"
+  }
+]

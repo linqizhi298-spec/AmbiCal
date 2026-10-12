@@ -1,0 +1,474 @@
+[
+  {
+    "calibration_id": "idbp-fpc-v2-001",
+    "question": "What minimum age must the Brigade Pangan manager meet?",
+    "answer": "Not found in context",
+    "page": null,
+    "calibration_type": "false_positive",
+    "calibration_purpose": "false_positive_prior",
+    "absent_reason": "The handbook lists the manager's duties but no minimum age.",
+    "topical_anchor": "manager eligibility",
+    "attractor_chunk_ids": [
+      "f0f036df6b5d4dbbc822057138e7d68b9c156aafdff2afcacff3ba9cb09d6b05",
+      "5b1d0662680d38e17ad93d925535d1a18daf993cf51e3b2da648d3c74b1d2605"
+    ],
+    "source_question_id": "idbp-a-011",
+    "answerability_audit": "manual full-document entity-attribute check"
+  },
+  {
+    "calibration_id": "idbp-fpc-v2-002",
+    "question": "What formal education level is required for the Brigade Pangan secretary?",
+    "answer": "Not found in context",
+    "page": null,
+    "calibration_type": "false_positive",
+    "calibration_purpose": "false_positive_prior",
+    "absent_reason": "The secretary's responsibilities are stated without an education requirement.",
+    "topical_anchor": "secretary eligibility",
+    "attractor_chunk_ids": [
+      "f0f036df6b5d4dbbc822057138e7d68b9c156aafdff2afcacff3ba9cb09d6b05",
+      "5b1d0662680d38e17ad93d925535d1a18daf993cf51e3b2da648d3c74b1d2605"
+    ],
+    "source_question_id": "idbp-a-011",
+    "answerability_audit": "manual full-document entity-attribute check"
+  },
+  {
+    "calibration_id": "idbp-fpc-v2-003",
+    "question": "How often is the Brigade Pangan manager required to convene a member meeting?",
+    "answer": "Not found in context",
+    "page": null,
+    "calibration_type": "false_positive",
+    "calibration_purpose": "false_positive_prior",
+    "absent_reason": "No mandatory meeting frequency is stated.",
+    "topical_anchor": "meeting frequency",
+    "attractor_chunk_ids": [
+      "f0f036df6b5d4dbbc822057138e7d68b9c156aafdff2afcacff3ba9cb09d6b05",
+      "5b1d0662680d38e17ad93d925535d1a18daf993cf51e3b2da648d3c74b1d2605"
+    ],
+    "source_question_id": "idbp-a-011",
+    "answerability_audit": "manual full-document entity-attribute check"
+  },
+  {
+    "calibration_id": "idbp-fpc-v2-004",
+    "question": "What quorum percentage is required to approve a farmer-corporation decision?",
+    "answer": "Not found in context",
+    "page": null,
+    "calibration_type": "false_positive",
+    "calibration_purpose": "false_positive_prior",
+    "absent_reason": "Equal voting rights are described, but no quorum percentage is given.",
+    "topical_anchor": "decision quorum",
+    "attractor_chunk_ids": [
+      "540836c76deee925e87f4f0442b12c787bbd904187009e79864b262b071b99cf",
+      "48952c719f2a5fa738d0d87070bd775073b1fef87857b29b6683e090c857b6dd"
+    ],
+    "source_question_id": "idbp-a-031",
+    "answerability_audit": "manual full-document entity-attribute check"
+  },
+  {
+    "calibration_id": "idbp-fpc-v2-005",
+    "question": "How long is the probation period for a new Brigade Pangan member?",
+    "answer": "Not found in context",
+    "page": null,
+    "calibration_type": "false_positive",
+    "calibration_purpose": "false_positive_prior",
+    "absent_reason": "The membership scale is stated without a probation period.",
+    "topical_anchor": "membership probation",
+    "attractor_chunk_ids": [
+      "1e998eed444fad0baf1a6983182c6075a77ff5288487cf55b9c2a412aca8509c",
+      "6ee49851cf3b7f18ef118501f4151345d6cad3482442ae967dce2318de4faa68",
+      "2cc1c0e20b2392510cb346db316ce05341e90943257465c2695aa771c8ebb3f6"
+    ],
+    "source_question_id": "idbp-a-007",
+    "answerability_audit": "manual full-document entity-attribute check"
+  },
+  {
+    "calibration_id": "idbp-fpc-v2-006",
+    "question": "What penalty applies if a landowner ends the management partnership early?",
+    "answer": "Not found in context",
+    "page": null,
+    "calibration_type": "false_positive",
+    "calibration_purpose": "false_positive_prior",
+    "absent_reason": "A minimum partnership period is stated, but no early-termination penalty is provided.",
+    "topical_anchor": "partnership penalty",
+    "attractor_chunk_ids": [
+      "1e998eed444fad0baf1a6983182c6075a77ff5288487cf55b9c2a412aca8509c",
+      "6ee49851cf3b7f18ef118501f4151345d6cad3482442ae967dce2318de4faa68",
+      "2cc1c0e20b2392510cb346db316ce05341e90943257465c2695aa771c8ebb3f6"
+    ],
+    "source_question_id": "idbp-a-004",
+    "answerability_audit": "manual full-document entity-attribute check"
+  },
+  {
+    "calibration_id": "idbp-fpc-v2-007",
+    "question": "How much notice must be given before ending the landowner profit-sharing agreement?",
+    "answer": "Not found in context",
+    "page": null,
+    "calibration_type": "false_positive",
+    "calibration_purpose": "false_positive_prior",
+    "absent_reason": "The profit split is stated without a termination-notice period.",
+    "topical_anchor": "termination notice",
+    "attractor_chunk_ids": [
+      "1e998eed444fad0baf1a6983182c6075a77ff5288487cf55b9c2a412aca8509c",
+      "6ee49851cf3b7f18ef118501f4151345d6cad3482442ae967dce2318de4faa68",
+      "2cc1c0e20b2392510cb346db316ce05341e90943257465c2695aa771c8ebb3f6"
+    ],
+    "source_question_id": "idbp-a-005",
+    "answerability_audit": "manual full-document entity-attribute check"
+  },
+  {
+    "calibration_id": "idbp-fpc-v2-008",
+    "question": "How many years must a farmer group operate before it can become a farmer corporation?",
+    "answer": "Not found in context",
+    "page": null,
+    "calibration_type": "false_positive",
+    "calibration_purpose": "false_positive_prior",
+    "absent_reason": "The corporation definition gives no minimum operating age.",
+    "topical_anchor": "corporation eligibility",
+    "attractor_chunk_ids": [
+      "2885d0392459b28abda11ccc7b16a7f5520c1a7b8efdc834b515ed11c6189422"
+    ],
+    "source_question_id": "idbp-a-026",
+    "answerability_audit": "manual full-document entity-attribute check"
+  },
+  {
+    "calibration_id": "idbp-fpc-v2-009",
+    "question": "By what deadline after month-end must an extension adviser submit the Brigade Pangan report?",
+    "answer": "Not found in context",
+    "page": null,
+    "calibration_type": "false_positive",
+    "calibration_purpose": "false_positive_prior",
+    "absent_reason": "Monitoring and reporting duties are listed without a submission deadline.",
+    "topical_anchor": "report deadline",
+    "attractor_chunk_ids": [
+      "bc2b753d69e024927c9b4d26fd8db6b77a6797099bbea16022265bfe9283aac0"
+    ],
+    "source_question_id": "idbp-a-022",
+    "answerability_audit": "manual full-document entity-attribute check"
+  },
+  {
+    "calibration_id": "idbp-fpc-v2-010",
+    "question": "How many field visits per month must the accompanying extension worker make?",
+    "answer": "Not found in context",
+    "page": null,
+    "calibration_type": "false_positive",
+    "calibration_purpose": "false_positive_prior",
+    "absent_reason": "The handbook does not prescribe a monthly visit count.",
+    "topical_anchor": "visit frequency",
+    "attractor_chunk_ids": [
+      "bc2b753d69e024927c9b4d26fd8db6b77a6797099bbea16022265bfe9283aac0"
+    ],
+    "source_question_id": "idbp-a-022",
+    "answerability_audit": "manual full-document entity-attribute check"
+  },
+  {
+    "calibration_id": "idbp-fpc-v2-011",
+    "question": "How many photographs must accompany each extension-adviser report?",
+    "answer": "Not found in context",
+    "page": null,
+    "calibration_type": "false_positive",
+    "calibration_purpose": "false_positive_prior",
+    "absent_reason": "The reporting materials do not specify a required photograph count.",
+    "topical_anchor": "report photographs",
+    "attractor_chunk_ids": [
+      "39b0827ab50f4904b3cc51a3805000c46d44e15380eaa5ede410faaff6d5b15f",
+      "bb9d632d591ac46deb61e651e1dbfdae2c73c62d3ab2fdf2d0b992fb919983bd",
+      "726090079ef9fb89c67a7593bad12fa87aacbf9137a488c6a6709db567a571b4"
+    ],
+    "source_question_id": "idbp-a-018",
+    "answerability_audit": "manual full-document entity-attribute check"
+  },
+  {
+    "calibration_id": "idbp-fpc-v2-012",
+    "question": "Which electronic file format must be used for uploaded Brigade Pangan planning documents?",
+    "answer": "Not found in context",
+    "page": null,
+    "calibration_type": "false_positive",
+    "calibration_purpose": "false_positive_prior",
+    "absent_reason": "The documents are named, but no electronic file format is required.",
+    "topical_anchor": "upload format",
+    "attractor_chunk_ids": [
+      "39b0827ab50f4904b3cc51a3805000c46d44e15380eaa5ede410faaff6d5b15f",
+      "bb9d632d591ac46deb61e651e1dbfdae2c73c62d3ab2fdf2d0b992fb919983bd",
+      "726090079ef9fb89c67a7593bad12fa87aacbf9137a488c6a6709db567a571b4"
+    ],
+    "source_question_id": "idbp-a-018",
+    "answerability_audit": "manual full-document entity-attribute check"
+  },
+  {
+    "calibration_id": "idbp-fpc-v2-013",
+    "question": "What minimum water flow rate must the secondary canal deliver?",
+    "answer": "Not found in context",
+    "page": null,
+    "calibration_type": "false_positive",
+    "calibration_purpose": "false_positive_prior",
+    "absent_reason": "Canal functions are described without a minimum flow rate.",
+    "topical_anchor": "secondary-canal flow",
+    "attractor_chunk_ids": [
+      "482b9de007c00e615e0b29b37e11e4deb144d0a05008a7f0c2cabc8ce1f016c0"
+    ],
+    "source_question_id": "idbp-a-040",
+    "answerability_audit": "manual full-document entity-attribute check"
+  },
+  {
+    "calibration_id": "idbp-fpc-v2-014",
+    "question": "How often should stoplog water-control gates be inspected?",
+    "answer": "Not found in context",
+    "page": null,
+    "calibration_type": "false_positive",
+    "calibration_purpose": "false_positive_prior",
+    "absent_reason": "The stoplog system is explained without an inspection interval.",
+    "topical_anchor": "stoplog inspection",
+    "attractor_chunk_ids": [
+      "9301585e2249e7196cfac01795cef3a273bb0e9d22ee3742dfd7df8ed6b8c734"
+    ],
+    "source_question_id": "idbp-a-039",
+    "answerability_audit": "manual full-document entity-attribute check"
+  },
+  {
+    "calibration_id": "idbp-fpc-v2-015",
+    "question": "What pump capacity per hectare is recommended for tidal-swamp rice fields?",
+    "answer": "Not found in context",
+    "page": null,
+    "calibration_type": "false_positive",
+    "calibration_purpose": "false_positive_prior",
+    "absent_reason": "Pump troubleshooting is provided, but no per-hectare capacity is specified.",
+    "topical_anchor": "pump capacity",
+    "attractor_chunk_ids": [
+      "a86bf91a4444b7dafb4dac6ebcef9fccdf9708c36aaaec15e08f5d606531e29a",
+      "657a24bb38657a4d22fa2675ab39a197265bdbee7a36f934e7e336f5a3d16dd6",
+      "8c01f68c4206592bd7a3267be7da5ec7127666471cfa0abc285e6ce4558b689f"
+    ],
+    "source_question_id": "idbp-a-090",
+    "answerability_audit": "manual full-document entity-attribute check"
+  },
+  {
+    "calibration_id": "idbp-fpc-v2-016",
+    "question": "What maximum distance is allowed between a worm drain and the tertiary canal?",
+    "answer": "Not found in context",
+    "page": null,
+    "calibration_type": "false_positive",
+    "calibration_purpose": "false_positive_prior",
+    "absent_reason": "The handbook gives worm-drain dimensions and spacing, not their maximum distance from a tertiary canal.",
+    "topical_anchor": "drain-to-canal distance",
+    "attractor_chunk_ids": [
+      "2d36fdea688895c6e182924d8c051a9f872c9425d5c1ad5662d7312fadf4f672",
+      "166d40ad6c1f9aebef7ec3015dfa9a5f33935b8df19bec0516bebc8b4a5e0c07",
+      "d0ea6bb37c918a77a8302e8656ea6f8546b1fd06d7d98c164bb408b26ec4b193"
+    ],
+    "source_question_id": "idbp-a-051",
+    "answerability_audit": "manual full-document entity-attribute check"
+  },
+  {
+    "calibration_id": "idbp-fpc-v2-017",
+    "question": "What salinity threshold defines tidal-overflow land Type C?",
+    "answer": "Not found in context",
+    "page": null,
+    "calibration_type": "false_positive",
+    "calibration_purpose": "false_positive_prior",
+    "absent_reason": "Type C is defined by flooding and groundwater depth, not salinity.",
+    "topical_anchor": "Type C salinity",
+    "attractor_chunk_ids": [
+      "5c379b9206858036049360f352ad3072ac6473680ce63c0fd6d4cd0be74d9faf"
+    ],
+    "source_question_id": "idbp-a-036",
+    "answerability_audit": "manual full-document entity-attribute check"
+  },
+  {
+    "calibration_id": "idbp-fpc-v2-018",
+    "question": "What annual maintenance budget is allocated to the main drainage canal?",
+    "answer": "Not found in context",
+    "page": null,
+    "calibration_type": "false_positive",
+    "calibration_purpose": "false_positive_prior",
+    "absent_reason": "No annual maintenance budget is stated for the canal.",
+    "topical_anchor": "canal maintenance budget",
+    "attractor_chunk_ids": [
+      "482b9de007c00e615e0b29b37e11e4deb144d0a05008a7f0c2cabc8ce1f016c0"
+    ],
+    "source_question_id": "idbp-a-040",
+    "answerability_audit": "manual full-document entity-attribute check"
+  },
+  {
+    "calibration_id": "idbp-fpc-v2-019",
+    "question": "What relative humidity should be maintained while rice seed is being incubated?",
+    "answer": "Not found in context",
+    "page": null,
+    "calibration_type": "false_positive",
+    "calibration_purpose": "false_positive_prior",
+    "absent_reason": "Soaking and incubation durations are given without a humidity target.",
+    "topical_anchor": "seed-incubation humidity",
+    "attractor_chunk_ids": [
+      "50c01bda97da9066e4d4ee2839b7e265b80c3edfb7b3d6b2fcabe7b75ed4b18d"
+    ],
+    "source_question_id": "idbp-a-054",
+    "answerability_audit": "manual full-document entity-attribute check"
+  },
+  {
+    "calibration_id": "idbp-fpc-v2-020",
+    "question": "How much spray water per hectare should be used to dilute glyphosate before tillage?",
+    "answer": "Not found in context",
+    "page": null,
+    "calibration_type": "false_positive",
+    "calibration_purpose": "false_positive_prior",
+    "absent_reason": "The herbicide dose and timing are stated without a spray-water volume.",
+    "topical_anchor": "glyphosate dilution",
+    "attractor_chunk_ids": [
+      "4744c4c2fd841d3bf2d566d99e406e724a85d517ccf81d41c448bb9646a22b41"
+    ],
+    "source_question_id": "idbp-a-041",
+    "answerability_audit": "manual full-document entity-attribute check"
+  },
+  {
+    "calibration_id": "idbp-fpc-v2-021",
+    "question": "What field re-entry interval applies after glyphosate is sprayed?",
+    "answer": "Not found in context",
+    "page": null,
+    "calibration_type": "false_positive",
+    "calibration_purpose": "false_positive_prior",
+    "absent_reason": "No worker re-entry interval is specified.",
+    "topical_anchor": "herbicide re-entry",
+    "attractor_chunk_ids": [
+      "4744c4c2fd841d3bf2d566d99e406e724a85d517ccf81d41c448bb9646a22b41"
+    ],
+    "source_question_id": "idbp-a-041",
+    "answerability_audit": "manual full-document entity-attribute check"
+  },
+  {
+    "calibration_id": "idbp-fpc-v2-022",
+    "question": "Does the handbook identify a product name for chemical rat control?",
+    "answer": "Not found in context",
+    "page": null,
+    "calibration_type": "false_positive",
+    "calibration_purpose": "false_positive_prior",
+    "absent_reason": "Rodenticide use is discussed without naming a commercial brand.",
+    "topical_anchor": "rodenticide brand",
+    "attractor_chunk_ids": [
+      "603352df759523ccbe52f1ade0a77aaaa5e2646645a982f664d6164bcc64f9ac"
+    ],
+    "source_question_id": "idbp-a-072",
+    "answerability_audit": "manual full-document entity-attribute check"
+  },
+  {
+    "calibration_id": "idbp-fpc-v2-023",
+    "question": "What per-burrow dose is specified for rat-hole fumigation?",
+    "answer": "Not found in context",
+    "page": null,
+    "calibration_type": "false_positive",
+    "calibration_purpose": "false_positive_prior",
+    "absent_reason": "Fumigation is recommended without a per-burrow dose.",
+    "topical_anchor": "fumigant dose",
+    "attractor_chunk_ids": [
+      "603352df759523ccbe52f1ade0a77aaaa5e2646645a982f664d6164bcc64f9ac"
+    ],
+    "source_question_id": "idbp-a-072",
+    "answerability_audit": "manual full-document entity-attribute check"
+  },
+  {
+    "calibration_id": "idbp-fpc-v2-024",
+    "question": "At what pest-density threshold should insecticide treatment begin for brown planthopper?",
+    "answer": "Not found in context",
+    "page": null,
+    "calibration_type": "false_positive",
+    "calibration_purpose": "false_positive_prior",
+    "absent_reason": "The handbook explains outbreak causes but gives no numeric treatment threshold.",
+    "topical_anchor": "planthopper threshold",
+    "attractor_chunk_ids": [
+      "f533a99352a2232dfcb62cdd888fee4ccbed047273ff2bace23b68d66ee7d307"
+    ],
+    "source_question_id": "idbp-a-069",
+    "answerability_audit": "manual full-document entity-attribute check"
+  },
+  {
+    "calibration_id": "idbp-fpc-v2-025",
+    "question": "How many leaf samples per hectare are required to diagnose rice blast?",
+    "answer": "Not found in context",
+    "page": null,
+    "calibration_type": "false_positive",
+    "calibration_purpose": "false_positive_prior",
+    "absent_reason": "Blast symptoms are described without a sampling density.",
+    "topical_anchor": "blast sampling",
+    "attractor_chunk_ids": [
+      "22dd714c1d42734361f31e2a3023285a09adbeb034c5e131f0f21db04702c78a"
+    ],
+    "source_question_id": "idbp-a-065",
+    "answerability_audit": "manual full-document entity-attribute check"
+  },
+  {
+    "calibration_id": "idbp-fpc-v2-026",
+    "question": "What relative humidity should a grain-storage room maintain?",
+    "answer": "Not found in context",
+    "page": null,
+    "calibration_type": "false_positive",
+    "calibration_purpose": "false_positive_prior",
+    "absent_reason": "Grain moisture and room temperature are stated, but room relative humidity is not.",
+    "topical_anchor": "storage humidity",
+    "attractor_chunk_ids": [
+      "ba8725e2b7ef3946f53f23b294d812414661b0b210f950179108398faf039a69",
+      "e22c4bc2256ab5580af96f56257635b1d75517175715ff123643e602537faae2"
+    ],
+    "source_question_id": "idbp-a-084",
+    "answerability_audit": "manual full-document entity-attribute check"
+  },
+  {
+    "calibration_id": "idbp-fpc-v2-027",
+    "question": "What maximum stack height is allowed for bags of stored grain?",
+    "answer": "Not found in context",
+    "page": null,
+    "calibration_type": "false_positive",
+    "calibration_purpose": "false_positive_prior",
+    "absent_reason": "No maximum sack-stack height is given.",
+    "topical_anchor": "stack height",
+    "attractor_chunk_ids": [
+      "ba8725e2b7ef3946f53f23b294d812414661b0b210f950179108398faf039a69",
+      "e22c4bc2256ab5580af96f56257635b1d75517175715ff123643e602537faae2"
+    ],
+    "source_question_id": "idbp-a-084",
+    "answerability_audit": "manual full-document entity-attribute check"
+  },
+  {
+    "calibration_id": "idbp-fpc-v2-028",
+    "question": "How much electrical energy does rice milling consume per tonne?",
+    "answer": "Not found in context",
+    "page": null,
+    "calibration_type": "false_positive",
+    "calibration_purpose": "false_positive_prior",
+    "absent_reason": "Milling recovery is discussed without an energy-consumption figure.",
+    "topical_anchor": "milling energy",
+    "attractor_chunk_ids": [
+      "ba8725e2b7ef3946f53f23b294d812414661b0b210f950179108398faf039a69",
+      "e22c4bc2256ab5580af96f56257635b1d75517175715ff123643e602537faae2"
+    ],
+    "source_question_id": "idbp-a-084",
+    "answerability_audit": "manual full-document entity-attribute check"
+  },
+  {
+    "calibration_id": "idbp-fpc-v2-029",
+    "question": "How many working days may a bank take to approve a Brigade Pangan KUR application?",
+    "answer": "Not found in context",
+    "page": null,
+    "calibration_type": "false_positive",
+    "calibration_purpose": "false_positive_prior",
+    "absent_reason": "The access steps contain no bank approval-time limit.",
+    "topical_anchor": "KUR approval time",
+    "attractor_chunk_ids": [
+      "f3e7cc0e27b4620a4bd28ebe2beaf8a6b541b6a96f0a21ffec9e794e25cfc4c4"
+    ],
+    "source_question_id": "idbp-a-100",
+    "answerability_audit": "manual full-document entity-attribute check"
+  },
+  {
+    "calibration_id": "idbp-fpc-v2-030",
+    "question": "What minimum credit score must a Brigade Pangan applicant have for KUR?",
+    "answer": "Not found in context",
+    "page": null,
+    "calibration_type": "false_positive",
+    "calibration_purpose": "false_positive_prior",
+    "absent_reason": "The eligibility conditions do not specify a numeric credit score.",
+    "topical_anchor": "KUR credit score",
+    "attractor_chunk_ids": [
+      "d388c06b371d894fe60a73a17cfb829476cdbaced6322dd5cb715d0dcfdbd0ce",
+      "1f085779747a2701b676f529ae96faab16378262e36eb036c05eab48a53007d5"
+    ],
+    "source_question_id": "idbp-a-098",
+    "answerability_audit": "manual full-document entity-attribute check"
+  }
+]

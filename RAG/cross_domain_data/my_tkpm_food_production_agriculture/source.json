@@ -1,0 +1,65 @@
+{
+  "document_id": "my_tkpm_food_production_agriculture",
+  "title": "Garis Panduan Pembangunan Projek Taman Kekal Pengeluaran Makanan (TKPM) 2024",
+  "english_title": "Guidelines for the Development of Permanent Food Production Park Projects (TKPM) 2024",
+  "language": "Malay",
+  "language_code": "ms",
+  "country": "Malaysia",
+  "domain": "Agriculture; food-production infrastructure; land and project governance",
+  "year": 2024,
+  "publisher": "Jabatan Pertanian Malaysia, Kementerian Pertanian dan Keterjaminan Makanan",
+  "isbn": "978-983-047-330-7",
+  "edition": "First edition",
+  "pdf_url": "https://www.doa.gov.my/doa/resources/aktiviti_sumber/sumber_awam/penerbitan/buku/garis_panduan_pembangunan_projek_TKPM_2024.pdf",
+  "landing_page": "https://www.doa.gov.my/doa/resources/aktiviti_sumber/sumber_awam/penerbitan/buku/garis_panduan_pembangunan_projek_TKPM_2024.pdf",
+  "expected_pages": 151,
+  "local_storage_policy": "Temporary PDF only; delete after successful conversion and quality audit.",
+  "temporary_pdf_path": "C:\\Users\\Administrator\\AppData\\Local\\Temp\\ambical_pdf\\Garis_Panduan_Pembangunan_Projek_TKPM_2024.pdf",
+  "sha256": "4D87A0C58A173D27D1DAD659B6BDAF05A0E6CCF6E6F2FB72A3ADD5E3CDC45D58",
+  "size_bytes": 3007756,
+  "size_mb": 2.87,
+  "downloaded_at": "2026-09-11T18:09:40.7308726+08:00",
+  "temporary_pdf_retained": false,
+  "temporary_pdf_deleted": true,
+  "processing_status": "text_only_markdown_validated",
+  "last_processed_utc": "2026-09-11T10:13:21.276852+00:00",
+  "artifacts": {
+    "docling_markdown": "cross_domain_data/my_tkpm_food_production_agriculture/docling_output/Garis_Panduan_Pembangunan_Projek_TKPM_2024.md",
+    "docling_json": "cross_domain_data/my_tkpm_food_production_agriculture/docling_output/Garis_Panduan_Pembangunan_Projek_TKPM_2024.json",
+    "retrieval_markdown": "cross_domain_data/my_tkpm_food_production_agriculture/retrieval_text/Garis_Panduan_Pembangunan_Projek_TKPM_2024_text_only.md",
+    "answerable_qa": "question_datasets/my_tkpm_english_qa/question_answers_pairs.json",
+    "unanswerable_qa": "question_datasets/my_tkpm_english_qa/question_answers_unanswerable.json"
+  },
+  "artifact_hashes": {
+    "docling_markdown_sha256": "391451DA773A8406C318E45AC5F235D3F0F2E6F7D3380D36B2C90D99215CBA14",
+    "docling_json_sha256": "32D57955467FFE6754ADE57FAD67936AD7CD5779F395EF71D0B3CFA700ABF32F",
+    "retrieval_markdown_sha256": "79A056658E97AC1552487D5AB9435708F8C70D85DC49CCB8FEDCDFB537646E27"
+  },
+  "quality_check": {
+    "passed": true,
+    "characters": 190288,
+    "headings": 181,
+    "table_rows": 228,
+    "malay_hits": 2534,
+    "image_placeholders": 0,
+    "embedded_image_hits": 0,
+    "replacement_characters": 0,
+    "mojibake_hits": 0
+  },
+  "qa_dataset": {
+    "language": "English",
+    "answerable_questions": 100,
+    "unanswerable_questions": 100,
+    "total_questions": 200,
+    "answerable_answer_source": "The handbook text and extracted tables",
+    "unanswerable_answer_value": "Not found in context",
+    "page_reference_type": "Original PDF page number",
+    "quality_controls": [
+      "manual fact and wording review",
+      "balanced chapter coverage",
+      "mixed factual, comparative, procedural, conditional, calculation, aggregation, and cross-section questions",
+      "exact and near-duplicate screening",
+      "schema and type validation"
+    ]
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "method_version": "ambical-online-v5",
+  "null_low": 0.22580645161290322,
+  "null_high": 0.8064516129032258,
+  "lambda_positive": 0.2,
+  "max_counterfactual_phrases": 2,
+  "counterfactual_promotion_top_k": 3,
+  "candidate_top_n": 40,
+  "max_k": 40,
+  "gate_top_m": 40,
+  "lambda_false_positive": 0.2,
+  "lambda_redundancy": 0.15,
+  "branch_temperature": 0.1,
+  "gate_temperature": 0.1,
+  "adaptive_temperature": 0.15,
+  "consistency_floor_eta": 0.5,
+  "z_max": 8.0,
+  "epsilon": 1e-08,
+  "iqr_normal_consistency": 1.349,
+  "minimum_counterfactual_content_tokens": 1,
+  "require_normalized_collection_embeddings": true,
+  "collection_norm_tolerance": 0.02,
+  "gate_v2_weights": {
+    "gate_v2_bias": 21.184121910951706,
+    "gate_v2_weight_strength": -5.053002933411203,
+    "gate_v2_weight_competition": -15.955296177287568,
+    "gate_v2_weight_distance": -36.16388877879448,
+    "gate_v2_weight_path_conflict": 5.509167554885126,
+    "gate_v2_weight_bimodality": 5.057255528512238,
+    "gate_v2_weight_branch_disagreement": 1.187770156716317
+  },
+  "switches": {
+    "translation_branch": true,
+    "robust_normalization": true,
+    "branch_confidence": true,
+    "translation_consistency": true,
+    "ranking_overlap": true,
+    "dynamic_branch_weights": true,
+    "false_positive_prior": true,
+    "context_correction": true,
+    "context_gate": true,
+    "soft_redundancy": true,
+    "consistency_entropy": true,
+    "maximum_gap": true,
+    "entropy_candidate": true,
+    "null_gate": true,
+    "adaptive_k": true,
+    "merge_structured_evidence": true
+  },
+  "embedding": "D:\\Analysis code\\models\\bge-m3",
+  "chunk_size": 200,
+  "overlap": 100,
+  "generation_model": "qwen2.5:7b",
+  "judge_model": "gemma3:12b",
+  "dense_k_set": [
+    1,
+    3,
+    5
+  ],
+  "prompt_paths": {
+    "question_prompt": "D:\\Analysis code\\ambical\\RAG\\prompt_templates\\question_prompt.txt",
+    "evaluation_prompt": "D:\\Analysis code\\ambical\\RAG\\prompt_templates\\evaluation_prompt.txt"
+  },
+  "prompt_sha256_question_prompt": "a26d0a1d7f245516db94e50dedee2a178989f966469e6803e4c300e12af7061a",
+  "prompt_sha256_evaluation_prompt": "a154db61e58132843c85dd2ebf573a0718831dd06060653d0829cf97d0640480",
+  "fixed_k_dense": {
+    "k1": null,
+    "k3": null,
+    "k5": null
+  },
+  "context_gate_threshold": 0.2
+}

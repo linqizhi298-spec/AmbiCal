@@ -1,0 +1,502 @@
+[
+  {
+    "question": "Which Malaysian government department published the 2024 TKPM development guidelines?",
+    "answer": "The Department of Agriculture Malaysia under the Ministry of Agriculture and Food Security.",
+    "page": 3
+  },
+  {
+    "question": "What earlier edition of the TKPM guidelines does the 2024 publication improve upon?",
+    "answer": "The guidelines issued in 2017.",
+    "page": 5
+  },
+  {
+    "question": "Who is the main professional audience for the TKPM guidelines?",
+    "answer": "Officers involved directly or indirectly in extension and advisory services for developing TKPM projects.",
+    "page": 5
+  },
+  {
+    "question": "How does the handbook define a Taman Kekal Pengeluaran Makanan (TKPM)?",
+    "answer": "A large-scale or commercial agricultural project on state or federal land that creates a permanent food-crop production zone involving entrepreneurs and the private sector to raise safe, high-quality food production.",
+    "page": 7
+  },
+  {
+    "question": "What kinds of entities can qualify as TKPM participants?",
+    "answer": "Individuals, companies, cooperatives, government-linked companies, and statutory bodies.",
+    "page": 7
+  },
+  {
+    "question": "What distinguishes commercial farming in the handbook's terminology?",
+    "answer": "It uses economically sized farms, current technology, and systematic management in entrepreneurial or private-sector farming projects.",
+    "page": 7
+  },
+  {
+    "question": "How is fertilizer delivered in a fertigation system?",
+    "answer": "Complete fertilizer is dissolved in solution and delivered to the root zone through drip irrigation.",
+    "page": 7
+  },
+  {
+    "question": "Why are cocopeat and rice husks widely used as fertigation media?",
+    "answer": "They are inexpensive, light, good-quality, and easy to use.",
+    "page": 7
+  },
+  {
+    "question": "What does the handbook mean by the Internet of Things in a farm setting?",
+    "answer": "Everyday devices or equipment are connected to the internet so they can be controlled and monitored from anywhere at any time through a connected control device.",
+    "page": 7
+  },
+  {
+    "question": "What farming practices does myGAP recognize?",
+    "answer": "Good Agricultural Practices that are environmentally friendly, protect worker welfare and safety, and produce food that is safe, suitable to eat, and of good quality.",
+    "page": 8
+  },
+  {
+    "question": "Which standard underpins the myOrganic certification described in the handbook?",
+    "answer": "Malaysian Standard MS 1529:2001 on the production, processing, labeling, and marketing of plant-based organically produced food.",
+    "page": 8
+  },
+  {
+    "question": "How do the roles of the TKPM coordinator, manager, and supervisor differ?",
+    "answer": "The coordinator coordinates and monitors operations, the manager plans and manages operations, and the supervisor oversees and facilitates operations.",
+    "page": 8
+  },
+  {
+    "question": "What altitude separates lowland from the handbook's definition of highland?",
+    "answer": "Lowland is below 150 metres above sea level, while highland is above 1,000 metres.",
+    "page": 9
+  },
+  {
+    "question": "How does the handbook distinguish permanent from non-permanent crops?",
+    "answer": "Permanent crops have an economic life exceeding three years; non-permanent crops have an economic life of no more than three years.",
+    "page": 9
+  },
+  {
+    "question": "When was the TKPM programme introduced, and under which national agricultural policy?",
+    "answer": "It was introduced in 2001 under the Third National Agricultural Policy (DPN3).",
+    "page": 14
+  },
+  {
+    "question": "What division of responsibilities underpins cooperation between the state and federal governments in TKPM development?",
+    "answer": "The state identifies and reserves suitable food-production land, while the federal government finances shared basic infrastructure and guides, implements, and monitors the programme through implementing agencies.",
+    "page": 14
+  },
+  {
+    "question": "How many TKPM sites had been developed by 2023, and what total area did they cover?",
+    "answer": "Seventy-one TKPM sites covering 10,466.53 hectares.",
+    "page": 14
+  },
+  {
+    "question": "Which agencies supervise TKPM under the Ministry of Agriculture and Food Security?",
+    "answer": "The Department of Agriculture, Department of Fisheries, Department of Veterinary Services, Sabah State Department of Agriculture, and Sarawak State Department of Agriculture.",
+    "page": 14
+  },
+  {
+    "question": "What monthly net-income target does the programme set for project participants?",
+    "answer": "At least RM3,000 per month.",
+    "page": 15
+  },
+  {
+    "question": "Taken together, what are the four main objectives of the TKPM programme?",
+    "answer": "To create permanent food-production zones for national food security; increase sustainable, safe, high-quality food production; raise participants' net income through productivity; and expand commercial participation by the private sector, entrepreneurs, and youth using modern technology and innovation.",
+    "page": 15
+  },
+  {
+    "question": "What must a participant do to gain access to a designated TKPM site?",
+    "answer": "Rent the designated site, sign an agreement, participate directly in food-crop production, and comply with the project's participation conditions.",
+    "page": 15
+  },
+  {
+    "question": "What gross annual income benchmarks are given for a 30-hectare vegetable TKPM and a 50-hectare fruit TKPM?",
+    "answer": "RM750,000 a year for the vegetable project and RM500,000 a year for the fruit project.",
+    "page": 16
+  },
+  {
+    "question": "How do the gross-income benchmarks compare for protected and open fertigation projects of about two hectares?",
+    "answer": "Protected fertigation is benchmarked at RM300,000 a year, compared with RM240,000 a year for open fertigation.",
+    "page": 16
+  },
+  {
+    "question": "What site characteristics must be considered when selecting a TKPM location?",
+    "answer": "Access roads, utilities, soil suitability, climate and crop zoning, and compliance with local-authority regulations.",
+    "page": 16
+  },
+  {
+    "question": "Why must crop selection consider both land suitability and market demand?",
+    "answer": "The programme seeks crops that suit the site, have high value, and face actual market demand, supporting commercially viable production.",
+    "page": 16
+  },
+  {
+    "question": "Which farm-certification practices are mandatory in implementing TKPM projects?",
+    "answer": "Good Agricultural Practices through myGAP or myOrganic certification.",
+    "page": 16
+  },
+  {
+    "question": "What preliminary and environmental planning work can be funded within the TKPM development scope?",
+    "answer": "Surveying and lot division, soil investigation, environmental impact assessment, erosion and sediment management planning, and planning-permission requirements.",
+    "page": 18
+  },
+  {
+    "question": "Which shared utilities may be provided under the TKPM development scope, and what is excluded?",
+    "answer": "Electricity, clean water, telecommunications, and internet facilities may be provided, but installation of electricity and clean-water meters is excluded.",
+    "page": 18
+  },
+  {
+    "question": "What permanent post-harvest facilities are explicitly included in the development scope?",
+    "answer": "Collection, grading and packing centres, post-harvest processing centres, cold rooms, storage facilities, and related handling facilities.",
+    "page": 18
+  },
+  {
+    "question": "What is the maximum basic development cost per hectare for conventional lowland vegetables and fruit?",
+    "answer": "RM109,000 per hectare for vegetables and RM80,000 per hectare for fruit.",
+    "page": 19
+  },
+  {
+    "question": "How do the maximum per-hectare costs differ among ground, hanging, trellis, and table-based open fertigation systems?",
+    "answer": "Ground fertigation is capped at RM207,000 per hectare, while hanging, trellis, and table systems are each capped at RM213,000 per hectare.",
+    "page": 19
+  },
+  {
+    "question": "What are the maximum per-hectare development costs for insect-proof protected structures in lowland and highland TKPM projects?",
+    "answer": "RM1.467 million per hectare in lowland projects and RM1.540 million per hectare in highland projects.",
+    "page": 19
+  },
+  {
+    "question": "How much higher may development costs be in Sabah and Sarawak than in Peninsular Malaysia?",
+    "answer": "Thirty to forty percent higher.",
+    "page": 19
+  },
+  {
+    "question": "What cost premium is specified for development in the Federal Territory of Labuan?",
+    "answer": "Sixty percent above development costs in Peninsular Malaysia.",
+    "page": 19
+  },
+  {
+    "question": "What contingency range should be allowed in TKPM project development costs?",
+    "answer": "Ten to twenty-five percent of project development cost.",
+    "page": 20
+  },
+  {
+    "question": "Who maintains TKPM infrastructure on state land, and who maintains it on Federal Lands Commissioner land?",
+    "answer": "The state government is responsible on state land, while the federal government is responsible on Federal Lands Commissioner land.",
+    "page": 20
+  },
+  {
+    "question": "What does the initial land-suitability study examine before a TKPM proposal advances?",
+    "answer": "It prepares a preliminary assessment of land and crop suitability and evaluates risk, with soil or crop sampling for pesticide residues, heavy metals, diseases, pests, and microbes when needed.",
+    "page": 22
+  },
+  {
+    "question": "Under which provision of the National Land Code is a TKPM land application submitted?",
+    "answer": "Section 62 of the National Land Code.",
+    "page": 22
+  },
+  {
+    "question": "What happens to a new TKPM application after State Executive Council approval?",
+    "answer": "It is submitted to the TKPM Project Development and Re-evaluation Committee meeting.",
+    "page": 22
+  },
+  {
+    "question": "Which body receives the federal development-funding application after it is channelled through the Department's Strategic Planning Division?",
+    "answer": "The Ministry of Economy.",
+    "page": 22
+  },
+  {
+    "question": "When might technical consultants be appointed during development of a new TKPM?",
+    "answer": "After funding approval, when specialist studies or approvals are needed, such as environmental impact assessment, erosion and sediment plans, or planning permission.",
+    "page": 22
+  },
+  {
+    "question": "What procurement rules govern the preparation of quotations or tenders for TKPM development work?",
+    "answer": "Supply, works, and services procurement must follow current financial-management procedures issued by the Malaysian Treasury, and specifications are prepared only after project approval.",
+    "page": 23
+  },
+  {
+    "question": "What two foundations should guide a new TKPM master development plan?",
+    "answer": "The participant or project business plan and appropriate technology determined by the Department of Agriculture.",
+    "page": 26
+  },
+  {
+    "question": "What happens in the master-plan flow when the proposed land is found unsuitable?",
+    "answer": "The application is rejected and the process ends.",
+    "page": 26
+  },
+  {
+    "question": "What land information must a TKPM master plan include?",
+    "answer": "Gazettement status, location maps, physical, developed and planted area, grant or lot numbers, water source, land-use map, and reports on soil and crop suitability.",
+    "page": 28
+  },
+  {
+    "question": "Which financial measures belong in the master plan's development and operating cost section?",
+    "answer": "Total project cost, operating cost, and either return on investment or the creativity index.",
+    "page": 28
+  },
+  {
+    "question": "What outputs and outcomes must a TKPM master plan distinguish?",
+    "answer": "Outputs include participant numbers, area, production volume, and myGAP or myOrganic certifications; outcomes include production value, income, and productivity.",
+    "page": 28
+  },
+  {
+    "question": "What minimum lot sizes apply to non-seasonal fruit, vegetables, and cash crops or herbs?",
+    "answer": "Five hectares for non-seasonal fruit, two hectares for vegetables, and two hectares for cash crops, herbs, or spices.",
+    "page": 30
+  },
+  {
+    "question": "What minimum scale is required for protected and open fertigation participants?",
+    "answer": "At least four protected units comprising 12 bays, or 10,000 polybags for open fertigation, estimated at one hectare.",
+    "page": 30
+  },
+  {
+    "question": "Who chairs the participant interview panel, and how many panel members are required at minimum?",
+    "answer": "The State Director of Agriculture chairs it, and the interview panel must have at least four members.",
+    "page": 30
+  },
+  {
+    "question": "How quickly must a successful applicant return the Letter of Acceptance?",
+    "answer": "Within two weeks.",
+    "page": 31
+  },
+  {
+    "question": "Can applications to join a TKPM project be submitted online as well as manually?",
+    "answer": "Yes. The guidelines allow either manual or online applications.",
+    "page": 31
+  },
+  {
+    "question": "What eligibility routes can demonstrate an applicant's agricultural capability?",
+    "answer": "Prior farm experience, a recognized certificate, diploma or degree, or an agricultural course certificate from a recognized public or private training institution.",
+    "page": 31
+  },
+  {
+    "question": "Does the programme impose an age limit on Malaysian applicants?",
+    "answer": "No age limit is stated, although youth are given priority.",
+    "page": 31
+  },
+  {
+    "question": "Who determines the minimum capital and credit-standing requirement for an applicant?",
+    "answer": "The relevant State Department of Agriculture.",
+    "page": 31
+  },
+  {
+    "question": "What planting deadlines follow acceptance into a TKPM project?",
+    "answer": "Planting must begin within three months of acceptance and the allocated area must be fully planted within six months.",
+    "page": 32
+  },
+  {
+    "question": "Which project costs must participants finance themselves?",
+    "answer": "Operating costs such as seed, fertilizer, pesticides, tools, irrigation equipment and installation, slope or erosion protection, labour, cultivation, crop care, marketing, and maintenance.",
+    "page": 32
+  },
+  {
+    "question": "Under what condition may intercrops or an integrated project occupy part of a participant's planted area?",
+    "answer": "They may occupy no more than 30% of the planted area and must not harm the main crop; the restriction does not apply in the same way to seasonal fruit crops.",
+    "page": 32
+  },
+  {
+    "question": "When must participants apply for myGAP or myOrganic certification, and when must they obtain it?",
+    "answer": "They must apply three months before the crop bears produce and obtain certification within two years after it begins bearing.",
+    "page": 33
+  },
+  {
+    "question": "Why must participants submit produce to the Department of Agriculture for MRL analysis?",
+    "answer": "To support periodic monitoring of maximum pesticide residue levels.",
+    "page": 33
+  },
+  {
+    "question": "What approvals are needed before a participant alters project infrastructure or structures?",
+    "answer": "Prior written consent from the TKPM Manager.",
+    "page": 33
+  },
+  {
+    "question": "What must a participant do if project equipment is lost?",
+    "answer": "Report the loss to the police and the TKPM Manager within 24 hours.",
+    "page": 33
+  },
+  {
+    "question": "Who bears the cost of maintaining loaned farm machinery and related infrastructure?",
+    "answer": "The participant, who must also follow the maintenance schedule and keep records.",
+    "page": 33
+  },
+  {
+    "question": "What workforce preference applies to TKPM participants?",
+    "answer": "They must give priority to qualified local workers; foreign labour requires the manager's approval and lawful recruitment channels.",
+    "page": 34
+  },
+  {
+    "question": "Can a TKPM lot be transferred, inherited, or sublet?",
+    "answer": "No. It is not a Temporary Occupation Licence lot, cannot be transferred or inherited when participation ends, and cannot be sublet to a third party.",
+    "page": 34
+  },
+  {
+    "question": "What is the minimum project term a landowner may offer, subject to crop type?",
+    "answer": "At least two years.",
+    "page": 35
+  },
+  {
+    "question": "What determines whether a participant receives an extension of the project term?",
+    "answer": "The landowner's decision on the extension application and an assessment of the participant's performance.",
+    "page": 35
+  },
+  {
+    "question": "What infrastructure does the landowner provide under a rental arrangement, and what remains the participant's responsibility?",
+    "answer": "The landowner provides shared basic infrastructure such as electricity, telecommunications, and roads; infrastructure within the individual plot is the participant's responsibility.",
+    "page": 35
+  },
+  {
+    "question": "What payments accompany acceptance of a rental offer on Federal Lands Commissioner land?",
+    "answer": "A security deposit equal to three months' rent and the first month's rent.",
+    "page": 35
+  },
+  {
+    "question": "How far in advance should a participant apply in writing to extend a rental or lease?",
+    "answer": "At least six months before the agreement expires, unless the landowner specifies another period.",
+    "page": 36
+  },
+  {
+    "question": "Are permanent crops allowed on land held under a TKPM rental?",
+    "answer": "No. Permanent crops are not allowed on rented land.",
+    "page": 36
+  },
+  {
+    "question": "Which three parties sign a tripartite TKPM rental or lease agreement?",
+    "answer": "The landowner, the Department, and the applicant.",
+    "page": 37
+  },
+  {
+    "question": "Who must pay the stamp duty associated with a participant's rental or lease agreement?",
+    "answer": "The participant bears the full stamp-duty cost.",
+    "page": 37
+  },
+  {
+    "question": "Why can the government retain part or all of a participant's security deposit at termination?",
+    "answer": "To cover outstanding rent or utility bills, or other breaches handled under the applicable deposit rules.",
+    "page": 38
+  },
+  {
+    "question": "How much notice must a participant give when voluntarily withdrawing from TKPM?",
+    "answer": "At least three months before ending the project.",
+    "page": 38
+  },
+  {
+    "question": "What is the warning sequence before a participant is terminated for non-compliance?",
+    "answer": "A first warning is issued, a second warning follows 14 days later, and if no corrective action is taken within 14 days after the second warning, a termination letter is issued.",
+    "page": 39
+  },
+  {
+    "question": "What major planning areas must a participant's business plan cover?",
+    "answer": "Purpose and objectives, planting and production, infrastructure and equipment maintenance or development, labour requirements, financial analysis, marketing, and an action plan.",
+    "page": 42
+  },
+  {
+    "question": "Who reviews and approves the annual business plan and crop-production schedule?",
+    "answer": "The TKPM Manager considers it and forwards the business plan to the State Director of Agriculture for approval.",
+    "page": 42
+  },
+  {
+    "question": "What financial-analysis periods are recommended for annual or short-cycle crops versus fruit crops?",
+    "answer": "Two to three years for vegetables, cash crops, field crops, herbs, fertigation, and industrial crops; five years for short- or long-term fruit crops.",
+    "page": 43
+  },
+  {
+    "question": "Who chairs the project-development and re-evaluation committee, and how often must it meet?",
+    "answer": "The Director-General of Agriculture chairs it, and it meets as needed but at least once a year.",
+    "page": 48
+  },
+  {
+    "question": "What three types of proposal does the project-development and re-evaluation committee assess for approval?",
+    "answer": "New TKPM master development plans, project termination, and changes to project area or crop selection.",
+    "page": 48
+  },
+  {
+    "question": "How frequently do the state- and district-level implementation committees meet?",
+    "answer": "Each meets four times a year.",
+    "page": 50
+  },
+  {
+    "question": "How do the state and district implementation committees differ in their monitoring focus?",
+    "answer": "The state committee monitors development, progress, technology or GAP analysis, output, and marketing networks; the district committee also focuses on rent and utility payments and updating participant and lot information.",
+    "page": 50
+  },
+  {
+    "question": "What marketing channels are available to TKPM participants?",
+    "answer": "Self-directed domestic or export sales, contract farming, lead companies including private firms or GLCs, direct sales, online marketing, and other methods in the business plan.",
+    "page": 52
+  },
+  {
+    "question": "What are the three formal methods used to monitor TKPM projects?",
+    "answer": "Monitoring meetings, monitoring visits, and reporting.",
+    "page": 54
+  },
+  {
+    "question": "How often must headquarters and state technical teams conduct field monitoring?",
+    "answer": "At least twice a year for each team.",
+    "page": 54
+  },
+  {
+    "question": "What does the headquarters monitoring team examine during field visits?",
+    "answer": "Financial and physical performance, technology transfer, implementation procedures, current problems, and possible improvements.",
+    "page": 54
+  },
+  {
+    "question": "What six technical programmes are covered by the state technical team's action plan?",
+    "answer": "Cultural practices, erosion control, fertilization, pest control, farm infrastructure, and crop certification.",
+    "page": 55
+  },
+  {
+    "question": "Who sends the monthly allocation-expenditure report, and where does it go?",
+    "answer": "The State Department of Agriculture sends it monthly to the Strategic Planning Division and BPIT headquarters.",
+    "page": 56
+  },
+  {
+    "question": "Who enters, verifies, and receives the monthly TKPM progress report?",
+    "answer": "The Crop Extension Agent enters it in the Project Monitoring System, the District Agriculture Officer verifies it, and BPIT headquarters receives it.",
+    "page": 56
+  },
+  {
+    "question": "What land-related changes can justify terminating an entire TKPM project?",
+    "answer": "Cancellation of gazettement or reservation, withdrawal of permission to use the land, a change of ownership, or conversion from agricultural to building or industrial status.",
+    "page": 58
+  },
+  {
+    "question": "When can natural-disaster damage justify closing a TKPM project?",
+    "answer": "When productivity is impaired and continuing would require high expenditure that is no longer economical.",
+    "page": 58
+  },
+  {
+    "question": "Which committee considers approval to terminate a TKPM project?",
+    "answer": "The TKPM Project Development and Re-evaluation Committee.",
+    "page": 58
+  },
+  {
+    "question": "What warning does the disclaimer give about figures and procedures in the handbook?",
+    "answer": "They are benchmarks rather than final rules, may be updated by current management policy, and estimated costs may change with circumstances and justification.",
+    "page": 60
+  },
+  {
+    "question": "What marketing information must an applicant disclose on the TKPM application form?",
+    "answer": "The shares sold directly, to collectors, wholesalers, or under contract, plus estimated monthly sales volume in metric tonnes.",
+    "page": 64
+  },
+  {
+    "question": "What legal declaration accompanies the information supplied on the application form?",
+    "answer": "The applicant declares the information true and acknowledges that false information may be an offence under Section 18, with penalties under Section 24, of the Malaysian Anti-Corruption Commission Act 2009.",
+    "page": 65
+  },
+  {
+    "question": "How long is the sample Federal Lands Commissioner premises rental agreement?",
+    "answer": "Thirty-six months.",
+    "page": 80
+  },
+  {
+    "question": "By what monthly deadline must rent be paid under the sample agreement?",
+    "answer": "No later than the tenth day of each month.",
+    "page": 85
+  },
+  {
+    "question": "What events count as force majeure under the sample agreement?",
+    "answer": "Events beyond a party's control such as war or terrorism, nuclear contamination, aircraft pressure waves, severe natural disasters, certain civil or industrial disturbances, pandemics or epidemics, and other unforeseeable events meeting the stated tests.",
+    "page": 93
+  },
+  {
+    "question": "How soon must a party notify the other of a force-majeure event?",
+    "answer": "Within 48 hours, with details of the event and its effect on performance.",
+    "page": 94
+  }
+]

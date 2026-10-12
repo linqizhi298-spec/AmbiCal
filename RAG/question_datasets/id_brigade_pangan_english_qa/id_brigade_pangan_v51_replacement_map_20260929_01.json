@@ -1,0 +1,296 @@
+[
+  {
+    "answerability": "answerable",
+    "replacement_question_id": "idbp-sem-002",
+    "removed_question_id": "idbp-a-035",
+    "token_jaccard": 0.21428571428571427,
+    "reason": "challenge replacement; ordinary retention did not use model correctness"
+  },
+  {
+    "answerability": "answerable",
+    "replacement_question_id": "idbp-sem-007",
+    "removed_question_id": "idbp-a-006",
+    "token_jaccard": 0.2727272727272727,
+    "reason": "challenge replacement; ordinary retention did not use model correctness"
+  },
+  {
+    "answerability": "answerable",
+    "replacement_question_id": "idbp-sem-008",
+    "removed_question_id": "idbp-a-028",
+    "token_jaccard": 0.2,
+    "reason": "challenge replacement; ordinary retention did not use model correctness"
+  },
+  {
+    "answerability": "answerable",
+    "replacement_question_id": "idbp-sem-010",
+    "removed_question_id": "idbp-a-003",
+    "token_jaccard": 0.2608695652173913,
+    "reason": "challenge replacement; ordinary retention did not use model correctness"
+  },
+  {
+    "answerability": "answerable",
+    "replacement_question_id": "idbp-sem-014",
+    "removed_question_id": "idbp-a-016",
+    "token_jaccard": 0.25,
+    "reason": "challenge replacement; ordinary retention did not use model correctness"
+  },
+  {
+    "answerability": "answerable",
+    "replacement_question_id": "idbp-sem-016",
+    "removed_question_id": "idbp-a-015",
+    "token_jaccard": 0.17391304347826086,
+    "reason": "challenge replacement; ordinary retention did not use model correctness"
+  },
+  {
+    "answerability": "answerable",
+    "replacement_question_id": "idbp-sem-017",
+    "removed_question_id": "idbp-a-080",
+    "token_jaccard": 0.17391304347826086,
+    "reason": "challenge replacement; ordinary retention did not use model correctness"
+  },
+  {
+    "answerability": "answerable",
+    "replacement_question_id": "idbp-sem-018",
+    "removed_question_id": "idbp-a-012",
+    "token_jaccard": 0.12,
+    "reason": "challenge replacement; ordinary retention did not use model correctness"
+  },
+  {
+    "answerability": "answerable",
+    "replacement_question_id": "idbp-sem-019",
+    "removed_question_id": "idbp-a-005",
+    "token_jaccard": 0.14285714285714285,
+    "reason": "challenge replacement; ordinary retention did not use model correctness"
+  },
+  {
+    "answerability": "answerable",
+    "replacement_question_id": "idbp-sem-024",
+    "removed_question_id": "idbp-a-062",
+    "token_jaccard": 0.19047619047619047,
+    "reason": "challenge replacement; ordinary retention did not use model correctness"
+  },
+  {
+    "answerability": "answerable",
+    "replacement_question_id": "idbp-sem-026",
+    "removed_question_id": "idbp-a-077",
+    "token_jaccard": 0.14285714285714285,
+    "reason": "challenge replacement; ordinary retention did not use model correctness"
+  },
+  {
+    "answerability": "answerable",
+    "replacement_question_id": "idbp-sem-028",
+    "removed_question_id": "idbp-a-056",
+    "token_jaccard": 0.14285714285714285,
+    "reason": "challenge replacement; ordinary retention did not use model correctness"
+  },
+  {
+    "answerability": "answerable",
+    "replacement_question_id": "idbp-sem-030",
+    "removed_question_id": "idbp-a-013",
+    "token_jaccard": 0.08333333333333333,
+    "reason": "challenge replacement; ordinary retention did not use model correctness"
+  },
+  {
+    "answerability": "answerable",
+    "replacement_question_id": "idbp-sem-031",
+    "removed_question_id": "idbp-a-092",
+    "token_jaccard": 0.08695652173913043,
+    "reason": "challenge replacement; ordinary retention did not use model correctness"
+  },
+  {
+    "answerability": "answerable",
+    "replacement_question_id": "idbp-sem-039",
+    "removed_question_id": "idbp-a-026",
+    "token_jaccard": 0.12,
+    "reason": "challenge replacement; ordinary retention did not use model correctness"
+  },
+  {
+    "answerability": "answerable",
+    "replacement_question_id": "idbp-sem-052",
+    "removed_question_id": "idbp-a-007",
+    "token_jaccard": 0.1,
+    "reason": "challenge replacement; ordinary retention did not use model correctness"
+  },
+  {
+    "answerability": "answerable",
+    "replacement_question_id": "idbp-sem3-a-001",
+    "removed_question_id": "idbp-a-004",
+    "token_jaccard": 0.08571428571428572,
+    "reason": "challenge replacement; ordinary retention did not use model correctness"
+  },
+  {
+    "answerability": "answerable",
+    "replacement_question_id": "idbp-sem3-a-002",
+    "removed_question_id": "idbp-a-089",
+    "token_jaccard": 0.06451612903225806,
+    "reason": "challenge replacement; ordinary retention did not use model correctness"
+  },
+  {
+    "answerability": "answerable",
+    "replacement_question_id": "idbp-sem3-a-003",
+    "removed_question_id": "idbp-a-033",
+    "token_jaccard": 0.10344827586206896,
+    "reason": "challenge replacement; ordinary retention did not use model correctness"
+  },
+  {
+    "answerability": "answerable",
+    "replacement_question_id": "idbp-sem3-a-004",
+    "removed_question_id": "idbp-a-009",
+    "token_jaccard": 0.13793103448275862,
+    "reason": "challenge replacement; ordinary retention did not use model correctness"
+  },
+  {
+    "answerability": "unanswerable",
+    "replacement_question_id": "idbp-dfu2-061",
+    "removed_question_id": "idbp-u-080",
+    "token_jaccard": 0.21739130434782608,
+    "reason": "challenge replacement; ordinary retention did not use model correctness"
+  },
+  {
+    "answerability": "unanswerable",
+    "replacement_question_id": "idbp-dfu4-001",
+    "removed_question_id": "idbp-u-006",
+    "token_jaccard": 0.1,
+    "reason": "challenge replacement; ordinary retention did not use model correctness"
+  },
+  {
+    "answerability": "unanswerable",
+    "replacement_question_id": "idbp-dfu4-003",
+    "removed_question_id": "idbp-u-091",
+    "token_jaccard": 0.1111111111111111,
+    "reason": "challenge replacement; ordinary retention did not use model correctness"
+  },
+  {
+    "answerability": "unanswerable",
+    "replacement_question_id": "idbp-dfu4-007",
+    "removed_question_id": "idbp-u-060",
+    "token_jaccard": 0.15,
+    "reason": "challenge replacement; ordinary retention did not use model correctness"
+  },
+  {
+    "answerability": "unanswerable",
+    "replacement_question_id": "idbp-dfu4-022",
+    "removed_question_id": "idbp-u-012",
+    "token_jaccard": 0.1111111111111111,
+    "reason": "challenge replacement; ordinary retention did not use model correctness"
+  },
+  {
+    "answerability": "unanswerable",
+    "replacement_question_id": "idbp-dfu4-023",
+    "removed_question_id": "idbp-u-099",
+    "token_jaccard": 0.10526315789473684,
+    "reason": "challenge replacement; ordinary retention did not use model correctness"
+  },
+  {
+    "answerability": "unanswerable",
+    "replacement_question_id": "idbp-dfu4-025",
+    "removed_question_id": "idbp-u-056",
+    "token_jaccard": 0.13333333333333333,
+    "reason": "challenge replacement; ordinary retention did not use model correctness"
+  },
+  {
+    "answerability": "unanswerable",
+    "replacement_question_id": "idbp-dfu4-027",
+    "removed_question_id": "idbp-u-013",
+    "token_jaccard": 0.0625,
+    "reason": "challenge replacement; ordinary retention did not use model correctness"
+  },
+  {
+    "answerability": "unanswerable",
+    "replacement_question_id": "idbp-dfu4-032",
+    "removed_question_id": "idbp-u-046",
+    "token_jaccard": 0.23076923076923078,
+    "reason": "challenge replacement; ordinary retention did not use model correctness"
+  },
+  {
+    "answerability": "unanswerable",
+    "replacement_question_id": "idbp-dfu5-001",
+    "removed_question_id": "idbp-u-010",
+    "token_jaccard": 0.19047619047619047,
+    "reason": "challenge replacement; ordinary retention did not use model correctness"
+  },
+  {
+    "answerability": "unanswerable",
+    "replacement_question_id": "idbp-dfu5-002",
+    "removed_question_id": "idbp-u-058",
+    "token_jaccard": 0.16666666666666666,
+    "reason": "challenge replacement; ordinary retention did not use model correctness"
+  },
+  {
+    "answerability": "unanswerable",
+    "replacement_question_id": "idbp-dfu5-008",
+    "removed_question_id": "idbp-u-011",
+    "token_jaccard": 0.1,
+    "reason": "challenge replacement; ordinary retention did not use model correctness"
+  },
+  {
+    "answerability": "unanswerable",
+    "replacement_question_id": "idbp-sem-073",
+    "removed_question_id": "idbp-u-019",
+    "token_jaccard": 0.21052631578947367,
+    "reason": "challenge replacement; ordinary retention did not use model correctness"
+  },
+  {
+    "answerability": "unanswerable",
+    "replacement_question_id": "idbp-sem-088",
+    "removed_question_id": "idbp-u-073",
+    "token_jaccard": 0.17391304347826086,
+    "reason": "challenge replacement; ordinary retention did not use model correctness"
+  },
+  {
+    "answerability": "unanswerable",
+    "replacement_question_id": "idbp-sem-089",
+    "removed_question_id": "idbp-u-007",
+    "token_jaccard": 0.2222222222222222,
+    "reason": "challenge replacement; ordinary retention did not use model correctness"
+  },
+  {
+    "answerability": "unanswerable",
+    "replacement_question_id": "idbp-sem2-u-014",
+    "removed_question_id": "idbp-u-026",
+    "token_jaccard": 0.09523809523809523,
+    "reason": "challenge replacement; ordinary retention did not use model correctness"
+  },
+  {
+    "answerability": "unanswerable",
+    "replacement_question_id": "idbp-sem2-u-016",
+    "removed_question_id": "idbp-u-096",
+    "token_jaccard": 0.12,
+    "reason": "challenge replacement; ordinary retention did not use model correctness"
+  },
+  {
+    "answerability": "unanswerable",
+    "replacement_question_id": "idbp-sem2-u-018",
+    "removed_question_id": "idbp-u-100",
+    "token_jaccard": 0.15789473684210525,
+    "reason": "challenge replacement; ordinary retention did not use model correctness"
+  },
+  {
+    "answerability": "unanswerable",
+    "replacement_question_id": "idbp-sem2-u-020",
+    "removed_question_id": "idbp-u-020",
+    "token_jaccard": 0.13636363636363635,
+    "reason": "challenge replacement; ordinary retention did not use model correctness"
+  },
+  {
+    "answerability": "unanswerable",
+    "replacement_question_id": "idbp-sem3-u-001",
+    "removed_question_id": "idbp-u-094",
+    "token_jaccard": 0.1111111111111111,
+    "reason": "challenge replacement; ordinary retention did not use model correctness"
+  },
+  {
+    "answerability": "unanswerable",
+    "replacement_question_id": "idbp-sem3-u-002",
+    "removed_question_id": "idbp-u-004",
+    "token_jaccard": 0.10526315789473684,
+    "reason": "challenge replacement; ordinary retention did not use model correctness"
+  },
+  {
+    "answerability": "unanswerable",
+    "replacement_question_id": "idbp-sem3-u-004",
+    "removed_question_id": "idbp-u-077",
+    "token_jaccard": 0.037037037037037035,
+    "reason": "challenge replacement; ordinary retention did not use model correctness"
+  }
+]

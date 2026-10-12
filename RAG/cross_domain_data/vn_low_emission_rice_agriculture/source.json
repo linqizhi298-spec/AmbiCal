@@ -1,0 +1,43 @@
+{
+    "document_id":  "vn_low_emission_rice_agriculture",
+    "title":  "Sổ tay hướng dẫn Quy trình kỹ thuật sản xuất lúa chất lượng cao và phát thải thấp vùng Đồng bằng sông Cửu Long",
+    "english_title":  "Handbook for High-Quality and Low-Emission Rice Production in the Mekong Delta",
+    "language":  "Vietnamese",
+    "domain":  "Agriculture; rice production; low-emission farming",
+    "country":  "Vietnam",
+    "year":  2024,
+    "issuing_organization":  "Department of Crop Production, Ministry of Agriculture and Rural Development of Vietnam",
+    "citation":  "Cục Trồng trọt. 2024. Sổ tay hướng dẫn Quy trình kỹ thuật sản xuất lúa chất lượng cao và phát thải thấp vùng đồng bằng sông Cửu Long.",
+    "landing_page":  "https://khuyennongvn.gov.vn/thu-vien-khuyen-nong/thu-vien-sach-kn/so-tay-huong-dan-quy-trinh-ky-thuat-san-xuat-lua-chat-luong-cao-va-phat-thai-thap-vung-dong-bang-song-cuu-long-24341.html",
+    "pdf_url":  "https://khuyennongvn.gov.vn/data/documents/0/2024/03/29/hangweb/so-tay-huong-dan-quy-trinh-1-trieu-ha-dbscl-ngay-27-3-2024.pdf",
+    "local_storage_policy":  "Temporary PDF only; delete after successful conversion and quality audit.",
+    "temporary_pdf_path":  "C:\\Users\\Administrator\\AppData\\Local\\Temp\\ambical_pdf\\So_tay_lua_chat_luong_cao_phat_thai_thap_DBSCL.pdf",
+    "sha256":  "1DD8CD4859EA0695011C47A306E9A264BC995110751C5AE5EE4215FA5C0C1B9A",
+    "size_bytes":  26059098,
+    "size_mb":  24.85,
+    "pages":  78,
+    "nonempty_pages_ge_20":  42,
+    "nonempty_pages_ge_100":  34,
+    "total_native_characters":  30231,
+    "downloaded_at":  "2026-09-11T15:41:38.3000771+08:00",
+    "temporary_pdf_retained":  false,
+    "temporary_pdf_deleted":  true,
+    "processing_status":  "text_only_markdown_validated",
+    "last_processed_utc":  "2026-09-11T07:49:35.2536236Z",
+    "artifacts":  {
+                      "docling_markdown":  "cross_domain_data/vn_low_emission_rice_agriculture/docling_output/So_tay_lua_chat_luong_cao_phat_thai_thap_DBSCL.md",
+                      "docling_json":  "cross_domain_data/vn_low_emission_rice_agriculture/docling_output/So_tay_lua_chat_luong_cao_phat_thai_thap_DBSCL.json",
+                      "retrieval_markdown":  "cross_domain_data/vn_low_emission_rice_agriculture/retrieval_text/So_tay_lua_chat_luong_cao_phat_thai_thap_DBSCL_text_only.md"
+                  },
+    "quality_check":  {
+                          "passed":  true,
+                          "characters":  54874,
+                          "headings":  118,
+                          "table_rows":  42,
+                          "vietnamese_hits":  2198,
+                          "image_placeholders":  0,
+                          "embedded_image_hits":  0,
+                          "replacement_characters":  0,
+                          "mojibake_sequences":  0
+                      }
+}

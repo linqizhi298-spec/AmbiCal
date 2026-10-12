@@ -1,0 +1,914 @@
+[
+  {
+    "question": "What are the four operating divisions shown in the Brigade Pangan organization?",
+    "answer": "Production; agricultural machinery; harvest, processing, marketing and downstream development; and finance and general affairs.",
+    "page": 6,
+    "question_id": "idbp-a-010",
+    "reference_answer": "Production; agricultural machinery; harvest, processing, marketing and downstream development; and finance and general affairs.",
+    "answerability": "answerable",
+    "gold_chunk_ids": [
+      "1e998eed444fad0baf1a6983182c6075a77ff5288487cf55b9c2a412aca8509c",
+      "6ee49851cf3b7f18ef118501f4151345d6cad3482442ae967dce2318de4faa68",
+      "2cc1c0e20b2392510cb346db316ce05341e90943257465c2695aa771c8ebb3f6"
+    ],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [],
+    "supporting_quote_id": "Brigade Panganmengusulkan Alsintan yang dibutuhkanke Distan dan PJ Oplahdan CSR untuk disampaikan ke Direktorat Teknis terkait di Kementan\n\n## PENETAPAN\n\nmelakukanmusyawarahuntuk pembentukanBrigade Pangandan menyiapkan&amp; menyerahkan berkas persyaratanadministrasi, diketahui Kades dan Babinsa\n\n2\n\nPenetapan\n\n## INPUT SIMLUHTAN\n\nAdmin SimluhtanBPP menginput Brigade Panganke dalam Simluhtan\n\n4\n\n3\n\nPengusulan Alsintan Penginputan di Simluhtan\n\n5 15 petani di luasan lahan Oplah dan CSR + 200 ha\n\n\n## PROYEKSI ANALISIS USAHA TANI TAHUN KE-1 LUASAN 200 HA\n\n## TOTAL BIAYA\n\nRp2.515.693.333\n\n## PENERIMAAN/OMSET\n\n## Rp4.200.000.000\n\nProvitas (kg/Ha) = 3.500 Hasil Panen (kg) = 700.000 Harga (Rp/kg) = Rp6.000",
+    "absent_reason": null,
+    "source_section": "Rp4.200.000.000 / Rp10.000.000/Bulan",
+    "source_page_verified": 6,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "dense_failure_challenge",
+    "selection_basis": "original_100x100_plus_docling_page_provenance",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "page_provenance_mapped",
+      "mapping_method": "docling_page_to_frozen_chroma_chunk",
+      "manual_semantic_review_required_before_final_selection": true
+    },
+    "dense_screening_tier": "A",
+    "dense_failure_count": 3,
+    "dense_correct_by_k": {
+      "1": false,
+      "3": false,
+      "5": false
+    },
+    "gold_best_rank": 4,
+    "wrong_or_attractor_best_rank": null,
+    "ambical_used_during_screening": false,
+    "dense_screening_status": "selected"
+  },
+  {
+    "question": "Which planning documents may an extension adviser help Brigade Pangan verify or prepare?",
+    "answer": "Land-management MoUs, machinery and input assistance proposals, cooperation agreements, rice farm or agribusiness analyses, operational plans covering planting through marketing, and financing applications.",
+    "page": 13,
+    "question_id": "idbp-a-018",
+    "reference_answer": "Land-management MoUs, machinery and input assistance proposals, cooperation agreements, rice farm or agribusiness analyses, operational plans covering planting through marketing, and financing applications.",
+    "answerability": "answerable",
+    "gold_chunk_ids": [
+      "39b0827ab50f4904b3cc51a3805000c46d44e15380eaa5ede410faaff6d5b15f",
+      "bb9d632d591ac46deb61e651e1dbfdae2c73c62d3ab2fdf2d0b992fb919983bd",
+      "726090079ef9fb89c67a7593bad12fa87aacbf9137a488c6a6709db567a571b4"
+    ],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [],
+    "supporting_quote_id": "|    3 | Pendampingan dalam Perencanaan | Jenis pendampingan : 1. Verifikasi dan/atau penyusunanMoU dengan petani/poktan pemilik lahan 2. Verifikasi dan/atau penyusunan proposal bantuan alsintan dan saprodi bagi BP 3. Verifikasi dan/atau penyusunan Perjanjian Kerja Sama BP dengan petani/poktan CPCL penerima bantuan 4. Verifikasi dan/atau penyusunan perhitungan analisa usaha tani/agribisnis padi 5. Verifikasi dan/atau penyusunan rencana operasional (tanam, panen, pasca panen, dan pemasaran/offtaker) 6. Penyiapan dokumen pengajuan pembiayaan/permodalan kepada lembaga pembiayaan sesuai dengan kebutuhan | Uraian Kegiatan *Isi sendiri*                                                                                                                                                                  ",
+    "absent_reason": null,
+    "source_section": "PELAPORAN PENYULUH PENDAMPING BRIGADE PANGAN",
+    "source_page_verified": 13,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "dense_failure_challenge",
+    "selection_basis": "original_100x100_plus_docling_page_provenance",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "page_provenance_mapped",
+      "mapping_method": "docling_page_to_frozen_chroma_chunk",
+      "manual_semantic_review_required_before_final_selection": true
+    },
+    "dense_screening_tier": "A",
+    "dense_failure_count": 3,
+    "dense_correct_by_k": {
+      "1": false,
+      "3": false,
+      "5": false
+    },
+    "gold_best_rank": 10,
+    "wrong_or_attractor_best_rank": null,
+    "ambical_used_during_screening": false,
+    "dense_screening_status": "selected"
+  },
+  {
+    "question": "How does the reporting form classify a Brigade Pangan member's monthly net income?",
+    "answer": "Below Rp3 million is red, Rp3 million to below Rp7 million is yellow, and Rp7 million to Rp10 million is green.",
+    "page": 15,
+    "question_id": "idbp-a-020",
+    "reference_answer": "Below Rp3 million is red, Rp3 million to below Rp7 million is yellow, and Rp7 million to Rp10 million is green.",
+    "answerability": "answerable",
+    "gold_chunk_ids": [
+      "1aaeb55e327d32fd90f8cd09b3221bf03e9af68086e30b802c04e54843332ea0",
+      "fc14f6872ac3715e31bcfadd7919d117e4aa527ce72eafbc05abd3a0089c9aae",
+      "97de55d6602c5bd3713d2c1c1682c69ba9235f46db960ac8b56b0a9253252e89"
+    ],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [],
+    "supporting_quote_id": "|------|----------------------------------------|---------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------|\n|    7 | Pengelolaan Literasi/ laporan keuangan | Pendampingan penyusunan laporan Keuangan BP | 1. Jumlah pendapa",
+    "absent_reason": null,
+    "source_section": "PELAPORAN PENYULUH PENDAMPING BRIGADE PANGAN",
+    "source_page_verified": 15,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "dense_failure_challenge",
+    "selection_basis": "original_100x100_plus_docling_page_provenance",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "page_provenance_mapped",
+      "mapping_method": "docling_page_to_frozen_chroma_chunk",
+      "manual_semantic_review_required_before_final_selection": true
+    },
+    "dense_screening_tier": "A",
+    "dense_failure_count": 3,
+    "dense_correct_by_k": {
+      "1": false,
+      "3": false,
+      "5": false
+    },
+    "gold_best_rank": 12,
+    "wrong_or_attractor_best_rank": null,
+    "ambical_used_during_screening": false,
+    "dense_screening_status": "selected"
+  },
+  {
+    "question": "What must the accompanying extension worker identify before helping prepare Brigade Pangan's proposals?",
+    "answer": "Land condition and area, machinery needs, production-input needs, water management, and financing needs.",
+    "page": 16,
+    "question_id": "idbp-a-021",
+    "reference_answer": "Land condition and area, machinery needs, production-input needs, water management, and financing needs.",
+    "answerability": "answerable",
+    "gold_chunk_ids": [
+      "31ae79343f5891166dae9452bad3beb8d2f7197cd9f54bc6161cc48e83b52fc2"
+    ],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [],
+    "supporting_quote_id": "2/17/2025\n\n1\n\n\n## TUGAS PENYULUH PENDAMPING BP\n\n1. Melakukan koordinasi dengan Satuan Tugas Swasembada Pangan Kabupaten / Kota dan stake holder terkait\n2. mengidentifikasi kondisi dan luasan lahan, kebutuhan alat dan mesin pertanian, sarana produksi pertanian, tata Kelola air, dan permodalan\n3. Mendampingi Brigade Pangan dalam melakukan penyusunan rencana usulan kebutuhan alat mesin pertanian, sarana produksi pertanian, tata Kelola air, dan permodalan dan disampaikan ke Dinas Kab serta Pj Kab/Provinsi\n4. Mendampingi Brigade Pangan dalam penyusunan dan pelaksanaan kerja sama pengelolaan lahan agribisnis dengan pemilik lahan serta penghitungan analisis agribisnis padi\n\n2/17/2025\n\n\n1\n\n\n## TUGAS PENYULUH PENDAMPING BP -  LANJUTAN",
+    "absent_reason": null,
+    "source_section": "TUGAS PENYULUH PENDAMPING BP",
+    "source_page_verified": 16,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "dense_failure_challenge",
+    "selection_basis": "original_100x100_plus_docling_page_provenance",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "page_provenance_mapped",
+      "mapping_method": "docling_page_to_frozen_chroma_chunk",
+      "manual_semantic_review_required_before_final_selection": true
+    },
+    "dense_screening_tier": "A",
+    "dense_failure_count": 3,
+    "dense_correct_by_k": {
+      "1": false,
+      "3": false,
+      "5": false
+    },
+    "gold_best_rank": 8,
+    "wrong_or_attractor_best_rank": null,
+    "ambical_used_during_screening": false,
+    "dense_screening_status": "selected"
+  },
+  {
+    "question": "What forms of support are listed for strengthening and making a farmer corporation independent?",
+    "answer": "Business training, business-network development, facilitated access to finance, business promotion and protection, and stronger business-entity management.",
+    "page": 27,
+    "question_id": "idbp-a-030",
+    "reference_answer": "Business training, business-network development, facilitated access to finance, business promotion and protection, and stronger business-entity management.",
+    "answerability": "answerable",
+    "gold_chunk_ids": [
+      "540836c76deee925e87f4f0442b12c787bbd904187009e79864b262b071b99cf",
+      "48952c719f2a5fa738d0d87070bd775073b1fef87857b29b6683e090c857b6dd"
+    ],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [],
+    "supporting_quote_id": "1\n\n\n## KEUNGGULAN KOPERASI\n\n## Memiliki  Dasar Persamaan\n\nKoperasi dilaksanakan dengan dasar persamaan.\n\nSetiap anggota dalam koperasi mempunyai hak suara yang sama, serta setiap orang dapat menjadi anggota tanpa dibeda-bedakan.\n\n## Ekonomi Demokrasi\n\nPembagian keuntungan, setiap anggota akan mendapatkan Sisa Hasil Usaha (SHU) secara adil sesuai kontribusi dan jasa masing-masing anggota\n\n## Demokrasi Kooperatif\n\nKoperasi dibentuk oleh para anggota dijalankan oleh anggota dan hasilnya untuk kepentingan anggota\n\n## Manajemen Demokrasi\n\nPengelolaan Koperasi dilakukan atas kehendak dan keputusan para anggota. Para anggota pemegang dan melaksanakan kekuasaan tertinggi dalam Koperasi.\n\n2/16/2025\n\n\n1\n\n\nKementan memberi dukungan BP\n\n## bersfat komplementer:\n\n- Asintan\n- Saprodi (benih, dolomit,  N",
+    "absent_reason": null,
+    "source_section": "Demokrasi Kooperatif / Manajemen Demokrasi",
+    "source_page_verified": 27,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "dense_failure_challenge",
+    "selection_basis": "original_100x100_plus_docling_page_provenance",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "page_provenance_mapped",
+      "mapping_method": "docling_page_to_frozen_chroma_chunk",
+      "manual_semantic_review_required_before_final_selection": true
+    },
+    "dense_screening_tier": "A",
+    "dense_failure_count": 3,
+    "dense_correct_by_k": {
+      "1": false,
+      "3": false,
+      "5": false
+    },
+    "gold_best_rank": 5,
+    "wrong_or_attractor_best_rank": null,
+    "ambical_used_during_screening": false,
+    "dense_screening_status": "selected"
+  },
+  {
+    "question": "How should tillage differ when the pyrite layer is shallower or deeper than 50 cm?",
+    "answer": "Where pyrite is shallower than 50 cm, till shallowly with a rotary implement or gelebeg; where it is deeper than 50 cm, a moldboard plow may be followed by rotary tillage to create a deeper rooting medium.",
+    "page": 42,
+    "question_id": "idbp-a-042",
+    "reference_answer": "Where pyrite is shallower than 50 cm, till shallowly with a rotary implement or gelebeg; where it is deeper than 50 cm, a moldboard plow may be followed by rotary tillage to create a deeper rooting medium.",
+    "answerability": "answerable",
+    "gold_chunk_ids": [
+      "4744c4c2fd841d3bf2d566d99e406e724a85d517ccf81d41c448bb9646a22b41"
+    ],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [],
+    "supporting_quote_id": "Infrastruktur  Tata Air Mikro\n\n\n- Saluran Primer\n- Saluran Skunder berfungsi  sebagai saluran pensuplai air pasang ke saluran Tersier\n- Saluran Tersier berfungsi untuk mensuplai air  ke lahan\n- Saluran Drainase Utama (SDU) berfungsi untuk menampung air buangan dari lahan\n\n2/16/2025\n\n\n1\n\n\n## PENGOLAHAN TANAH\n\n- Untuk melumpurkan dan meratakan tanah\n- Mengurangi potensi gulma.\n- Cara Pengolahan Tanah:\n- Penyemprotan  dengan  herbisida  berbahan  aktif glyposat   untuk   mematikan   rumput   sampai keakarnya.\n- Aplikasi  4  L/ha  herbisida  dilakukan  1  minggu sebelum    pengolahan    tanah    menggunakan sprayer atau drone.\n- Tanah  dengan  lap.  pirit  &lt;  50  cm  diolah  dangkal menggunakan rotary/gelebeg\n- Lapisan pirit &gt; 50 cm, bisa menggunakan bajak singkal  dilanjutkan      denga",
+    "absent_reason": null,
+    "source_section": "PENGOLAHAN TANAH",
+    "source_page_verified": 42,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "dense_failure_challenge",
+    "selection_basis": "original_100x100_plus_docling_page_provenance",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "page_provenance_mapped",
+      "mapping_method": "docling_page_to_frozen_chroma_chunk",
+      "manual_semantic_review_required_before_final_selection": true
+    },
+    "dense_screening_tier": "A",
+    "dense_failure_count": 3,
+    "dense_correct_by_k": {
+      "1": false,
+      "3": false,
+      "5": false
+    },
+    "gold_best_rank": 17,
+    "wrong_or_attractor_best_rank": null,
+    "ambical_used_during_screening": false,
+    "dense_screening_status": "selected"
+  },
+  {
+    "question": "Which four listed tidal-swamp varieties mature in 114 days?",
+    "answer": "Inpara 7, Inpara 9 Agritan, Purwa, and Inpara 10 BLB.",
+    "page": 60,
+    "question_id": "idbp-a-053",
+    "reference_answer": "Inpara 7, Inpara 9 Agritan, Purwa, and Inpara 10 BLB.",
+    "answerability": "answerable",
+    "gold_chunk_ids": [
+      "8b42552c931ed29ab44dbc9b8c037024c7369c30a7306aad61efc6a30b142913",
+      "f0efe833aedf8815548d258cd394385cf68d9da75d36dcd81e7f59f7a34d0e27",
+      "b13fb853ab04da2f2cb0d1ed62c67cfd543d260645dafbcb4949773d0b73f5fc"
+    ],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [],
+    "supporting_quote_id": "| Purwa            |           114 | Ketan (KA 3,8%) | - - - -   | Agak toleran terhadap keracunan zat Fe,rendaman dan salinitas Agak rentan terhadap WBCbiotipe 1,2 dan 3 Tahan hawar daun bakteri patotipe III Tahan blas daun ras 001,041, 061, 133                                                    |\n| Inpara 10 BLB    |           114 | Pera            | - - - - - | Toleran terhadap keracunan zat besi Agak rentanWBCbio tipe 1,2 dan 3 Agak tahan terhadapHDB pato-tipe III dan IV Tahan terhadap blas daun 001, 041 Agak tahan blas daun ras 003,037, 133 dan 173                                       |",
+    "absent_reason": null,
+    "source_section": "VARIETAS UNGGUL UNTUK LAHAN RAWA PASANG SURUT",
+    "source_page_verified": 60,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "dense_failure_challenge",
+    "selection_basis": "original_100x100_plus_docling_page_provenance",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "page_provenance_mapped",
+      "mapping_method": "docling_page_to_frozen_chroma_chunk",
+      "manual_semantic_review_required_before_final_selection": true
+    },
+    "dense_screening_tier": "A",
+    "dense_failure_count": 3,
+    "dense_correct_by_k": {
+      "1": false,
+      "3": false,
+      "5": false
+    },
+    "gold_best_rank": 30,
+    "wrong_or_attractor_best_rank": null,
+    "ambical_used_during_screening": false,
+    "dense_screening_status": "selected"
+  },
+  {
+    "question": "What makes rice stem-borer damage especially difficult to manage?",
+    "answer": "No rice variety is resistant, yield loss from attack is absolute, and the pest can attack from nursery through vegetative and generative stages in both wet and dry seasons.",
+    "page": 96,
+    "question_id": "idbp-a-070",
+    "reference_answer": "No rice variety is resistant, yield loss from attack is absolute, and the pest can attack from nursery through vegetative and generative stages in both wet and dry seasons.",
+    "answerability": "answerable",
+    "gold_chunk_ids": [
+      "47d921d42bc9b1f53eeff2bdaed7bd3dc6de042d981ab0cfadb17250aae634de"
+    ],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [],
+    "supporting_quote_id": "2/16/2025\n\n9\n\n\n## HAMA UTAMA PADI\n\n## Ciri-ciri Tanaman Terserang Wereng Coklat\n\n- Daun berubah menjadi kekuningan.\n- Pada serangan yang parah keseluruhan tanaman padi menjadi kering dan mati, perkembangan akar merana dan bagian bawah tanaman yang terserang menjadi terlapisi oleh jamur.\n\n\n2/16/2025\n\n\n1\n\n\n## HAMA UTAMA PADI\n\n## Penggerek Batang padi\n\n- Tidak ada varietas yang tahan terhadap penggerek batang padi\n- Dampak serangan terhadap kehilangan hasil bersifat mutlak\n- Serangga dewasa  aktif pada senja hari (nocturnal) dan tertarik pada lampu\n- Serangan terjadi pada fase persemaian, vegetative, dan generatif baik pada musim hujan maupun kemarau\n\n\n2/16/2025\n\n1\n\n\n## HAMA UTAMA PADI\n\n## Gejala Fase Vegetatif\n\n\n## Gejala Fase Vegetatif\n\n\n2/16/2025\n\n\n1\n\n\n## Tikus",
+    "absent_reason": null,
+    "source_section": "HAMA UTAMA PADI / Penggerek Batang padi",
+    "source_page_verified": 96,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "dense_failure_challenge",
+    "selection_basis": "original_100x100_plus_docling_page_provenance",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "page_provenance_mapped",
+      "mapping_method": "docling_page_to_frozen_chroma_chunk",
+      "manual_semantic_review_required_before_final_selection": true
+    },
+    "dense_screening_tier": "A",
+    "dense_failure_count": 3,
+    "dense_correct_by_k": {
+      "1": false,
+      "3": false,
+      "5": false
+    },
+    "gold_best_rank": 13,
+    "wrong_or_attractor_best_rank": null,
+    "ambical_used_during_screening": false,
+    "dense_screening_status": "selected"
+  },
+  {
+    "question": "What field signs does the handbook use to identify rice that is ready to harvest?",
+    "answer": "About 95 percent of grains are yellow, the flag leaf is dry, panicles are 30-35 days past flowering, grain moisture is 21-26 percent, and hand rubbing causes about 16-30 percent shattering.",
+    "page": 114,
+    "question_id": "idbp-a-079",
+    "reference_answer": "About 95 percent of grains are yellow, the flag leaf is dry, panicles are 30-35 days past flowering, grain moisture is 21-26 percent, and hand rubbing causes about 16-30 percent shattering.",
+    "answerability": "answerable",
+    "gold_chunk_ids": [
+      "931dcf7b4b4a0d0b7acd2c3db8de6d4fec8187d9485a814ef595918f6bfa34a2"
+    ],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [],
+    "supporting_quote_id": "2/16/2025\n\n1\n\n\n## TANDA-TANDA PADI SIAP PANEN\n\n- 95 % gabah sudah menguning dan daun bendera telah mengering\n- Umur optimal malai 30 - 35 hari terhitung sejak hari sesudah berbunga (HSB)\n- Kadar air berkisar 21 - 26 %\n- Kerontokan gabah sekitar 16 30 % (Cara mengukurnya dengan meremas malai dengan tangan).\n\n\n2/16/2025\n\n\n1\n\n\n## PEMANENAN\n\n\n2/16/2025\n\n\nApabila butir pada 4/5 bulit sudah menguning dan keras dan butir pada 1/5 bulir masih kenyal maka tingkat kematangan sudah mencapai 80-85%.\n\n1\n\n\n## PEMANENAN\n\n## TINGGI PEMOTONGAN :",
+    "absent_reason": null,
+    "source_section": "TANDA-TANDA PADI SIAP PANEN",
+    "source_page_verified": 114,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "dense_failure_challenge",
+    "selection_basis": "original_100x100_plus_docling_page_provenance",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "page_provenance_mapped",
+      "mapping_method": "docling_page_to_frozen_chroma_chunk",
+      "manual_semantic_review_required_before_final_selection": true
+    },
+    "dense_screening_tier": "A",
+    "dense_failure_count": 3,
+    "dense_correct_by_k": {
+      "1": false,
+      "3": false,
+      "5": false
+    },
+    "gold_best_rank": 9,
+    "wrong_or_attractor_best_rank": null,
+    "ambical_used_during_screening": false,
+    "dense_screening_status": "selected"
+  },
+  {
+    "question": "In the hired-labor example, how many male and female workdays are budgeted and what is the total wage cost?",
+    "answer": "Fourteen male workdays and twelve female workdays, or 26 days in total, costing Rp2,080,000.",
+    "page": 162,
+    "question_id": "idbp-a-093",
+    "reference_answer": "Fourteen male workdays and twelve female workdays, or 26 days in total, costing Rp2,080,000.",
+    "answerability": "answerable",
+    "gold_chunk_ids": [
+      "d413f1381049e278efd545637c2312af4f3b1f5d2e664d7334faad80cc546de5"
+    ],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [],
+    "supporting_quote_id": "| Pemerataan Lahan   | Pemerataan Lahan   | Pemerataan Lahan   | Pemerataan Lahan   | Pemerataan Lahan   | Pengeluaran Lain   | Pengeluaran Lain   | Pengeluaran Lain   | Pengeluaran Lain   | Pengeluaran Lain   |\n|--------------------|--------------------|--------------------|--------------------|--------------------|--------------------|--------------------|--------------------|--------------------|--------------------|\n| Jenis              | Unit               | Jumlah             | Harga Satuan       | Total              | Jenis              | Unit               | Jumlah             | Harga Satuan       | Total              |\n|                    |                    |                    |                    |                    | Penyusutan alat    |                    |                ",
+    "absent_reason": null,
+    "source_section": "Biaya Produksi Lainnya",
+    "source_page_verified": 162,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "dense_failure_challenge",
+    "selection_basis": "original_100x100_plus_docling_page_provenance",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "page_provenance_mapped",
+      "mapping_method": "docling_page_to_frozen_chroma_chunk",
+      "manual_semantic_review_required_before_final_selection": true
+    },
+    "dense_screening_tier": "A",
+    "dense_failure_count": 3,
+    "dense_correct_by_k": {
+      "1": false,
+      "3": false,
+      "5": false
+    },
+    "gold_best_rank": 25,
+    "wrong_or_attractor_best_rank": null,
+    "ambical_used_during_screening": false,
+    "dense_screening_status": "selected"
+  },
+  {
+    "question": "What formulas define total cost and business revenue in the financial-feasibility example?",
+    "answer": "Total cost is fixed cost plus variable cost (TC = FC + VC), and revenue is quantity sold multiplied by price; 6,000 kg at Rp2,500 per kg gives Rp15,000,000.",
+    "page": 169,
+    "question_id": "idbp-a-095",
+    "reference_answer": "Total cost is fixed cost plus variable cost (TC = FC + VC), and revenue is quantity sold multiplied by price; 6,000 kg at Rp2,500 per kg gives Rp15,000,000.",
+    "answerability": "answerable",
+    "gold_chunk_ids": [
+      "e1f298fdc223d651ab6a1f13201596a32d0e5c7a9d6d8b5bcbab165319bdfc25"
+    ],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [],
+    "supporting_quote_id": "## Pendapatan\n\nJenis\n\nPadi Total\n\nHasil Samping\n\nTotal Unit kg Jumlah\n\n6.500\n\nHarga Satuan\n\n4500\n\nTotal\n\n29.250.000\n\n29.250.000\n\n29.250.000\n\n\n## Pencatatan Keuangan Usahatani\n\n## 3. Analisa Kelayakan Finansial\n\n\n2/16/2025\n\n\n1\n\n\n## Pencatatan Keuangan Usahatani\n\n## 3. Analisa Kelayakan Finansial\n\nTOTAL BIAYA ADALAH BIAYA  TETAP DITAMBAH BIAYA TIDAK TETAP TC = FC + VC\n\nPENERIMAAN USAHA ADALAH JUMLAH NILAI UANG DARI PRODUK YANG TERJUAL R = Jumlah Produksi + Harga\n\n## CONTOH :\n\nJumlah Produksi /Ha\n\nHarga Jual\n\n= 6.000 Kg\n\n= Rp 2.500/Kg\n\nPenerimaan Usaha (R)  = 6.000 KG X Rp 2.500/Kg = Rp 15.000.000\n\n2/16/2025\n\n\n1\n\n\n## Pencatatan Keuangan Usahatani\n\n## 4. Harga Produk\n\nHarga Produk terdiri atas :\n\n## a. Harga Produsen :",
+    "absent_reason": null,
+    "source_section": "3. Analisa Kelayakan Finansial / CONTOH :",
+    "source_page_verified": 169,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "dense_failure_challenge",
+    "selection_basis": "original_100x100_plus_docling_page_provenance",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "page_provenance_mapped",
+      "mapping_method": "docling_page_to_frozen_chroma_chunk",
+      "manual_semantic_review_required_before_final_selection": true
+    },
+    "dense_screening_tier": "A",
+    "dense_failure_count": 3,
+    "dense_correct_by_k": {
+      "1": false,
+      "3": false,
+      "5": false
+    },
+    "gold_best_rank": 6,
+    "wrong_or_attractor_best_rank": null,
+    "ambical_used_during_screening": false,
+    "dense_screening_status": "selected"
+  },
+  {
+    "question_id": "idbp-dfu2-061",
+    "question": "How many days should the land be rested between two consecutive planting seasons?",
+    "answer": "Not found in context",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "wrong_sense_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "8e135c7d8c445a257b0f4dcb90cbcd3bb8c6cad07738a1ec8d526d37f04f596f"
+    ],
+    "attractor_quote_id": "3-4 hari",
+    "absent_reason": "The excerpt does not specify the duration of land rest between planting seasons.",
+    "source_section": "DENGAN MEKANISASI",
+    "source_page": 5,
+    "dense_failure_category": "maintenance_interval",
+    "ordinary_control_eligible": true,
+    "challenge_partition": "dense_failure_challenge",
+    "dense_screening_status": "selected",
+    "ambical_used_during_screening": false,
+    "dense_screening_tier": "A",
+    "dense_failure_count": 3,
+    "dense_correct_by_k": {
+      "1": false,
+      "3": false,
+      "5": false
+    },
+    "gold_best_rank": null,
+    "wrong_or_attractor_best_rank": 1
+  },
+  {
+    "question_id": "idbp-dfu4-001",
+    "question": "How much engine oil does the rice transplanter require?",
+    "answer": "Not found in context",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "wrong_sense_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "58f76e3e3718f95735715ead4a09c05a7e7ac0cd9409b9a4475e4ee4b3182928",
+      "514454fe852266a03f4d68792c3ca0f8105326f39a90ae839c642b7cd128a185"
+    ],
+    "attractor_fact_en": "The gearbox takes 3.5 liters of SAE 90-140 oil; the engine uses 2 liters of SAE-30 oil; and the fuel tank holds up to 7.5 liters of diesel.",
+    "absent_reason": "The handbook gives this capacity for a two-wheel tractor, not for the rice transplanter.",
+    "source_section": "PENGOPERASIAN TRAKTOR RODA DUA / PERSIAPAN :",
+    "dense_failure_category": "equipment",
+    "target_entity": "rice transplanter",
+    "requested_attribute": "engine-oil capacity",
+    "answerability_audit": {
+      "answerability": "UNANSWERABLE",
+      "method": "manual entity-attribute and stage-condition corpus audit",
+      "reason": "The handbook gives this capacity for a two-wheel tractor, not for the rice transplanter."
+    },
+    "ordinary_control_eligible": true,
+    "challenge_partition": "dense_failure_challenge",
+    "dense_screening_status": "selected",
+    "ambical_used_during_screening": false,
+    "dense_screening_tier": "B",
+    "dense_failure_count": 2,
+    "dense_correct_by_k": {
+      "1": true,
+      "3": false,
+      "5": false
+    },
+    "gold_best_rank": null,
+    "wrong_or_attractor_best_rank": 2
+  },
+  {
+    "question_id": "idbp-dfu4-003",
+    "question": "How much gearbox oil is needed by the rice transplanter?",
+    "answer": "Not found in context",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "wrong_sense_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "58f76e3e3718f95735715ead4a09c05a7e7ac0cd9409b9a4475e4ee4b3182928",
+      "514454fe852266a03f4d68792c3ca0f8105326f39a90ae839c642b7cd128a185"
+    ],
+    "attractor_fact_en": "The gearbox takes 3.5 liters of SAE 90-140 oil; the engine uses 2 liters of SAE-30 oil; and the fuel tank holds up to 7.5 liters of diesel.",
+    "absent_reason": "The gearbox-oil figure belongs to the two-wheel tractor.",
+    "source_section": "PENGOPERASIAN TRAKTOR RODA DUA / PERSIAPAN :",
+    "dense_failure_category": "equipment",
+    "target_entity": "rice transplanter",
+    "requested_attribute": "gearbox-oil capacity",
+    "answerability_audit": {
+      "answerability": "UNANSWERABLE",
+      "method": "manual entity-attribute and stage-condition corpus audit",
+      "reason": "The gearbox-oil figure belongs to the two-wheel tractor."
+    },
+    "ordinary_control_eligible": true,
+    "challenge_partition": "dense_failure_challenge",
+    "dense_screening_status": "selected",
+    "ambical_used_during_screening": false,
+    "dense_screening_tier": "B",
+    "dense_failure_count": 2,
+    "dense_correct_by_k": {
+      "1": true,
+      "3": false,
+      "5": false
+    },
+    "gold_best_rank": null,
+    "wrong_or_attractor_best_rank": 3
+  },
+  {
+    "question_id": "idbp-dfu4-007",
+    "question": "Which engine-oil viscosity should be used in the rice transplanter?",
+    "answer": "Not found in context",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "wrong_sense_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "58f76e3e3718f95735715ead4a09c05a7e7ac0cd9409b9a4475e4ee4b3182928",
+      "514454fe852266a03f4d68792c3ca0f8105326f39a90ae839c642b7cd128a185"
+    ],
+    "attractor_fact_en": "The gearbox takes 3.5 liters of SAE 90-140 oil; the engine uses 2 liters of SAE-30 oil; and the fuel tank holds up to 7.5 liters of diesel.",
+    "absent_reason": "The handbook does not specify an oil grade for the rice transplanter.",
+    "source_section": "PENGOPERASIAN TRAKTOR RODA DUA / PERSIAPAN :",
+    "dense_failure_category": "equipment",
+    "target_entity": "rice transplanter",
+    "requested_attribute": "engine-oil viscosity",
+    "answerability_audit": {
+      "answerability": "UNANSWERABLE",
+      "method": "manual entity-attribute and stage-condition corpus audit",
+      "reason": "The handbook does not specify an oil grade for the rice transplanter."
+    },
+    "ordinary_control_eligible": true,
+    "challenge_partition": "dense_failure_challenge",
+    "dense_screening_status": "selected",
+    "ambical_used_during_screening": false,
+    "dense_screening_tier": "A",
+    "dense_failure_count": 3,
+    "dense_correct_by_k": {
+      "1": false,
+      "3": false,
+      "5": false
+    },
+    "gold_best_rank": null,
+    "wrong_or_attractor_best_rank": 1
+  },
+  {
+    "question_id": "idbp-dfu4-022",
+    "question": "What monthly net-income range gives a landowner a green rating?",
+    "answer": "Not found in context",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "wrong_sense_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "1aaeb55e327d32fd90f8cd09b3221bf03e9af68086e30b802c04e54843332ea0",
+      "fc14f6872ac3715e31bcfadd7919d117e4aa527ce72eafbc05abd3a0089c9aae",
+      "97de55d6602c5bd3713d2c1c1682c69ba9235f46db960ac8b56b0a9253252e89"
+    ],
+    "attractor_fact_en": "Below Rp3 million is red, Rp3 million to below Rp7 million is yellow, and Rp7 million to Rp10 million is green.",
+    "absent_reason": "The colour thresholds are for Brigade Pangan members, not landowners.",
+    "source_section": "PELAPORAN PENYULUH PENDAMPING BRIGADE PANGAN",
+    "dense_failure_category": "role",
+    "target_entity": "landowner",
+    "requested_attribute": "green income threshold",
+    "answerability_audit": {
+      "answerability": "UNANSWERABLE",
+      "method": "manual entity-attribute and stage-condition corpus audit",
+      "reason": "The colour thresholds are for Brigade Pangan members, not landowners."
+    },
+    "ordinary_control_eligible": true,
+    "challenge_partition": "dense_failure_challenge",
+    "dense_screening_status": "selected",
+    "ambical_used_during_screening": false,
+    "dense_screening_tier": "B",
+    "dense_failure_count": 2,
+    "dense_correct_by_k": {
+      "1": true,
+      "3": false,
+      "5": false
+    },
+    "gold_best_rank": null,
+    "wrong_or_attractor_best_rank": 3
+  },
+  {
+    "question_id": "idbp-dfu4-023",
+    "question": "How many hectares of inland swamp are classified as suitable for agriculture?",
+    "answer": "Not found in context",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "wrong_sense_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "627e1ebdf46de020e344bcbee9a58c9a091e19f04d8a26e673a8a601bdb2e73c"
+    ],
+    "attractor_fact_en": "Only about 6 million of roughly 11 million hectares is suitable, and its hydrology is controlled by the rise and fall of seawater tides.",
+    "absent_reason": "The suitable-area figure is supplied for tidal swamp, not inland swamp.",
+    "source_section": "LAHAN PASANG SURUT",
+    "dense_failure_category": "land_type",
+    "target_entity": "inland swamp",
+    "requested_attribute": "agriculturally suitable area",
+    "answerability_audit": {
+      "answerability": "UNANSWERABLE",
+      "method": "manual entity-attribute and stage-condition corpus audit",
+      "reason": "The suitable-area figure is supplied for tidal swamp, not inland swamp."
+    },
+    "ordinary_control_eligible": true,
+    "challenge_partition": "dense_failure_challenge",
+    "dense_screening_status": "selected",
+    "ambical_used_during_screening": false,
+    "dense_screening_tier": "A",
+    "dense_failure_count": 3,
+    "dense_correct_by_k": {
+      "1": false,
+      "3": false,
+      "5": false
+    },
+    "gold_best_rank": null,
+    "wrong_or_attractor_best_rank": 1
+  },
+  {
+    "question_id": "idbp-dfu4-025",
+    "question": "What groundwater depth defines shallow inland swamp?",
+    "answer": "Not found in context",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "wrong_sense_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "5c379b9206858036049360f352ad3072ac6473680ce63c0fd6d4cd0be74d9faf"
+    ],
+    "attractor_fact_en": "Type A is flooded by both large and small tides; type B only by large tides; type C is not tidally flooded but has groundwater less than 50 cm below the surface; and type D is not tidally flooded and has groundwater deeper than 50 cm.",
+    "absent_reason": "Shallow inland swamp is classified by flood depth and duration, not groundwater depth.",
+    "source_section": "TIPE LUAPAN AIR DI LAHAN RAWA PASANG SURUT",
+    "dense_failure_category": "hydrology",
+    "target_entity": "shallow inland swamp",
+    "requested_attribute": "groundwater depth",
+    "answerability_audit": {
+      "answerability": "UNANSWERABLE",
+      "method": "manual entity-attribute and stage-condition corpus audit",
+      "reason": "Shallow inland swamp is classified by flood depth and duration, not groundwater depth."
+    },
+    "ordinary_control_eligible": true,
+    "challenge_partition": "dense_failure_challenge",
+    "dense_screening_status": "selected",
+    "ambical_used_during_screening": false,
+    "dense_screening_tier": "B",
+    "dense_failure_count": 2,
+    "dense_correct_by_k": {
+      "1": false,
+      "3": true,
+      "5": false
+    },
+    "gold_best_rank": null,
+    "wrong_or_attractor_best_rank": 4
+  },
+  {
+    "question_id": "idbp-dfu4-027",
+    "question": "What groundwater depth defines deep inland swamp?",
+    "answer": "Not found in context",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "wrong_sense_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "5c379b9206858036049360f352ad3072ac6473680ce63c0fd6d4cd0be74d9faf"
+    ],
+    "attractor_fact_en": "Type A is flooded by both large and small tides; type B only by large tides; type C is not tidally flooded but has groundwater less than 50 cm below the surface; and type D is not tidally flooded and has groundwater deeper than 50 cm.",
+    "absent_reason": "The deep-inland-swamp definition uses inundation, not groundwater depth.",
+    "source_section": "TIPE LUAPAN AIR DI LAHAN RAWA PASANG SURUT",
+    "dense_failure_category": "hydrology",
+    "target_entity": "deep inland swamp",
+    "requested_attribute": "groundwater depth",
+    "answerability_audit": {
+      "answerability": "UNANSWERABLE",
+      "method": "manual entity-attribute and stage-condition corpus audit",
+      "reason": "The deep-inland-swamp definition uses inundation, not groundwater depth."
+    },
+    "ordinary_control_eligible": true,
+    "challenge_partition": "dense_failure_challenge",
+    "dense_screening_status": "selected",
+    "ambical_used_during_screening": false,
+    "dense_screening_tier": "A",
+    "dense_failure_count": 3,
+    "dense_correct_by_k": {
+      "1": false,
+      "3": false,
+      "5": false
+    },
+    "gold_best_rank": null,
+    "wrong_or_attractor_best_rank": 5
+  },
+  {
+    "question_id": "idbp-dfu4-032",
+    "question": "For rice established by direct seeding in the former PLG area, when and at what rates should NPK be applied?",
+    "answer": "Not found in context",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "wrong_sense_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "578f24918815f3f091ad51881ee0a0114d182d8d002d63af6278308dedd3714d",
+      "00a8cb1d23e6807e0286c6ce205f7eb82295b8457a419bae75e888a6ef4fa79a"
+    ],
+    "attractor_fact_en": "Apply the basal NPK one week after planting, the first 100 kg/ha topdressing three to four weeks after planting, and a second 100 kg/ha topdressing seven to eight weeks after planting or according to leaf color chart readings.",
+    "absent_reason": "The cited schedule is explicitly for transplanted rice.",
+    "source_section": "PEMUPUKAN",
+    "dense_failure_category": "operation_stage",
+    "target_entity": "direct-seeded rice",
+    "requested_attribute": "NPK timing and rates",
+    "answerability_audit": {
+      "answerability": "UNANSWERABLE",
+      "method": "manual entity-attribute and stage-condition corpus audit",
+      "reason": "The cited schedule is explicitly for transplanted rice."
+    },
+    "ordinary_control_eligible": true,
+    "challenge_partition": "dense_failure_challenge",
+    "dense_screening_status": "selected",
+    "ambical_used_during_screening": false,
+    "dense_screening_tier": "A",
+    "dense_failure_count": 3,
+    "dense_correct_by_k": {
+      "1": false,
+      "3": false,
+      "5": false
+    },
+    "gold_best_rank": null,
+    "wrong_or_attractor_best_rank": 1
+  },
+  {
+    "question_id": "idbp-dfu5-001",
+    "question": "At what service-hour reading is engine oil due for replacement on a rice transplanter?",
+    "answer": "Not found in context",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "wrong_sense_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "58f76e3e3718f95735715ead4a09c05a7e7ac0cd9409b9a4475e4ee4b3182928",
+      "514454fe852266a03f4d68792c3ca0f8105326f39a90ae839c642b7cd128a185"
+    ],
+    "attractor_fact_en": "The handbook provides oil specifications, service intervals, controls, or electrical details for a different machine class.",
+    "absent_reason": "The handbook does not state the engine-oil replacement interval for the rice transplanter.",
+    "source_section": "AGRICULTURAL MACHINERY OPERATION",
+    "dense_failure_category": "cross_machine_specification_collision",
+    "target_entity": "rice transplanter",
+    "requested_attribute": "engine-oil replacement interval",
+    "answerability_audit": {
+      "answerability": "UNANSWERABLE",
+      "method": "manual machine-class and attribute corpus audit",
+      "reason": "The requested engine-oil replacement interval is stated only for another machine class or is absent."
+    },
+    "ordinary_control_eligible": true,
+    "challenge_partition": "dense_failure_challenge",
+    "dense_screening_status": "selected",
+    "ambical_used_during_screening": false,
+    "dense_screening_tier": "A",
+    "dense_failure_count": 3,
+    "dense_correct_by_k": {
+      "1": false,
+      "3": false,
+      "5": false
+    },
+    "gold_best_rank": null,
+    "wrong_or_attractor_best_rank": 9
+  },
+  {
+    "question_id": "idbp-dfu5-002",
+    "question": "What transmission-oil service interval applies to the rice transplanter?",
+    "answer": "Not found in context",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "wrong_sense_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "58f76e3e3718f95735715ead4a09c05a7e7ac0cd9409b9a4475e4ee4b3182928",
+      "514454fe852266a03f4d68792c3ca0f8105326f39a90ae839c642b7cd128a185"
+    ],
+    "attractor_fact_en": "The handbook provides oil specifications, service intervals, controls, or electrical details for a different machine class.",
+    "absent_reason": "The handbook does not state the transmission-oil replacement interval for the rice transplanter.",
+    "source_section": "AGRICULTURAL MACHINERY OPERATION",
+    "dense_failure_category": "cross_machine_specification_collision",
+    "target_entity": "rice transplanter",
+    "requested_attribute": "transmission-oil replacement interval",
+    "answerability_audit": {
+      "answerability": "UNANSWERABLE",
+      "method": "manual machine-class and attribute corpus audit",
+      "reason": "The requested transmission-oil replacement interval is stated only for another machine class or is absent."
+    },
+    "ordinary_control_eligible": true,
+    "challenge_partition": "dense_failure_challenge",
+    "dense_screening_status": "selected",
+    "ambical_used_during_screening": false,
+    "dense_screening_tier": "A",
+    "dense_failure_count": 3,
+    "dense_correct_by_k": {
+      "1": false,
+      "3": false,
+      "5": false
+    },
+    "gold_best_rank": null,
+    "wrong_or_attractor_best_rank": 11
+  },
+  {
+    "question_id": "idbp-dfu5-008",
+    "question": "How often must transmission oil be changed on the medium combine harvester?",
+    "answer": "Not found in context",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "wrong_sense_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "58f76e3e3718f95735715ead4a09c05a7e7ac0cd9409b9a4475e4ee4b3182928",
+      "514454fe852266a03f4d68792c3ca0f8105326f39a90ae839c642b7cd128a185"
+    ],
+    "attractor_fact_en": "The handbook provides oil specifications, service intervals, controls, or electrical details for a different machine class.",
+    "absent_reason": "The handbook does not state the transmission-oil replacement interval for the medium combine harvester.",
+    "source_section": "AGRICULTURAL MACHINERY OPERATION",
+    "dense_failure_category": "cross_machine_specification_collision",
+    "target_entity": "medium combine harvester",
+    "requested_attribute": "transmission-oil replacement interval",
+    "answerability_audit": {
+      "answerability": "UNANSWERABLE",
+      "method": "manual machine-class and attribute corpus audit",
+      "reason": "The requested transmission-oil replacement interval is stated only for another machine class or is absent."
+    },
+    "ordinary_control_eligible": true,
+    "challenge_partition": "dense_failure_challenge",
+    "dense_screening_status": "selected",
+    "ambical_used_during_screening": false,
+    "dense_screening_tier": "A",
+    "dense_failure_count": 3,
+    "dense_correct_by_k": {
+      "1": false,
+      "3": false,
+      "5": false
+    },
+    "gold_best_rank": null,
+    "wrong_or_attractor_best_rank": 8
+  },
+  {
+    "question": "Which rodenticide active ingredient should be used during the early vegetative stage?",
+    "answer": "Not found in context",
+    "page": 100,
+    "question_id": "idbp-u-067",
+    "reference_answer": "Not found in context",
+    "answerability": "unanswerable",
+    "gold_chunk_ids": [],
+    "equivalent_gold_chunk_ids": [],
+    "attractor_chunk_ids": [
+      "603352df759523ccbe52f1ade0a77aaaa5e2646645a982f664d6164bcc64f9ac"
+    ],
+    "supporting_quote_id": null,
+    "absent_reason": "The referenced handbook page contains a related topic, but the requested fact is not stated in the frozen corpus.",
+    "source_section": "1. Awal musim tanam : / HAMA UTAMA PADI",
+    "source_page_verified": 100,
+    "ocr_only_evidence": false,
+    "ordinary_control_eligible": true,
+    "challenge_partition": "dense_failure_challenge",
+    "selection_basis": "original_100x100_plus_docling_page_provenance",
+    "formal_result_used_during_selection": false,
+    "source_audit": {
+      "status": "page_provenance_mapped",
+      "mapping_method": "docling_page_to_frozen_chroma_chunk",
+      "manual_semantic_review_required_before_final_selection": true
+    },
+    "dense_screening_tier": "B",
+    "dense_failure_count": 2,
+    "dense_correct_by_k": {
+      "1": true,
+      "3": false,
+      "5": false
+    },
+    "gold_best_rank": null,
+    "wrong_or_attractor_best_rank": 2,
+    "ambical_used_during_screening": false,
+    "dense_screening_status": "selected"
+  }
+]
