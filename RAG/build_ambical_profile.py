@@ -9,17 +9,14 @@ from __future__ import annotations
 
 import argparse
 import gc
-import importlib.metadata
 import json
 import logging
 import os
 import platform
 import shutil
 import sqlite3
-import subprocess
 import sys
 import tempfile
-import time
 from datetime import datetime, timezone
 from pathlib import Path
 from typing import Any, Callable, Mapping, Optional, Sequence
@@ -147,38 +144,6 @@ def _ollama_digest(actual_model: str) -> str:
     raise RuntimeError(f"Could not resolve the installed Ollama model {actual_model!r}.")
 
 
-def _runtime_environment() -> Mapping[str, Any]:
-    packages = {}
-    for package in (
-        "chromadb",
-        "langchain-ollama",
-        "ollama",
-        "sentence-transformers",
-        "torch",
-        "transformers",
-    ):
-        try:
-            packages[package] = importlib.metadata.version(package)
-        except importlib.metadata.PackageNotFoundError:
-            packages[package] = None
-    return {
-        "platform": platform.platform(),
-        "machine": platform.machine(),
-        "processor": platform.processor(),
-        "python_version": platform.python_version(),
-        "python_executable": sys.executable,
-        "packages": packages,
-        "cuda_available": torch.cuda.is_available(),
-        "cuda_version": torch.version.cuda,
-        "gpus": [
-            torch.cuda.get_device_name(index)
-            for index in range(torch.cuda.device_count())
-        ]
-        if torch.cuda.is_available()
-        else [],
-    }
-
-
 def _checkpoint_writable_cache(path: Path) -> None:
     with sqlite3.connect(str(path), timeout=30.0) as connection:
         connection.execute("PRAGMA wal_checkpoint(TRUNCATE)")
@@ -260,7 +225,6 @@ def build_profile(
 ) -> Path:
     """Execute only offline calibration and publish an immutable profile."""
 
-    started_wall = time.perf_counter()
     started_at = datetime.now(timezone.utc).isoformat()
     inputs = load_calibration_run_inputs(config_path)
     validator = runtime_validator or _validate_formal_runtime
@@ -394,7 +358,7 @@ def build_profile(
     cache_after = sha256_file(inputs.translation_cache_path)
     if cache_before is not None and cache_after != cache_before:
         raise RuntimeError("Read-only translation cache changed during calibration.")
-    token_usage = _token_usage(connector)
+    _token_usage(connector)
 
     client.clear_system_cache()
     del collection
@@ -466,8 +430,6 @@ def build_profile(
         artifact_name=profile_path.name,
     )
 
-    ended_at = datetime.now(timezone.utc).isoformat()
-    duration = time.perf_counter() - started_wall
     manifest_path = inputs.output_dir / MANIFEST_FILENAME
     manifest_payload = {
         "artifact_type": "ambical_offline_calibration",
@@ -507,7 +469,6 @@ def build_profile(
             "cache_path": str(inputs.translation_cache_path),
             "cache_initial_sha256": cache_before,
             "cache_final_sha256": cache_after,
-            "token_usage": token_usage,
         },
         "empirical_null_resolution": calibration_resolution(),
         "config_snapshot": {
@@ -515,17 +476,6 @@ def build_profile(
             "snapshot_path": str(config_snapshot.resolve()),
             "sha256": sha256_file(config_snapshot),
         },
-        "command": {
-            "argv": [sys.executable, *sys.argv],
-            "windows_command_line": subprocess.list2cmdline(
-                [sys.executable, *sys.argv]
-            ),
-            "working_directory": os.getcwd(),
-        },
-        "runtime_environment": _runtime_environment(),
-        "started_at_utc": started_at,
-        "ended_at_utc": ended_at,
-        "duration_seconds": duration,
         "qa_generation_run": False,
         "evaluator_run": False,
         "formal_test_questions_retrieved": False,
@@ -554,7 +504,6 @@ def build_profile(
             "manifest_filename": manifest_path.name,
             "manifest_sha256": manifest_sha256,
             "manifest_sha256_sidecar": manifest_sidecar.name,
-            "completed_at_utc": ended_at,
         },
     )
     incomplete_marker.unlink()

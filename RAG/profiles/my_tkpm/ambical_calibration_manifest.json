@@ -18,22 +18,11 @@
     "unchanged_after_calibration": true,
     "working_copy_removed_before_publication": true
   },
-  "command": {
-    "argv": [
-      "D:\\Anaconda\\anaconda3\\envs\\ambical\\python.exe",
-      "build_ambical_profile.py",
-      "--config",
-      "config_ambical_my_tkpm_v51_full_calibration_20261002_01.json"
-    ],
-    "windows_command_line": "D:\\Anaconda\\anaconda3\\envs\\ambical\\python.exe build_ambical_profile.py --config config_ambical_my_tkpm_v51_full_calibration_20261002_01.json",
-    "working_directory": "D:\\Analysis code\\ambical\\RAG"
-  },
   "config_snapshot": {
     "sha256": "c6ff2953a8c6da04f88826dd9f57ab091a4478fd1027d4002b4f1ed431fd1135",
     "snapshot_path": "D:\\Analysis code\\ambical\\RAG\\user_runs\\ambical\\calibration\\my_tkpm_v51_full_calibration_20261002_01\\active_calibration_config.snapshot.json",
     "source_path": "D:\\Analysis code\\ambical\\RAG\\config_ambical_my_tkpm_v51_full_calibration_20261002_01.json"
   },
-  "duration_seconds": 35.52165120000063,
   "embedding_model": {
     "file_count": 43,
     "root": "D:\\Analysis code\\models\\bge-m3",
@@ -46,7 +35,6 @@
     "minimum_empirical_right_tail_probability": 0.03225806451612903,
     "null_sample_count": 30
   },
-  "ended_at_utc": "2026-10-02T08:17:56.701779+00:00",
   "evaluator_run": false,
   "execution_contract": {
     "platform": "Windows",
@@ -153,27 +141,6 @@
     },
     "z_max": 8.0
   },
-  "runtime_environment": {
-    "cuda_available": true,
-    "cuda_version": "12.8",
-    "gpus": [
-      "NVIDIA GeForce RTX 5070 Ti"
-    ],
-    "machine": "AMD64",
-    "packages": {
-      "chromadb": "1.5.9",
-      "langchain-ollama": "1.1.0",
-      "ollama": "0.6.2",
-      "sentence-transformers": "5.6.0",
-      "torch": "2.11.0+cu128",
-      "transformers": "4.49.0"
-    },
-    "platform": "Windows-10-10.0.22621-SP0",
-    "processor": "Intel64 Family 6 Model 198 Stepping 2, GenuineIntel",
-    "python_executable": "D:\\Anaconda\\anaconda3\\envs\\ambical\\python.exe",
-    "python_version": "3.10.20"
-  },
-  "started_at_utc": "2026-10-02T08:17:21.180227+00:00",
   "translation": {
     "cache_final_sha256": "f413b732553e4ed7d1ef10fe551c48007ded260532b0c4f282abd3f647887a8f",
     "cache_initial_sha256": null,
@@ -182,13 +149,6 @@
     "prompt_path": "D:\\Analysis code\\ambical\\RAG\\prompt_templates\\query_translation_prompt.txt",
     "source_language": "English",
     "target_language": "Malay",
-    "token_usage": {
-      "calls": 72,
-      "input_tokens": 11501,
-      "output_tokens": 1994,
-      "total_tokens": 13495,
-      "unreported_calls": 0
-    },
     "translation_parser_version": "ambical-translation-v1",
     "translation_prompt_file_sha256": "a76f90eff14677f231327f2af0e5cd55dfe97114353c99bbb48085b418ae9168",
     "translation_prompt_sha256": "a76f90eff14677f231327f2af0e5cd55dfe97114353c99bbb48085b418ae9168",

@@ -10,3 +10,11 @@
 *.toml text eol=lf
 *.ps1  text eol=crlf
 *.md whitespace=-blank-at-eol
+
+# Preserve frozen artifact bytes so published SHA-256 digests remain valid.
+RAG/profiles/** -text
+RAG/question_datasets/**/*.json -text
+RAG/cross_domain_data/** -text
+manuals/** -text
+RAG/prompt_templates/*.txt -text
+RAG/*parameter_lock*.json -text
